@@ -2,6 +2,8 @@
 
 Pokémon Sports Programming Network covers the Indigo Football League and the road to the Indigo Bowl.
 
+Live site: https://pspn.site/
+
 ## Build and preview
 
 Node 22 or newer; no packages to install.
@@ -15,7 +17,7 @@ Pushes to main build, validate and deploy the public directory to GitHub Pages. 
 
 ## The lasting newsroom record
 
-- content/canon/world.json: league names, coaches, the six writers, public biographies, private writing directions and favorite/rival preferences.
+- content/canon/world.json: league names, coaches, the six writers, public biographies, private writing directions and favorite/rival preferences, and pickProfile upset tendencies.
 - content/canon/characters.json: stable player IDs, randomly assigned Pokémon natures, voices and universities. Assign once; preserve through trades, nicknames and evolution.
 - content/canon/universities.json: 136 programs in ten regional conferences, frozen against 2026 football membership. Real-school mappings are authoring reference only.
 - content/canon/editorial-history.json: published power rankings, themes and draft rotation.

@@ -7,7 +7,7 @@ const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),out=p
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const escape=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const list=dir=>fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?list(path.join(dir,e.name)):[path.join(dir,e.name)]);
-const forbidden=new Set(['human','humanCount','control','tier','tier0','xp','seed','vary','contract','staff','dev','aging','cap','potential','fid','sourceSchool','sourceUrls','privateEvidence','privateEditorialRules','favorite','leastFavorite','biasStrength','voice']);
+const forbidden=new Set(['human','humanCount','control','tier','tier0','xp','seed','vary','contract','staff','dev','aging','cap','potential','fid','sourceSchool','sourceUrls','privateEvidence','privateEditorialRules','favorite','leastFavorite','biasStrength','pickProfile','voice']);
 function audit(o){if(!o||typeof o!=='object')return;for(const[k,v]of Object.entries(o)){assert(!forbidden.has(k),`Non-public field: ${k}`);audit(v);}}
 const latest=read(path.join(root,'content/latest.json')),editions=list(path.join(root,'content/editions')).filter(f=>f.endsWith('.json')).map(file=>({file,data:read(file)}));
 assert(editions.length,'No editions');fs.mkdirSync(out,{recursive:true});fs.cpSync(path.join(root,'web'),out,{recursive:true});

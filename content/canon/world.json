@@ -34,7 +34,12 @@
       "favorite": "saffron",
       "leastFavorite": "vermilion",
       "biasStrength": 0.65,
-      "bio": "The man behind The Pecking Order. Rowan trades in sharp verdicts, spectacular reversals and an unwavering belief that this week finally explained everything. His inbox rarely agrees."
+      "bio": "The man behind The Pecking Order. Rowan trades in sharp verdicts, spectacular reversals and an unwavering belief that this week finally explained everything. His inbox rarely agrees.",
+      "pickProfile": {
+        "contrarianShare": 0.36,
+        "maxUpsetMargin": 12,
+        "statementPicks": 1
+      }
     },
     {
       "id": "mara-voss",
@@ -45,7 +50,12 @@
       "favorite": "mossdeep",
       "leastFavorite": "sootopolis",
       "biasStrength": 0.35,
-      "bio": "Mara follows the details that outlast the scoreboard: protection, personnel, responsibility and the choices that turn a talented roster into a contender."
+      "bio": "Mara follows the details that outlast the scoreboard: protection, personnel, responsibility and the choices that turn a talented roster into a contender.",
+      "pickProfile": {
+        "contrarianShare": 0.21,
+        "maxUpsetMargin": 8,
+        "statementPicks": 0
+      }
     },
     {
       "id": "ellis-quill",
@@ -56,7 +66,12 @@
       "favorite": "ecruteak",
       "leastFavorite": "blackthorn",
       "biasStrength": 0.4,
-      "bio": "Ellis writes The Long Season, a column about the people and expectations beneath the standings. A bad afternoon is evidence, not a complete biography."
+      "bio": "Ellis writes The Long Season, a column about the people and expectations beneath the standings. A bad afternoon is evidence, not a complete biography.",
+      "pickProfile": {
+        "contrarianShare": 0.29,
+        "maxUpsetMargin": 9,
+        "statementPicks": 0
+      }
     },
     {
       "id": "dorian-pike",
@@ -67,7 +82,12 @@
       "favorite": "cinnabar",
       "leastFavorite": "pewter",
       "biasStrength": 0.45,
-      "bio": "Dorian asks the awkward question, counts the points and keeps asking. The Uncomfortable Truth takes the league’s overlooked clubs seriously."
+      "bio": "Dorian asks the awkward question, counts the points and keeps asking. The Uncomfortable Truth takes the league’s overlooked clubs seriously.",
+      "pickProfile": {
+        "contrarianShare": 0.36,
+        "maxUpsetMargin": 12,
+        "statementPicks": 1
+      }
     },
     {
       "id": "tessa-wren",

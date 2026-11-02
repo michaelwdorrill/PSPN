@@ -15,8 +15,8 @@
         },
         {
           "author": "mara-voss",
-          "away": 21,
-          "home": 16
+          "away": 14,
+          "home": 20
         },
         {
           "author": "ellis-quill",
@@ -25,8 +25,8 @@
         },
         {
           "author": "dorian-pike",
-          "away": 17,
-          "home": 14
+          "away": 16,
+          "home": 22
         },
         {
           "author": "tessa-wren",
@@ -106,8 +106,8 @@
       "picks": [
         {
           "author": "rowan-vale",
-          "away": 22,
-          "home": 14
+          "away": 19,
+          "home": 22
         },
         {
           "author": "mara-voss",
@@ -148,8 +148,8 @@
         },
         {
           "author": "ellis-quill",
-          "away": 17,
-          "home": 15
+          "away": 13,
+          "home": 20
         },
         {
           "author": "dorian-pike",
@@ -175,18 +175,18 @@
         },
         {
           "author": "mara-voss",
-          "away": 23,
-          "home": 15
+          "away": 17,
+          "home": 20
         },
         {
           "author": "ellis-quill",
-          "away": 24,
-          "home": 13
+          "away": 14,
+          "home": 18
         },
         {
           "author": "dorian-pike",
-          "away": 18,
-          "home": 14
+          "away": 15,
+          "home": 19
         },
         {
           "author": "tessa-wren",
@@ -249,8 +249,8 @@
         },
         {
           "author": "dorian-pike",
-          "away": 13,
-          "home": 21
+          "away": 25,
+          "home": 18
         },
         {
           "author": "tessa-wren",
@@ -298,12 +298,12 @@
       "picks": [
         {
           "author": "rowan-vale",
-          "away": 18,
-          "home": 17
+          "away": 16,
+          "home": 20
         },
         {
           "author": "mara-voss",
-          "away": 15,
+          "away": 18,
           "home": 17
         },
         {
@@ -313,8 +313,8 @@
         },
         {
           "author": "dorian-pike",
-          "away": 15,
-          "home": 14
+          "away": 14,
+          "home": 21
         },
         {
           "author": "tessa-wren",
@@ -330,8 +330,8 @@
       "picks": [
         {
           "author": "rowan-vale",
-          "away": 12,
-          "home": 21
+          "away": 20,
+          "home": 13
         },
         {
           "author": "mara-voss",
@@ -372,8 +372,8 @@
         },
         {
           "author": "ellis-quill",
-          "away": 21,
-          "home": 10
+          "away": 10,
+          "home": 17
         },
         {
           "author": "dorian-pike",
@@ -394,13 +394,13 @@
       "picks": [
         {
           "author": "rowan-vale",
-          "away": 19,
-          "home": 13
+          "away": 14,
+          "home": 17
         },
         {
           "author": "mara-voss",
-          "away": 17,
-          "home": 16
+          "away": 11,
+          "home": 14
         },
         {
           "author": "ellis-quill",
@@ -409,8 +409,8 @@
         },
         {
           "author": "dorian-pike",
-          "away": 19,
-          "home": 10
+          "away": 14,
+          "home": 15
         },
         {
           "author": "tessa-wren",
@@ -426,8 +426,8 @@
       "picks": [
         {
           "author": "rowan-vale",
-          "away": 20,
-          "home": 16
+          "away": 16,
+          "home": 17
         },
         {
           "author": "mara-voss",
@@ -436,8 +436,8 @@
         },
         {
           "author": "ellis-quill",
-          "away": 16,
-          "home": 18
+          "away": 19,
+          "home": 20
         },
         {
           "author": "dorian-pike",
@@ -451,5 +451,9 @@
         }
       ]
     }
-  ]
+  ],
+  "revision": {
+    "date": "2026-11-02",
+    "reason": "User requested more columnist disagreement and upset picks; Tessa’s authored predictions retained."
+  }
 }
