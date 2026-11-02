@@ -1,0 +1,208 @@
+{
+  "season": 1,
+  "week": 4,
+  "articles": [
+    {
+      "id": "preview-s1-w5",
+      "type": "preview",
+      "title": "Week 5: the matchups, the keys and a pick for all fourteen games",
+      "dek": "Injuries test Mossdeep, Sunyshore and Saffron, while Mt. Silver and Cinnabar take winning streaks on the road. Tessa Wren breaks down the full slate.",
+      "author": "tessa-wren",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Week 5 asks three unbeaten contenders to solve different problems. Mossdeep must cover a key absence up front, Sunyshore has a quarterback adjustment, and Mt. Silver takes its increasingly varied offense on the road. Saffron also travels without an important receiving target. The strongest teams still deserve confidence, but the route to another win will not look identical for each of them."
+        },
+        {
+          "type": "p",
+          "text": "There are fourteen games on the schedule. Vermilion Volts, Olivine Ironclads, Fortree Skyhawks and Eterna Thorns have the week off. My picks weigh what each unit has produced through four weeks, then consider the particular matchup and the players available. A close prediction means I expect a close game; it is not a claim that the favorite has found a reliable way to avoid trouble."
+        }
+      ],
+      "matchups": [
+        {
+          "gid": "1-05-mauville",
+          "home": "mauville",
+          "away": "viridian",
+          "matchup": "Viridian HB Gabite vs Mauville's defensive front",
+          "analysis": "Both clubs arrive at 2–2, but Viridian has the more useful route to a controlled game. Gabite has 249 rushing yards, and Mauville has allowed 499 on the ground. That matchup can keep Mr. Rime from having to carry every possession. The Dynamos have produced more passing yardage, with Dragapult at 714, but his eight interceptions make that advantage expensive. I favor the Titans' balance in a contest that should remain competitive if Mauville protects the ball.",
+          "awayKey": "Give Gabite enough early work to test Mauville's run fits, then let Mr. Rime use manageable downs instead of chasing a passing-yardage contest.",
+          "homeKey": "Dragapult must accept shorter completions and protect possession. The Dynamos cannot keep giving away scoring chances while asking their front to withstand extended rushing pressure.",
+          "prediction": {
+            "away": 20,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-05-rustboro",
+          "home": "rustboro",
+          "away": "pewter",
+          "matchup": "Rustboro HB Philly vs Pewter's interior run defense",
+          "analysis": "Rustboro Stone's 522 rushing yards meet a Pewter defense that has allowed only 205. That is the game's clearest strength against strength. Philly has contributed 128 rushing yards and two touchdowns, giving Tyler Scarboro a named runner to build around without assuming the ground game will have easy space. The Rockers have scored only 29 points in four games. Their defense can keep this close, but I trust Rustboro to find enough offense at home.",
+          "awayKey": "Keep the interior gaps intact against Philly and force Rustboro to earn its points through the air. Wyrdeer must avoid handing the hosts short fields.",
+          "homeKey": "Stay patient if the first runs meet resistance. Use Frosmoth's passing game to keep defenders honest rather than repeatedly testing a crowded front without adjustment.",
+          "prediction": {
+            "away": 10,
+            "home": 20
+          }
+        },
+        {
+          "gid": "1-05-petalburg",
+          "home": "petalburg",
+          "away": "celadon",
+          "matchup": "Petalburg QB Iron Valiant vs Celadon's pass rush",
+          "analysis": "Petalburg's 3–1 start has included six touchdown passes and two interceptions from Iron Valiant. Celadon can complicate that rhythm with a rush that has collected nine sacks, but the Bloom still need an offense averaging fewer than seven points to provide help. Gholdengo has 432 passing yards and one touchdown through four games. The defensive matchup should prevent complacency from the Pride; the difference in scoring production makes Petalburg the more dependable pick once the game demands sustained offense.",
+          "awayKey": "Make the pass rush count without losing contain or coverage discipline. Gholdengo needs completions that sustain possessions and give the defense a realistic recovery interval.",
+          "homeKey": "Protect Iron Valiant on obvious passing downs and keep Oinkologne involved. A varied early-down plan can reduce the situations in which Celadon's rush attacks freely.",
+          "prediction": {
+            "away": 10,
+            "home": 24
+          }
+        },
+        {
+          "gid": "1-05-dewford",
+          "home": "dewford",
+          "away": "cinnabar",
+          "matchup": "Cinnabar QB Gholdengo vs Dewford's secondary",
+          "analysis": "Cinnabar brings a three-game winning streak and a quarterback with 905 passing yards and eight touchdowns. Dewford has enough offensive production to make this interesting, but its running game must absorb Excadrill's five-week injury after the close loss to Mossdeep. The Breakers' 512 team rushing yards show what that part of the offense has meant. Blaine's defense has allowed only 38 points overall. I expect a competitive afternoon, with Cinnabar's passing production providing the difference.",
+          "awayKey": "Give Gholdengo enough protection to use the full field. Avoid turnovers that would let Dewford sustain its scoring without repeatedly challenging the Blaze's settled defense.",
+          "homeKey": "Establish a workable rushing rotation without Excadrill and keep Frosmoth out of desperate passing situations. Dewford needs to finish opportunities rather than merely extend possessions.",
+          "prediction": {
+            "away": 23,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-05-sootopolis",
+          "home": "sootopolis",
+          "away": "cerulean",
+          "matchup": "Cerulean QB Farigiraf vs Sootopolis' pass rush",
+          "analysis": "Cerulean's 3–1 record is stronger than its minus-six scoring differential, so this is not a comfortable road assignment simply because Sootopolis is 1–3. Farigiraf has 790 passing yards, but the Tide have taken ten sacks. The Surge have produced only two sacks themselves, making this a direct test of whether Cerulean can keep its quarterback comfortable. Drampa's 812 passing yards offer Sootopolis a response. I lean toward the Tide in a game that could easily stay within one possession.",
+          "awayKey": "Keep Farigiraf upright long enough to turn passing yards into points. Cerulean should challenge the rush before relying on repeated difficult third-down throws to survive.",
+          "homeKey": "Create pressure without abandoning coverage behind it. Drampa needs sustained scoring drives, because the Surge cannot expect a defense allowing 106 total points to carry everything.",
+          "prediction": {
+            "away": 20,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-05-lavaridge",
+          "home": "lavaridge",
+          "away": "saffron",
+          "matchup": "Saffron WR HeeDee Lamb vs Lavaridge's cornerbacks",
+          "analysis": "Gengar Pickens' two-week injury removes a receiver with 311 yards and three touchdowns from Saffron's immediate plans. HeeDee Lamb, with fifteen catches for 242 yards, becomes an especially important part of how Trent Scarboro distributes the remaining work. The Psi Corps still bring a defense that has allowed twenty points in four games and just 141 rushing yards. Lavaridge quarterback Delphox has six interceptions. I expect Saffron's defense to compensate for a less complete receiving group.",
+          "awayKey": "Spread the receiving work around Lamb rather than forcing him every target. Protect possession and let the defense maintain the favorable shape of the game.",
+          "homeKey": "Delphox must resist forcing throws when the rushing lanes narrow. Lavaridge needs patient completions and finished drives before this matchup turns into a defensive squeeze.",
+          "prediction": {
+            "away": 21,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-05-mossdeep",
+          "home": "mossdeep",
+          "away": "fuchsia",
+          "matchup": "Mossdeep's interior protection vs Fuchsia's defensive front",
+          "analysis": "Tyran Armstead's one-week absence asks Michael Dorrill to adjust a line supporting 659 team rushing yards. Ninjaskamara has 504 of them and seven rushing touchdowns, so Mossdeep has a clear foundation. Fuchsia also has secondary problems: Scyther and Wormadam each face two-week absences. Empoleon's 953 passing yards give the Shadows a way to threaten, but forty-two team points show the conversion problem. I expect the unbeaten Eclipse to manage their protection change and still create separation.",
+          "awayKey": "Make the altered protection answer early pressure while keeping rush lanes disciplined. Empoleon must convert useful passing yardage into points rather than another respectable statistical afternoon.",
+          "homeKey": "Give Armstead's replacement the help required without announcing every call. Keep Ninjaskamara involved and make Fuchsia's depleted secondary defend more than one receiving option consistently.",
+          "prediction": {
+            "away": 13,
+            "home": 31
+          }
+        },
+        {
+          "gid": "1-05-snowpoint",
+          "home": "snowpoint",
+          "away": "azalea",
+          "matchup": "Snowpoint HB Oinkologne vs Azalea's run defense",
+          "analysis": "Azalea has allowed 596 rushing yards in four losses, which gives Snowpoint a straightforward place to begin. Oinkologne has 201 rushing yards, while Drakloak has supplied 273 receiving yards and four touchdowns. That combination gives the Blizzard an opportunity to make the Swarm defend both levels rather than simply absorbing a rushing barrage. Azalea quarterback Drampa has four touchdown passes against three interceptions; there is enough to challenge Snowpoint if the Swarm can keep the score manageable. The home defense is the steadier unit.",
+          "awayKey": "Repair the run fits first and make Snowpoint work through longer drives. Drampa needs to keep the offense connected to the score without forcing rescue throws.",
+          "homeKey": "Use Oinkologne to test Azalea's front, then preserve the passing threat through Drakloak. Snowpoint should pursue balance rather than assume the favorable rushing matchup guarantees points.",
+          "prediction": {
+            "away": 13,
+            "home": 24
+          }
+        },
+        {
+          "gid": "1-05-oreburgh",
+          "home": "oreburgh",
+          "away": "goldenrod",
+          "matchup": "Mt. Silver HB Garshawn Lynch vs Oreburgh's front seven",
+          "analysis": "Garshawn Lynch has 628 rushing yards, and the Reds have 725 as a team. Oreburgh's ten sacks create a reason to keep that ground game central rather than asking Josh Alakazam to reproduce his 371-yard Week 4 performance on demand. Connor McLarren can present several problems through the run and Tony Gyarzalez's receiving role. The Miners have scored fifty points in four games; the Reds have allowed eighteen. I expect Mt. Silver's balance to control this matchup.",
+          "awayKey": "Stay willing to run Lynch even after last week's passing success. Balanced early downs can prevent Oreburgh's rush from repeatedly attacking Alakazam in obvious passing situations.",
+          "homeKey": "Limit Lynch before committing extra pressure. Cryogonal needs help from manageable downs and sustained possession; trading short drives against the Reds would make the defensive task punishing.",
+          "prediction": {
+            "away": 30,
+            "home": 10
+          }
+        },
+        {
+          "gid": "1-05-canalave",
+          "home": "canalave",
+          "away": "cianwood",
+          "matchup": "Cianwood QB Gardevoir vs Canalave's pass rush",
+          "analysis": "Gardevoir has six touchdown passes without an interception, but Canalave's ten sacks give the Crushers a meaningful protection test. Cianwood's own secondary must work around Jumpluff's five-week absence, while the Bulwark lose linebacker Kecleon for ten weeks. Those injuries add pressure to the supporting units on both sides. Canalave has produced only 317 passing yards; Cianwood has a more productive passing record and Bibarel's 296 rushing yards. I favor the visitors narrowly rather than expect a sudden offensive surge.",
+          "awayKey": "Protect Gardevoir's clean interception record with sensible decisions against pressure. Bibarel's carries can keep the offense balanced and reduce the strain on a changed secondary.",
+          "homeKey": "Turn pass pressure into stalled possessions while covering the space behind it. Slowking needs enough passing support to prevent Cianwood from controlling the game's entire tempo.",
+          "prediction": {
+            "away": 17,
+            "home": 14
+          }
+        },
+        {
+          "gid": "1-05-sunyshore",
+          "home": "sunyshore",
+          "away": "violet",
+          "matchup": "Violet TE Carnivine vs Sunyshore's linebackers",
+          "analysis": "DeZhaun Watzon's one-week injury changes Sunyshore's quarterback plan, so Karson Jones cannot treat the 4–0 start as protection against an awkward afternoon. The Starseekers still have a defense allowing ten points per game. Violet tight end Carnivine has twenty-four catches for 217 yards, giving Iron Jugulis a regular target to test that unit. I trust Sunyshore's broader production, including 546 team rushing yards, to support the adjustment. The quarterback absence keeps the predicted margin below what the records alone might suggest.",
+          "awayKey": "Use Carnivine to keep possessions alive and make the Starseekers defend repeatedly. Violet must convert its passing yardage into touchdowns rather than accept another incomplete scoring return.",
+          "homeKey": "Build a clear, manageable quarterback plan without asking the replacement to imitate Watzon. Keep the rushing game involved and let the defense supply a stable foundation.",
+          "prediction": {
+            "away": 14,
+            "home": 24
+          }
+        },
+        {
+          "gid": "1-05-hearthome",
+          "home": "hearthome",
+          "away": "ecruteak",
+          "matchup": "Lavender QB Mr. Clanky vs Hearthome's pass rush",
+          "analysis": "The Wails need a response to the Reds loss, but Travis Scarboro should resist treating this as an invitation to force offense. Lavender has taken only two sacks, while Hearthome has produced eight. Protecting that stability gives Lavender a better route than chasing a dramatic rebound. The Haunts have scored thirty-four points and allowed thirteen sacks themselves. Their offensive problems leave little room for error. I favor Lavender's cleaner protection and more workable scoring base in a restrained game.",
+          "awayKey": "Give Mr. Clanky manageable reads and keep the protection composed. Lavender needs steady offensive support for its defense, not an attempt to erase last week immediately.",
+          "homeKey": "Protect Frosmoth before demanding bigger plays from the passing game. Hearthome must finish its limited opportunities and avoid making the defense responsible for every change in momentum.",
+          "prediction": {
+            "away": 17,
+            "home": 10
+          }
+        },
+        {
+          "gid": "1-05-veilstone",
+          "home": "veilstone",
+          "away": "mahogany",
+          "matchup": "Mahogany's offensive line vs Veilstone's pass rush",
+          "analysis": "Mahogany is 1–3 despite outscoring its opponents 57–53. Veilstone is 2–2 with only thirty-four points scored, so I see less separation here than the records imply. Porygon-Z has four touchdown passes and two interceptions; keeping him upright against a rush with eight sacks is the Frost's central assignment. Veilstone tight end Seviper, with sixteen catches for 220 yards, offers the home offense a useful target. This looks close enough for field position to matter throughout. I lean slightly toward Mahogany.",
+          "awayKey": "Give Porygon-Z time to take the available completion and keep the rushing game present. Mahogany cannot let a narrow matchup become a sequence of obvious passing downs.",
+          "homeKey": "Find Seviper often enough to sustain drives, then make the rush earn favorable field position. Veilstone needs points from its offensive possessions, not merely defensive endurance.",
+          "prediction": {
+            "away": 16,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-05-pastoria",
+          "home": "pastoria",
+          "away": "blackthorn",
+          "matchup": "Pastoria HB Oinkologne vs Blackthorn's run defense",
+          "analysis": "Blackthorn is 3–1, but 554 rushing yards allowed give Pastoria a clear way to challenge the favorite. Oinkologne has 244 rushing yards and should remain central to the Waves' plan. Asking Farigiraf to carry everything would magnify the risk of his seven interceptions. Hatterene has six touchdown passes against two interceptions for the Dragons, a cleaner passing balance that shapes my pick. Pastoria can keep this close on the ground, but I trust Blackthorn more when a scoring possession requires a throw.",
+          "awayKey": "Improve the first contact against Oinkologne and avoid surrendering easy early-down gains. Hatterene can provide the decisive throws if Blackthorn keeps the game within its own plan.",
+          "homeKey": "Use Oinkologne to reduce Farigiraf's burden without becoming predictable. Pastoria must protect possession and turn rushing success into scoring chances before the passing situations become urgent.",
+          "prediction": {
+            "away": 20,
+            "home": 17
+          }
+        }
+      ]
+    }
+  ]
+}

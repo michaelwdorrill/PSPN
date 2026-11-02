@@ -1,0 +1,936 @@
+{
+  "version": 1,
+  "seasonBasis": "2026",
+  "conferences": [
+    {
+      "id": "hoenn",
+      "name": "Hoenn Premier Conference",
+      "region": "Hoenn",
+      "sourceConference": "SEC",
+      "sourceUrls": [
+        "https://www.secsports.com/sport/football",
+        "https://storage.googleapis.com/secsports-prod/upload/2026/01/12/3fd37771-61b2-4c01-aabe-b71fa89444d7.pdf"
+      ],
+      "schools": [
+        {
+          "id": "hoenn-university-of-lilycove",
+          "name": "University of Lilycove",
+          "city": "Lilycove City",
+          "sourceSchool": "Alabama"
+        },
+        {
+          "id": "hoenn-university-of-rustboro",
+          "name": "University of Rustboro",
+          "city": "Rustboro City",
+          "sourceSchool": "Arkansas"
+        },
+        {
+          "id": "hoenn-petalburg-university",
+          "name": "Petalburg University",
+          "city": "Petalburg City",
+          "sourceSchool": "Auburn"
+        },
+        {
+          "id": "hoenn-university-of-slateport",
+          "name": "University of Slateport",
+          "city": "Slateport City",
+          "sourceSchool": "Florida"
+        },
+        {
+          "id": "hoenn-university-of-fortree",
+          "name": "University of Fortree",
+          "city": "Fortree City",
+          "sourceSchool": "Georgia"
+        },
+        {
+          "id": "hoenn-dewford-university",
+          "name": "Dewford University",
+          "city": "Dewford Town",
+          "sourceSchool": "Kentucky"
+        },
+        {
+          "id": "hoenn-sootopolis-state-university",
+          "name": "Sootopolis State University",
+          "city": "Sootopolis City",
+          "sourceSchool": "LSU"
+        },
+        {
+          "id": "hoenn-fallarbor-state-university",
+          "name": "Fallarbor State University",
+          "city": "Fallarbor Town",
+          "sourceSchool": "Mississippi State"
+        },
+        {
+          "id": "hoenn-university-of-mossdeep",
+          "name": "University of Mossdeep",
+          "city": "Mossdeep City",
+          "sourceSchool": "Missouri"
+        },
+        {
+          "id": "hoenn-ever-grande-university",
+          "name": "Ever Grande University",
+          "city": "Ever Grande City",
+          "sourceSchool": "Oklahoma"
+        },
+        {
+          "id": "hoenn-ole-fallarbor",
+          "name": "Ole Fallarbor",
+          "city": "Fallarbor Town",
+          "sourceSchool": "Ole Miss"
+        },
+        {
+          "id": "hoenn-university-of-lavaridge",
+          "name": "University of Lavaridge",
+          "city": "Lavaridge Town",
+          "sourceSchool": "South Carolina"
+        },
+        {
+          "id": "hoenn-verdanturf-university",
+          "name": "Verdanturf University",
+          "city": "Verdanturf Town",
+          "sourceSchool": "Tennessee"
+        },
+        {
+          "id": "hoenn-university-of-mauville",
+          "name": "University of Mauville",
+          "city": "Mauville City",
+          "sourceSchool": "Texas"
+        },
+        {
+          "id": "hoenn-mauville-aandm-university",
+          "name": "Mauville A&M University",
+          "city": "Mauville City",
+          "sourceSchool": "Texas A&M"
+        },
+        {
+          "id": "hoenn-joseph-stone-university",
+          "name": "Joseph Stone University",
+          "city": "Rustboro City",
+          "sourceSchool": "Vanderbilt"
+        }
+      ]
+    },
+    {
+      "id": "johto",
+      "name": "Johto Great Lakes Conference",
+      "region": "Johto",
+      "sourceConference": "Big Ten",
+      "sourceUrls": [
+        "https://bigten.org/stats.aspx?path=football&year=2026"
+      ],
+      "schools": [
+        {
+          "id": "johto-university-of-cherrygrove",
+          "name": "University of Cherrygrove",
+          "city": "Cherrygrove City",
+          "sourceSchool": "Illinois"
+        },
+        {
+          "id": "johto-new-bark-university",
+          "name": "New Bark University",
+          "city": "New Bark Town",
+          "sourceSchool": "Indiana"
+        },
+        {
+          "id": "johto-university-of-mahogany",
+          "name": "University of Mahogany",
+          "city": "Mahogany Town",
+          "sourceSchool": "Iowa"
+        },
+        {
+          "id": "johto-university-of-violet",
+          "name": "University of Violet",
+          "city": "Violet City",
+          "sourceSchool": "Maryland"
+        },
+        {
+          "id": "johto-university-of-ecruteak",
+          "name": "University of Ecruteak",
+          "city": "Ecruteak City",
+          "sourceSchool": "Michigan"
+        },
+        {
+          "id": "johto-ecruteak-state-university",
+          "name": "Ecruteak State University",
+          "city": "Ecruteak City",
+          "sourceSchool": "Michigan State"
+        },
+        {
+          "id": "johto-university-of-blackthorn",
+          "name": "University of Blackthorn",
+          "city": "Blackthorn City",
+          "sourceSchool": "Minnesota"
+        },
+        {
+          "id": "johto-university-of-cianwood",
+          "name": "University of Cianwood",
+          "city": "Cianwood City",
+          "sourceSchool": "Nebraska"
+        },
+        {
+          "id": "johto-elm-university",
+          "name": "Elm University",
+          "city": "New Bark Town",
+          "sourceSchool": "Northwestern"
+        },
+        {
+          "id": "johto-goldenrod-state-university",
+          "name": "Goldenrod State University",
+          "city": "Goldenrod City",
+          "sourceSchool": "Ohio State"
+        },
+        {
+          "id": "johto-azalea-university",
+          "name": "Azalea University",
+          "city": "Azalea Town",
+          "sourceSchool": "Oregon"
+        },
+        {
+          "id": "johto-violet-state-university",
+          "name": "Violet State University",
+          "city": "Violet City",
+          "sourceSchool": "Penn State"
+        },
+        {
+          "id": "johto-kurt-polytechnic-institute",
+          "name": "Kurt Polytechnic Institute",
+          "city": "Azalea Town",
+          "sourceSchool": "Purdue"
+        },
+        {
+          "id": "johto-cherrygrove-technical-university",
+          "name": "Cherrygrove Technical University",
+          "city": "Cherrygrove City",
+          "sourceSchool": "Rutgers"
+        },
+        {
+          "id": "johto-university-of-goldenrod",
+          "name": "University of Goldenrod",
+          "city": "Goldenrod City",
+          "sourceSchool": "UCLA"
+        },
+        {
+          "id": "johto-goldenrod-metropolitan-university",
+          "name": "Goldenrod Metropolitan University",
+          "city": "Goldenrod City",
+          "sourceSchool": "USC"
+        },
+        {
+          "id": "johto-blackthorn-state-university",
+          "name": "Blackthorn State University",
+          "city": "Blackthorn City",
+          "sourceSchool": "Washington"
+        },
+        {
+          "id": "johto-university-of-olivine",
+          "name": "University of Olivine",
+          "city": "Olivine City",
+          "sourceSchool": "Wisconsin"
+        }
+      ]
+    },
+    {
+      "id": "kanto",
+      "name": "Kanto Coastal Conference",
+      "region": "Kanto",
+      "sourceConference": "ACC",
+      "sourceUrls": [
+        "https://theacc.com/standings.aspx?path=football&view=default"
+      ],
+      "schools": [
+        {
+          "id": "kanto-pewter-college",
+          "name": "Pewter College",
+          "city": "Pewter City",
+          "sourceSchool": "Boston College"
+        },
+        {
+          "id": "kanto-university-of-celadon",
+          "name": "University of Celadon",
+          "city": "Celadon City",
+          "sourceSchool": "California"
+        },
+        {
+          "id": "kanto-viridian-state-university",
+          "name": "Viridian State University",
+          "city": "Viridian City",
+          "sourceSchool": "Clemson"
+        },
+        {
+          "id": "kanto-fuji-university",
+          "name": "Fuji University",
+          "city": "Lavender Town",
+          "sourceSchool": "Duke"
+        },
+        {
+          "id": "kanto-fuchsia-state-university",
+          "name": "Fuchsia State University",
+          "city": "Fuchsia City",
+          "sourceSchool": "Florida State"
+        },
+        {
+          "id": "kanto-saffron-institute-of-technology",
+          "name": "Saffron Institute of Technology",
+          "city": "Saffron City",
+          "sourceSchool": "Georgia Tech"
+        },
+        {
+          "id": "kanto-vermilion-metropolitan-university",
+          "name": "Vermilion Metropolitan University",
+          "city": "Vermilion City",
+          "sourceSchool": "Louisville"
+        },
+        {
+          "id": "kanto-university-of-cinnabar",
+          "name": "University of Cinnabar",
+          "city": "Cinnabar Island",
+          "sourceSchool": "Miami (Florida)"
+        },
+        {
+          "id": "kanto-cerulean-state-university",
+          "name": "Cerulean State University",
+          "city": "Cerulean City",
+          "sourceSchool": "NC State"
+        },
+        {
+          "id": "kanto-university-of-cerulean",
+          "name": "University of Cerulean",
+          "city": "Cerulean City",
+          "sourceSchool": "North Carolina"
+        },
+        {
+          "id": "kanto-university-of-pewter",
+          "name": "University of Pewter",
+          "city": "Pewter City",
+          "sourceSchool": "Pittsburgh"
+        },
+        {
+          "id": "kanto-celadon-metropolitan-university",
+          "name": "Celadon Metropolitan University",
+          "city": "Celadon City",
+          "sourceSchool": "SMU"
+        },
+        {
+          "id": "kanto-bill-institute",
+          "name": "Bill Institute",
+          "city": "Cerulean City",
+          "sourceSchool": "Stanford"
+        },
+        {
+          "id": "kanto-university-of-saffron",
+          "name": "University of Saffron",
+          "city": "Saffron City",
+          "sourceSchool": "Syracuse"
+        },
+        {
+          "id": "kanto-university-of-vermilion",
+          "name": "University of Vermilion",
+          "city": "Vermilion City",
+          "sourceSchool": "Virginia"
+        },
+        {
+          "id": "kanto-vermilion-polytechnic-institute",
+          "name": "Vermilion Polytechnic Institute",
+          "city": "Vermilion City",
+          "sourceSchool": "Virginia Tech"
+        },
+        {
+          "id": "kanto-lavender-forest-university",
+          "name": "Lavender Forest University",
+          "city": "Lavender Town",
+          "sourceSchool": "Wake Forest"
+        }
+      ]
+    },
+    {
+      "id": "sinnoh",
+      "name": "Sinnoh Highlands Conference",
+      "region": "Sinnoh",
+      "sourceConference": "Big 12",
+      "sourceUrls": [
+        "https://big12sports.com/standings.aspx?path=football"
+      ],
+      "schools": [
+        {
+          "id": "sinnoh-university-of-sunyshore",
+          "name": "University of Sunyshore",
+          "city": "Sunyshore City",
+          "sourceSchool": "Arizona"
+        },
+        {
+          "id": "sinnoh-sunyshore-state-university",
+          "name": "Sunyshore State University",
+          "city": "Sunyshore City",
+          "sourceSchool": "Arizona State"
+        },
+        {
+          "id": "sinnoh-celestic-university",
+          "name": "Celestic University",
+          "city": "Celestic Town",
+          "sourceSchool": "Baylor"
+        },
+        {
+          "id": "sinnoh-rowan-university",
+          "name": "Rowan University",
+          "city": "Sandgem Town",
+          "sourceSchool": "BYU"
+        },
+        {
+          "id": "sinnoh-university-of-veilstone",
+          "name": "University of Veilstone",
+          "city": "Veilstone City",
+          "sourceSchool": "Cincinnati"
+        },
+        {
+          "id": "sinnoh-university-of-snowpoint",
+          "name": "University of Snowpoint",
+          "city": "Snowpoint City",
+          "sourceSchool": "Colorado"
+        },
+        {
+          "id": "sinnoh-university-of-canalave",
+          "name": "University of Canalave",
+          "city": "Canalave City",
+          "sourceSchool": "Houston"
+        },
+        {
+          "id": "sinnoh-floaroma-state-university",
+          "name": "Floaroma State University",
+          "city": "Floaroma Town",
+          "sourceSchool": "Iowa State"
+        },
+        {
+          "id": "sinnoh-university-of-hearthome",
+          "name": "University of Hearthome",
+          "city": "Hearthome City",
+          "sourceSchool": "Kansas"
+        },
+        {
+          "id": "sinnoh-hearthome-state-university",
+          "name": "Hearthome State University",
+          "city": "Hearthome City",
+          "sourceSchool": "Kansas State"
+        },
+        {
+          "id": "sinnoh-oreburgh-state-university",
+          "name": "Oreburgh State University",
+          "city": "Oreburgh City",
+          "sourceSchool": "Oklahoma State"
+        },
+        {
+          "id": "sinnoh-solaceon-university",
+          "name": "Solaceon University",
+          "city": "Solaceon Town",
+          "sourceSchool": "TCU"
+        },
+        {
+          "id": "sinnoh-jubilife-technical-university",
+          "name": "Jubilife Technical University",
+          "city": "Jubilife City",
+          "sourceSchool": "Texas Tech"
+        },
+        {
+          "id": "sinnoh-university-of-central-sinnoh",
+          "name": "University of Central Sinnoh",
+          "city": "Eterna City",
+          "sourceSchool": "UCF"
+        },
+        {
+          "id": "sinnoh-university-of-pastoria",
+          "name": "University of Pastoria",
+          "city": "Pastoria City",
+          "sourceSchool": "Utah"
+        },
+        {
+          "id": "sinnoh-twinleaf-university",
+          "name": "Twinleaf University",
+          "city": "Twinleaf Town",
+          "sourceSchool": "West Virginia"
+        }
+      ]
+    },
+    {
+      "id": "unova",
+      "name": "Unova Metropolitan Conference",
+      "region": "Unova",
+      "sourceConference": "MAC",
+      "sourceUrls": [
+        "https://getsomemaction.com/standings.aspx?path=football",
+        "https://getsomemaction.com/schedule.aspx?schedule=4143"
+      ],
+      "schools": [
+        {
+          "id": "unova-university-of-nacrene",
+          "name": "University of Nacrene",
+          "city": "Nacrene City",
+          "sourceSchool": "Akron"
+        },
+        {
+          "id": "unova-nuvema-state-university",
+          "name": "Nuvema State University",
+          "city": "Nuvema Town",
+          "sourceSchool": "Ball State"
+        },
+        {
+          "id": "unova-striaton-state-university",
+          "name": "Striaton State University",
+          "city": "Striaton City",
+          "sourceSchool": "Bowling Green"
+        },
+        {
+          "id": "unova-university-of-opelucid",
+          "name": "University of Opelucid",
+          "city": "Opelucid City",
+          "sourceSchool": "Buffalo"
+        },
+        {
+          "id": "unova-central-unova-university",
+          "name": "Central Unova University",
+          "city": "Nimbasa City",
+          "sourceSchool": "Central Michigan"
+        },
+        {
+          "id": "unova-east-unova-university",
+          "name": "East Unova University",
+          "city": "Lacunosa Town",
+          "sourceSchool": "Eastern Michigan"
+        },
+        {
+          "id": "unova-mistralton-state-university",
+          "name": "Mistralton State University",
+          "city": "Mistralton City",
+          "sourceSchool": "Kent State"
+        },
+        {
+          "id": "unova-university-of-castelia",
+          "name": "University of Castelia",
+          "city": "Castelia City",
+          "sourceSchool": "Massachusetts"
+        },
+        {
+          "id": "unova-icirrus-university",
+          "name": "Icirrus University",
+          "city": "Icirrus City",
+          "sourceSchool": "Miami (Ohio)"
+        },
+        {
+          "id": "unova-university-of-driftveil",
+          "name": "University of Driftveil",
+          "city": "Driftveil City",
+          "sourceSchool": "Ohio"
+        },
+        {
+          "id": "unova-accumula-state-university",
+          "name": "Accumula State University",
+          "city": "Accumula Town",
+          "sourceSchool": "Sacramento State"
+        },
+        {
+          "id": "unova-university-of-virbank",
+          "name": "University of Virbank",
+          "city": "Virbank City",
+          "sourceSchool": "Toledo"
+        },
+        {
+          "id": "unova-west-unova-university",
+          "name": "West Unova University",
+          "city": "Aspertia City",
+          "sourceSchool": "Western Michigan"
+        }
+      ]
+    },
+    {
+      "id": "kalos",
+      "name": "Kalos Collegiate Conference",
+      "region": "Kalos",
+      "sourceConference": "American Athletic Conference",
+      "sourceUrls": [
+        "https://theamerican.org/standings.aspx?path=football"
+      ],
+      "schools": [
+        {
+          "id": "kalos-shalour-military-academy",
+          "name": "Shalour Military Academy",
+          "city": "Shalour City",
+          "sourceSchool": "Army"
+        },
+        {
+          "id": "kalos-university-of-santalune",
+          "name": "University of Santalune",
+          "city": "Santalune City",
+          "sourceSchool": "Charlotte"
+        },
+        {
+          "id": "kalos-east-kalos-university",
+          "name": "East Kalos University",
+          "city": "Dendemille Town",
+          "sourceSchool": "East Carolina"
+        },
+        {
+          "id": "kalos-coumarine-coastal-university",
+          "name": "Coumarine Coastal University",
+          "city": "Coumarine City",
+          "sourceSchool": "Florida Atlantic"
+        },
+        {
+          "id": "kalos-university-of-cyllage",
+          "name": "University of Cyllage",
+          "city": "Cyllage City",
+          "sourceSchool": "Memphis"
+        },
+        {
+          "id": "kalos-ambrette-naval-academy",
+          "name": "Ambrette Naval Academy",
+          "city": "Ambrette Town",
+          "sourceSchool": "Navy"
+        },
+        {
+          "id": "kalos-north-kalos-university",
+          "name": "North Kalos University",
+          "city": "Laverre City",
+          "sourceSchool": "North Texas"
+        },
+        {
+          "id": "kalos-sycamore-university",
+          "name": "Sycamore University",
+          "city": "Lumiose City",
+          "sourceSchool": "Rice"
+        },
+        {
+          "id": "kalos-south-kalos-university",
+          "name": "South Kalos University",
+          "city": "Vaniville Town",
+          "sourceSchool": "South Florida"
+        },
+        {
+          "id": "kalos-geosenge-university",
+          "name": "Geosenge University",
+          "city": "Geosenge Town",
+          "sourceSchool": "Temple"
+        },
+        {
+          "id": "kalos-couriway-university",
+          "name": "Couriway University",
+          "city": "Couriway Town",
+          "sourceSchool": "Tulane"
+        },
+        {
+          "id": "kalos-university-of-anistar",
+          "name": "University of Anistar",
+          "city": "Anistar City",
+          "sourceSchool": "Tulsa"
+        },
+        {
+          "id": "kalos-lumiose-metropolitan-university",
+          "name": "Lumiose Metropolitan University",
+          "city": "Lumiose City",
+          "sourceSchool": "UAB"
+        },
+        {
+          "id": "kalos-university-of-snowbelle",
+          "name": "University of Snowbelle",
+          "city": "Snowbelle City",
+          "sourceSchool": "UTSA"
+        }
+      ]
+    },
+    {
+      "id": "alola",
+      "name": "Alola Island Conference",
+      "region": "Alola",
+      "sourceConference": "Pac-12",
+      "sourceUrls": [
+        "https://pac-12.com/news/2026/2/9/general-the-new-pac-12-announces-its-2026-football-schedule.aspx",
+        "https://pac-12.com/news/2025/6/30/general-pac-12-conference-welcomes-the-addition-of-texas-state-university.aspx"
+      ],
+      "schools": [
+        {
+          "id": "alola-konikoni-state-university",
+          "name": "Konikoni State University",
+          "city": "Konikoni City",
+          "sourceSchool": "Boise State"
+        },
+        {
+          "id": "alola-paniola-state-university",
+          "name": "Paniola State University",
+          "city": "Paniola Town",
+          "sourceSchool": "Colorado State"
+        },
+        {
+          "id": "alola-heahea-state-university",
+          "name": "Heahea State University",
+          "city": "Heahea City",
+          "sourceSchool": "Fresno State"
+        },
+        {
+          "id": "alola-malie-state-university",
+          "name": "Malie State University",
+          "city": "Malie City",
+          "sourceSchool": "Oregon State"
+        },
+        {
+          "id": "alola-hauoli-state-university",
+          "name": "Hau'oli State University",
+          "city": "Hau'oli City",
+          "sourceSchool": "San Diego State"
+        },
+        {
+          "id": "alola-seafolk-state-university",
+          "name": "Seafolk State University",
+          "city": "Seafolk Village",
+          "sourceSchool": "Texas State"
+        },
+        {
+          "id": "alola-iki-state-university",
+          "name": "Iki State University",
+          "city": "Iki Town",
+          "sourceSchool": "Utah State"
+        },
+        {
+          "id": "alola-po-state-university",
+          "name": "Po State University",
+          "city": "Po Town",
+          "sourceSchool": "Washington State"
+        }
+      ]
+    },
+    {
+      "id": "galar",
+      "name": "Galar Crown Conference",
+      "region": "Galar",
+      "sourceConference": "Conference USA",
+      "sourceUrls": [
+        "https://conferenceusa.com/standings.aspx?path=football"
+      ],
+      "schools": [
+        {
+          "id": "galar-university-of-hulbury",
+          "name": "University of Hulbury",
+          "city": "Hulbury",
+          "sourceSchool": "Delaware"
+        },
+        {
+          "id": "galar-wyndon-international-university",
+          "name": "Wyndon International University",
+          "city": "Wyndon",
+          "sourceSchool": "Florida International"
+        },
+        {
+          "id": "galar-wedgehurst-state-university",
+          "name": "Wedgehurst State University",
+          "city": "Wedgehurst",
+          "sourceSchool": "Jacksonville State"
+        },
+        {
+          "id": "galar-ballonlea-state-university",
+          "name": "Ballonlea State University",
+          "city": "Ballonlea",
+          "sourceSchool": "Kennesaw State"
+        },
+        {
+          "id": "galar-magnolia-university",
+          "name": "Magnolia University",
+          "city": "Postwick",
+          "sourceSchool": "Liberty"
+        },
+        {
+          "id": "galar-mid-galar-state-university",
+          "name": "Mid-Galar State University",
+          "city": "Hammerlocke",
+          "sourceSchool": "Middle Tennessee"
+        },
+        {
+          "id": "galar-turffield-state-university",
+          "name": "Turffield State University",
+          "city": "Turffield",
+          "sourceSchool": "Missouri State"
+        },
+        {
+          "id": "galar-stow-on-side-state-university",
+          "name": "Stow-on-Side State University",
+          "city": "Stow-on-Side",
+          "sourceSchool": "New Mexico State"
+        },
+        {
+          "id": "galar-sonia-university",
+          "name": "Sonia University",
+          "city": "Motostoke",
+          "sourceSchool": "Sam Houston"
+        },
+        {
+          "id": "galar-west-galar-university",
+          "name": "West Galar University",
+          "city": "Circhester",
+          "sourceSchool": "Western Kentucky"
+        }
+      ]
+    },
+    {
+      "id": "orre",
+      "name": "Orre Frontier Conference",
+      "region": "Orre",
+      "sourceConference": "Mountain West",
+      "sourceUrls": [
+        "https://storage.googleapis.com/themw-com/2026/06/d73154f8-2026-mw-fb-composite-schedule6.2.pdf"
+      ],
+      "schools": [
+        {
+          "id": "orre-phenac-air-academy",
+          "name": "Phenac Air Academy",
+          "city": "Phenac City",
+          "sourceSchool": "Air Force"
+        },
+        {
+          "id": "orre-university-of-gateon",
+          "name": "University of Gateon",
+          "city": "Gateon Port",
+          "sourceSchool": "Hawaii"
+        },
+        {
+          "id": "orre-university-of-pyrite",
+          "name": "University of Pyrite",
+          "city": "Pyrite Town",
+          "sourceSchool": "Nevada"
+        },
+        {
+          "id": "orre-university-of-agate",
+          "name": "University of Agate",
+          "city": "Agate Village",
+          "sourceSchool": "New Mexico"
+        },
+        {
+          "id": "orre-agate-state-university",
+          "name": "Agate State University",
+          "city": "Agate Village",
+          "sourceSchool": "North Dakota State"
+        },
+        {
+          "id": "orre-north-orre-university",
+          "name": "North Orre University",
+          "city": "Phenac City",
+          "sourceSchool": "Northern Illinois"
+        },
+        {
+          "id": "orre-gateon-state-university",
+          "name": "Gateon State University",
+          "city": "Gateon Port",
+          "sourceSchool": "San Jose State"
+        },
+        {
+          "id": "orre-pyrite-metropolitan-university",
+          "name": "Pyrite Metropolitan University",
+          "city": "Pyrite Town",
+          "sourceSchool": "UNLV"
+        },
+        {
+          "id": "orre-pyrite-school-of-mines",
+          "name": "Pyrite School of Mines",
+          "city": "Pyrite Town",
+          "sourceSchool": "UTEP"
+        },
+        {
+          "id": "orre-phenac-state-university",
+          "name": "Phenac State University",
+          "city": "Phenac City",
+          "sourceSchool": "Wyoming"
+        }
+      ]
+    },
+    {
+      "id": "paldea",
+      "name": "Paldea Sun Conference",
+      "region": "Paldea",
+      "sourceConference": "Sun Belt",
+      "sourceUrls": [
+        "https://sunbeltsports.org/standings.aspx?path=football",
+        "https://latechsports.com/news/2026/3/13/bulldogs-announce-2026-football-schedule-featuring-eight-sun-belt-games"
+      ],
+      "schools": [
+        {
+          "id": "paldea-montenevera-state-university",
+          "name": "Montenevera State University",
+          "city": "Montenevera",
+          "sourceSchool": "Appalachian State"
+        },
+        {
+          "id": "paldea-artazon-state-university",
+          "name": "Artazon State University",
+          "city": "Artazon",
+          "sourceSchool": "Arkansas State"
+        },
+        {
+          "id": "paldea-porto-marinada-coastal-university",
+          "name": "Porto Marinada Coastal University",
+          "city": "Porto Marinada",
+          "sourceSchool": "Coastal Carolina"
+        },
+        {
+          "id": "paldea-south-paldea-university",
+          "name": "South Paldea University",
+          "city": "Los Platos",
+          "sourceSchool": "Georgia Southern"
+        },
+        {
+          "id": "paldea-mesagoza-state-university",
+          "name": "Mesagoza State University",
+          "city": "Mesagoza",
+          "sourceSchool": "Georgia State"
+        },
+        {
+          "id": "paldea-turo-university",
+          "name": "Turo University",
+          "city": "Cabo Poco",
+          "sourceSchool": "James Madison"
+        },
+        {
+          "id": "paldea-university-of-cascarrafa",
+          "name": "University of Cascarrafa",
+          "city": "Cascarrafa",
+          "sourceSchool": "Louisiana"
+        },
+        {
+          "id": "paldea-levincia-technical-university",
+          "name": "Levincia Technical University",
+          "city": "Levincia",
+          "sourceSchool": "Louisiana Tech"
+        },
+        {
+          "id": "paldea-university-of-medali",
+          "name": "University of Medali",
+          "city": "Medali",
+          "sourceSchool": "Louisiana-Monroe"
+        },
+        {
+          "id": "paldea-clavell-university",
+          "name": "Clavell University",
+          "city": "Mesagoza",
+          "sourceSchool": "Marshall"
+        },
+        {
+          "id": "paldea-university-of-zapapico",
+          "name": "University of Zapapico",
+          "city": "Zapapico",
+          "sourceSchool": "Old Dominion"
+        },
+        {
+          "id": "paldea-university-of-cortondo",
+          "name": "University of Cortondo",
+          "city": "Cortondo",
+          "sourceSchool": "South Alabama"
+        },
+        {
+          "id": "paldea-southwest-paldea-university",
+          "name": "Southwest Paldea University",
+          "city": "Alfornada",
+          "sourceSchool": "Southern Miss"
+        },
+        {
+          "id": "paldea-university-of-levincia",
+          "name": "University of Levincia",
+          "city": "Levincia",
+          "sourceSchool": "Troy"
+        }
+      ]
+    }
+  ]
+}

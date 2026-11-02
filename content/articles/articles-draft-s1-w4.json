@@ -1,0 +1,411 @@
+{
+  "season": 1,
+  "week": 4,
+  "articles": [
+    {
+      "id": "draft-qb-s1-w4",
+      "type": "draft",
+      "focus": "QB",
+      "title": "Drampa leads a QB board built to start arguments",
+      "dek": "Calvin Rook ranks the first 12 quarterbacks for the coming draft, with a Hoenn-heavy top six and a few choices certain to start an argument.",
+      "author": "calvin-rook",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "The next franchise quarterback is always standing somewhere between a promising workout and an argument nobody has finished. This first Rook Board starts with 12 passers from a 22-quarterback class, and the question is larger than who can run fastest. Which starting point would I buy, how much development would I pay for, and which weaknesses could an offense reasonably accommodate? Sootopolis State's Drampa gets the first answer. Fortree's Girafarig gets the strongest invitation to change it."
+        },
+        {
+          "type": "p",
+          "text": "I place considerable weight on movement testing. A quarterback who offers an offense additional ways to attack has my attention before the meeting gets comfortable. That preference is going to produce some disagreements here. Stantler's 4.80 forty matters to me. Anistar Roselia's 39-inch vertical and 6.64 cone matter, too. None of those results proves accuracy or decision-making, and the passing evaluation can still reorder the entire conversation."
+        },
+        {
+          "type": "p",
+          "text": "The most obvious argument is at No. 5. Petalburg's Mareep sits above prospects with stronger current grade bands. That is my bet on a development opportunity, and I will keep the receipt. The Hoenn Premier Conference supplies four of the first six names, although Mauville A&M's Drampa may reasonably wish I had distributed the enthusiasm differently. A school makes a prospect easier to remember. It should not make the hard questions disappear."
+        },
+        {
+          "type": "p",
+          "text": "These are quarterback rankings, not an overall draft order. The projection beside each player describes the kind of investment I would discuss today. Future evolution is a possibility to evaluate, never a substitute for the player a team would actually select. The best landing spot will be the one with a clear job and a credible development plan, not necessarily the earliest pick."
+        },
+        {
+          "type": "h2",
+          "text": "The first quarterback board"
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p2079",
+          "name": "Drampa",
+          "species": "Drampa",
+          "speciesId": 780,
+          "icon": "assets/sprites/780.png",
+          "position": "QB",
+          "age": 21,
+          "level": 22,
+          "range": [
+            51,
+            79
+          ],
+          "combine": {
+            "forty": 5.1,
+            "bench": 17,
+            "vertical": 28,
+            "cone": 7.28
+          },
+          "university": {
+            "id": "hoenn-sootopolis-state-university",
+            "name": "Sootopolis State University",
+            "city": "Sootopolis City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 1,
+          "analysis": "Sootopolis State's Drampa gets the first place on my board because the starting point is unusually persuasive: age 21, level 22 and an early evaluation band of 51–79. The 17 bench repetitions help, too. I want a quarterback with a substantial base to build around before I start dreaming about movement packages. The 5.10 forty and 7.28 cone will not sell those packages. That is fine at No. 1 today. Give me the stronger opening argument, then ask the coaching staff to construct an offense that respects its limitations.",
+          "concern": "Limited workout mobility makes protection and timely decisions central questions; strength testing does not establish passing quality.",
+          "projection": "My early first-round quarterback choice, provided the passing evaluation supports the encouraging overall starting point."
+        },
+        {
+          "pid": "p1986",
+          "name": "Girafarig",
+          "species": "Girafarig",
+          "speciesId": 203,
+          "icon": "assets/sprites/203.png",
+          "position": "QB",
+          "age": 23,
+          "level": 16,
+          "range": [
+            43,
+            71
+          ],
+          "combine": {
+            "forty": 4.82,
+            "bench": 14,
+            "vertical": 37,
+            "cone": 6.51
+          },
+          "university": {
+            "id": "hoenn-university-of-fortree",
+            "name": "University of Fortree",
+            "city": "Fortree City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 2,
+          "analysis": "Fortree's Girafarig is the prospect most likely to make me change the first line of this column. A 4.82 forty, 6.51 cone and 37-inch vertical form the most attractive movement package near the top of this board. The 14 bench repetitions add a useful counterweight to the speed. At 23 and level 16, Girafarig still requires a clear development argument rather than a vague promise of more. Nevertheless, this is the workout I would bring into a meeting when someone asks whether the offense could become less predictable.",
+          "concern": "The athletic package is compelling; its value depends on passing development that the stopwatch cannot establish.",
+          "projection": "First-round consideration for a staff willing to build movement into its quarterback plan, with a real chance to rise."
+        },
+        {
+          "pid": "p2039",
+          "name": "Stantler",
+          "species": "Stantler",
+          "speciesId": 234,
+          "icon": "assets/sprites/234.png",
+          "position": "QB",
+          "age": 21,
+          "level": 9,
+          "range": [
+            40,
+            68
+          ],
+          "combine": {
+            "forty": 4.8,
+            "bench": 14,
+            "vertical": 39,
+            "cone": 6.68
+          },
+          "university": {
+            "id": "kalos-shalour-military-academy",
+            "name": "Shalour Military Academy",
+            "city": "Shalour City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 3,
+          "analysis": "Shalour Military Academy's Stantler ran 4.80 and jumped 39 inches. Those numbers are going to keep showing up in my notes, and I am comfortable with that. At 21, with an evaluation band of 40–68, Stantler offers a plausible argument for paying early for tools rather than waiting until every question has an answer. Level nine makes the development work part of the purchase. The 6.68 cone is less striking than Girafarig's, which helps explain the order, but there is enough here to make a creative offensive staff lean forward.",
+          "concern": "The appeal rests heavily on testing; readiness to manage an Indigo Football League passing offense remains an open question.",
+          "projection": "An aggressive early selection for a patient team, with a wider range of outcomes than the first two names."
+        },
+        {
+          "pid": "p1942",
+          "name": "Roselia",
+          "species": "Roselia",
+          "speciesId": 315,
+          "icon": "assets/sprites/315.png",
+          "position": "QB",
+          "age": 22,
+          "level": 23,
+          "range": [
+            41,
+            69
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 8,
+            "vertical": 39,
+            "cone": 6.64
+          },
+          "university": {
+            "id": "kalos-university-of-anistar",
+            "name": "University of Anistar",
+            "city": "Anistar City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 4,
+          "analysis": "Anistar's Roselia combines a 39-inch vertical with a 6.64 cone and a 4.95 forty. The early grade band of 41–69 also belongs in this discussion, even if it produces less excitement than Stantler's straight-line speed. At 22 and level 23, Roselia gives a team a different way to argue for development: an established current form, a useful athletic baseline and room for the evaluation to sharpen. I have the flashier runner above this prospect for now. Anistar supporters can save that sentence if the order looks foolish later.",
+          "concern": "The workout suggests useful movement, but it does not answer questions about accuracy, anticipation or command.",
+          "projection": "An early-to-middle-round candidate who could move into the first group once the passing questions become clearer."
+        },
+        {
+          "pid": "p1865",
+          "name": "Mareep",
+          "species": "Mareep",
+          "speciesId": 179,
+          "icon": "assets/sprites/179.png",
+          "position": "QB",
+          "age": 21,
+          "level": 11,
+          "range": [
+            22,
+            50
+          ],
+          "combine": {
+            "forty": 4.98,
+            "bench": 7,
+            "vertical": 34,
+            "cone": 7.13
+          },
+          "university": {
+            "id": "hoenn-petalburg-university",
+            "name": "Petalburg University",
+            "city": "Petalburg City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 5,
+          "analysis": "Here is the name that will make this board unpopular outside Petalburg. Mareep is 21, ran 4.98 and jumped 34 inches. The current evaluation band, 22–50, offers a much more cautious picture than this ranking does. I am buying the opportunity to build, and Petalburg University gets the benefit of that argument today. The 7.13 cone and seven bench repetitions do not make this an easy case to defend with a workout sheet alone. I still want Mareep on the shortlist before the safer-looking middle of this group disappears into consensus.",
+          "concern": "This is a substantial projection beyond the present grade band, with little margin for a poor development fit.",
+          "projection": "A deliberately aggressive developmental target; my fifth quarterback is not a recommendation to spend the fifth overall pick."
+        },
+        {
+          "pid": "p2059",
+          "name": "Drampa",
+          "species": "Drampa",
+          "speciesId": 780,
+          "icon": "assets/sprites/780.png",
+          "position": "QB",
+          "age": 21,
+          "level": 6,
+          "range": [
+            40,
+            68
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 13,
+            "vertical": 29,
+            "cone": 7.18
+          },
+          "university": {
+            "id": "hoenn-mauville-aandm-university",
+            "name": "Mauville A&M University",
+            "city": "Mauville City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 6,
+          "analysis": "Mauville A&M's Drampa has a reasonable complaint about sitting behind Mareep. The age is the same, the 40–68 evaluation band is stronger, and 13 bench repetitions exceed Petalburg's seven. I remain less excited by a 5.07 forty, 7.18 cone and 29-inch vertical attached to a level-six prospect. The attraction is the starting grade and the possibility of building a conventional passing plan around it. The question is how long that plan takes to become dependable. A Mauville badge does not get to answer that question for the player.",
+          "concern": "Limited movement testing places more weight on the passing evaluation, and the development timetable is still uncertain.",
+          "projection": "A sensible middle-round discussion with upside to rise; a better value argument than this somewhat stubborn ranking admits."
+        },
+        {
+          "pid": "p1923",
+          "name": "Roselia",
+          "species": "Roselia",
+          "speciesId": 315,
+          "icon": "assets/sprites/315.png",
+          "position": "QB",
+          "age": 22,
+          "level": 24,
+          "range": [
+            38,
+            66
+          ],
+          "combine": {
+            "forty": 4.94,
+            "bench": 10,
+            "vertical": 36,
+            "cone": 6.73
+          },
+          "university": {
+            "id": "orre-phenac-air-academy",
+            "name": "Phenac Air Academy",
+            "city": "Phenac City",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 7,
+          "analysis": "Phenac Air Academy's Roselia is not a consolation version of the Anistar prospect. The 4.94 forty is slightly quicker, the 10 bench repetitions are better, and the 36-inch vertical and 6.73 cone are useful in their own right. At 22 and level 24, this is a distinct profile that deserves a separate conversation. I prefer Anistar's movement combination and slightly stronger opening grade band, but the distance between fourth and seventh overstates my confidence in that separation. A staff with different priorities could reasonably reverse the two Roselia prospects.",
+          "concern": "The difference from Anistar is narrow enough that ranking certainty would be misplaced before deeper passing evaluation.",
+          "projection": "Middle-round competition with a route upward; a candidate to outperform the attention given to more dramatic workouts."
+        },
+        {
+          "pid": "p1868",
+          "name": "Flaaffy",
+          "species": "Flaaffy",
+          "speciesId": 180,
+          "icon": "assets/sprites/180.png",
+          "position": "QB",
+          "age": 21,
+          "level": 23,
+          "range": [
+            35,
+            63
+          ],
+          "combine": {
+            "forty": 5.05,
+            "bench": 12,
+            "vertical": 34,
+            "cone": 6.77
+          },
+          "university": {
+            "id": "paldea-university-of-zapapico",
+            "name": "University of Zapapico",
+            "city": "Zapapico",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 8,
+          "analysis": "Zapapico's Flaaffy has the kind of workout that becomes more interesting after the loudest names leave the room. A 6.77 cone, 34-inch vertical and 12 bench repetitions offer a useful combination, even with a 5.05 forty. Age 21 and level 23 strengthen the case for giving this prospect a serious development plan. The evaluation band is 35–63, overlapping several players above. I am ranking the collection of possibilities eighth, but there is a credible argument that this is the more sensible bet than some of my preferred projects.",
+          "concern": "No single measurement settles the quarterback question; the athletic balance needs support from the passing assessment.",
+          "projection": "A middle-round developmental candidate with a plausible path to competing for a larger role over time."
+        },
+        {
+          "pid": "p2174",
+          "name": "Porygon",
+          "species": "Porygon",
+          "speciesId": 137,
+          "icon": "assets/sprites/137.png",
+          "position": "QB",
+          "age": 23,
+          "level": 23,
+          "range": [
+            34,
+            62
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 11,
+            "vertical": 31,
+            "cone": 6.98
+          },
+          "university": {
+            "id": "paldea-levincia-technical-university",
+            "name": "Levincia Technical University",
+            "city": "Levincia",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 9,
+          "analysis": "Levincia Technical's Porygon sits above the Goldenrod Metropolitan prospect because the current profile offers more to work with, not because the species name should settle anything. Level 23 and a 34–62 evaluation band compare favorably with Goldenrod's level eight and 29–57. The 5.07 forty and 6.98 cone are modest movement markers, and the 31-inch vertical will not dominate a workout conversation. At 23, I would want a specific plan for the next stage. This is a candidate to evaluate carefully, not a famous evolutionary destination to purchase in advance.",
+          "concern": "The present workout does not promise much rushing flexibility; future forms should never substitute for evaluating today's player.",
+          "projection": "A middle-to-late-round quarterback investment for a team with patient development resources and realistic short-term expectations."
+        },
+        {
+          "pid": "p2184",
+          "name": "Munna",
+          "species": "Munna",
+          "speciesId": 517,
+          "icon": "assets/sprites/517.png",
+          "position": "QB",
+          "age": 23,
+          "level": 24,
+          "range": [
+            32,
+            60
+          ],
+          "combine": {
+            "forty": 5.12,
+            "bench": 8,
+            "vertical": 29,
+            "cone": 7.17
+          },
+          "university": {
+            "id": "sinnoh-university-of-canalave",
+            "name": "University of Canalave",
+            "city": "Canalave City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 10,
+          "analysis": "Canalave's Munna brings a 32–60 evaluation band at age 23 and level 24. The workout is quieter: 5.12 in the forty, 7.17 in the cone and a 29-inch vertical. I do not see a reason to invent an athletic selling point that is absent from those numbers. The better case is that a team might value the overall starting grade more than my preference for movement testing. That team should take a closer look. There is room in this class for a prospect whose appeal does not begin with a stopwatch.",
+          "concern": "A limited movement profile leaves the eventual passing evaluation carrying most of the case for a substantial role.",
+          "projection": "Later-round consideration, with an opportunity to rise if a staff's passing assessment is stronger than the workout impression."
+        },
+        {
+          "pid": "p2086",
+          "name": "Porygon",
+          "species": "Porygon",
+          "speciesId": 137,
+          "icon": "assets/sprites/137.png",
+          "position": "QB",
+          "age": 23,
+          "level": 8,
+          "range": [
+            29,
+            57
+          ],
+          "combine": {
+            "forty": 5.08,
+            "bench": 12,
+            "vertical": 35,
+            "cone": 7.07
+          },
+          "university": {
+            "id": "johto-goldenrod-metropolitan-university",
+            "name": "Goldenrod Metropolitan University",
+            "city": "Goldenrod City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 11,
+          "analysis": "Goldenrod Metropolitan's Porygon recorded a 35-inch vertical and 12 bench repetitions, both above the Levincia prospect's marks. That is worth preserving in the comparison rather than flattening two players into one species label. The 5.08 forty and 7.07 cone are less distinctive, while the 29–57 grade band and level eight create a different starting point at age 23. I am willing to be patient with a project, but I want the reason for that patience stated clearly. Interesting tests are an invitation to investigate, not a completed argument for a starting job.",
+          "concern": "The developmental case needs greater clarity than a few favorable workout comparisons can provide on their own.",
+          "projection": "A later-round project for a team that can explain the role, the coaching commitment and the patience required."
+        },
+        {
+          "pid": "p1863",
+          "name": "Clauncher",
+          "species": "Clauncher",
+          "speciesId": 692,
+          "icon": "assets/sprites/692.png",
+          "position": "QB",
+          "age": 21,
+          "level": 10,
+          "range": [
+            25,
+            53
+          ],
+          "combine": {
+            "forty": 5.04,
+            "bench": 10,
+            "vertical": 33,
+            "cone": 6.83
+          },
+          "university": {
+            "id": "paldea-university-of-cascarrafa",
+            "name": "University of Cascarrafa",
+            "city": "Cascarrafa",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 12,
+          "analysis": "Cascarrafa's Clauncher closes the first dozen with a profile that deserves more attention than a 5.04 forty will attract. The 6.83 cone is useful, the vertical is 33 inches, and the bench total is 10. At 21 and level 10, with an evaluation band of 25–53, this is an unfinished proposition rather than a player I would ask to repair a struggling offense immediately. I like the movement result enough to keep Clauncher on the board. The next step is finding a passing argument substantial enough to justify moving higher.",
+          "concern": "The current grade band and limited development make immediate reliance difficult to justify without stronger passing evidence.",
+          "projection": "A later-round developmental selection, with enough athletic interest to keep following as the class comes into focus."
+        }
+      ]
+    }
+  ]
+}

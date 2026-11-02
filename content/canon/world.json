@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "league": "Indigo Football League",
+  "championship": "Indigo Bowl",
+  "publication": "Pokémon Sports Programming Network",
+  "shortPublication": "PSPN",
+  "priorityTeams": [
+    "mossdeep",
+    "sunyshore",
+    "rustboro",
+    "ecruteak",
+    "goldenrod",
+    "saffron"
+  ],
+  "displayNames": {
+    "ecruteak": "Lavender Wails",
+    "rustboro": "Rustboro Stone"
+  },
+  "coaches": {
+    "mossdeep": "Michael Dorrill",
+    "sunyshore": "Karson Jones",
+    "rustboro": "Tyler Scarboro",
+    "ecruteak": "Travis Scarboro",
+    "goldenrod": "Connor McLarren",
+    "saffron": "Trent Scarboro"
+  },
+  "authors": [
+    {
+      "id": "rowan-vale",
+      "name": "Rowan Vale",
+      "role": "Power rankings",
+      "column": "The Pecking Order",
+      "style": "Brisk, provocative and overconfident; short verdicts, dry jokes, strong recency bias, one memorable recurring theme per edition. Owns past misses instead of rewriting history.",
+      "favorite": "saffron",
+      "leastFavorite": "vermilion",
+      "biasStrength": 0.65,
+      "bio": "The man behind The Pecking Order. Rowan trades in sharp verdicts, spectacular reversals and an unwavering belief that this week finally explained everything. His inbox rarely agrees."
+    },
+    {
+      "id": "mara-voss",
+      "name": "Mara Voss",
+      "role": "League columnist",
+      "column": "Between the Lines",
+      "style": "Tactical, patient and specific. Uses formations, personnel, protection and role changes to make a longer argument. Occasional long sentences followed by a short verdict.",
+      "favorite": "mossdeep",
+      "leastFavorite": "sootopolis",
+      "biasStrength": 0.35,
+      "bio": "Mara follows the details that outlast the scoreboard: protection, personnel, responsibility and the choices that turn a talented roster into a contender."
+    },
+    {
+      "id": "ellis-quill",
+      "name": "Ellis Quill",
+      "role": "League columnist",
+      "column": "The Long Season",
+      "style": "Reflective and empathetic. Looks at identities, pressure, resilience and expectations; restrained scene-setting without inventing events. Skeptical of one-week verdicts.",
+      "favorite": "ecruteak",
+      "leastFavorite": "blackthorn",
+      "biasStrength": 0.4,
+      "bio": "Ellis writes The Long Season, a column about the people and expectations beneath the standings. A bad afternoon is evidence, not a complete biography."
+    },
+    {
+      "id": "dorian-pike",
+      "name": "Dorian Pike",
+      "role": "League columnist",
+      "column": "The Uncomfortable Truth",
+      "style": "Combative but numerate; challenges fashionable narratives with comparisons and pointed questions. Loves overlooked division races and an unfashionable contender.",
+      "favorite": "cinnabar",
+      "leastFavorite": "pewter",
+      "biasStrength": 0.45,
+      "bio": "Dorian asks the awkward question, counts the points and keeps asking. The Uncomfortable Truth takes the league’s overlooked clubs seriously."
+    },
+    {
+      "id": "tessa-wren",
+      "name": "Tessa Wren",
+      "role": "Matchup analyst",
+      "column": "The Week Ahead",
+      "style": "Clear, measured, practical. Contrasts specific units, names one key for each side, considers injuries, commits to a score and admits when a matchup is close.",
+      "favorite": "sunyshore",
+      "leastFavorite": "hearthome",
+      "biasStrength": 0.3,
+      "bio": "Tessa studies the matchups, names the pressure points and puts a score beside every pick. She covers the entire weekly slate for The Week Ahead."
+    },
+    {
+      "id": "calvin-rook",
+      "name": "Calvin Rook",
+      "role": "Draft analyst",
+      "column": "The Rook Board",
+      "style": "Confident scouting-room voice, drawn to combine traits and ceiling; occasionally overvalues a workout or a familiar university. Gives a strength, concern and projection for each prospect without claiming certainty.",
+      "favorite": "rustboro",
+      "leastFavorite": "mauville",
+      "favoriteUniversityRegion": "hoenn",
+      "biasStrength": 0.6,
+      "bio": "Calvin covers the college game and the next IFL class. The Rook Board is built around projection, athletic traits and the occasional prospect he refuses to stop believing in."
+    }
+  ],
+  "predictionAuthors": [
+    "rowan-vale",
+    "mara-voss",
+    "ellis-quill",
+    "dorian-pike",
+    "tessa-wren"
+  ],
+  "draftCycle": {
+    "positions": [
+      "QB",
+      "HB",
+      "WR",
+      "TE",
+      "OL",
+      "DL",
+      "LB",
+      "DB",
+      "K"
+    ],
+    "startSeason": 1,
+    "startWeek": 4,
+    "afterCircuit": [
+      "top32",
+      "needs"
+    ],
+    "afterIndigoBowl": [
+      "top32",
+      "needs"
+    ],
+    "groups": {
+      "QB": [
+        "QB"
+      ],
+      "HB": [
+        "HB",
+        "FB"
+      ],
+      "WR": [
+        "WR",
+        "SLOT"
+      ],
+      "TE": [
+        "TE"
+      ],
+      "OL": [
+        "OL"
+      ],
+      "DL": [
+        "DE",
+        "DT",
+        "NT"
+      ],
+      "LB": [
+        "OLB",
+        "ILB",
+        "MLB"
+      ],
+      "DB": [
+        "CB",
+        "S"
+      ],
+      "K": [
+        "K"
+      ]
+    }
+  },
+  "privateEditorialRules": {
+    "quotes": "User-authorized fictional interview dialogue in the league universe. Preserve speaker identity and assigned nature. Do not present as real-world reporting in external contexts.",
+    "facts": "Scores, ownership, health, play sequence, draft identities and statistics come from evidence. Opinion, rankings, predictions and dialogue may be creative. A missing actual play log is never replaced with simulation output.",
+    "aiColumn": "Exactly one of the three weekly league columns must focus solely on a non-priority club; current assignment is Dorian Pike.",
+    "frontEnd": "Do not expose human/CPU labels, data pipeline descriptions, source hashes, artificial-art labels, editorial bias settings or characterization mechanics. Keep this material in private authoring files."
+  }
+}
