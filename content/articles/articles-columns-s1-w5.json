@@ -90,7 +90,11 @@
           "type": "p",
           "text": "So yes, I'll watch the protection next week. I'll watch the third downs and the injury report and all the things a responsible person should watch. I also reserve the right to enjoy a kickoff return that removes the need for any of those things for the next ninety-three yards. Flock has earned an audience. At five-and-zero, Mossdeep has earned one, too."
         }
-      ]
+      ],
+      "art": {
+        "src": "assets/editorial/fb9bf3f55acd9fa7.png",
+        "alt": "Marshall Flock, Swellow No. 44, in Mossdeep magenta and gold on a kickoff return."
+      }
     },
     {
       "id": "column-s1-w5-cinnabar",
@@ -174,7 +178,11 @@
           "type": "p",
           "text": "Cinnabar can beat Pewter. I expect it to. If the Blaze give me another useful-looking loss and twelve ornamental carries, the next column will be less polite. I recognize that some readers may find that threat difficult to distinguish from the current column. Watch the rushing total. I'll make the difference clear."
         }
-      ]
+      ],
+      "art": {
+        "src": "assets/editorial/4c130cb63b87aa08.png",
+        "alt": "Cinnabar orange and gold helmet beside a football on stadium turf."
+      }
     },
     {
       "id": "column-s1-w5-trades",
@@ -269,7 +277,11 @@
           "type": "p",
           "text": "For this week, however, the headline belongs where it belongs. Sunyshore traded Milotic. Milotic helped beat Sunyshore. The longer transaction analysis can wait for more football. The film from this afternoon already has its author."
         }
-      ]
+      ],
+      "art": {
+        "src": "assets/editorial/50668b607e689fea.png",
+        "alt": "Milotic in Violet purple No. 89, with one continuous serpentine body."
+      }
     }
   ]
 }

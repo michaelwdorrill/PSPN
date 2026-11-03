@@ -230,7 +230,11 @@
         }
       ],
       "game": "1-05-mossdeep",
-      "frontPageOrder": 2
+      "frontPageOrder": 2,
+      "art": {
+        "src": "assets/editorial/fb9bf3f55acd9fa7.png",
+        "alt": "Marshall Flock, Swellow No. 44, in Mossdeep magenta and gold on a kickoff return."
+      }
     },
     {
       "id": "recap-1-05-oreburgh",
@@ -335,7 +339,11 @@
         }
       ],
       "game": "1-05-oreburgh",
-      "frontPageOrder": 3
+      "frontPageOrder": 3,
+      "art": {
+        "src": "assets/editorial/f543d1d92d1a1447.png",
+        "alt": "Mt. Silver crimson helmet with a silver mountain badge beside a football."
+      }
     },
     {
       "id": "recap-1-05-lavaridge",
@@ -446,7 +454,11 @@
         }
       ],
       "game": "1-05-lavaridge",
-      "frontPageOrder": 4
+      "frontPageOrder": 4,
+      "art": {
+        "src": "assets/editorial/83eee2b26c453f08.png",
+        "alt": "HeeDee Lamb, Heliolisk No. 11, running in Saffron pink and blue."
+      }
     },
     {
       "id": "recap-1-05-rustboro",
@@ -545,7 +557,11 @@
         }
       ],
       "game": "1-05-rustboro",
-      "frontPageOrder": 5
+      "frontPageOrder": 5,
+      "art": {
+        "src": "assets/editorial/3c28d57443cecb95.png",
+        "alt": "Philly, Gabite No. 63, in Rustboro brown and silver beside a football."
+      }
     },
     {
       "id": "recap-1-05-hearthome",
@@ -656,7 +672,11 @@
         }
       ],
       "game": "1-05-hearthome",
-      "frontPageOrder": 6
+      "frontPageOrder": 6,
+      "art": {
+        "src": "assets/editorial/2223f6ccee04667e.png",
+        "alt": "Mr. Clanky, Iron Bundle No. 11, in Lavender violet and black."
+      }
     }
   ]
 }

@@ -21,3 +21,5 @@ a.all-scores{display:flex;flex-direction:column;align-items:center;justify-conte
 @media(max-width:480px){.pick-cards{grid-template-columns:repeat(2,minmax(0,1fr));padding:14px;gap:10px}.pick-card:last-child:nth-child(odd){grid-column:1/-1;width:calc(50% - 5px);justify-self:center}.picks-heading h3{font-size:16px;line-height:1.1;max-width:180px}.picks-heading img{width:34px;height:34px}.pick-split{gap:9px;font-size:10px!important}.pick-split b{font-size:8px}}
 
 .pick-reason{white-space:normal;min-width:150px;max-width:230px;line-height:1.4;margin-top:8px}.panel-calls p{line-height:1.6}
+
+.article-image{height:auto;max-height:none}

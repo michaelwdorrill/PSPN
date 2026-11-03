@@ -230,7 +230,11 @@
             "home": 27
           }
         }
-      ]
+      ],
+      "art": {
+        "src": "assets/editorial/898027f987bc1282.png",
+        "alt": "Football at midfield beneath stadium lights before the next slate."
+      }
     }
   ]
 }
