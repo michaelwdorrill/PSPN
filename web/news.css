@@ -23,3 +23,6 @@ a.all-scores{display:flex;flex-direction:column;align-items:center;justify-conte
 .pick-reason{white-space:normal;min-width:150px;max-width:230px;line-height:1.4;margin-top:8px}.panel-calls p{line-height:1.6}
 
 .article-image{height:auto;max-height:none}
+.pick-card .pick-reason{min-width:0;max-width:none;padding:0 9px;overflow-wrap:anywhere}
+.panel-scorecard th{white-space:normal}
+@media(max-width:480px){.panel-scorecard .data-table th,.panel-scorecard .data-table td{padding:8px 5px;font-size:10px}.panel-scorecard .data-table td:first-child{white-space:normal}}
