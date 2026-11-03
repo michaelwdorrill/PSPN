@@ -1,0 +1,351 @@
+{
+  "season": 1,
+  "week": 7,
+  "articles": [
+    {
+      "id": "power-s1-w7",
+      "type": "power",
+      "title": "The correction desk: sixty-three points and several apologies",
+      "dek": "Mossdeep makes first place easy. Mt. Silver forces Rowan to reconsider, Blackthorn erupts, and Cerulean finally gets the promotion it earned.",
+      "author": "rowan-vale",
+      "teams": [],
+      "theme": "The correction desk",
+      "body": [
+        {
+          "type": "p",
+          "text": "I owe Mt. Silver and Cerulean better rankings. Rustboro would probably prefer I stop helping. This week’s theme is the correction desk, because I put my opinions in permanent print and the league insists on playing more games afterward. Mossdeep remains first after scoring 63. The argument begins at second, where the unbeaten Reds have earned their place back above my favorite defense."
+        },
+        {
+          "type": "p",
+          "text": "These are my judgments about the teams now, including known absences and the opponents they just faced. Movement compares with the published Week 6 list. Blackthorn makes the largest climb near the top; Lavender takes a hard fall after its first game since the bye. Four clubs were idle, and none gets a fictional result for the convenience of this column."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "movement": 0,
+          "themeLabel": "The answer is still one",
+          "text": "Eight catches, 233 yards and five touchdowns for Accel BeckhmJr. Mossdeep beat Lavender 63–10 and reached a plus-254 margin. I could invent a clever reason to move the Eclipse down, but even my profession has limits. The bye is the first opponent this month with a reliable method of keeping them off the scoreboard.",
+          "lastResult": "W 63–10",
+          "nextOpponent": "Bye"
+        },
+        {
+          "rank": 2,
+          "team": "goldenrod",
+          "previous": 4,
+          "movement": 2,
+          "themeLabel": "An apology, in second place",
+          "text": "I dropped the unbeaten Reds to fourth last week because Josh Alakazam was lost for the season. They answered with a 17–14 win over a good Petalburg side, with Tony Gyarzalez catching five passes for 100 yards. Seven wins have survived a serious change at quarterback. My caution was reasonable. My ranking was too low.",
+          "lastResult": "W 17–14",
+          "nextOpponent": "vs. Snowpoint Blizzard"
+        },
+        {
+          "rank": 3,
+          "team": "saffron",
+          "previous": 2,
+          "movement": -1,
+          "themeLabel": "A quiet promotion for somebody else",
+          "text": "The Psi Corps did nothing wrong on their bye. Mt. Silver did something right, so Saffron slides one place. Thirty-four points allowed across six games remains a tremendous argument. Pastoria next gives Trent Scarboro a chance to pair that defense with an offense more persuasive than the one that escaped Fuchsia.",
+          "lastResult": "Bye",
+          "nextOpponent": "vs. Pastoria Waves"
+        },
+        {
+          "rank": 4,
+          "team": "blackthorn",
+          "previous": 11,
+          "movement": 7,
+          "themeLabel": "Forty-two reasons to reconsider",
+          "text": "Hatterene completed 30 of 35 passes for 410 yards and five touchdowns in a 42–0 win. Yes, it was Lavaridge. No, that does not make those completions disappear. I had the 5–1 Dragons eleventh; this correction is overdue. Lavender arrives next, and its last opponent has helpfully demonstrated the value of attacking through the air.",
+          "lastResult": "W 42–0",
+          "nextOpponent": "vs. Lavender Wails"
+        },
+        {
+          "rank": 5,
+          "team": "cinnabar",
+          "previous": 5,
+          "movement": 0,
+          "themeLabel": "Keep the receipt, lower the volume",
+          "text": "Seven points were enough against Eterna. That makes the Blaze 5–2 with a plus-58 margin, which is substantial; it also makes Dorian’s next declaration of offensive supremacy an interesting editing assignment. I am holding Cinnabar fifth because the season is better than this single scoring line. Mauville will ask for a little more.",
+          "lastResult": "W 7–3",
+          "nextOpponent": "vs. Mauville Dynamos"
+        },
+        {
+          "rank": 6,
+          "team": "sunyshore",
+          "previous": 3,
+          "movement": -3,
+          "themeLabel": "Third was apparently optimistic",
+          "text": "DeZhaun Watzon went 10-for-26 for 125 yards and an interception in a 12–6 loss at Cerulean. Last week’s return touchdowns cannot keep contributing after the week ends, a scheduling detail my previous third-place ranking overlooked. The Starseekers still own a plus-89 margin. I am docking the offense, not confiscating the first five wins.",
+          "lastResult": "L 6–12",
+          "nextOpponent": "vs. Mahogany Frost"
+        },
+        {
+          "rank": 7,
+          "team": "petalburg",
+          "previous": 6,
+          "movement": -1,
+          "themeLabel": "A loss with useful information",
+          "text": "Losing 17–14 at Mt. Silver does not send a 5–2 team tumbling down this list. It does keep the Pride behind the teams I trust to finish that game. The bye arrives with Vileplume and Venomoth still carrying remaining absences. Petalburg gets a week to recover while its ranking does considerably less moving than my eyebrows.",
+          "lastResult": "L 14–17",
+          "nextOpponent": "Bye"
+        },
+        {
+          "rank": 8,
+          "team": "vermilion",
+          "previous": 7,
+          "movement": -1,
+          "themeLabel": "I would prefer to be wrong",
+          "text": "Drakloak caught four passes for 149 yards in a 14–9 win over Hearthome. The Volts are 5–1, and I have run out of ways to describe that as an administrative accident. Tentacruel’s five-week absence adds another problem at corner. For now, the league’s leading receiver keeps giving this restrained offense a very loud escape route.",
+          "lastResult": "W 14–9",
+          "nextOpponent": "at Fortree Skyhawks"
+        },
+        {
+          "rank": 9,
+          "team": "cerulean",
+          "previous": 23,
+          "movement": 14,
+          "themeLabel": "Twenty-third was indefensible",
+          "text": "The Tide held Sunyshore to six points and won 12–6. I had them twenty-third. Please direct complaints to last week’s Rowan, who seems poorly informed and annoyingly confident. Cerulean is 4–3 despite a minus-23 margin; I am not erasing the ugly afternoons. I am finally charging enough for the good ones.",
+          "lastResult": "W 12–6",
+          "nextOpponent": "Bye"
+        },
+        {
+          "rank": 10,
+          "team": "canalave",
+          "previous": 14,
+          "movement": 4,
+          "themeLabel": "Five wins, one spare point",
+          "text": "The Bulwark have outscored their opponents 90–89 and somehow turned that into 5–2. A 9–7 victory at Celadon fits the collection. Slowking completed eight of nine passes for 142 yards and a touchdown, so the offense can be efficient without being busy. I respect the record; I would like its emergency fund to contain more than one point.",
+          "lastResult": "W 9–7",
+          "nextOpponent": "vs. Hearthome Haunts"
+        },
+        {
+          "rank": 11,
+          "team": "viridian",
+          "previous": 16,
+          "movement": 5,
+          "themeLabel": "Three points still count",
+          "text": "A 10–7 win over Snowpoint brings the Titans to 4–3 and plus-seven. That earns a climb in a middle class determined to make rankings labor-intensive. Losing Toucannon for eight weeks is the obvious concern before Rustboro visits. The result deserves credit, while the injury makes it harder to assume the defense will simply repeat itself.",
+          "lastResult": "W 10–7",
+          "nextOpponent": "vs. Rustboro Stone"
+        },
+        {
+          "rank": 12,
+          "team": "olivine",
+          "previous": 24,
+          "movement": 12,
+          "themeLabel": "The welcome is conditional",
+          "text": "Beating Dewford 17–14 moves the Ironclads to 3–3. Drampa threw two touchdowns without an interception; Grotle supplied five catches for 50 yards and a score. I am promoting a team that handled a direct comparison well. A trip to Eterna will establish whether this is a useful new address or a one-week rental.",
+          "lastResult": "W 17–14",
+          "nextOpponent": "at Eterna Thorns"
+        },
+        {
+          "rank": 13,
+          "team": "mahogany",
+          "previous": 13,
+          "movement": 0,
+          "themeLabel": "One point, several questions",
+          "text": "Mahogany edged winless Fortree 14–13 and remains plus-21 despite a 3–4 record. That margin keeps me interested, although surviving this opponent by one point is an odd way to reward the attention. Dugtrio is out two weeks. The Frost now visit Sunyshore, where both teams have a passing-game argument they would like to settle.",
+          "lastResult": "W 14–13",
+          "nextOpponent": "at Sunyshore Starseekers"
+        },
+        {
+          "rank": 14,
+          "team": "eterna",
+          "previous": 12,
+          "movement": -2,
+          "themeLabel": "Defense cannot order the whole meal",
+          "text": "Three points at Cinnabar spoiled a defensive effort that allowed seven. The Thorns have scored 60 and allowed 58 across six games; being 3–3 is almost excessively literal. Trevenant and Aipom each face a one-week absence. I still trust enough of the defense to keep Eterna here. I would trust it more with help.",
+          "lastResult": "L 3–7",
+          "nextOpponent": "vs. Olivine Ironclads"
+        },
+        {
+          "rank": 15,
+          "team": "rustboro",
+          "previous": 8,
+          "movement": -7,
+          "themeLabel": "The twelve-place elevator reverses",
+          "text": "I moved Rustboro from twentieth to eighth after the Dewford win. Azalea promptly won 14–10, demonstrating why two kickoff touchdowns make an unstable foundation for a ranking. My Way, Son still ran for 109 yards, and Gengar caught five for 80. There is useful offense here. I have stopped handing it a victory before it scores enough.",
+          "lastResult": "L 10–14",
+          "nextOpponent": "at Viridian Titans"
+        },
+        {
+          "rank": 16,
+          "team": "azalea",
+          "previous": 20,
+          "movement": 4,
+          "themeLabel": "A proper interruption",
+          "text": "The Swarm beat Rustboro 14–10, with Vivillon turning four catches into 96 yards and a touchdown. That is a meaningful win for a 3–4 side whose minus-45 margin still argues for restraint. Cianwood comes next. Azalea has earned the opportunity to build on a result; it has not yet earned the right to treat the next one as routine.",
+          "lastResult": "W 14–10",
+          "nextOpponent": "vs. Cianwood Crushers"
+        },
+        {
+          "rank": 17,
+          "team": "dewford",
+          "previous": 9,
+          "movement": -8,
+          "themeLabel": "My favorite is costing me ink",
+          "text": "A 17–14 loss at Olivine leaves the Breakers 3–4. I kept them ninth after the Rustboro defeat because I thought the underlying team deserved patience. At some point patience becomes an unpaid public-relations job. Excadrill remains out two weeks. Hosting Pewter is a reasonable opportunity to show that the floor is higher than this fortnight suggests.",
+          "lastResult": "L 14–17",
+          "nextOpponent": "vs. Pewter Rockers"
+        },
+        {
+          "rank": 18,
+          "team": "sootopolis",
+          "previous": 17,
+          "movement": -1,
+          "themeLabel": "The bye gets an ordinary grade",
+          "text": "The Surge remain 3–3, with 106 points scored and 146 allowed. A week without a game does not repair that gap, and their next trip to Violet will be a useful comparison between teams trying to escape the lower half. I am leaving room for improvement without awarding advance credit for an opponent they have not beaten yet.",
+          "lastResult": "Bye",
+          "nextOpponent": "at Violet Falcons"
+        },
+        {
+          "rank": 19,
+          "team": "ecruteak",
+          "previous": 10,
+          "movement": -9,
+          "themeLabel": "Four wins need a response",
+          "text": "Sixty-three points allowed is a very large complication for a team that entered the week 4–1. The Wails still hold a playoff place, so this is not a funeral. It is a demand for a response, preferably before Blackthorn’s passing game gets comfortable. I had Lavender tenth; the next ranking will depend on whether this becomes a pattern.",
+          "lastResult": "L 10–63",
+          "nextOpponent": "at Blackthorn Dragons"
+        },
+        {
+          "rank": 20,
+          "team": "mauville",
+          "previous": 28,
+          "movement": 8,
+          "themeLabel": "A workable start",
+          "text": "Mauville won 17–3 at Cianwood and rises to 3–4. Dragapult supplied 217 passing yards while the defense kept the Crushers to three points. I am giving the Dynamos credit without pretending that a minus-33 season margin has vanished. Cinnabar is a sterner test, and an excellent place to prove this was the beginning of something.",
+          "lastResult": "W 17–3",
+          "nextOpponent": "at Cinnabar Blaze"
+        },
+        {
+          "rank": 21,
+          "team": "snowpoint",
+          "previous": 15,
+          "movement": -6,
+          "themeLabel": "The arithmetic is getting tiresome",
+          "text": "The Blizzard have a positive point differential and a 2–5 record. Losing 10–7 to Viridian is another entry in that deeply unhelpful portfolio. I cannot keep ranking the sum of their scores above the results indefinitely. A visit to unbeaten Mt. Silver is a difficult place to discover how to turn the final three points in their favor.",
+          "lastResult": "L 7–10",
+          "nextOpponent": "at Mt. Silver Reds"
+        },
+        {
+          "rank": 22,
+          "team": "violet",
+          "previous": 18,
+          "movement": -4,
+          "themeLabel": "A chance at home",
+          "text": "Violet had the week off and remains 2–4. Sootopolis visits next, giving the Falcons an immediate chance to improve against a team with its own defensive questions. Delibird and Axew still have remaining absences. I am keeping the Falcons above several teams that actively made their cases worse, which is the modest privilege of a well-timed bye.",
+          "lastResult": "Bye",
+          "nextOpponent": "vs. Sootopolis Surge"
+        },
+        {
+          "rank": 23,
+          "team": "veilstone",
+          "previous": 26,
+          "movement": 3,
+          "themeLabel": "This was available",
+          "text": "A 16–13 loss gave Fuchsia its first win and left the Fists 3–4. Thirteen points against a defense that entered the week having allowed 156 is a poor return on the opportunity. Oreburgh comes next. I want a more forceful offensive answer before I start treating that three-win record as evidence of anything comfortable.",
+          "lastResult": "L 13–16",
+          "nextOpponent": "vs. Oreburgh Miners"
+        },
+        {
+          "rank": 24,
+          "team": "oreburgh",
+          "previous": 29,
+          "movement": 5,
+          "themeLabel": "Take the road win",
+          "text": "The Miners won 13–6 at Pewter and have reached 2–5. It is not a glamorous score, but teams at this end of the rankings cannot afford to review victories for aesthetic defects. Farigiraf has one week remaining on the injury list. Veilstone provides a chance to make the improvement consecutive, which is where I start paying closer attention.",
+          "lastResult": "W 13–6",
+          "nextOpponent": "at Veilstone Fists"
+        },
+        {
+          "rank": 25,
+          "team": "pastoria",
+          "previous": 27,
+          "movement": 2,
+          "themeLabel": "The next opponent is inconvenient",
+          "text": "Pastoria remains 2–4 after a bye and now visits Saffron. Oinkologne still has seven weeks remaining on the injury report. I do not like that combination against a defense allowing fewer than six points per game. There is no penalty for an idle week here; there is simply very little new reason to feel more ambitious.",
+          "lastResult": "Bye",
+          "nextOpponent": "at Saffron Psi Corps"
+        },
+        {
+          "rank": 26,
+          "team": "fuchsia",
+          "previous": 30,
+          "movement": 4,
+          "themeLabel": "At last, a first result",
+          "text": "Empoleon completed 22 of 29 passes for 212 yards and a touchdown as the Shadows beat Veilstone 16–13. After running Saffron close, Fuchsia has finally turned encouragement into a win. The minus-94 margin still belongs on the page. So does 1–6, and a home game with Celadon now looks like an opportunity rather than another appointment to dread.",
+          "lastResult": "W 16–13",
+          "nextOpponent": "vs. Celadon Bloom"
+        },
+        {
+          "rank": 27,
+          "team": "hearthome",
+          "previous": 21,
+          "movement": -6,
+          "themeLabel": "Nine points and another absence",
+          "text": "The Haunts lost 14–9 at Vermilion, then emerged with an eight-week absence for Luxray. At 2–5, with Luvdisc also unavailable, Hearthome has to find more offense from a narrowing selection of options. Canalave is next. A close loss can establish competitiveness; the Haunts need to establish an actual supply of points.",
+          "lastResult": "L 9–14",
+          "nextOpponent": "at Canalave Bulwark"
+        },
+        {
+          "rank": 28,
+          "team": "pewter",
+          "previous": 22,
+          "movement": -6,
+          "themeLabel": "The museum has a medical wing",
+          "text": "Six points at home against Oreburgh takes the Rockers to 3–4. Gurdurr joins the current absences with two weeks to miss. I would ordinarily make a joke about six points being an exhibit, but Dewford is approaching and Pewter needs an offense that travels better than this. The season total is 57. There is the exhibit.",
+          "lastResult": "L 6–13",
+          "nextOpponent": "at Dewford Breakers"
+        },
+        {
+          "rank": 29,
+          "team": "cianwood",
+          "previous": 19,
+          "movement": -10,
+          "themeLabel": "The cost exceeds the score",
+          "text": "A 17–3 defeat is bad enough. Losing Gardevoir for ten weeks changes what comes after it. The Crushers are 2–5 and now head to Azalea with a serious quarterback problem. This ranking reflects that immediate outlook as well as the result. I am much less interested in assigning blame than in seeing where the next touchdown comes from.",
+          "lastResult": "L 3–17",
+          "nextOpponent": "at Azalea Swarm"
+        },
+        {
+          "rank": 30,
+          "team": "celadon",
+          "previous": 25,
+          "movement": -5,
+          "themeLabel": "A defense waiting for company",
+          "text": "Celadon allowed nine points and still lost. That sentence explains why a respectable 90 points conceded has produced a 1–6 record: the Bloom have scored 58. Fuchsia is next, newly acquainted with winning and unlikely to offer sympathy. I am resisting the temptation to reward another narrow defeat. Celadon already has quite a collection.",
+          "lastResult": "L 7–9",
+          "nextOpponent": "at Fuchsia Shadows"
+        },
+        {
+          "rank": 31,
+          "team": "fortree",
+          "previous": 31,
+          "movement": 0,
+          "themeLabel": "Close remains winless",
+          "text": "A 14–13 loss at Mahogany keeps Fortree at 0–6. I can acknowledge the better score without pretending the missing victory is a formatting error. Vermilion visits next, bringing Drakloak and a 5–1 record. The Skyhawks need one afternoon in which their competitiveness survives all the way into the standings.",
+          "lastResult": "L 13–14",
+          "nextOpponent": "vs. Vermilion Volts"
+        },
+        {
+          "rank": 32,
+          "team": "lavaridge",
+          "previous": 32,
+          "movement": 0,
+          "themeLabel": "No new basement required",
+          "text": "Forty-two points allowed, none scored. The Inferno have given up 203 points in seven games and are minus-125. A bye is welcome because repeating either side of this performance would be difficult to explain. I had Lavaridge last a week ago. Sometimes the easiest ranking on the page is also the least pleasant one to write.",
+          "lastResult": "L 0–42",
+          "nextOpponent": "Bye"
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w7-board-be928e219d77.webp",
+        "alt": "Magenta-and-gold and red-and-silver helmets beside two sevens."
+      }
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "season": 1,
+  "week": 7,
+  "articles": [
+    {
+      "id": "draft-te-s1-w7",
+      "type": "draft",
+      "title": "The Rook Board: Dhelmise gets first call, Trubbish gets my attention",
+      "dek": "Six tight ends, six different buying decisions. Calvin Rook takes Santalune’s strength-and-grade case first, then makes room for a Cascarrafa athlete he wants to keep discussing.",
+      "author": "calvin-rook",
+      "teams": [],
+      "focus": "TE",
+      "body": [
+        {
+          "type": "p",
+          "text": "I am taking Santalune’s Dhelmise first. The 80–99 grade band leads this six-player tight-end class, and 28 bench reps give me a reason to begin the conversation at the line of scrimmage. I can already hear the argument for a faster receiver. Fine. Bring Lavender Forest’s Arctozolt into the room. This is a useful disagreement about what an offense wants its tight end to do, and I have picked the prospect whose present case I find hardest to ignore."
+        },
+        {
+          "type": "p",
+          "text": "Week 7 made the position easy to explain. Tony Gyarzalez caught five passes for 100 yards as Mt. Silver beat Petalburg 17–14. Gronkaludon caught all five of his targets for 43 yards while Mossdeep’s wide receivers supplied the fireworks. Those are different jobs inside winning offenses. A tight end can carry a large share of the passing game or keep it functioning around somebody else. The draft mistake is buying the first job, then complaining when the player was selected for the second."
+        },
+        {
+          "type": "p",
+          "text": "Across the season, Gronkaludon has 39 catches for 452 yards and six touchdowns. Tony has 35 for 440 and two. I would happily build around either kind of production. I would be much less happy promising it from a workout. The grade ranges and combine results below are what we have; they leave room for disagreement about technique, deployment and how quickly a prospect can contribute. I am ranking the six listed tight ends."
+        },
+        {
+          "type": "p",
+          "text": "Arctozolt is the fastest of the group at 4.87 seconds, but Trubbish creates the most interesting argument after the top two. Cascarrafa’s prospect combines a 4.91 forty with the best cone time here, 6.77, and a 36-inch vertical. That is a much more inviting movement profile than the name might suggest to somebody who scouts the mascot before the player. My board keeps Trubbish third because the 56–84 grade band leaves the stronger present case with Dhelmise and Arctozolt. My curiosity is less obedient."
+        },
+        {
+          "type": "p",
+          "text": "Fortree would be one of my first stops with this board. An 0–6 team should be interested in adding a receiving outlet who gives the offense another credible job to run. I like Arctozolt there if the asking price fits its eventual draft position; I would take Dhelmise ahead of him if both were available at a sensible price. Those are player-fit opinions. Nobody has assigned the Skyhawks a pick number yet, and a losing record does not make every expensive solution a good purchase."
+        },
+        {
+          "type": "p",
+          "text": "For a different conversation, take Mauville. Heatmor already has 31 catches for 345 yards. That is useful incumbent production, so I would not walk into that room selling a tight end as the only route to a functional offense. A developmental option could add depth, but the first question is whether the available selection has a better job elsewhere. Calvin Rook can like a prospect without finding thirty-two emergencies for him."
+        },
+        {
+          "type": "p",
+          "text": "The bottom three require patience, with three quite different reasons for it. Clamperl has the stronger grade band of that group and the slowest movement tests. Sizzlipede offers a better cone result but only six bench reps. Oshawott has the lowest grade range and the best vertical in the class. I would rather be specific about those tradeoffs than hide all three behind the word upside. Their eventual jobs and prices need to reflect what separates them."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p1988",
+          "name": "Dhelmise",
+          "species": "Dhelmise",
+          "speciesId": 781,
+          "icon": "assets/sprites/781.png",
+          "position": "TE",
+          "age": 22,
+          "level": 5,
+          "range": [
+            80,
+            99
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 28,
+            "vertical": 30,
+            "cone": 7.24
+          },
+          "university": {
+            "id": "kalos-university-of-santalune",
+            "name": "University of Santalune",
+            "city": "Santalune City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 1,
+          "analysis": "Santalune’s Dhelmise gets the first line on my card because the strongest grade range in the class comes with its strongest bench result. Twenty-eight reps do not prove blocking technique, but they give me a concrete physical reason to investigate an attached role. The 5.06 forty and 7.24 cone push me away from selling a space-dominating receiver. I want this prospect near the formation, giving an offense a sturdier starting point and enough receiving ability to make the defense account for him. That is a valuable brief without decorating it with an imaginary college highlight reel.",
+          "concern": "The 30-inch vertical and slower cone result leave the receiving ceiling open to debate. At 22, he is also the oldest prospect of these six; I want the present contribution to justify putting him first.",
+          "projection": "First tight end on my board. I would have Fortree and Celadon examine whether his strongest projected job fits their offensive rebuilding needs before spending an early selection."
+        },
+        {
+          "pid": "p2013",
+          "name": "Arctozolt",
+          "species": "Arctozolt",
+          "speciesId": 881,
+          "icon": "assets/sprites/881.png",
+          "position": "TE",
+          "age": 21,
+          "level": 13,
+          "range": [
+            67,
+            95
+          ],
+          "combine": {
+            "forty": 4.87,
+            "bench": 20,
+            "vertical": 31,
+            "cone": 7.18
+          },
+          "university": {
+            "id": "kanto-lavender-forest-university",
+            "name": "Lavender Forest University",
+            "city": "Lavender Town",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 2,
+          "analysis": "Lavender Forest’s Arctozolt owns the best forty here, 4.87, alongside 20 bench reps and a 67–95 grade range. That is the clearest alternative to Dhelmise if a club wants more speed without abandoning the physical part of the position. Cerulean’s current Arctozolt has 18 catches for 188 yards this season; the shared species makes for an easy introduction, but it does not establish that these are interchangeable players. My case for the prospect comes from his own range and workout. I see the most persuasive balanced profile after the leader.",
+          "concern": "A 7.18 cone is substantially slower than Trubbish’s 6.77, and the 31-inch vertical does not separate him from the class. Straight-line speed is only part of the receiving assignment.",
+          "projection": "My preferred alternative for Fortree if the offense wants a faster outlet. Second on the board, with a credible argument for first in a room that values that particular job more heavily."
+        },
+        {
+          "pid": "p2043",
+          "name": "Trubbish",
+          "species": "Trubbish",
+          "speciesId": 568,
+          "icon": "assets/sprites/568.png",
+          "position": "TE",
+          "age": 21,
+          "level": 21,
+          "range": [
+            56,
+            84
+          ],
+          "combine": {
+            "forty": 4.91,
+            "bench": 15,
+            "vertical": 36,
+            "cone": 6.77
+          },
+          "university": {
+            "id": "paldea-university-of-cascarrafa",
+            "name": "University of Cascarrafa",
+            "city": "Cascarrafa",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 3,
+          "analysis": "Cascarrafa’s Trubbish is the prospect I expect to keep defending after the meeting has technically ended. The 6.77 cone leads the group, the 4.91 forty is second, and the 36-inch vertical adds another attractive movement result. I would start by exploring a receiving role that gives those traits room to matter. The 56–84 grade band is why I stop at third: the workout makes a stronger claim about athletic possibilities than about immediate completeness. That tension is the entire attraction. There is something here to investigate, and I do not need to pretend the investigation is finished.",
+          "concern": "Fifteen bench reps trail both leaders. An offense asking him to solve its blocking problems immediately would need firmer evidence than this workout supplies.",
+          "projection": "Third overall at the position and my favorite receiving-value discussion if the price drops below the top pair. Celadon would be an interesting fit opinion, not an automatic replacement for its current tight end."
+        },
+        {
+          "pid": "p2076",
+          "name": "Clamperl",
+          "species": "Clamperl",
+          "speciesId": 366,
+          "icon": "assets/sprites/366.png",
+          "position": "TE",
+          "age": 21,
+          "level": 17,
+          "range": [
+            45,
+            73
+          ],
+          "combine": {
+            "forty": 5.2,
+            "bench": 16,
+            "vertical": 28,
+            "cone": 7.31
+          },
+          "university": {
+            "id": "galar-university-of-hulbury",
+            "name": "University of Hulbury",
+            "city": "Hulbury",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 4,
+          "analysis": "Hulbury’s Clamperl is fourth because a 45–73 grade range offers a better present starting point than the final two prospects. The workout is less persuasive: 5.20 in the forty, 7.31 in the cone and a 28-inch vertical are all the slowest or lowest marks in this group. Sixteen bench reps at least keep the physical conversation alive. I would ask a club to describe the actual assignment before falling in love with a later possibility. A shorter-area role and a patient depth plan sound more believable to me than promising a receiver who separates all over the field.",
+          "concern": "Every movement comparison places him behind the top three. Future development is a question for the scouting process, not a license to erase today’s tests.",
+          "projection": "A later depth consideration for a club that can offer time and a defined job. I would not make an offense counting on an immediate receiving improvement wait on this projection."
+        },
+        {
+          "pid": "p2032",
+          "name": "Sizzlipede",
+          "species": "Sizzlipede",
+          "speciesId": 850,
+          "icon": "assets/sprites/850.png",
+          "position": "TE",
+          "age": 21,
+          "level": 11,
+          "range": [
+            34,
+            62
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 6,
+            "vertical": 34,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "galar-stow-on-side-state-university",
+            "name": "Stow-on-Side State University",
+            "city": "Stow-on-Side",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 5,
+          "analysis": "Stow-on-Side State’s Sizzlipede brings a 6.96 cone and 34-inch vertical, enough to make a movement-based role worth discussing at the right price. The grade range is 34–62, and six bench reps make it difficult to present him as a ready answer near the line. I prefer that everybody involved agree on the patience required before the selection is made. The useful version of this pick is a small investment in a specific developmental assignment. The expensive version is a club buying the possibility, then asking him to perform like one of the top two immediately.",
+          "concern": "The lowest bench result in this class is an obvious follow-up question. The workout does not tell us enough about functional strength or technique to wave it away.",
+          "projection": "Fifth on my board. A depth project for a roster with room to develop a receiving option; I would want a modest acquisition cost and no immediate starting promise."
+        },
+        {
+          "pid": "p1880",
+          "name": "Oshawott",
+          "species": "Oshawott",
+          "speciesId": 501,
+          "icon": "assets/sprites/501.png",
+          "position": "TE",
+          "age": 21,
+          "level": 9,
+          "range": [
+            28,
+            56
+          ],
+          "combine": {
+            "forty": 5.03,
+            "bench": 9,
+            "vertical": 37,
+            "cone": 6.95
+          },
+          "university": {
+            "id": "orre-gateon-state-university",
+            "name": "Gateon State University",
+            "city": "Gateon Port",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 6,
+          "analysis": "Gateon State’s Oshawott has the best vertical among these tight ends at 37 inches. That earns a real note in the file, alongside a 6.95 cone that is also competitive within this group. It does not erase the lowest grade band, 28–56, or nine bench reps. I am keeping him sixth because the overall present case remains the least convincing, while acknowledging that one good athletic trait can give a development staff something concrete to work on. The argument should begin with the player we can evaluate, then move carefully toward the player a team hopes to have.",
+          "concern": "The 5.03 forty is ordinary in this class, and the current grade range leaves considerable work before anyone should promise a reliable IFL role.",
+          "projection": "A patient late option if the roster and price allow it. I would choose the defined developmental opportunity over a famous-species comparison, however much better the comparison sounds on television."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w7-tightends-5d08dbac2044.webp",
+        "alt": "Receiving gloves, football and blocking equipment at a college practice field."
+      }
+    }
+  ]
+}
