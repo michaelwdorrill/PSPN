@@ -1,0 +1,653 @@
+{
+  "season": 1,
+  "week": 5,
+  "nextWeek": 6,
+  "games": [
+    {
+      "gid": "1-06-celadon",
+      "away": "viridian",
+      "home": "celadon",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 17,
+          "home": 18,
+          "reason": "Keep Viridian below twenty and make the fourth quarter a one-score contest."
+        },
+        {
+          "author": "mara-voss",
+          "away": 16,
+          "home": 22,
+          "reason": "Keep Viridian below twenty and make the fourth quarter a one-score contest."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 19,
+          "home": 13,
+          "reason": "Finish at least two touchdown drives and avoid a lost fumble."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 18,
+          "home": 11,
+          "reason": "Finish at least two touchdown drives and avoid a lost fumble."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 13,
+          "reason": "Finish at least two touchdown drives and avoid a lost fumble."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-cinnabar",
+      "away": "pewter",
+      "home": "cinnabar",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 18,
+          "home": 17,
+          "reason": "Turn one takeaway into points and reach the end zone."
+        },
+        {
+          "author": "mara-voss",
+          "away": 10,
+          "home": 27,
+          "reason": "Allow no more than one sack and improve on the twenty-five rushing yards in Dewford."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 10,
+          "home": 27,
+          "reason": "Allow no more than one sack and improve on the twenty-five rushing yards in Dewford."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 14,
+          "home": 30,
+          "reason": "I trust Cinnabar Blaze. Allow no more than one sack and improve on the twenty-five rushing yards in Dewford."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 13,
+          "home": 24,
+          "reason": "Allow no more than one sack and improve on the twenty-five rushing yards in Dewford."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-vermilion",
+      "away": "cerulean",
+      "home": "vermilion",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 22,
+          "home": 21,
+          "reason": "Keep Vermilion below twenty points and avoid giving away a short field."
+        },
+        {
+          "author": "mara-voss",
+          "away": 15,
+          "home": 21,
+          "reason": "Make Cerulean sustain drives and score a touchdown before halftime."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 15,
+          "home": 21,
+          "reason": "Make Cerulean sustain drives and score a touchdown before halftime."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 25,
+          "home": 11,
+          "reason": "Keep Vermilion below twenty points and avoid giving away a short field."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 20,
+          "reason": "Make Cerulean sustain drives and score a touchdown before halftime."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-fuchsia",
+      "away": "saffron",
+      "home": "fuchsia",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 38,
+          "home": 6,
+          "reason": "I trust Saffron Psi Corps. Force at least three sacks and protect possession."
+        },
+        {
+          "author": "mara-voss",
+          "away": 35,
+          "home": 5,
+          "reason": "Force at least three sacks and protect possession."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 31,
+          "home": 9,
+          "reason": "Force at least three sacks and protect possession."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 36,
+          "home": 4,
+          "reason": "Force at least three sacks and protect possession."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 34,
+          "home": 6,
+          "reason": "Force at least three sacks and protect possession."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-olivine",
+      "away": "azalea",
+      "home": "olivine",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 14,
+          "home": 17,
+          "reason": "Score touchdowns on two trips inside the twenty rather than relying entirely on kicks."
+        },
+        {
+          "author": "mara-voss",
+          "away": 16,
+          "home": 22,
+          "reason": "Score touchdowns on two trips inside the twenty rather than relying entirely on kicks."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 15,
+          "home": 22,
+          "reason": "Score touchdowns on two trips inside the twenty rather than relying entirely on kicks."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 30,
+          "home": 9,
+          "reason": "Reach halftime within one score and avoid two turnovers."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 16,
+          "home": 20,
+          "reason": "Score touchdowns on two trips inside the twenty rather than relying entirely on kicks."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-cianwood",
+      "away": "goldenrod",
+      "home": "cianwood",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 21,
+          "home": 15,
+          "reason": "Average four yards per rush and avoid a lost fumble."
+        },
+        {
+          "author": "mara-voss",
+          "away": 17,
+          "home": 21,
+          "reason": "Hold the Reds below twenty-five points and force Alakazam into third-and-long."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 15,
+          "home": 22,
+          "reason": "Hold the Reds below twenty-five points and force Alakazam into third-and-long."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 29,
+          "home": 19,
+          "reason": "I trust Mt. Silver Reds. Average four yards per rush and avoid a lost fumble."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 24,
+          "home": 17,
+          "reason": "Average four yards per rush and avoid a lost fumble."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-mahogany",
+      "away": "violet",
+      "home": "mahogany",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 18,
+          "home": 15,
+          "reason": "Create two completions of twenty yards and win without needing a defensive touchdown."
+        },
+        {
+          "author": "mara-voss",
+          "away": 23,
+          "home": 16,
+          "reason": "Create two completions of twenty yards and win without needing a defensive touchdown."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 20,
+          "home": 23,
+          "reason": "I trust Mahogany Frost. Allow no completion of thirty yards and finish two touchdown drives."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 9,
+          "home": 23,
+          "reason": "Allow no completion of thirty yards and finish two touchdown drives."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 17,
+          "reason": "Create two completions of twenty yards and win without needing a defensive touchdown."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-dewford",
+      "away": "rustboro",
+      "home": "dewford",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 15,
+          "home": 25,
+          "reason": "I trust Dewford Breakers. Keep Philly below a hundred yards and finish two touchdown drives."
+        },
+        {
+          "author": "mara-voss",
+          "away": 14,
+          "home": 21,
+          "reason": "Keep Philly below a hundred yards and finish two touchdown drives."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 13,
+          "home": 23,
+          "reason": "Keep Philly below a hundred yards and finish two touchdown drives."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 25,
+          "home": 15,
+          "reason": "Lose no fumbles and complete at least half the passing attempts."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 13,
+          "home": 23,
+          "reason": "Keep Philly below a hundred yards and finish two touchdown drives."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-mauville",
+      "away": "petalburg",
+      "home": "mauville",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 22,
+          "home": 14,
+          "reason": "Score twenty points and avoid a negative turnover margin."
+        },
+        {
+          "author": "mara-voss",
+          "away": 28,
+          "home": 18,
+          "reason": "I trust Petalburg Pride. Score twenty points and avoid a negative turnover margin."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 19,
+          "home": 25,
+          "reason": "Keep Petalburg under twenty and turn one takeaway into a scoring drive."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 15,
+          "home": 25,
+          "reason": "Keep Petalburg under twenty and turn one takeaway into a scoring drive."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 23,
+          "home": 17,
+          "reason": "Score twenty points and avoid a negative turnover margin."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-mossdeep",
+      "away": "lavaridge",
+      "home": "mossdeep",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 11,
+          "home": 29,
+          "reason": "Hold Lavaridge below four third-down conversions and protect Marino to one sack or fewer."
+        },
+        {
+          "author": "mara-voss",
+          "away": 7,
+          "home": 34,
+          "reason": "I trust Mossdeep Eclipse. Hold Lavaridge below four third-down conversions and protect Marino to one sack or fewer."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 10,
+          "home": 34,
+          "reason": "Hold Lavaridge below four third-down conversions and protect Marino to one sack or fewer."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 10,
+          "home": 28,
+          "reason": "Hold Lavaridge below four third-down conversions and protect Marino to one sack or fewer."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 9,
+          "home": 31,
+          "reason": "Hold Lavaridge below four third-down conversions and protect Marino to one sack or fewer."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-sootopolis",
+      "away": "fortree",
+      "home": "sootopolis",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 26,
+          "home": 20,
+          "reason": "Score on the opening two possessions or force two takeaways."
+        },
+        {
+          "author": "mara-voss",
+          "away": 20,
+          "home": 16,
+          "reason": "Score on the opening two possessions or force two takeaways."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 19,
+          "home": 21,
+          "reason": "Keep Fortree below twenty and produce two touchdown drives."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 16,
+          "home": 23,
+          "reason": "Keep Fortree below twenty and produce two touchdown drives."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 24,
+          "reason": "Keep Fortree below twenty and produce two touchdown drives."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-canalave",
+      "away": "oreburgh",
+      "home": "canalave",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 19,
+          "home": 23,
+          "reason": "Win the turnover margin and keep Oreburgh below twenty-four."
+        },
+        {
+          "author": "mara-voss",
+          "away": 23,
+          "home": 26,
+          "reason": "Win the turnover margin and keep Oreburgh below twenty-four."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 25,
+          "home": 18,
+          "reason": "Convert half the third downs and score a touchdown in the fourth quarter."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 19,
+          "home": 24,
+          "reason": "Win the turnover margin and keep Oreburgh below twenty-four."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 23,
+          "reason": "Win the turnover margin and keep Oreburgh below twenty-four."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-snowpoint",
+      "away": "eterna",
+      "home": "snowpoint",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 19,
+          "home": 22,
+          "reason": "Hold Eterna below twenty and finish the final scoring opportunity."
+        },
+        {
+          "author": "mara-voss",
+          "away": 13,
+          "home": 19,
+          "reason": "Hold Eterna below twenty and finish the final scoring opportunity."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 17,
+          "home": 23,
+          "reason": "Hold Eterna below twenty and finish the final scoring opportunity."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 25,
+          "home": 15,
+          "reason": "Score two touchdowns and avoid a lost fumble."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 16,
+          "reason": "I trust Eterna Thorns. Score two touchdowns and avoid a lost fumble."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-pastoria",
+      "away": "hearthome",
+      "home": "pastoria",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 20,
+          "home": 17,
+          "reason": "Lose no fumbles and make every extra point."
+        },
+        {
+          "author": "mara-voss",
+          "away": 15,
+          "home": 21,
+          "reason": "Score two touchdowns and avoid surrendering a late short field."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 18,
+          "home": 19,
+          "reason": "Score two touchdowns and avoid surrendering a late short field."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 22,
+          "home": 15,
+          "reason": "Lose no fumbles and make every extra point."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 16,
+          "home": 19,
+          "reason": "Score two touchdowns and avoid surrendering a late short field."
+        }
+      ]
+    },
+    {
+      "gid": "1-06-sunyshore",
+      "away": "veilstone",
+      "home": "sunyshore",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 12,
+          "home": 26,
+          "reason": "Lose no fumbles and convert at least half the third downs."
+        },
+        {
+          "author": "mara-voss",
+          "away": 10,
+          "home": 26,
+          "reason": "Lose no fumbles and convert at least half the third downs."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 16,
+          "home": 27,
+          "reason": "Lose no fumbles and convert at least half the third downs."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 11,
+          "home": 27,
+          "reason": "Lose no fumbles and convert at least half the third downs."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 13,
+          "home": 27,
+          "reason": "I trust Sunyshore Starseekers. Lose no fumbles and convert at least half the third downs."
+        }
+      ]
+    }
+  ],
+  "records": [
+    {
+      "author": "rowan-vale",
+      "name": "Rowan Vale",
+      "correct": 10,
+      "incorrect": 4,
+      "ties": 0,
+      "games": 14,
+      "closestBonuses": 7,
+      "totalAbsoluteScoreError": 186,
+      "perfectScores": 0
+    },
+    {
+      "author": "mara-voss",
+      "name": "Mara Voss",
+      "correct": 6,
+      "incorrect": 8,
+      "ties": 0,
+      "games": 14,
+      "closestBonuses": 5,
+      "totalAbsoluteScoreError": 206,
+      "perfectScores": 0
+    },
+    {
+      "author": "ellis-quill",
+      "name": "Ellis Quill",
+      "correct": 5,
+      "incorrect": 9,
+      "ties": 0,
+      "games": 14,
+      "closestBonuses": 1,
+      "totalAbsoluteScoreError": 229,
+      "perfectScores": 0
+    },
+    {
+      "author": "dorian-pike",
+      "name": "Dorian Pike",
+      "correct": 8,
+      "incorrect": 6,
+      "ties": 0,
+      "games": 14,
+      "closestBonuses": 0,
+      "totalAbsoluteScoreError": 239,
+      "perfectScores": 0
+    },
+    {
+      "author": "tessa-wren",
+      "name": "Tessa Wren",
+      "correct": 7,
+      "incorrect": 7,
+      "ties": 0,
+      "games": 14,
+      "closestBonuses": 1,
+      "totalAbsoluteScoreError": 211,
+      "perfectScores": 0
+    }
+  ],
+  "recordMethod": "Straight-up winner, actual ties separately. Closest score uses abs(predicted away - actual away) + abs(predicted home - actual home). Every panelist tied for lowest error gets one shared closest bonus; bonuses are independent of correct winner and do not alter the W-L record.",
+  "gradedWeek": 5,
+  "selections": [
+    {
+      "author": "rowan-vale",
+      "lock": "1-06-fuchsia",
+      "upset": "1-06-celadon",
+      "upsetWatch": false
+    },
+    {
+      "author": "mara-voss",
+      "lock": "1-06-fuchsia",
+      "upset": "1-06-celadon",
+      "upsetWatch": false
+    },
+    {
+      "author": "ellis-quill",
+      "lock": "1-06-mossdeep",
+      "upset": "1-06-cianwood",
+      "upsetWatch": false
+    },
+    {
+      "author": "dorian-pike",
+      "lock": "1-06-fuchsia",
+      "upset": "1-06-vermilion",
+      "upsetWatch": false
+    },
+    {
+      "author": "tessa-wren",
+      "lock": "1-06-fuchsia",
+      "upset": "1-06-snowpoint",
+      "upsetWatch": false
+    }
+  ]
+}

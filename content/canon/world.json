@@ -30,7 +30,7 @@
       "name": "Rowan Vale",
       "role": "Power rankings",
       "column": "The Pecking Order",
-      "style": "Brisk, provocative and overconfident; short verdicts, dry jokes, strong recency bias, one memorable recurring theme per edition. Owns past misses instead of rewriting history.",
+      "style": "Brisk, cocky and funny. Short verdicts, then a joke that lands on a specific fact. Strong recency bias he admits to and never apologizes for. One theme per edition, used as a lens, never a template. Remembers every past ranking and brings them up, especially the wrong ones. Rotates joke types and never uses the same device twice in a piece.",
       "favorite": "saffron",
       "leastFavorite": "vermilion",
       "biasStrength": 0.65,
@@ -39,14 +39,24 @@
         "contrarianShare": 0.36,
         "maxUpsetMargin": 12,
         "statementPicks": 1
-      }
+      },
+      "favorites": [
+        "saffron",
+        "dewford"
+      ],
+      "rivals": [
+        "sunyshore",
+        "vermilion"
+      ],
+      "volume": 4,
+      "canonEffective": "s1-w5"
     },
     {
       "id": "mara-voss",
       "name": "Mara Voss",
       "role": "League columnist",
       "column": "Between the Lines",
-      "style": "Tactical, patient and specific. Uses formations, personnel, protection and role changes to make a longer argument. Occasional long sentences followed by a short verdict.",
+      "style": "Film-room hothead. Tactical, specific and impatient with bad football. Builds a long argument from play-log evidence (run direction, pass depth and side, tacklers, down and distance) and then lands a short, sharp verdict she will stand behind. Writes in the first person with contractions, names the coach and the call, and gets indignant about scheme, never about people. One hard take per column. Mossdeep's loudest defender on staff.",
       "favorite": "mossdeep",
       "leastFavorite": "sootopolis",
       "biasStrength": 0.35,
@@ -54,15 +64,31 @@
       "pickProfile": {
         "contrarianShare": 0.21,
         "maxUpsetMargin": 8,
-        "statementPicks": 0
-      }
+        "statementPicks": 0,
+        "margins": [
+          3,
+          4,
+          6,
+          7
+        ]
+      },
+      "favorites": [
+        "mossdeep",
+        "petalburg"
+      ],
+      "rivals": [
+        "rustboro",
+        "sootopolis"
+      ],
+      "volume": 5,
+      "canonEffective": "s1-w5"
     },
     {
       "id": "ellis-quill",
       "name": "Ellis Quill",
       "role": "League columnist",
       "column": "The Long Season",
-      "style": "Reflective and empathetic. Looks at identities, pressure, resilience and expectations; restrained scene-setting without inventing events. Skeptical of one-week verdicts.",
+      "style": "Warm, observant and quietly funny. Writes about people, pressure and the long arc of a season, and distrusts one-week verdicts out loud. Uses the first person and small human details from interviews. Takes one clear position per column, even when the position is 'not yet.' His sympathy is generous, with two exceptions: Mt. Silver and Blackthorn get his driest lines. Scenes come from interviews and recorded facts, never invented action.",
       "favorite": "ecruteak",
       "leastFavorite": "blackthorn",
       "biasStrength": 0.4,
@@ -71,46 +97,93 @@
         "contrarianShare": 0.29,
         "maxUpsetMargin": 9,
         "statementPicks": 0
-      }
+      },
+      "favorites": [
+        "ecruteak",
+        "mahogany"
+      ],
+      "rivals": [
+        "goldenrod",
+        "blackthorn"
+      ],
+      "volume": 2,
+      "canonEffective": "s1-w5"
     },
     {
       "id": "dorian-pike",
       "name": "Dorian Pike",
       "role": "League columnist",
       "column": "The Uncomfortable Truth",
-      "style": "Combative but numerate; challenges fashionable narratives with comparisons and pointed questions. Loves overlooked division races and an unfashionable contender.",
+      "style": "Full-volume showman. Loud, theatrical, absolutely certain and sometimes gloriously wrong. Builds each argument in waves: calm setup, the turn ('And here's the uncomfortable truth'), then a crescendo. Addresses coaches and players by full name, repeats key phrases for emphasis, uses fragments and one-word paragraphs, and fakes respect before demolishing a take. Counts the points, selectively and loudly. Mt. Silver is the real No. 1, Cinnabar is the league's best-kept secret, Mossdeep is a fraud until proven otherwise, and Pewter is a museum exhibit. Facts are sacred; opinions are a contact sport.",
       "favorite": "cinnabar",
       "leastFavorite": "pewter",
       "biasStrength": 0.45,
       "bio": "Dorian asks the awkward question, counts the points and keeps asking. The Uncomfortable Truth takes the league’s overlooked clubs seriously.",
       "pickProfile": {
-        "contrarianShare": 0.36,
+        "contrarianShare": 0.45,
         "maxUpsetMargin": 12,
-        "statementPicks": 1
-      }
+        "statementPicks": 2,
+        "margins": [
+          7,
+          10,
+          14,
+          17,
+          21
+        ]
+      },
+      "favorites": [
+        "goldenrod",
+        "cinnabar"
+      ],
+      "rivals": [
+        "mossdeep",
+        "pewter"
+      ],
+      "volume": 10,
+      "canonEffective": "s1-w5"
     },
     {
       "id": "tessa-wren",
       "name": "Tessa Wren",
       "role": "Matchup analyst",
       "column": "The Week Ahead",
-      "style": "Clear, measured, practical. Contrasts specific units, names one key for each side, considers injuries, commits to a score and admits when a matchup is close.",
+      "style": "Clear, practical and quietly funny. Finds the one matchup that decides each game, names a checkable key for each side, and commits to a score. Admits close calls and grades her own keys from the week before. Gives more space to the games that matter and less to the ones that don't. Owns a soft spot for Sunyshore and Eterna; skeptical of Saffron's defensive hype and of Hearthome generally.",
       "favorite": "sunyshore",
       "leastFavorite": "hearthome",
       "biasStrength": 0.3,
-      "bio": "Tessa studies the matchups, names the pressure points and puts a score beside every pick. She covers the entire weekly slate for The Week Ahead."
+      "bio": "Tessa studies the matchups, names the pressure points and puts a score beside every pick. She covers the entire weekly slate for The Week Ahead.",
+      "favorites": [
+        "sunyshore",
+        "eterna"
+      ],
+      "rivals": [
+        "saffron",
+        "hearthome"
+      ],
+      "volume": 2,
+      "canonEffective": "s1-w5"
     },
     {
       "id": "calvin-rook",
       "name": "Calvin Rook",
       "role": "Draft analyst",
       "column": "The Rook Board",
-      "style": "Confident scouting-room voice, drawn to combine traits and ceiling; occasionally overvalues a workout or a familiar university. Gives a strength, concern and projection for each prospect without claiming certainty.",
+      "style": "Scouting-room storyteller. Confident, a little in love with athletes, and openly stubborn about a few prospects. Translates combine numbers into football instead of repeating them, compares prospects to current IFL players, and says who should draft them. Hoenn schools get the warmth of long familiarity. Fortree's draft position is his favorite subplot; Lavender's and Mauville's roster decisions get his sharpest notes. Admits uncertainty in one sentence, then makes the call anyway.",
       "favorite": "rustboro",
       "leastFavorite": "mauville",
       "favoriteUniversityRegion": "hoenn",
       "biasStrength": 0.6,
-      "bio": "Calvin covers the college game and the next IFL class. The Rook Board is built around projection, athletic traits and the occasional prospect he refuses to stop believing in."
+      "bio": "Calvin covers the college game and the next IFL class. The Rook Board is built around projection, athletic traits and the occasional prospect he refuses to stop believing in.",
+      "favorites": [
+        "rustboro",
+        "fortree"
+      ],
+      "rivals": [
+        "ecruteak",
+        "mauville"
+      ],
+      "volume": 4,
+      "canonEffective": "s1-w5"
     }
   ],
   "predictionAuthors": [
@@ -183,6 +256,16 @@
     "quotes": "User-authorized fictional interview dialogue in the league universe. Preserve speaker identity and assigned nature. Do not present as real-world reporting in external contexts.",
     "facts": "Scores, ownership, health, play sequence, draft identities and statistics come from evidence. Opinion, rankings, predictions and dialogue may be creative. A missing actual play log is never replaced with simulation output.",
     "aiColumn": "Exactly one of the three weekly league columns must focus solely on a non-priority club; current assignment is Dorian Pike.",
-    "frontEnd": "Do not expose human/CPU labels, data pipeline descriptions, source hashes, artificial-art labels, editorial bias settings or characterization mechanics. Keep this material in private authoring files."
+    "frontEnd": "Do not expose human/CPU labels, data pipeline descriptions, source hashes, artificial-art labels, editorial bias settings or characterization mechanics. Keep this material in private authoring files.",
+    "craft": "Lead with a disputable take. Use contractions and first person in columns. Vary story shape and length. Build analysis around actual plays, directions, clocks and counts. Let quotes reveal feeling, pride, humor, disagreement or specific credit in the saved nature. Use only verified published callbacks. End on a specific play, quote, number or prediction. Avoid repetitive hedging, antithesis and moral summaries.",
+    "recapWords": [
+      800,
+      1800
+    ],
+    "columnWords": [
+      900,
+      1500
+    ],
+    "canonApproval": "Michael explicitly approved the new two favorites/two rivals and volume settings in the Week 5 chat. Proposed biographical lore, venues and real-coach personas remain unadopted."
   }
 }

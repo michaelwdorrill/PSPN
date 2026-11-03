@@ -1,0 +1,403 @@
+{
+  "season": 1,
+  "week": 5,
+  "articles": [
+    {
+      "id": "draft-hb-fb-s1-w5",
+      "type": "draft",
+      "title": "Miltank leads the backs; Stakataka needs a job",
+      "dek": "Calvin Rook ranks twelve from the 31 visible HB/FB prospects and puts one Rustboro development bet on the record.",
+      "author": "calvin-rook",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Last week belonged to quarterbacks. This week the board turns to halfbacks and fullbacks, which should not be treated as interchangeable ways to own a large overall number. Miltank leads my running-back discussion; Stakataka has a formidable visible band and a job question attached. An offense needs to know how it will use a fullback before admiring one into an expensive selection."
+        },
+        {
+          "type": "p",
+          "text": "The thirty-one visible prospects supply age, level, scouting ranges, universities and combine results. They do not supply a college rushing season for me to invent. My comparisons are about possible assignments. Philly just ran for ninety-seven yards in a loss; Lynch’s injury makes Mt. Silver’s backfield depth immediate news. A back can have a valuable job without being a cure for every problem around it."
+        },
+        {
+          "type": "p",
+          "text": "At eleven, I have Rustboro’s Tympole ahead of a stronger current band. That is an admitted development bet on the movement testing, with a university I happen to enjoy discussing. Keep the receipt. The board is an opinion about the visible evidence, not a claim to hidden grades or a guarantee about future evolution."
+        }
+      ],
+      "focus": "HB",
+      "prospects": [
+        {
+          "pid": "p1928",
+          "name": "Miltank",
+          "species": "Miltank",
+          "speciesId": 241,
+          "icon": "assets/sprites/241.png",
+          "position": "HB",
+          "age": 22,
+          "level": 16,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 4.72,
+            "bench": 22,
+            "vertical": 40,
+            "cone": 6.58
+          },
+          "university": {
+            "id": "johto-university-of-blackthorn",
+            "name": "University of Blackthorn",
+            "city": "Blackthorn City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 1,
+          "analysis": "The best blend of starting grade and movement on this board. Miltank’s 4.72 forty leads this selected group, with a forty-inch vertical and twenty-two bench reps. I see a back worth building a real rushing assignment around, while keeping the broad grade band in view.",
+          "concern": "A workout cannot establish ball security or vision.",
+          "projection": "Early HB target"
+        },
+        {
+          "pid": "p1920",
+          "name": "Zangoose",
+          "species": "Zangoose",
+          "speciesId": 335,
+          "icon": "assets/sprites/335.png",
+          "position": "HB",
+          "age": 21,
+          "level": 20,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 4.75,
+            "bench": 19,
+            "vertical": 40,
+            "cone": 6.6
+          },
+          "university": {
+            "id": "unova-university-of-opelucid",
+            "name": "University of Opelucid",
+            "city": "Opelucid City",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 2,
+          "analysis": "Zangoose is close enough to make the first place an argument. A 4.75 forty, forty-inch vertical and 6.60 cone make the movement case. I give Miltank the edge on the current visible band, but an offense seeking a different rushing profile should keep both names open.",
+          "concern": "The grade ranges overlap substantially.",
+          "projection": "Early HB target"
+        },
+        {
+          "pid": "p1995",
+          "name": "Stakataka",
+          "species": "Stakataka",
+          "speciesId": 805,
+          "icon": "assets/sprites/805.png",
+          "position": "FB",
+          "age": 23,
+          "level": 10,
+          "range": [
+            87,
+            99
+          ],
+          "combine": {
+            "forty": 5.23,
+            "bench": 27,
+            "vertical": 28,
+            "cone": 7.28
+          },
+          "university": {
+            "id": "paldea-university-of-zapapico",
+            "name": "University of Zapapico",
+            "city": "Zapapico",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 3,
+          "analysis": "Stakataka has the strongest visible band of these backs and twenty-seven bench reps. Fullback is a different assignment from leading a rushing attack. Draft a defined job: blocking, short yardage and useful snaps alongside another back, rather than purchasing an impressive number without a role.",
+          "concern": "A 5.23 forty and 7.28 cone limit the movement argument.",
+          "projection": "Premium FB if the job exists"
+        },
+        {
+          "pid": "p2016",
+          "name": "Druddigon",
+          "species": "Druddigon",
+          "speciesId": 621,
+          "icon": "assets/sprites/621.png",
+          "position": "FB",
+          "age": 22,
+          "level": 16,
+          "range": [
+            74,
+            99
+          ],
+          "combine": {
+            "forty": 5.11,
+            "bench": 23,
+            "vertical": 28,
+            "cone": 7.01
+          },
+          "university": {
+            "id": "alola-po-state-university",
+            "name": "Po State University",
+            "city": "Po Town",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 4,
+          "analysis": "Druddigon offers another strong starting point at fullback. Twenty-three bench reps support a physical assignment, and the visible band reaches ninety-nine. I would ask the offense exactly how often it expects to use that assignment before spending an early selection.",
+          "concern": "The 5.11 forty is part of the cost.",
+          "projection": "Starting FB candidate"
+        },
+        {
+          "pid": "p2040",
+          "name": "Deerling",
+          "species": "Deerling",
+          "speciesId": 585,
+          "icon": "assets/sprites/585.png",
+          "position": "HB",
+          "age": 23,
+          "level": 8,
+          "range": [
+            49,
+            77
+          ],
+          "combine": {
+            "forty": 4.89,
+            "bench": 11,
+            "vertical": 38,
+            "cone": 6.53
+          },
+          "university": {
+            "id": "galar-mid-galar-state-university",
+            "name": "Mid-Galar State University",
+            "city": "Hammerlocke",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 5,
+          "analysis": "Deerling’s 6.53 cone is the most interesting number here. I want to explore the movement without pretending it supplies rushing production by itself. The lower visible band asks for patience, but there is enough in the testing to keep the conversation near the top of the HB list.",
+          "concern": "Eleven bench reps offer less strength evidence than the leaders.",
+          "projection": "Developmental HB"
+        },
+        {
+          "pid": "p2029",
+          "name": "Nidorino",
+          "species": "Nidorino",
+          "speciesId": 33,
+          "icon": "assets/sprites/33.png",
+          "position": "HB",
+          "age": 22,
+          "level": 23,
+          "range": [
+            52,
+            80
+          ],
+          "combine": {
+            "forty": 4.9,
+            "bench": 12,
+            "vertical": 37,
+            "cone": 6.67
+          },
+          "university": {
+            "id": "johto-university-of-cherrygrove",
+            "name": "University of Cherrygrove",
+            "city": "Cherrygrove City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 6,
+          "analysis": "Nidorino has a useful middle starting band and a 4.90 forty. The case is less dramatic than the first two halfbacks and more substantial than a pure late speculation. I would prefer a clear rotation plan over immediate promises of a lead role.",
+          "concern": "No single workout number settles the role.",
+          "projection": "Rotation HB with development"
+        },
+        {
+          "pid": "p2078",
+          "name": "Parasect",
+          "species": "Parasect",
+          "speciesId": 47,
+          "icon": "assets/sprites/47.png",
+          "position": "FB",
+          "age": 22,
+          "level": 24,
+          "range": [
+            64,
+            92
+          ],
+          "combine": {
+            "forty": 5.05,
+            "bench": 20,
+            "vertical": 29,
+            "cone": 7.11
+          },
+          "university": {
+            "id": "kalos-university-of-cyllage",
+            "name": "University of Cyllage",
+            "city": "Cyllage City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 7,
+          "analysis": "Parasect brings twenty bench reps and a relatively strong visible band to a fullback conversation that should remain about assignments. A team that actually fields the position can make a sensible case. A team that rarely does should keep its enthusiasm on paper.",
+          "concern": "The 7.11 cone requires realistic movement expectations.",
+          "projection": "Useful FB target"
+        },
+        {
+          "pid": "p2009",
+          "name": "Ariados",
+          "species": "Ariados",
+          "speciesId": 168,
+          "icon": "assets/sprites/168.png",
+          "position": "FB",
+          "age": 22,
+          "level": 22,
+          "range": [
+            61,
+            89
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 17,
+            "vertical": 32,
+            "cone": 7.1
+          },
+          "university": {
+            "id": "alola-seafolk-state-university",
+            "name": "Seafolk State University",
+            "city": "Seafolk Village",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 8,
+          "analysis": "Ariados offers seventeen bench reps and a thirty-two-inch vertical. The starting band keeps it in the useful fullback group. I would compare the expected blocking and short-yardage workload directly with Parasect before deciding which profile deserves the earlier investment.",
+          "concern": "A 5.06 forty will not make the speed argument.",
+          "projection": "FB rotation or starter competition"
+        },
+        {
+          "pid": "p1964",
+          "name": "Kecleon",
+          "species": "Kecleon",
+          "speciesId": 352,
+          "icon": "assets/sprites/352.png",
+          "position": "FB",
+          "age": 22,
+          "level": 19,
+          "range": [
+            60,
+            88
+          ],
+          "combine": {
+            "forty": 5.03,
+            "bench": 14,
+            "vertical": 31,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "orre-pyrite-school-of-mines",
+            "name": "Pyrite School of Mines",
+            "city": "Pyrite Town",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 9,
+          "analysis": "Kecleon’s 6.96 cone gives this fullback profile a little more movement interest. The band is broad enough that I would avoid a confident declaration about immediate quality. Give the prospect a specific job and compare the cost with the existing roster.",
+          "concern": "Fourteen bench reps trail several fullbacks above.",
+          "projection": "Role-specific FB"
+        },
+        {
+          "pid": "p1959",
+          "name": "Kecleon",
+          "species": "Kecleon",
+          "speciesId": 352,
+          "icon": "assets/sprites/352.png",
+          "position": "FB",
+          "age": 21,
+          "level": 20,
+          "range": [
+            59,
+            87
+          ],
+          "combine": {
+            "forty": 5.09,
+            "bench": 14,
+            "vertical": 32,
+            "cone": 7.05
+          },
+          "university": {
+            "id": "sinnoh-twinleaf-university",
+            "name": "Twinleaf University",
+            "city": "Twinleaf Town",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 10,
+          "analysis": "The second Kecleon is a separate player from a separate university. Similar species and bands do not make them interchangeable. This one has a 5.09 forty and 7.05 cone; those results place it slightly below the Pyrite prospect on my current list.",
+          "concern": "Keep identity and workout differences straight.",
+          "projection": "Later FB discussion"
+        },
+        {
+          "pid": "p2037",
+          "name": "Tympole",
+          "species": "Tympole",
+          "speciesId": 535,
+          "icon": "assets/sprites/535.png",
+          "position": "HB",
+          "age": 23,
+          "level": 17,
+          "range": [
+            28,
+            56
+          ],
+          "combine": {
+            "forty": 4.86,
+            "bench": 7,
+            "vertical": 39,
+            "cone": 6.62
+          },
+          "university": {
+            "id": "hoenn-university-of-rustboro",
+            "name": "University of Rustboro",
+            "city": "Rustboro City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 11,
+          "analysis": "Here is my reach. Rustboro’s Tympole has a 4.86 forty, thirty-nine-inch vertical and 6.62 cone. The visible band is only 28–56. I am placing the movement ahead of a stronger current band below, and the Rustboro connection makes this an especially easy bet for me to like.",
+          "concern": "Seven bench reps and the low band demand patience.",
+          "projection": "Late developmental HB"
+        },
+        {
+          "pid": "p1941",
+          "name": "Minccino",
+          "species": "Minccino",
+          "speciesId": 572,
+          "icon": "assets/sprites/572.png",
+          "position": "HB",
+          "age": 23,
+          "level": 8,
+          "range": [
+            37,
+            65
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 11,
+            "vertical": 40,
+            "cone": 6.6
+          },
+          "university": {
+            "id": "paldea-montenevera-state-university",
+            "name": "Montenevera State University",
+            "city": "Montenevera",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 12,
+          "analysis": "Minccino has a stronger current band than Tympole and a forty-inch vertical. A more cautious board could reverse those two. Mine currently values the Rustboro prospect’s movement a little more. Neither should be advertised as an immediate answer simply because the price might be low.",
+          "concern": "A 4.95 forty tempers the explosive-workout claim.",
+          "projection": "Later developmental HB"
+        }
+      ]
+    }
+  ]
+}
