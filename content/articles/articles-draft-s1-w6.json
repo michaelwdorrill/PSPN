@@ -1,0 +1,407 @@
+{
+  "season": 1,
+  "week": 6,
+  "articles": [
+    {
+      "id": "draft-wr-slot-s1-w6",
+      "type": "draft",
+      "title": "The Rook Board: Meowth makes me choose the athlete",
+      "dek": "Seviper owns the strongest grade band. Central Sinnoh’s Meowth owns the movement tests. Calvin Rook ranks twelve receivers from a group of twenty-one.",
+      "author": "calvin-rook",
+      "teams": [],
+      "focus": "WR",
+      "body": [
+        {
+          "type": "p",
+          "text": "Central Sinnoh’s Meowth is my first receiver. Celadon’s Seviper has the stronger present grade band, and I expect plenty of sensible scouts to prefer him. I am taking the 4.71 forty, 43-inch vertical and 6.27 cone seriously enough to put the athlete first. This is a scouting opinion with an obvious argument against it. Keep both parts of the sentence."
+        },
+        {
+          "type": "p",
+          "text": "This week’s circuit covers the twenty listed WRs and one SLOT, with twelve prospects on the board. Grades remain ranges; combines describe the workout. They do not tell us a receiver’s college production, guarantee an evolution or promise a future starting job. The useful question is which actual assignment a team would be buying."
+        },
+        {
+          "type": "p",
+          "text": "Rustboro just received an eighteen-yard touchdown from Gengar. Saffron survived because Venomoth finished a 69-yard pass. Those plays explain why teams keep looking for receiving threats. They do not make every prospect of a related species the next version of an established player. I want a fit, a price and a job before I want a comparison that sounds good on draft night."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p2150",
+          "name": "Meowth",
+          "species": "Meowth",
+          "speciesId": 52,
+          "icon": "assets/sprites/52.png",
+          "position": "WR",
+          "age": 21,
+          "level": 21,
+          "range": [
+            41,
+            69
+          ],
+          "combine": {
+            "forty": 4.71,
+            "bench": 10,
+            "vertical": 43,
+            "cone": 6.27
+          },
+          "university": {
+            "id": "sinnoh-university-of-central-sinnoh",
+            "name": "University of Central Sinnoh",
+            "city": "Eterna City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 1,
+          "analysis": "I am putting Central Sinnoh’s Meowth first, and I know exactly which objection is coming: the 41–69 grade band is lower than several others. The movement testing wins me over. A 4.71 forty, 43-inch vertical and 6.27 cone are the best marks in this receiver group. That is the athlete I want to investigate first when I need a receiver to create space.",
+          "concern": "Ten bench reps do not settle how he handles contact, and the broad grade band leaves real uncertainty about present receiving polish.",
+          "projection": "My first receiver target for Fortree, whose 0–5 start demands a stronger offensive future. This is a fit opinion, not a forecast of its draft slot."
+        },
+        {
+          "pid": "p1933",
+          "name": "Seviper",
+          "species": "Seviper",
+          "speciesId": 336,
+          "icon": "assets/sprites/336.png",
+          "position": "WR",
+          "age": 22,
+          "level": 16,
+          "range": [
+            62,
+            90
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 19,
+            "vertical": 34,
+            "cone": 6.87
+          },
+          "university": {
+            "id": "kanto-university-of-celadon",
+            "name": "University of Celadon",
+            "city": "Celadon City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 2,
+          "analysis": "Seviper offers the strongest current grade band here at 62–90 and nineteen bench reps. Celadon’s prospect gives a club a different reason to be interested than Meowth does: there is a stronger present evaluation range and a much sturdier strength result. I would be entirely comfortable with a team reversing my top two because it values that combination more.",
+          "concern": "The 4.95 forty and 6.87 cone trail the leading movement testers. The strongest band is still a band, not a completed scouting report.",
+          "projection": "A receiver-needy club wanting a more immediate contribution should start here. I would put Cerulean on the list after its three-point afternoon."
+        },
+        {
+          "pid": "p2127",
+          "name": "Gastly",
+          "species": "Gastly",
+          "speciesId": 92,
+          "icon": "assets/sprites/92.png",
+          "position": "WR",
+          "age": 22,
+          "level": 20,
+          "range": [
+            57,
+            85
+          ],
+          "combine": {
+            "forty": 4.82,
+            "bench": 4,
+            "vertical": 41,
+            "cone": 6.53
+          },
+          "university": {
+            "id": "kalos-sycamore-university",
+            "name": "Sycamore University",
+            "city": "Lumiose City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 3,
+          "analysis": "Sycamore’s Gastly pairs a 4.82 forty with a 6.53 cone and a 41-inch vertical. The 57–85 band belongs near the top, too. I like how little explaining is required to make the movement case. Think about the stress a receiver can place on a defense when it must respect both the initial acceleration and a change of direction.",
+          "concern": "Four bench reps are the clearest weakness in the testing profile. Movement alone does not establish dependable receiving or blocking work.",
+          "projection": "A serious early option for a team seeking another explosive receiving threat. Rustboro has just shown how useful a Gengar can be, without making that an automatic comparison of ability."
+        },
+        {
+          "pid": "p1908",
+          "name": "Delibird",
+          "species": "Delibird",
+          "speciesId": 225,
+          "icon": "assets/sprites/225.png",
+          "position": "WR",
+          "age": 22,
+          "level": 16,
+          "range": [
+            56,
+            84
+          ],
+          "combine": {
+            "forty": 4.92,
+            "bench": 8,
+            "vertical": 41,
+            "cone": 6.62
+          },
+          "university": {
+            "id": "galar-university-of-hulbury",
+            "name": "University of Hulbury",
+            "city": "Hulbury",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 4,
+          "analysis": "Hulbury’s Delibird has a 56–84 grade band, a 41-inch vertical and a 6.62 cone. I see a balanced candidate to challenge for real receiving work rather than a workout attraction with one number doing all the selling. The 4.92 forty does not lead the class, but the other movement tests keep the profile interesting.",
+          "concern": "Eight bench reps and a broad band leave work to do on the contact and present-skill questions. Do not turn a good jump into an invented catch history.",
+          "projection": "A sensible receiver addition for an offense that already has one dependable option and needs another. Pewter should be looking at more ways to reach the end zone."
+        },
+        {
+          "pid": "p1938",
+          "name": "Chinchou",
+          "species": "Chinchou",
+          "speciesId": 170,
+          "icon": "assets/sprites/170.png",
+          "position": "SLOT",
+          "age": 21,
+          "level": 12,
+          "range": [
+            56,
+            84
+          ],
+          "combine": {
+            "forty": 4.87,
+            "bench": 10,
+            "vertical": 36,
+            "cone": 6.7
+          },
+          "university": {
+            "id": "johto-azalea-university",
+            "name": "Azalea University",
+            "city": "Azalea Town",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 5,
+          "analysis": "The only listed SLOT in this group belongs high enough to be discussed on his own terms. Azalea University’s Chinchou has a 56–84 band, runs 4.87 and posts a 6.70 cone. A club that has a real inside receiving job can consider those numbers without pretending every receiver has to solve the same outside assignment.",
+          "concern": "A 36-inch vertical and ten bench reps do not distinguish him from every outside prospect. The role must exist before the selection makes sense.",
+          "projection": "My first call for a team specifically shopping for inside receiving work. I would ask Lavender to define that job before adding another target to a crowded idea of an offense."
+        },
+        {
+          "pid": "p2129",
+          "name": "Woobat",
+          "species": "Woobat",
+          "speciesId": 527,
+          "icon": "assets/sprites/527.png",
+          "position": "WR",
+          "age": 23,
+          "level": 23,
+          "range": [
+            46,
+            74
+          ],
+          "combine": {
+            "forty": 4.87,
+            "bench": 7,
+            "vertical": 41,
+            "cone": 6.53
+          },
+          "university": {
+            "id": "unova-icirrus-university",
+            "name": "Icirrus University",
+            "city": "Icirrus City",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 6,
+          "analysis": "Woobat matches Gastly’s 41-inch vertical and 6.53 cone, with a 4.87 forty. The Icirrus prospect is 23 and level 23, carrying a 46–74 band. The test results justify a close look even though the present grade range sits below the leading group. I would rather discuss those specific strengths than dismiss the profile because it starts sixth.",
+          "concern": "Seven bench reps and the lower grade band remain meaningful differences from stronger present candidates. Age 23 also gives less age-based runway than 21.",
+          "projection": "A middle-board receiver to compare against actual openings, particularly for teams wanting movement help soon. I would keep him in Fortree’s comparison even if Meowth is unavailable."
+        },
+        {
+          "pid": "p1926",
+          "name": "Delibird",
+          "species": "Delibird",
+          "speciesId": 225,
+          "icon": "assets/sprites/225.png",
+          "position": "WR",
+          "age": 21,
+          "level": 7,
+          "range": [
+            42,
+            70
+          ],
+          "combine": {
+            "forty": 4.92,
+            "bench": 11,
+            "vertical": 36,
+            "cone": 6.66
+          },
+          "university": {
+            "id": "hoenn-university-of-lavaridge",
+            "name": "University of Lavaridge",
+            "city": "Lavaridge Town",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 7,
+          "analysis": "Lavaridge’s Delibird has the same 4.92 forty as Hulbury’s, with a 6.66 cone and eleven bench reps. The differences are the 42–70 band and 36-inch vertical. I like a prospect who keeps several useful measurements together. Being 21 is another reason to consider the longer view, provided a club can actually give him a useful development place.",
+          "concern": "Level seven and the lower band make immediate starting assumptions unwise. A younger age does not award a future breakthrough.",
+          "projection": "An option for a club building a receiving succession plan while retaining its current starter. Mossdeep has productive veterans and can afford to compare future jobs carefully."
+        },
+        {
+          "pid": "p1925",
+          "name": "Spinda",
+          "species": "Spinda",
+          "speciesId": 327,
+          "icon": "assets/sprites/327.png",
+          "position": "WR",
+          "age": 21,
+          "level": 19,
+          "range": [
+            38,
+            66
+          ],
+          "combine": {
+            "forty": 4.9,
+            "bench": 13,
+            "vertical": 40,
+            "cone": 6.65
+          },
+          "university": {
+            "id": "orre-university-of-gateon",
+            "name": "University of Gateon",
+            "city": "Gateon Port",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 8,
+          "analysis": "Gateon’s Spinda is my favorite of the four Spinda profiles in this group. The 4.90 forty, forty-inch vertical and 6.65 cone form the strongest movement combination among them, with thirteen bench reps as well. The 38–66 band is a reason to keep evaluating, not a reason to pretend the athletic differences are invisible.",
+          "concern": "The band still reaches well below an assured starting standard. He must be compared as a whole player rather than selected because this is the best Spinda workout.",
+          "projection": "A development-minded receiver target when the price reflects uncertainty. I would put him in Mossdeep’s longer-term comparison rather than promise an immediate role."
+        },
+        {
+          "pid": "p1913",
+          "name": "Spinda",
+          "species": "Spinda",
+          "speciesId": 327,
+          "icon": "assets/sprites/327.png",
+          "position": "WR",
+          "age": 23,
+          "level": 16,
+          "range": [
+            41,
+            69
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 9,
+            "vertical": 37,
+            "cone": 6.71
+          },
+          "university": {
+            "id": "kanto-lavender-forest-university",
+            "name": "Lavender Forest University",
+            "city": "Lavender Town",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 9,
+          "analysis": "Lavender Forest’s Spinda brings a 41–69 band and a 6.71 cone, but the five-second forty is slower than Gateon’s. There is a defensible argument for taking the stronger present band first. I lean the other way because I want the broader athletic package, and I am leaving this entry beside Gateon’s so that argument remains easy to have.",
+          "concern": "At 23, there is less reason to pay a premium merely for youth. Nine bench reps and a 37-inch vertical do not separate him from the middle of the board.",
+          "projection": "A receiver-needy team should compare the current evaluation directly with Gateon’s. A later selection makes more sense to me than reaching because the top of the band looks comfortable."
+        },
+        {
+          "pid": "p1892",
+          "name": "Spinda",
+          "species": "Spinda",
+          "speciesId": 327,
+          "icon": "assets/sprites/327.png",
+          "position": "WR",
+          "age": 21,
+          "level": 8,
+          "range": [
+            37,
+            65
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 8,
+            "vertical": 38,
+            "cone": 6.8
+          },
+          "university": {
+            "id": "hoenn-dewford-university",
+            "name": "Dewford University",
+            "city": "Dewford Town",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 10,
+          "analysis": "I enjoy discussing Dewford University, and this Spinda gives me a respectable excuse. At 21, with a 37–65 band, a 38-inch vertical and a 6.80 cone, he belongs in the next group of developmental comparisons. I cannot honestly call the 4.95 forty exceptional. I can say the profile has more than one usable measurement.",
+          "concern": "Eight bench reps and an uncertain current grade require a patient role. The university name is not a football skill, even when I like saying it.",
+          "projection": "A later receiver option for a team with room to develop him. Fortree needs help, but it also needs to avoid confusing a pleasant school connection with readiness."
+        },
+        {
+          "pid": "p1935",
+          "name": "Ekans",
+          "species": "Ekans",
+          "speciesId": 23,
+          "icon": "assets/sprites/23.png",
+          "position": "WR",
+          "age": 23,
+          "level": 6,
+          "range": [
+            38,
+            66
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 11,
+            "vertical": 35,
+            "cone": 6.73
+          },
+          "university": {
+            "id": "paldea-mesagoza-state-university",
+            "name": "Mesagoza State University",
+            "city": "Mesagoza",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 11,
+          "analysis": "Mesagoza State’s Ekans has a 38–66 band, a 4.95 forty and a 6.73 cone. Those numbers keep him close to the Spinda cluster. Eleven bench reps give him a useful strength result within that group. I would bring him into the comparison whenever the preferred receivers are gone and a club still has a specific job to fill.",
+          "concern": "He is 23 and level six. Neither the band nor the 35-inch vertical supports a promise of immediate high-end receiving production.",
+          "projection": "A later developmental option with a defined job, not a generic collection piece. Cerulean should compare him with the alternatives before assuming any receiver automatically fixes the offense."
+        },
+        {
+          "pid": "p1893",
+          "name": "Spinda",
+          "species": "Spinda",
+          "speciesId": 327,
+          "icon": "assets/sprites/327.png",
+          "position": "WR",
+          "age": 21,
+          "level": 17,
+          "range": [
+            34,
+            62
+          ],
+          "combine": {
+            "forty": 4.98,
+            "bench": 10,
+            "vertical": 37,
+            "cone": 6.77
+          },
+          "university": {
+            "id": "kanto-fuji-university",
+            "name": "Fuji University",
+            "city": "Lavender Town",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 12,
+          "analysis": "Fuji University’s Spinda closes the twelve with a 34–62 band, 4.98 forty and 6.77 cone. The cone time is close enough to the surrounding group to keep the discussion open. Ten bench reps and a 37-inch vertical complete a profile that needs a favorable price and a clear developmental purpose rather than a dramatic sales pitch.",
+          "concern": "The lower end of the grade range is a substantial warning. I would not turn the similarities in testing into a claim that the receivers are interchangeable.",
+          "projection": "A late comparison candidate for a club that can preserve a useful roster place. I would prioritize more complete receivers before making room for another uncertain project."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/bfba9986b6238c6a.png",
+        "alt": "Football, agility cones, stopwatch and clipboard at a dawn workout."
+      }
+    }
+  ]
+}

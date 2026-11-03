@@ -1,0 +1,616 @@
+{
+  "season": 1,
+  "week": 6,
+  "nextWeek": 7,
+  "games": [
+    {
+      "gid": "1-07-viridian",
+      "away": "snowpoint",
+      "home": "viridian",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 24,
+          "home": 15,
+          "reason": "I’m taking the visitors. Score two touchdowns before the fourth quarter and lose no fumbles."
+        },
+        {
+          "author": "mara-voss",
+          "away": 24,
+          "home": 15,
+          "reason": "I want the away team to win these downs: Score two touchdowns before the fourth quarter and lose no fumbles."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 16,
+          "home": 19,
+          "reason": "I’m giving the hosts the close call. Reach 150 passing yards and hold Snowpoint below three touchdowns."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 12,
+          "home": 26,
+          "reason": "The home side wins. Write it down. Reach 150 passing yards and hold Snowpoint below three touchdowns."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 23,
+          "home": 17,
+          "reason": "My away pick rests on this: Score two touchdowns before the fourth quarter and lose no fumbles."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-pewter",
+      "away": "oreburgh",
+      "home": "pewter",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 17,
+          "home": 10,
+          "reason": "I’m taking the visitors. Convert at least four third downs and score a touchdown."
+        },
+        {
+          "author": "mara-voss",
+          "away": 7,
+          "home": 16,
+          "reason": "The home team can control this matchup: Hold Oreburgh below 200 yards and finish two scoring drives."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 12,
+          "home": 11,
+          "reason": "I trust the visitors to do the useful work. Convert at least four third downs and score a touchdown."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 20,
+          "home": 10,
+          "reason": "Put the visitors on the winning line. Convert at least four third downs and score a touchdown."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 10,
+          "home": 16,
+          "reason": "My home pick rests on this: Hold Oreburgh below 200 yards and finish two scoring drives."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-cinnabar",
+      "away": "eterna",
+      "home": "cinnabar",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 24,
+          "home": 20,
+          "reason": "I’m taking the visitors. Allow no more than one sack and complete two touchdown passes."
+        },
+        {
+          "author": "mara-voss",
+          "away": 21,
+          "home": 27,
+          "reason": "The home team can control this matchup: Run for at least ninety yards and avoid a negative turnover margin."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 18,
+          "home": 21,
+          "reason": "I’m giving the hosts the close call. Run for at least ninety yards and avoid a negative turnover margin."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 21,
+          "home": 27,
+          "reason": "The home side wins. Write it down. Run for at least ninety yards and avoid a negative turnover margin."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 24,
+          "reason": "My home pick rests on this: Run for at least ninety yards and avoid a negative turnover margin."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-celadon",
+      "away": "canalave",
+      "home": "celadon",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 14,
+          "home": 21,
+          "reason": "The home side has my vote. Keep Canalave under twenty and throw no more than one interception."
+        },
+        {
+          "author": "mara-voss",
+          "away": 19,
+          "home": 18,
+          "reason": "I want the away team to win these downs: Rush for one hundred yards and lose no fumbles."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 19,
+          "home": 13,
+          "reason": "I trust the visitors to do the useful work. Rush for one hundred yards and lose no fumbles."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 16,
+          "home": 23,
+          "reason": "The home side wins. Write it down. Keep Canalave under twenty and throw no more than one interception."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 16,
+          "reason": "My away pick rests on this: Rush for one hundred yards and lose no fumbles."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-fuchsia",
+      "away": "veilstone",
+      "home": "fuchsia",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 10,
+          "home": 21,
+          "reason": "The home side has my vote. Take no more than two sacks and score a touchdown before halftime."
+        },
+        {
+          "author": "mara-voss",
+          "away": 22,
+          "home": 15,
+          "reason": "I want the away team to win these downs: Convert four third downs and allow no return touchdowns."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 10,
+          "home": 18,
+          "reason": "I’m giving the hosts the close call. Take no more than two sacks and score a touchdown before halftime."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 13,
+          "home": 17,
+          "reason": "The home side wins. Write it down. Take no more than two sacks and score a touchdown before halftime."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 13,
+          "home": 20,
+          "reason": "My home pick rests on this: Take no more than two sacks and score a touchdown before halftime."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-vermilion",
+      "away": "hearthome",
+      "home": "vermilion",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 19,
+          "home": 15,
+          "reason": "I’m taking the visitors. Convert at least half the third downs and allow fewer than two sacks."
+        },
+        {
+          "author": "mara-voss",
+          "away": 13,
+          "home": 23,
+          "reason": "The home team can control this matchup: Give up no passing touchdowns of thirty yards or more and reach 250 passing yards."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 15,
+          "home": 25,
+          "reason": "I’m giving the hosts the close call. Give up no passing touchdowns of thirty yards or more and reach 250 passing yards."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 25,
+          "home": 11,
+          "reason": "Put the visitors on the winning line. Convert at least half the third downs and allow fewer than two sacks."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 14,
+          "home": 23,
+          "reason": "My home pick rests on this: Give up no passing touchdowns of thirty yards or more and reach 250 passing yards."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-cerulean",
+      "away": "sunyshore",
+      "home": "cerulean",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 24,
+          "home": 13,
+          "reason": "I’m taking the visitors. Take the ball away twice and convert at least four third downs."
+        },
+        {
+          "author": "mara-voss",
+          "away": 26,
+          "home": 11,
+          "reason": "I want the away team to win these downs: Take the ball away twice and convert at least four third downs."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 27,
+          "home": 14,
+          "reason": "I trust the visitors to do the useful work. Take the ball away twice and convert at least four third downs."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 30,
+          "home": 13,
+          "reason": "Put the visitors on the winning line. Take the ball away twice and convert at least four third downs."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 27,
+          "home": 13,
+          "reason": "My away pick rests on this: Take the ball away twice and convert at least four third downs."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-cianwood",
+      "away": "mauville",
+      "home": "cianwood",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 14,
+          "home": 19,
+          "reason": "The home side has my vote. Score before halftime and hold Mauville below 250 total yards."
+        },
+        {
+          "author": "mara-voss",
+          "away": 16,
+          "home": 19,
+          "reason": "The home team can control this matchup: Score before halftime and hold Mauville below 250 total yards."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 15,
+          "home": 24,
+          "reason": "I’m giving the hosts the close call. Score before halftime and hold Mauville below 250 total yards."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 24,
+          "home": 17,
+          "reason": "Put the visitors on the winning line. Finish two touchdown drives and lose no fumbles."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 21,
+          "reason": "My home pick rests on this: Score before halftime and hold Mauville below 250 total yards."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-olivine",
+      "away": "dewford",
+      "home": "olivine",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 30,
+          "home": 23,
+          "reason": "I’m taking the visitors. Allow no return touchdown and convert at least four third downs."
+        },
+        {
+          "author": "mara-voss",
+          "away": 26,
+          "home": 18,
+          "reason": "I want the away team to win these downs: Allow no return touchdown and convert at least four third downs."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 23,
+          "home": 22,
+          "reason": "I trust the visitors to do the useful work. Allow no return touchdown and convert at least four third downs."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 21,
+          "home": 17,
+          "reason": "Put the visitors on the winning line. Allow no return touchdown and convert at least four third downs."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 23,
+          "home": 20,
+          "reason": "My away pick rests on this: Allow no return touchdown and convert at least four third downs."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-goldenrod",
+      "away": "petalburg",
+      "home": "goldenrod",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 27,
+          "home": 21,
+          "reason": "I’m taking the visitors. Hold Mt. Silver below 100 rushing yards and force two turnovers."
+        },
+        {
+          "author": "mara-voss",
+          "away": 26,
+          "home": 19,
+          "reason": "I want the away team to win these downs: Hold Mt. Silver below 100 rushing yards and force two turnovers."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 24,
+          "home": 20,
+          "reason": "I trust the visitors to do the useful work. Hold Mt. Silver below 100 rushing yards and force two turnovers."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 19,
+          "home": 29,
+          "reason": "The home side wins. Write it down. Lose no fumbles and keep Petalburg below twenty-one points."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 23,
+          "reason": "My home pick rests on this: Lose no fumbles and keep Petalburg below twenty-one points."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-azalea",
+      "away": "rustboro",
+      "home": "azalea",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 24,
+          "home": 23,
+          "reason": "I’m taking the visitors. Rush for at least 150 yards and lose no fumbles."
+        },
+        {
+          "author": "mara-voss",
+          "away": 19,
+          "home": 26,
+          "reason": "The home team can control this matchup: Allow no return touchdown and complete two touchdown passes."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 23,
+          "home": 29,
+          "reason": "I’m giving the hosts the close call. Allow no return touchdown and complete two touchdown passes."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 30,
+          "home": 19,
+          "reason": "Put the visitors on the winning line. Rush for at least 150 yards and lose no fumbles."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 27,
+          "home": 20,
+          "reason": "My away pick rests on this: Rush for at least 150 yards and lose no fumbles."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-mahogany",
+      "away": "fortree",
+      "home": "mahogany",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 11,
+          "home": 22,
+          "reason": "The home side has my vote. Score at least three touchdowns and keep Fortree below 250 yards."
+        },
+        {
+          "author": "mara-voss",
+          "away": 13,
+          "home": 23,
+          "reason": "The home team can control this matchup: Score at least three touchdowns and keep Fortree below 250 yards."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 16,
+          "home": 24,
+          "reason": "I’m giving the hosts the close call. Score at least three touchdowns and keep Fortree below 250 yards."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 23,
+          "home": 13,
+          "reason": "Put the visitors on the winning line. Allow no more than two sacks and score before halftime."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 13,
+          "home": 24,
+          "reason": "My home pick rests on this: Score at least three touchdowns and keep Fortree below 250 yards."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-blackthorn",
+      "away": "lavaridge",
+      "home": "blackthorn",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 10,
+          "home": 25,
+          "reason": "The home side has my vote. Allow no offensive play of forty yards and lose no fumbles."
+        },
+        {
+          "author": "mara-voss",
+          "away": 7,
+          "home": 27,
+          "reason": "The home team can control this matchup: Allow no offensive play of forty yards and lose no fumbles."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 10,
+          "home": 19,
+          "reason": "I’m giving the hosts the close call. Allow no offensive play of forty yards and lose no fumbles."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 10,
+          "home": 23,
+          "reason": "The home side wins. Write it down. Allow no offensive play of forty yards and lose no fumbles."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 10,
+          "home": 24,
+          "reason": "My home pick rests on this: Allow no offensive play of forty yards and lose no fumbles."
+        }
+      ]
+    },
+    {
+      "gid": "1-07-ecruteak",
+      "away": "mossdeep",
+      "home": "ecruteak",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 29,
+          "home": 20,
+          "reason": "I’m taking the visitors. Allow no more than one sack and finish three touchdown drives."
+        },
+        {
+          "author": "mara-voss",
+          "away": 30,
+          "home": 17,
+          "reason": "I want the away team to win these downs: Allow no more than one sack and finish three touchdown drives."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 32,
+          "home": 16,
+          "reason": "I trust the visitors to do the useful work. Allow no more than one sack and finish three touchdown drives."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 25,
+          "home": 17,
+          "reason": "Put the visitors on the winning line. Allow no more than one sack and finish three touchdown drives."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 30,
+          "home": 17,
+          "reason": "My away pick rests on this: Allow no more than one sack and finish three touchdown drives."
+        }
+      ]
+    }
+  ],
+  "records": [
+    {
+      "author": "rowan-vale",
+      "name": "Rowan Vale",
+      "correct": 8,
+      "incorrect": 7,
+      "ties": 0,
+      "games": 15,
+      "closestBonuses": 5,
+      "totalAbsoluteScoreError": 233,
+      "perfectScores": 0
+    },
+    {
+      "author": "mara-voss",
+      "name": "Mara Voss",
+      "correct": 8,
+      "incorrect": 7,
+      "ties": 0,
+      "games": 15,
+      "closestBonuses": 4,
+      "totalAbsoluteScoreError": 237,
+      "perfectScores": 1
+    },
+    {
+      "author": "ellis-quill",
+      "name": "Ellis Quill",
+      "correct": 7,
+      "incorrect": 8,
+      "ties": 0,
+      "games": 15,
+      "closestBonuses": 5,
+      "totalAbsoluteScoreError": 215,
+      "perfectScores": 1
+    },
+    {
+      "author": "dorian-pike",
+      "name": "Dorian Pike",
+      "correct": 12,
+      "incorrect": 3,
+      "ties": 0,
+      "games": 15,
+      "closestBonuses": 5,
+      "totalAbsoluteScoreError": 231,
+      "perfectScores": 0
+    },
+    {
+      "author": "tessa-wren",
+      "name": "Tessa Wren",
+      "correct": 10,
+      "incorrect": 5,
+      "ties": 0,
+      "games": 15,
+      "closestBonuses": 2,
+      "totalAbsoluteScoreError": 210,
+      "perfectScores": 0
+    }
+  ],
+  "recordMethod": "Straight-up winner, actual ties separately. Closest score uses abs(predicted away - actual away) + abs(predicted home - actual home). Every panelist tied for lowest error gets one shared closest bonus; bonuses are independent of correct winner and do not alter the W-L record.",
+  "gradedWeek": 6,
+  "selections": [
+    {
+      "author": "rowan-vale",
+      "lock": "1-07-blackthorn",
+      "upset": "1-07-pewter",
+      "upsetWatch": false
+    },
+    {
+      "author": "mara-voss",
+      "lock": "1-07-blackthorn",
+      "upset": "1-07-fuchsia",
+      "upsetWatch": false
+    },
+    {
+      "author": "ellis-quill",
+      "lock": "1-07-ecruteak",
+      "upset": "1-07-viridian",
+      "upsetWatch": false
+    },
+    {
+      "author": "dorian-pike",
+      "lock": "1-07-cerulean",
+      "upset": "1-07-viridian",
+      "upsetWatch": false
+    },
+    {
+      "author": "tessa-wren",
+      "lock": "1-07-cerulean",
+      "upset": "1-07-celadon",
+      "upsetWatch": true
+    }
+  ]
+}

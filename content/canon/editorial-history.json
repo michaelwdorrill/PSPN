@@ -276,6 +276,144 @@
           "team": "fuchsia"
         }
       ]
+    },
+    {
+      "key": "s1-w6",
+      "season": 1,
+      "week": 6,
+      "focus": "WR",
+      "afterBowl": false,
+      "powerTheme": "What changed?",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep"
+        },
+        {
+          "rank": 2,
+          "team": "saffron"
+        },
+        {
+          "rank": 3,
+          "team": "sunyshore"
+        },
+        {
+          "rank": 4,
+          "team": "goldenrod"
+        },
+        {
+          "rank": 5,
+          "team": "cinnabar"
+        },
+        {
+          "rank": 6,
+          "team": "petalburg"
+        },
+        {
+          "rank": 7,
+          "team": "vermilion"
+        },
+        {
+          "rank": 8,
+          "team": "rustboro"
+        },
+        {
+          "rank": 9,
+          "team": "dewford"
+        },
+        {
+          "rank": 10,
+          "team": "ecruteak"
+        },
+        {
+          "rank": 11,
+          "team": "blackthorn"
+        },
+        {
+          "rank": 12,
+          "team": "eterna"
+        },
+        {
+          "rank": 13,
+          "team": "mahogany"
+        },
+        {
+          "rank": 14,
+          "team": "canalave"
+        },
+        {
+          "rank": 15,
+          "team": "snowpoint"
+        },
+        {
+          "rank": 16,
+          "team": "viridian"
+        },
+        {
+          "rank": 17,
+          "team": "sootopolis"
+        },
+        {
+          "rank": 18,
+          "team": "violet"
+        },
+        {
+          "rank": 19,
+          "team": "cianwood"
+        },
+        {
+          "rank": 20,
+          "team": "azalea"
+        },
+        {
+          "rank": 21,
+          "team": "hearthome"
+        },
+        {
+          "rank": 22,
+          "team": "pewter"
+        },
+        {
+          "rank": 23,
+          "team": "cerulean"
+        },
+        {
+          "rank": 24,
+          "team": "olivine"
+        },
+        {
+          "rank": 25,
+          "team": "celadon"
+        },
+        {
+          "rank": 26,
+          "team": "veilstone"
+        },
+        {
+          "rank": 27,
+          "team": "pastoria"
+        },
+        {
+          "rank": 28,
+          "team": "mauville"
+        },
+        {
+          "rank": 29,
+          "team": "oreburgh"
+        },
+        {
+          "rank": 30,
+          "team": "fuchsia"
+        },
+        {
+          "rank": 31,
+          "team": "fortree"
+        },
+        {
+          "rank": 32,
+          "team": "lavaridge"
+        }
+      ]
     }
   ]
 }
