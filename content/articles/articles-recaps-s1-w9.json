@@ -1,0 +1,508 @@
+{
+  "season": 1,
+  "week": 9,
+  "articles": [
+    {
+      "id": "recap-1-09-cerulean",
+      "type": "recap",
+      "game": "1-09-cerulean",
+      "title": "Five for Ninjaskamara. Fifty-six for the Eclipse.",
+      "dek": "Mossdeep returned from its bye with 556 yards, eight touchdowns and no punts. Cerulean supplied six points of resistance; Saffron supplies the next question.",
+      "author": "mara-voss",
+      "teams": [
+        "mossdeep",
+        "cerulean"
+      ],
+      "frontPageOrder": 1,
+      "body": [
+        {
+          "type": "p",
+          "text": "Ninjaskamara scored four times on the ground, once through the air, and still wasn't the first Ninjask to reach the end zone. That distinction belonged to Ninjulio Jones, who turned Dram Marino's short-left throw into a 44-yard touchdown before Cerulean had run an offensive play. The Eclipse had spent a week away. They returned looking impatient."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep won 56–6, improved to 8–0 and outgained the Tide 556–178. Marino completed seventeen of twenty passes for 286 yards and three touchdowns without an interception or a sack. Ninjaskamara carried twenty-three times for 165 yards and added a forty-yard touchdown reception. Marshall Flock supplied another 82 rushing yards and a touchdown. Eight touchdowns, no punts, five successful third downs in six attempts: this was sustained control with several different people doing the damage."
+        },
+        {
+          "type": "p",
+          "text": "I understand the temptation to turn immediately toward Saffron. A 7–1 visitor is coming, its defense has allowed fifty points all season, and the meeting deserves its own conversation. First, give Cerulean's afternoon the attention it demands. This was a 4–3 team coming off a win over Sunyshore and a bye. It left with four losses, a five-week absence for safety Vikavolt, and a very uncomfortable answer to the question of what happens when field goals have to keep pace with touchdowns."
+        },
+        {
+          "type": "quote",
+          "playerId": "p503",
+          "speaker": "Ninjaskamara",
+          "text": "You keep checking the next gap. If I start counting touchdowns while we're playing, I'm looking at the wrong thing. The guys in front made the reads clear today."
+        },
+        {
+          "type": "h2",
+          "text": "The first exchange explained the mismatch"
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep's opening possession covered 77 yards in four plays. Jones' touchdown came with 4:57 left in the first quarter. The throw was short; the result emphatically wasn't. That matters when assessing this offense. Marino does not need every productive pass to be a heroic downfield attempt. The receivers can turn a modest delivery into a large problem, and the running game makes defenders account for something else before that delivery arrives."
+        },
+        {
+          "type": "p",
+          "text": "Cerulean's first possession lasted three plays. Shawn Mareman sacked Farigiraf for seven yards on second-and-ten. On third-and-seventeen, Farigiraf went deep right and Electric Berry intercepted, returning the ball three yards. Mossdeep needed only three more snaps to cover the resulting 29 yards. Ninjaskamara ran right for a three-yard touchdown, and the Eclipse led 14–0 with 3:42 left in the opening quarter. A sack, an interception and a short scoring drive had made the first touchdown feel much less isolated."
+        },
+        {
+          "type": "p",
+          "text": "Misty's team did answer with a fourteen-play, 62-yard possession. That deserves more precision than saying Cerulean never moved the ball. It did. It also needed nearly three minutes to produce Grotle's 36-yard field goal. Against an opponent scoring quickly and finishing efficiently, the difference between three points and seven becomes an expanding problem. The Tide had completed useful work and still trailed by eleven."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep's next possession crossed the quarter break and ended with Ninjaskamara's forty-yard reception on a deep-left throw. Marino had taken the running back out of the usual arithmetic: the same player who had just finished a short rushing opportunity now supplied a long receiving score. Cerulean then traveled 44 yards for another Grotle field goal, this one from 41. At 21–6, the Tide had two scoring drives and almost no leverage on the game."
+        },
+        {
+          "type": "quote",
+          "coachTeam": "cerulean",
+          "speaker": "Misty",
+          "text": "We had possessions where we did enough to stay on the field. We didn't finish them the way this game required. When you're giving up touchdowns, asking the kicker to answer every time isn't enough."
+        },
+        {
+          "type": "h2",
+          "text": "One mistake, no invitation"
+        },
+        {
+          "type": "p",
+          "text": "The Eclipse were not spotless. At 2:48 of the second quarter, Accel BeckhmJr caught a short-right pass on third-and-eleven, gained thirty yards, fumbled and watched Cerulean's Bibarel recover. That turnover belongs in the account. A fifty-point margin does not retroactively turn a lost ball into a successful play, and a better opponent could make the same mistake considerably more expensive."
+        },
+        {
+          "type": "p",
+          "text": "Cerulean did not. Mareman's second sack, a six-yard loss with two minutes left in the half, helped stop the response. The Tide punted. Mossdeep then went eighty yards in eight plays, finishing with Marino's five-yard short-left touchdown to BeckhmJr with eighteen seconds remaining. The receiver's six catches on six targets produced 91 yards and a touchdown, but the sequence around his fumble is the important part: the defense protected the error, and the offense promptly restored the scoring rhythm."
+        },
+        {
+          "type": "p",
+          "text": "Mareman finished with two sacks and eight pressures in the recorded box score. Electric Berry added six tackles, two tackles for loss and an interception. Those are different kinds of disruption. One made the quarterback hurry backward; the other ended a possession and later punished throws to the running back. Farigiraf finished fifteen-of-thirty-six for 126 yards, no touchdowns and two interceptions. Cerulean's longest stretches of competence never became a sustainable counterattack."
+        },
+        {
+          "type": "quote",
+          "playerId": "p73",
+          "speaker": "Accel BeckhmJr",
+          "text": "Six catches sounds nice until somebody points at the ball on the ground. I noticed that part too. Getting the next touchdown helped; it didn't erase the correction."
+        },
+        {
+          "type": "h2",
+          "text": "The run game kept collecting the rest"
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep led 28–6 at halftime and gave Cerulean no second-half scoring drive. After the Tide punted to open the third quarter, the Eclipse traveled 72 yards in eight plays. Ninjaskamara finished from three yards out. Another Cerulean punt set up an eight-play, 57-yard possession that crossed into the fourth quarter and ended with his four-yard run up the middle. The result had become lopsided, but the method remained recognizable: gain ground, sustain the possession, finish close to the goal line."
+        },
+        {
+          "type": "p",
+          "text": "Champ Baeley intercepted Farigiraf's next deep-left attempt and returned it seventeen yards. Ninjaskamara scored again four plays later, this time on a seven-yard run up the middle. His four rushing touchdowns came from three, three, four and seven yards. The absence of a fifty-yard rushing highlight makes the total more instructive, not less. Mossdeep repeatedly reached finishing positions and repeatedly trusted the same runner to complete the work."
+        },
+        {
+          "type": "p",
+          "text": "Flock supplied the long rushing finish, a 34-yard run up the middle at the two-minute mark. He averaged more than ten yards per carry and caught two passes for another 48 yards. Jones added 25 rushing yards to his 56 receiving yards. Gronkaludon caught three passes for 32. The offense was not merely feeding one spectacular individual until the defense solved him. It was making several productive options available and letting Cerulean discover how many it could fail to contain."
+        },
+        {
+          "type": "p",
+          "text": "The line's contribution was visible in the blocking tables. Tyran Armstead recorded seven pancakes, Shuck Bednarik six and Bastony Boseli five. Marino took no sacks. These measures do not tell us that every block was perfect or that Saffron will offer the same resistance. They do support the less glamorous explanation for the afternoon: the skilled players repeatedly received time and space in which to be skilled. That is the foundation Michael Dorrill will want to carry forward."
+        },
+        {
+          "type": "quote",
+          "coachTeam": "mossdeep",
+          "speaker": "Michael Dorrill",
+          "text": "We kept making the next job manageable. That's what I liked. The score gets big when enough ordinary responsibilities are done well, but those responsibilities don't get easier next week because of this score."
+        },
+        {
+          "type": "h2",
+          "text": "Eight wins, and a harder appointment"
+        },
+        {
+          "type": "p",
+          "text": "Cerulean falls to 4–4 and visits Fortree next. The Tide still occupy a current playoff position, which says something about the unfinished race and nothing reassuring about this performance. Vikavolt's five-week absence adds a personnel problem to a defensive review that already contains 270 rushing yards allowed. Seismitoad ran for 46 yards on eight carries; finding more productive offense than two field goals is now essential."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep has scored 363 points and allowed 59 through eight games. Champ Baeley's injury entry is minor, with no remaining absence listed. Joey Sporeter's evolution into Breloom and Budew Baker's into Roselia are confirmed developments after the game, not reasons to rewrite what either player did during it. The Eclipse can enjoy all of that while recognizing the next opponent's record. Saffron will arrive with a defense and an argument. Mossdeep just supplied eight touchdowns' worth of material for both."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w9-mossdeep.png",
+        "alt": "Ninjaskamara, Ninjask No. 27, accelerates across the turf in Mossdeep magenta and gold."
+      }
+    },
+    {
+      "id": "recap-1-09-saffron",
+      "type": "recap",
+      "game": "1-09-saffron",
+      "title": "Exploud takes three, and Saffron takes the next step",
+      "dek": "Five rushing touchdowns, 463 yards and another defensive squeeze sent the Psi Corps past Sootopolis 35–7. The road now leads to unbeaten Mossdeep.",
+      "author": "rowan-vale",
+      "teams": [
+        "sootopolis",
+        "saffron"
+      ],
+      "frontPageOrder": 2,
+      "body": [
+        {
+          "type": "p",
+          "text": "Archam Manning threw for 271 yards and no touchdowns. Saffron scored thirty-five points anyway. If that seems like an accounting problem, ask Exploud, who carried six times and scored three touchdowns. The passing game moved the furniture; the back collected the keys. This was a thoroughly agreeable division of labor for everyone except Sootopolis."
+        },
+        {
+          "type": "p",
+          "text": "The Psi Corps won 35–7, improved to 7–1 and built a 35-point lead before the Surge scored. Dam Skattebo ran twenty times for 131 yards and a touchdown. HeeDee Lamb added a 22-yard rushing score. Manning completed seventeen of twenty-four passes, Gengar Pickens caught four for 105 yards, and Saffron finished with 463 total yards to Sootopolis' 186. A week after requiring a dramatic second-half recovery against Pastoria, Trent Scarboro's team arranged the afternoon in a much more convenient order."
+        },
+        {
+          "type": "p",
+          "text": "The convenience ends at the schedule. Saffron goes to Mossdeep next, carrying a defense that has allowed fifty points in eight games into a stadium occupied by an offense that has scored 363. The Psi Corps will still be without Verrick Brooks and their own Ninetales; both are listed with three weeks remaining. Sootopolis was the first completed test of those absences. It was passed. It was also a different test from the one awaiting them."
+        },
+        {
+          "type": "quote",
+          "playerId": "p1076",
+          "speaker": "Exploud",
+          "text": "Six carries was plenty to keep me occupied. When the job is a few yards, you don't improve it by making it complicated. Take the space they've made and get through it."
+        },
+        {
+          "type": "h2",
+          "text": "Three possessions, three touchdowns"
+        },
+        {
+          "type": "p",
+          "text": "Sootopolis opened with a punt after gaining five yards. Saffron answered with a seven-play, sixty-yard touchdown drive, Exploud running up the middle from three yards out with 3:09 left in the first quarter. The Surge's next possession gained six yards and ended the same way. The Psi Corps then traveled 82 yards in ten plays, Skattebo finishing with a five-yard run left early in the second quarter. Two possessions had produced fourteen points and very little mystery about which team was establishing the terms."
+        },
+        {
+          "type": "p",
+          "text": "The contrast was sharper than a simple yardage advantage. Saffron could ask its passing game to advance the ball and its runners to finish it. Sootopolis struggled to earn the next series at all. After the second touchdown, Medicham sacked Drampa for seven yards. That Surge possession lost three yards in total and ended in another punt. The Psi Corps responded with a seven-play, 55-yard drive and Exploud's second touchdown, a five-yard run up the middle at 2:44 of the second quarter."
+        },
+        {
+          "type": "p",
+          "text": "Saffron's first three drives had covered 197 yards and all reached the end zone. Sootopolis' first three had produced eight net drive yards and three punts. There is no need to manufacture a dramatic turning point when the game gives you that opening sequence. One team could sustain a plan across multiple possessions; the other was repeatedly handing the plan back for revision."
+        },
+        {
+          "type": "p",
+          "text": "Skattebo's contribution was larger than his single touchdown. He also caught three passes for 41 yards, giving him 172 yards from scrimmage. His longest rush was fifteen, so the 131 rushing yards were not a trick performed by one enormous play. Saffron kept getting useful work from him. Exploud's short touchdowns were the visible endpoints of an offense that had already spent several snaps making the goal line accessible."
+        },
+        {
+          "type": "quote",
+          "playerId": "p577",
+          "speaker": "Dam Skattebo",
+          "text": "I liked that we kept sharing the work. If the drive ends with somebody else scoring, it still ends where we wanted. The important part is having another good down ready before that."
+        },
+        {
+          "type": "h2",
+          "text": "The replacement question has a first answer"
+        },
+        {
+          "type": "p",
+          "text": "Brooks' thirteen sacks remain the league's leading total. Replacing that production is not a matter of finding a different name to print beside the same number. Against Sootopolis, however, the burden did not fall into a void. Medicham recorded a sack, six pressures and two tackles for loss. Dipplin supplied another sack. Swampert made four tackles, one for loss, and intercepted a pass with a 37-yard return. Different players provided the disruptions that kept the afternoon from becoming an offensive exchange."
+        },
+        {
+          "type": "p",
+          "text": "The Surge finished with six first downs. They rushed eleven times for twenty-two yards, with Rillaboom gaining fifteen on eight carries. Drampa completed seventeen of twenty-six for 164 yards, a touchdown and an interception, but completion percentage alone would badly misdescribe the game. Several completions did little to create the next first down. Saffron allowed only one scoring drive and forced five punts. Wallace's offense was often permitted a catch without being permitted a solution."
+        },
+        {
+          "type": "p",
+          "text": "The score does not prove Saffron has replaced everything it lost. Mossdeep's runners and receivers will ask harder questions, and a defensive line can look more comfortable when the opponent has almost no rushing production. Still, the actual answer against the actual opponent was useful. The Psi Corps did not need a shootout to cover for their missing outside linebackers. They controlled Sootopolis at the point where possessions either continue or end."
+        },
+        {
+          "type": "quote",
+          "coachTeam": "saffron",
+          "speaker": "Trent Scarboro",
+          "text": "Nobody was asked to become Verrick for a day. We needed everybody to do the job in front of him. There were good examples of that today, and there are still details we have to get right before we travel."
+        },
+        {
+          "type": "h2",
+          "text": "The errors belong in the luggage too"
+        },
+        {
+          "type": "p",
+          "text": "The first half did include a warning for Saffron. With forty-two seconds left, Manning completed a short-middle throw to Gorebyss, who fumbled after eight yards. Sootopolis' Runerigus recovered. The Psi Corps had traveled 65 yards on the possession without scoring. A comfortable lead and an opponent unable to capitalize made it harmless in the final result. Neither circumstance should be assumed next week."
+        },
+        {
+          "type": "p",
+          "text": "Saffron began the second half with another touchdown, traveling 75 yards in five plays. Lamb finished with a 22-yard run right at 5:11 of the third quarter. The receiver also caught four passes for 66 yards. This was the second consecutive week in which the Psi Corps made the beginning of the second half especially unpleasant for the visitor, although this time the lead was already secure and the touchdown came from scrimmage rather than a kickoff return."
+        },
+        {
+          "type": "p",
+          "text": "The next exchange supplied two interceptions and no points. Sootopolis advanced 68 yards before Swampert intercepted Drampa's short-left throw at 2:59. Manning then threw deep left and was intercepted by Sootopolis' Ninetales at 2:10, with a 32-yard return. That is the Surge's number 24, a different player from Saffron's injured Ninetales. Sharing a species does not entitle anyone to share an injury report or an interception."
+        },
+        {
+          "type": "p",
+          "text": "Dipplin's sack helped stop the ensuing Sootopolis possession. Saffron then went 75 yards in seven plays, Exploud finishing from nine yards out with five minutes remaining. The Psi Corps led 35–0. Exploud's three scoring runs had covered three, five and nine yards; the offense had reached a point where finishing through the middle looked ordinary. Ordinary is a splendid quality when repeated successfully."
+        },
+        {
+          "type": "quote",
+          "playerId": "p323",
+          "speaker": "Archam Manning",
+          "text": "We moved it well. I still put one in the wrong place, and we lost another possession with the ball on the ground. Those are part of the game we have to take with us, not just the yards."
+        },
+        {
+          "type": "h2",
+          "text": "A late score, then a much larger comparison"
+        },
+        {
+          "type": "p",
+          "text": "Sootopolis finally answered with a ten-play, 75-yard drive. Drampa found Magby short left for a four-yard touchdown on third-and-one with 3:33 left. Magby caught all three of his targets, totaling eleven yards. The drive prevented a shutout and provided a small example of finishing a possession, but it came after the outcome had become overwhelmingly clear. The Surge fell to 3–5 and will host 6–2 Vermilion next."
+        },
+        {
+          "type": "p",
+          "text": "Heatmor remains out five weeks for Sootopolis. Wallace cannot make that absence disappear, but the remaining offense needs to offer more than one useful late possession. Saffron's first three scores had already forced the Surge into an uphill afternoon, and the running game offered little help in changing its shape. Six first downs across an entire game leave almost no margin for the defense to recover."
+        },
+        {
+          "type": "p",
+          "text": "For Saffron, the first half of the schedule ends with 220 points scored, fifty conceded and a particularly interesting road trip. Pickens now has another hundred-yard game to bring to the conversation, Lamb can hurt an opponent as a runner or receiver, and Skattebo has demonstrated that the rushing offense can supply more than a supporting role. Exploud has supplied a very direct argument for allowing him to finish it. Mossdeep will have seen the same evidence. Now comes the enjoyable part: finding out whose strengths remain strengths when they meet."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w9-saffron.png",
+        "alt": "Archam Manning, Alakazam No. 6, walks through a pink and sky-blue Saffron tunnel toward daylight."
+      }
+    },
+    {
+      "id": "recap-1-09-celadon",
+      "type": "recap",
+      "game": "1-09-celadon",
+      "title": "Rustboro keeps the ball, and keeps climbing",
+      "dek": "My Way, Son and Philly combined for 217 rushing yards as the Stone broke a 10–10 halftime tie with three straight touchdown drives in a 31–10 win.",
+      "author": "tessa-wren",
+      "teams": [
+        "rustboro",
+        "celadon"
+      ],
+      "frontPageOrder": 3,
+      "body": [
+        {
+          "type": "p",
+          "text": "Rustboro's most important stretch in Celadon began with a tie and ended with the football no longer available to the home team often enough to change the result. The Stone scored touchdowns on their first three possessions after halftime, traveled 209 yards across those drives and won 31–10. They reached 5–4 by making the second half steadily smaller for the Bloom."
+        },
+        {
+          "type": "p",
+          "text": "My Way, Son ran fifteen times for 136 yards and a touchdown. Philly added fourteen carries for 81 yards and two scores. Together they accounted for 217 of Rustboro's 219 rushing yards. Porygon-Z completed thirteen of twenty-one for 127 yards and a touchdown without an interception. Those numbers describe an offense whose passing game contributed without having to carry the whole argument. The decisive work came from maintaining possession and finishing the yards nearest the goal line."
+        },
+        {
+          "type": "p",
+          "text": "The result follows Rustboro's 14–0 road win over Viridian. Two weeks ago the Stone were 3–4; now they have two consecutive wins and the current sixth playoff seed in the Hoenn–Sinnoh conference. Neither victory settled the larger race. They did establish something more immediate: the problems of unfinished possessions have recently been replaced by a much more useful habit of keeping the opponent waiting."
+        },
+        {
+          "type": "quote",
+          "playerId": "p36",
+          "speaker": "My Way, Son",
+          "text": "If the space is there, take it. If it isn't, make the next down easier. We didn't need to rush the game once we were moving it the way we wanted."
+        },
+        {
+          "type": "h2",
+          "text": "An early gift did not decide the half"
+        },
+        {
+          "type": "p",
+          "text": "Celadon's first offensive play ended in an interception. Gholdengo went deep right, Rustboro's number 13 Frosmoth took the ball, and the Stone began their first possession with a short field. Four plays and 46 yards later, Porygon-Z found Gengar short left for a four-yard touchdown. The opening had given Rustboro an immediate advantage without requiring a long drive."
+        },
+        {
+          "type": "p",
+          "text": "The Bloom then lost the ball again. Anorith gained six yards up the middle on second-and-one but fumbled, with Rustboro's Mienfoo recovering at 2:28 of the first quarter. Two early turnovers might suggest a game that immediately escaped Celadon. It did not. Rustboro punted after the second takeaway, then turned the ball over on downs on its next possession. The defense had provided opportunities; the offense had not yet turned them into a decisive lead."
+        },
+        {
+          "type": "p",
+          "text": "Celadon responded with an eleven-play, 63-yard drive. Gholdengo found Ponyta deep left for a six-yard touchdown on third-and-four with 2:11 remaining in the second quarter. The Bloom had survived their own mistakes long enough to make the scoreboard level. That is an important part of this result: Rustboro did not coast from the opening interception to the final whistle. It had to solve a competitive game after the opponent recovered."
+        },
+        {
+          "type": "p",
+          "text": "Both kickers then contributed. Gorebyss converted from 53 yards after Pincurchin sacked Porygon-Z on third-and-three. Clamperl answered from forty with four seconds left in the half. Rustboro's field-goal possession had taken eleven plays to gain 42 yards; Celadon's response covered 49 in seven. The teams went to halftime at 10–10, with the Stone's early turnover advantage producing no remaining separation."
+        },
+        {
+          "type": "quote",
+          "coachTeam": "rustboro",
+          "speaker": "Tyler Scarboro",
+          "text": "We had chances in the first half that we didn't finish. The answer was to keep doing the work, not to act like the early turnovers meant the rest of the game was owed to us."
+        },
+        {
+          "type": "h2",
+          "text": "Three drives that changed the afternoon"
+        },
+        {
+          "type": "p",
+          "text": "Rustboro opened the third quarter with an eight-play, 78-yard touchdown drive. Philly finished on a one-yard run up the middle at 3:51. The Stone had finally produced the kind of complete possession that their first-half opportunities had promised. More importantly, the defense followed it by forcing a punt after Celadon gained twenty-one yards. The offense returned with a lead and room to build on it."
+        },
+        {
+          "type": "p",
+          "text": "The next drive was the central possession of the game: fifteen plays, 74 yards, and 3:39 of game time. It began with 2:31 left in the third quarter and ended early in the fourth. Philly scored on fourth-and-two, running up the middle for the necessary two yards at 4:54. The choice and execution mattered. A field goal would have made it a ten-point game; the touchdown made it fourteen and rewarded a long possession with its full value."
+        },
+        {
+          "type": "p",
+          "text": "There is a tendency to describe a fifteen-play touchdown drive as though every snap went smoothly. The fourth down tells us otherwise. Rustboro still had to complete a difficult final task after spending much of the possession earning the opportunity. Philly's second touchdown was therefore more than another entry in a running back's total. It was the play that prevented a sustained march from becoming a partial success and a fresh opening for Celadon."
+        },
+        {
+          "type": "quote",
+          "playerId": "p1400",
+          "speaker": "Philly",
+          "text": "Two yards is still two yards when everybody knows you need them. They can know. We still have to get them, and we did."
+        },
+        {
+          "type": "p",
+          "text": "Celadon's next drive gained 43 yards but ended with a missed field goal. Rustboro answered with six plays for 57 yards. At the two-minute mark, My Way, Son ran left for six on third-and-five. On the next snap he went up the middle for seven and a touchdown. That sequence supplied both the continuation and the finish, taking the score to 31–10 and leaving the Bloom with less than two minutes to account for three possessions' worth of damage."
+        },
+        {
+          "type": "p",
+          "text": "The three scoring drives used different proportions of distance and time. Their shared quality was completion. Rustboro did not return the ball through a punt, a turnover or an empty fourth down until the competitive portion of the half was gone. The Stone converted four of nine third downs across the game, which is useful without being extraordinary. The complete drive record explains more than that single percentage: they found the necessary continuation on the most consequential possessions."
+        },
+        {
+          "type": "h2",
+          "text": "The defense closed both ends"
+        },
+        {
+          "type": "p",
+          "text": "Frosmoth intercepted the first pass of the game and the last Celadon pass that reached a defender. With 1:28 remaining, Pincurchin's fourth-and-one throw short left was intercepted and returned nine yards. Rustboro then used three kneels to end the afternoon. Frosmoth finished with seven tackles and two interceptions, a substantial contribution from a player whose name needs to be kept separate from Celadon's injured safety of the same species and jersey number."
+        },
+        {
+          "type": "p",
+          "text": "Celadon used two passers. Gholdengo completed ten of seventeen for 74 yards, a touchdown and an interception; Pincurchin completed four of eleven for 51 yards and an interception. Gholdengo now has a one-week absence listed. The report does not specify when he was injured. The confirmed facts are the two passing lines, the current absence and an offense that scored nothing after halftime."
+        },
+        {
+          "type": "p",
+          "text": "The Bloom did run for 120 yards on nineteen carries. Seaking gained 52 and Gholdengo 51. Rustboro's defense therefore did not erase every available avenue. It limited what those yards became: fifteen first downs, ten points, three turnovers and only two successful third downs in seven attempts. The Stone finished with 346 total yards to Celadon's 245, but the more decisive difference was the combination of ball security and finished scoring drives."
+        },
+        {
+          "type": "p",
+          "text": "Gengar caught three passes for 58 yards and the opening touchdown. SEARED BITE caught five for 31, giving Porygon-Z a shorter option alongside the larger gains. Rustboro punted once all afternoon. Those contributions made the rushing production more useful by keeping the offense varied enough to continue possessions without asking the quarterback to produce a high-volume passing game."
+        },
+        {
+          "type": "h2",
+          "text": "The next test arrives at home"
+        },
+        {
+          "type": "p",
+          "text": "Celadon falls to 2–7 and travels to Mauville. Gholdengo's one-week absence and a ten-week absence for safety Frosmoth complicate the attempt to recover. Erika's team was tied at halftime despite two early turnovers, so there is competitive football in the record. The second-half failure was equally real. A team cannot keep allowing long touchdown drives while its own promising possessions end without points and expect the first-half score to protect it."
+        },
+        {
+          "type": "p",
+          "text": "Rustboro now hosts 7–2 Cinnabar. The Blaze just beat Petalburg 24–13 and will bring a stronger recent record than either of the Stone's last two opponents. Parasect remains out two weeks for Rustboro. Tyler Scarboro's team has not earned a guarantee that its running game will control the next opponent. It has earned a clearer description of what it wants the next game to look like: productive carries, manageable passing work, and drives that finish before the opponent gets another chance to answer."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w9-rustboro.png",
+        "alt": "Philly, Gabite No. 63, and My Way, Son, Iron Treads No. 93, share Rustboro's brown and silver sideline."
+      }
+    },
+    {
+      "id": "recap-1-09-ecruteak",
+      "type": "recap",
+      "game": "1-09-ecruteak",
+      "title": "FLOAT SZN takes the half that mattered",
+      "dek": "Two third-quarter rushing touchdowns broke a 7–7 tie, Sceptile supplied the short field, and Sunyshore left Lavender with a 27–14 win and a 7–2 record.",
+      "author": "ellis-quill",
+      "teams": [
+        "sunyshore",
+        "ecruteak"
+      ],
+      "frontPageOrder": 4,
+      "body": [
+        {
+          "type": "p",
+          "text": "Lavender reached halftime level with Sunyshore and with a perfectly reasonable belief that the second half might be different from its recent disappointments. Blathers had intercepted a pass near the goal line. The Wails had scored first. The game was 7–7. Then Sunyshore handed the ball to FLOAT SZN often enough to give the second half a rather definite shape."
+        },
+        {
+          "type": "p",
+          "text": "The Starseekers won 27–14, scored twenty consecutive points after halftime and improved to 7–2. FLOAT SZN ran seventeen times for 98 yards and two touchdowns, both in the third quarter. DeZhaun Watzon completed sixteen of twenty-three for 169 yards, two touchdowns and an interception. Fera LaGatr caught six passes for 82 yards and the touchdown that completed the decisive run. Sunyshore heads into its bye with a win that became convincing through repeated work rather than one spectacular escape."
+        },
+        {
+          "type": "p",
+          "text": "Lavender falls to 4–4 after its third consecutive loss. That sequence has included a heavy defeat to Mossdeep, a lost lead at Blackthorn and now a level halftime score that became a twenty-point deficit. Those are different games and deserve different explanations. They also leave Travis Scarboro with the same practical problem: his team needs a way to make its useful early football survive into the closing stages."
+        },
+        {
+          "type": "quote",
+          "playerId": "p1314",
+          "speaker": "FLOAT SZN",
+          "text": "The line kept giving me something I could use. I tried to be patient with it. We didn't need every run to be the one everybody remembered; we needed enough of them to keep the drive going."
+        },
+        {
+          "type": "h2",
+          "text": "Lavender had a legitimate beginning"
+        },
+        {
+          "type": "p",
+          "text": "The Wails punted on their opening possession, then forced a Sunyshore punt after the visitor gained one yard. Lavender's second possession traveled 61 yards in eight plays and ended with Mr. Clanky's nine-yard short-left touchdown pass to Frosmoth on third-and-nine. The Wails led 7–0 with 1:51 remaining in the first quarter. It was an earned lead, built by moving the ball and completing the most important third down of the drive."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore answered across the quarter break. Watzon found Scol Alexander deep left for an eight-yard touchdown at 5:21 of the second quarter, completing a nine-play, 68-yard possession. Alexander finished with three catches for 25 yards. A week after carrying much more of the rushing load against Mahogany, he supplied a receiving finish here. The identity of the productive player remained familiar; the assignment through which he helped had changed."
+        },
+        {
+          "type": "p",
+          "text": "What followed was less fluent. Lavender punted, Sunyshore punted, and Lavender turned the ball over on downs after gaining seven yards. The Starseekers then advanced 56 yards in five plays before Watzon threw short right on first-and-two and Blathers intercepted, returning the ball 38 yards. There were fifty-five seconds left in the half. Lavender had stopped a likely scoring opportunity and preserved its chance to reach the break level."
+        },
+        {
+          "type": "p",
+          "text": "Blathers finished with five tackles as well as that interception. The return did not produce Lavender points, but its defensive value was clear. Sunyshore had reached a position where a touchdown could have changed the halftime conversation; the Wails removed the ball instead. Both teams punted again before Mr. Clanky's kneel ended the half. The score remained 7–7, and the second half was still available to either side."
+        },
+        {
+          "type": "quote",
+          "playerId": "p1264",
+          "speaker": "Blathers",
+          "text": "I was glad to get us out of that spot. You hope it becomes something the offense can use too, but first you have to make the play that's there. That one kept the game level."
+        },
+        {
+          "type": "h2",
+          "text": "Sunyshore stopped asking for a shortcut"
+        },
+        {
+          "type": "p",
+          "text": "The opening possession of the third quarter covered 75 yards in eight plays. FLOAT SZN finished it with a six-yard run left at 3:51. The extra point was unsuccessful, leaving Sunyshore ahead 13–7. That detail matters because Lavender remained within one touchdown even after conceding the drive. The game had shifted, but it had not yet moved beyond the Wails' reach."
+        },
+        {
+          "type": "p",
+          "text": "Lavender's response lasted four plays and gained three yards before a punt. Sunyshore then went 55 yards in eight plays, FLOAT SZN again running left to score, this time from five yards at 0:54 of the third quarter. The successful extra point made it 20–7. Two consecutive touchdown drives had asked Lavender's defense to defend sixteen offensive snaps while its own offense supplied only a short intervening visit to the field."
+        },
+        {
+          "type": "p",
+          "text": "The running back's longest carry was eleven yards. His 98-yard total therefore came from accumulation, which was precisely what Sunyshore needed. BAXXED? added 33 yards on six carries, Eelektrik seventeen on two and Watzon twelve on five. The Starseekers finished with 160 rushing yards on thirty attempts. Against that, Lavender managed three rushing yards on eight attempts. That disparity made the Wails increasingly dependent on the passing game to keep their possessions alive."
+        },
+        {
+          "type": "p",
+          "text": "The dependence became expensive immediately after Sunyshore's second third-quarter touchdown. Mr. Clanky threw deep left on first-and-ten, and Sceptile intercepted with forty-nine seconds left in the quarter. The 25-yard return set up a 22-yard scoring possession. Three plays later, at the start of the fourth, Watzon found Fera LaGatr deep right for a twelve-yard touchdown. Sunyshore led 27–7. The Wails had been level at halftime; now they needed three scores."
+        },
+        {
+          "type": "quote",
+          "coachTeam": "sunyshore",
+          "speaker": "Karson Jones",
+          "text": "The first half gave us enough reminders about wasting chances. In the second half we stayed with the work that was helping us. The defense kept giving us another possession, and we did more with them."
+        },
+        {
+          "type": "h2",
+          "text": "The passing totals need their context"
+        },
+        {
+          "type": "p",
+          "text": "Mr. Clanky finished nineteen-of-thirty-one for 186 yards, two touchdowns and an interception. Watzon threw for fewer yards. Reading those totals without the rest of the game would miss why Sunyshore controlled it. Lavender had six first downs to the Starseekers' seventeen. Its rushing game offered almost no support, and its quarterback took three sacks for 21 yards. Sunyshore had more ways to keep moving and more freedom to choose between them."
+        },
+        {
+          "type": "p",
+          "text": "Don Philliams recorded two sacks and four pressures. Zack Bear supplied another sack and three pressures. Sceptile's interception joined four tackles and a pass defended. Vigoroth recorded three passes defended. These were not decorative contributions around the rushing story. They were the reason Sunyshore's consecutive scoring drives were separated by such brief Lavender possessions. A defense that keeps shortening the opponent's turn gives its own offense time to turn a preference into a pattern."
+        },
+        {
+          "type": "p",
+          "text": "Lavender did have productive receivers. People Eater caught all four targets for 81 yards, including a 42-yard gain, while Samurott caught four for 52. The Wails' problem was not an absolute absence of useful plays. It was the distance between those plays and a reliable sequence of first downs. Frosmoth's four catches yielded eighteen yards; Beedrill's three yielded seventeen. Individual completions repeatedly left more work than the offense could finish."
+        },
+        {
+          "type": "quote",
+          "playerId": "p533",
+          "speaker": "Mr. Clanky",
+          "text": "We had plays that worked. We didn't put enough of them together after halftime. The interception made that harder, and that's mine to fix. You can't ask the defense to keep giving you the same chance."
+        },
+        {
+          "type": "h2",
+          "text": "A response, but no recovery"
+        },
+        {
+          "type": "p",
+          "text": "Lavender answered the 27–7 deficit with a ten-play, 77-yard touchdown drive. On fourth-and-eight, Mr. Clanky found Luvdisc deep right for eight yards and a score with 4:30 remaining. That finish showed the offense could still make a difficult play. It also showed how narrow the remaining route had become: the Wails needed fourth down merely to reduce the deficit to thirteen, then needed the ball back quickly enough to do considerably more."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore did not score on its next possession, but it used eleven plays and 2:36 before punting. That was useful work in the circumstances. Lavender received the ball with 1:49 left, gained three yards on four plays and turned it over on downs. Watzon then knelt three times. A drive does not need points to help close a game; in this case the Starseekers' extended possession left the Wails with too little time and too much unfinished business."
+        },
+        {
+          "type": "p",
+          "text": "Myles Gabite remains out four weeks for Sunyshore. The bye gives Karson Jones a pause in competition, not a promise about any individual return date. At 7–2 and with 225 points scored against 116 allowed, the Starseekers have built a substantial first-half position. Lavender visits Pastoria next, still occupying the current seventh Kanto–Johto playoff place despite a minus-75 point differential. There is room to recover. The next task is smaller than a sweeping reinvention and harder than it sounds: make the good part of the afternoon last."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w9-sunyshore-lavender.png",
+        "alt": "FLOAT SZN, Floatzel No. 10, cuts across a diagonally framed field in Sunyshore pink and black."
+      }
+    }
+  ]
+}

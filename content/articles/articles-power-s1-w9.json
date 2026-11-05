@@ -1,0 +1,287 @@
+{
+  "season": 1,
+  "week": 9,
+  "articles": [
+    {
+      "id": "power-s1-w9",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "The first-half receipts, and the bill still coming",
+      "dek": "Mossdeep keeps No. 1, Eterna climbs, and Olivine rebounds. Rowan Vale gives all 32 teams a first-half verdict and one question for the run home.",
+      "teams": [],
+      "theme": "First-half receipts / second-half questions",
+      "body": [
+        {
+          "type": "p",
+          "text": "Nine weeks down, nine to go. Byes mean some clubs have played eight games and others nine; my opinions have managed to change more often than either. These are power rankings, not the official standings. Every previous rank below is the one I actually published last week, which is an unnecessarily thorough way to preserve my mistakes."
+        },
+        {
+          "type": "p",
+          "text": "The top six remain in order. Below them, Eterna keeps climbing, Rustboro makes its case on the ground, and the middle of the table continues to treat stability as an optional service. The theme is simple: what the first half earned, and what the second half still demands."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "movement": 0,
+          "themeLabel": "First half: the standard. Next: the examination.",
+          "text": "I left the Eclipse first during their bye and wondered whether rust would find somewhere safer to live. Cerulean supplied the answer: 56–6, five Ninjaskamara touchdowns and no punts. Eight wins, 363 points and a plus-304 differential have earned this position. The second-half question arrives immediately with Saffron: can the offense keep offering every answer when the opposing defense is much better?"
+        },
+        {
+          "rank": 2,
+          "team": "goldenrod",
+          "previous": 2,
+          "movement": 0,
+          "themeLabel": "First half: many departments. Next: fewer repairs.",
+          "text": "Mt. Silver stays second after its bye at 8–0. I praised the defense and returns for repairing offensive mistakes in the 34–9 Snowpoint win; those two interceptions remain in the file. The Reds have allowed 68 points. Now they visit Canalave, where another productive defense will ask whether Crem can make the supporting departments' work a little less urgent."
+        },
+        {
+          "rank": 3,
+          "team": "saffron",
+          "previous": 3,
+          "movement": 0,
+          "themeLabel": "First half: fifty allowed. Next: 363 arriving.",
+          "text": "My favorite defense allowed seven more points and my favorite argument became harder to dismiss. Saffron is 7–1 after a 35–7 win, with fifty points conceded all season. Last week's four-week Brooks/Ninetales absences are now three. The second-half question is whether the remaining rush can make Marino uncomfortable. The schedule has kindly arranged an immediate practical examination in Mossdeep."
+        },
+        {
+          "rank": 4,
+          "team": "blackthorn",
+          "previous": 4,
+          "movement": 0,
+          "themeLabel": "First half: accurate. Next: portable.",
+          "text": "The Dragons remain fourth after beating Veilstone 24–7 to reach 7–1. Last week Hatterene completed 27 of 29; this week the team added another convincing result rather than requesting a parade for the previous one. A plus-70 differential supports the record. The second-half question is whether that control travels through awkward road games, beginning with a Hearthome club just resourceful enough to be irritating."
+        },
+        {
+          "rank": 5,
+          "team": "cinnabar",
+          "previous": 5,
+          "movement": 0,
+          "themeLabel": "First half: the case strengthens. Next: stop the runners.",
+          "text": "I asked last week whether Blaine's defensive control would survive a better opponent. Petalburg lost 24–13, which is an appropriately direct answer. Cinnabar is 7–2 with a plus-80 differential and remains fifth. Rustboro is next, carrying two productive backs and fresh confidence. The second-half question is whether the Blaze can keep forcing opponents to win a less comfortable kind of game."
+        },
+        {
+          "rank": 6,
+          "team": "sunyshore",
+          "previous": 6,
+          "movement": 0,
+          "themeLabel": "First half: recovery. Next: consistency.",
+          "text": "I remain legally permitted to dislike the Starseekers while recognizing a 7–2 record. FLOAT SZN ran for 98 yards and two touchdowns in Lavender, and Sunyshore won the second half 20–7. The bye arrives with Myles Gabite still out four weeks. The second-half question is whether this useful rushing balance survives the next close game without another expensive interception near the goal line."
+        },
+        {
+          "rank": 7,
+          "team": "eterna",
+          "previous": 8,
+          "movement": 1,
+          "themeLabel": "First half: defense waiting. Next: offense arriving?",
+          "text": "Up one after a 20–6 win. Eterna has allowed 64 points in eight games, while its offense has produced nineteen and twenty in consecutive wins. Last week I asked it to buy the defense dinner. Two meals have now been served. The second-half question is whether the kitchen stays open against stronger opposition. Azalea visits first with a newly acquired shutout to explain."
+        },
+        {
+          "rank": 8,
+          "team": "rustboro",
+          "previous": 10,
+          "movement": 2,
+          "themeLabel": "First half: unfinished drives. Next: finished business.",
+          "text": "Up two after 31–10 at Celadon. Rustboro's first three second-half possessions all ended in touchdowns, and My Way, Son plus Philly supplied 217 rushing yards. I praised the short-yardage answers last week; Philly added a fourth-and-two touchdown to the collection. The 5–4 Stone now host Cinnabar. Their second-half question is whether this possession control works when the opponent offers fewer gifts."
+        },
+        {
+          "rank": 9,
+          "team": "petalburg",
+          "previous": 7,
+          "movement": -2,
+          "themeLabel": "First half: respectable. Next: enough finishing.",
+          "text": "Down two after the 24–13 loss at Cinnabar. The Pride are still 5–3 and lead their division, but 47 rushing yards and three successful third downs in ten attempts left too much work for the passing game. Last week's seventh place survives in the archive, where it can reflect on its choices. The second-half question is whether Norman gets more complete possessions, starting against Viridian."
+        },
+        {
+          "rank": 10,
+          "team": "canalave",
+          "previous": 11,
+          "movement": 1,
+          "themeLabel": "First half: narrow margins. Next: the unbeaten visitor.",
+          "text": "Up one after shutting out Azalea 13–0. The Bulwark are 6–3, have scored 116 and allowed 103, and have replaced last week's perfectly level scoring totals with a modest surplus. Mt. Silver arrives next. The second-half question is how often a good defense can keep winning with this little offensive cushion. Thirteen points may need a more ambitious companion against the Reds."
+        },
+        {
+          "rank": 11,
+          "team": "dewford",
+          "previous": 12,
+          "movement": 1,
+          "themeLabel": "First half: forgiveness. Next: fewer applications.",
+          "text": "Up one after a 23–17 overtime win. I asked the Breakers to stop requiring forgiveness; they responded by needing a tying field goal with eight seconds left. Ambipom's 175 scrimmage yards and the late passing response deserve their credit. At 5–4, Dewford enters its bye with a real second-half question: can it keep the productive offense while retiring the two-turnover detour?"
+        },
+        {
+          "rank": 12,
+          "team": "vermilion",
+          "previous": 13,
+          "movement": 1,
+          "themeLabel": "First half: six wins. Next: a sturdier margin.",
+          "text": "Up one for a 24–17 response to the Fortree loss. Vermilion is 6–2 with a plus-eight differential, which remains an unusually thin piece of furniture for so many wins to sit on. Chandelure threw three touchdowns, and the final drive consumed 4:08. The second-half question is whether that control becomes routine. A trip to Sootopolis is a good place to begin making it so."
+        },
+        {
+          "rank": 13,
+          "team": "olivine",
+          "previous": 21,
+          "movement": 8,
+          "themeLabel": "First half: uneven. Next: repeat the useful week.",
+          "text": "Up eight after 29–10 over Oreburgh. That is an abrupt correction to the 19–0 loss that sent Olivine down nine places last week. The Ironclads are 4–4 with a minus-sixteen differential, so the full first half still declines to choose a personality. The second-half question is whether Jasmine can carry this productive version to Snowpoint without checking the offense at the station."
+        },
+        {
+          "rank": 14,
+          "team": "violet",
+          "previous": 18,
+          "movement": 4,
+          "themeLabel": "First half: persistent. Next: more than twelve.",
+          "text": "Up four after beating Pastoria 12–7 to reach 4–4. The Falcons have won consecutive close games while keeping scoring expectations modest enough to fit in a coat pocket. Last week I wanted the enormous passing volume to yield more points. I still do. The second-half question is whether Violet can make its offense less dependent on a defense preserving a very small lead, beginning at Veilstone."
+        },
+        {
+          "rank": 15,
+          "team": "viridian",
+          "previous": 15,
+          "movement": 0,
+          "themeLabel": "First half: chances. Next: complete the ending.",
+          "text": "Unchanged at fifteenth after a 23–17 overtime loss. Viridian took the lead with fifty-one seconds left, then allowed Dewford to reach a tying field goal. The Titans are 4–5 and minus-thirteen, with Sigilyph's league-leading sixth interception unable to secure this one. The second-half question is whether the offense can create enough margin that the final defensive series is no longer required to be perfect."
+        },
+        {
+          "rank": 16,
+          "team": "cerulean",
+          "previous": 9,
+          "movement": -7,
+          "themeLabel": "First half: a credible win. Next: a credible response.",
+          "text": "Down seven, because losing 56–6 after a bye makes it difficult to preserve ninth place out of politeness. Cerulean did beat Sunyshore before the break; both results belong to the same 4–4 team. Vikavolt is now out five weeks. The second-half question is whether Misty can repair the defense while finding touchdowns, starting against a Fortree side that has suddenly remembered how to score."
+        },
+        {
+          "rank": 17,
+          "team": "ecruteak",
+          "previous": 16,
+          "movement": -1,
+          "themeLabel": "First half: promising starts. Next: a second half.",
+          "text": "Down one after a 27–14 loss to Sunyshore. Lavender was level at halftime and then conceded twenty straight points. The 4–4 Wails remain in a playoff position despite a minus-75 differential. Last week I asked about protecting the lead after halftime; apparently the question also applies to ties. The second-half task is to make useful early offense persist. Pastoria offers the next attempt."
+        },
+        {
+          "rank": 18,
+          "team": "fortree",
+          "previous": 22,
+          "movement": 4,
+          "themeLabel": "First half: six losses. Next: keep changing the question.",
+          "text": "Up four for a second consecutive win, 24–20 at Fuchsia. Winona's team remains 2–6, which is still inconvenient, but the plus side of the recent evidence is no longer limited to one upset. Ariados is out two weeks, and several existing absences remain. The second-half question is whether the new scoring can survive those disruptions. Cerulean arrives with a defense in need of encouragement; be unhelpful."
+        },
+        {
+          "rank": 19,
+          "team": "mahogany",
+          "previous": 17,
+          "movement": -2,
+          "themeLabel": "First half: almost. Next: a complete result.",
+          "text": "Down two after the 22–22 tie with Hearthome. The Frost are 3–5–1 and still plus-fourteen, a record designed to make every quick explanation look unfinished. Kricketune is now out eleven weeks and Lopunny one. Last week's question concerned the rushing game. The broader second-half question is whether Pryce can turn competitive afternoons into wins before the useful point differential becomes merely an interesting footnote."
+        },
+        {
+          "rank": 20,
+          "team": "hearthome",
+          "previous": 20,
+          "movement": 0,
+          "themeLabel": "First half: survival. Next: find the points again.",
+          "text": "Unchanged after tying Mahogany 22–22. A win and a tie in consecutive weeks are progress for a 3–5–1 team, though a minus-38 differential keeps the celebration proportionate. Sunflora is out four weeks at kicker, joining Luxray's six-week absence. The second-half question is whether Fantina can keep finding enough offense amid those losses. Blackthorn visits next, a notably unsympathetic scheduling decision."
+        },
+        {
+          "rank": 21,
+          "team": "pewter",
+          "previous": 26,
+          "movement": 5,
+          "themeLabel": "First half: scarce points. Next: keep the few you find.",
+          "text": "Up five after beating Mauville 13–3. Wyrdeer ran for one touchdown and threw another, which qualifies as an offensive festival by a team with 77 points through nine games. Froslass is now out six weeks, worsening an already difficult cornerback situation. At 4–5, the Rockers enter their bye with the second-half question unchanged: can the offense regularly give the defense more than a narrow escape route?"
+        },
+        {
+          "rank": 22,
+          "team": "azalea",
+          "previous": 14,
+          "movement": -8,
+          "themeLabel": "First half: a middle-ground team. Next: recover the offense.",
+          "text": "Down eight after a 13–0 home loss to Canalave. A week ago Azalea beat Cianwood 17–0 and climbed to four wins. It has now demonstrated both sides of a shutout with admirable scheduling efficiency. The Swarm are 4–5, and Meowscarada is out one week. Their second-half question is how to move the ball against serious resistance. Eterna is next, which hardly feels like a remedial assignment."
+        },
+        {
+          "rank": 23,
+          "team": "veilstone",
+          "previous": 19,
+          "movement": -4,
+          "themeLabel": "First half: defensive rescue. Next: offensive help.",
+          "text": "Down four after losing 24–7 at Blackthorn. Last week's win survived eight punts because the defense intercepted three passes. The Dragons supplied fewer convenient mistakes, and Veilstone fell to 4–5 with a minus-39 differential. The second-half question is whether Maylene can build an offense that needs less assistance. Violet visits next; another low-scoring contest is useful only if the Fists produce the larger number."
+        },
+        {
+          "rank": 24,
+          "team": "snowpoint",
+          "previous": 24,
+          "movement": 0,
+          "themeLabel": "First half: competitive losses. Next: meaningful finishes.",
+          "text": "Unchanged during the bye at 2–6. The Blizzard have a minus-twelve differential, far narrower than several teams with better records, but the last outing brought three field goals against Mt. Silver's five touchdowns. That is not a trade worth repeating. The second-half question is whether Candice can turn respectable movement into enough end-zone finishes, beginning against an Olivine team that just rediscovered its own offense."
+        },
+        {
+          "rank": 25,
+          "team": "mauville",
+          "previous": 23,
+          "movement": -2,
+          "themeLabel": "First half: passing without payoff. Next: finish a drive.",
+          "text": "Down two after 13–3 at Pewter. The Dynamos gained 221 yards and converted one of nine third downs. Last week I worried about the next contested throw; this week the offense found a different way to score almost nothing. At 3–6 and minus-54, Mauville needs a second-half answer that ends in touchdowns. Celadon visits with a quarterback absence and its own collection of problems."
+        },
+        {
+          "rank": 26,
+          "team": "celadon",
+          "previous": 25,
+          "movement": -1,
+          "themeLabel": "First half: brief recoveries. Next: sustain one.",
+          "text": "Down one after Rustboro scored the final twenty-one points of a game tied at halftime. Celadon is 2–7, Gholdengo is out one week and safety Frosmoth ten. Last week's late-game rushing finish against Fuchsia was real; so was this failure to stop three consecutive touchdown drives. The second-half question is whether Erika can build continuity while replacing injured contributors. Mauville is an opportunity, not a guarantee."
+        },
+        {
+          "rank": 27,
+          "team": "sootopolis",
+          "previous": 30,
+          "movement": 3,
+          "themeLabel": "First half: limited answers. Next: six first downs are insufficient.",
+          "text": "Up three because the lower reaches are moving beneath the Surge, not because 35–7 at Saffron deserves a ribbon. Sootopolis is 3–5 and minus-72, with Heatmor still out five weeks. Six first downs and twenty-two rushing yards explain the latest loss more clearly than the late touchdown. The second-half question is whether Wallace can keep an offense on the field. Vermilion arrives with its own reasons to be cautious."
+        },
+        {
+          "rank": 28,
+          "team": "lavaridge",
+          "previous": 32,
+          "movement": 4,
+          "themeLabel": "First half: too many points allowed. Next: keep the ball once more.",
+          "text": "Up four after a competitive 24–17 loss, although the Inferno remain 2–6 with 227 points conceded. Two second-half touchdown drives gave Flannery something useful; Vermilion then kept the ball for the final 4:08. The second-half question is whether the defense can return possession when the offense finally has momentum. Fuchsia visits next. One team will have an excellent chance to stop discussing improvement without a win."
+        },
+        {
+          "rank": 29,
+          "team": "pastoria",
+          "previous": 28,
+          "movement": -1,
+          "themeLabel": "First half: occasional explosives. Next: another scoring drive.",
+          "text": "Down one after losing 12–7 at Violet. Pastoria has scored 84 points in eight games and still carries the memory of a halftime lead that became a heavy defeat at Saffron. Seviper is out one week, adding to Oinkologne's five-week absence. The second-half question is whether the Waves can connect their isolated useful plays into repeated scores. Lavender's recent defense offers a test with possibilities."
+        },
+        {
+          "rank": 30,
+          "team": "oreburgh",
+          "previous": 27,
+          "movement": -3,
+          "themeLabel": "First half: expensive mistakes. Next: stop the slide.",
+          "text": "Down three after 29–10 at Olivine. The Miners are 2–7 with a minus-67 differential. Last week three interceptions explained a close loss; this week's nineteen-point margin makes the repair list broader. The second-half question is whether Roark can produce a complete offensive afternoon without asking the defense to absorb every consequence. Cianwood arrives next, giving both clubs a rare chance to improve the conversation."
+        },
+        {
+          "rank": 31,
+          "team": "cianwood",
+          "previous": 29,
+          "movement": -2,
+          "themeLabel": "First half: an absent passing game. Next: a workable substitute.",
+          "text": "Down two after losing 20–6 to Eterna. Cianwood is 2–7 and has Gardevoir out eight weeks. Last week the passing game produced thirty-three yards; the latest result adds another low score to a season with 92 points. The second-half question is how Chuck creates enough offense with the available players. Oreburgh is next, and somebody should bring a plan more ambitious than waiting for a mistake."
+        },
+        {
+          "rank": 32,
+          "team": "fuchsia",
+          "previous": 31,
+          "movement": -1,
+          "themeLabel": "First half: yards without wins. Next: make them matter.",
+          "text": "Down one after a 24–20 loss to Fortree. Empoleon's 1,932 passing yards are second in the league, and Fuchsia has one win in nine games. That is a first-half disconnect worthy of a much longer meeting. Kleavor remains out nine weeks and Oinkologne one. The second-half question is whether Koga can turn production into finished games. Lavaridge offers a vulnerable defense and absolutely no obligation to cooperate."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w9-power.png",
+        "alt": "Thirty-two pennants climb a bold set of football-field terraces for the midseason power rankings."
+      }
+    }
+  ]
+}

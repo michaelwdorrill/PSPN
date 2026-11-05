@@ -1,0 +1,407 @@
+{
+  "season": 1,
+  "week": 9,
+  "articles": [
+    {
+      "id": "draft-dl-s1-w9",
+      "type": "draft",
+      "focus": "DL",
+      "author": "calvin-rook",
+      "teams": [],
+      "title": "The Rook Board: Granbull in the middle, Dracozolt on the edge",
+      "dek": "Twelve defensive linemen, three different Heatmor arguments, and one Anorith I am moving up on purpose. Calvin Rook turns to the front after last week’s offensive-line board.",
+      "body": [
+        {
+          "type": "p",
+          "text": "The season has supplied a persuasive advertisement for pressure. Verrick Brooks leads with thirteen sacks and Saffron must now replace him. Passimian and Arcanine have eight each. The next draft will not hand anybody those totals in advance, but it does offer a new set of players to investigate for the jobs that produce them."
+        },
+        {
+          "type": "p",
+          "text": "This is my defensive-line board, covering ends and tackles. The scouting ranges, ages, visible levels, universities and combine marks below are the available reports. The ordering and suggested destinations are my judgments, not draft projections guaranteed by the league. A wide range stays wide until better information arrives."
+        },
+        {
+          "type": "p",
+          "text": "Granbull and Dracozolt lead on the strongest visible ranges. Anorith is my deliberate interruption of a simple range sort. I have also kept all three Heatmor and all three Carnivine identities separate; combining their best numbers would be an excellent way to scout somebody who does not exist."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p2023",
+          "name": "Granbull",
+          "species": "Granbull",
+          "speciesId": 210,
+          "icon": "assets/sprites/210.png",
+          "position": "DT",
+          "age": 22,
+          "level": 23,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 5.01,
+            "bench": 15,
+            "vertical": 32,
+            "cone": 6.97
+          },
+          "university": {
+            "id": "orre-university-of-pyrite",
+            "name": "University of Pyrite",
+            "city": "Pyrite Town",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 1,
+          "analysis": "Granbull is my first defensive lineman because the visible 65–93 range puts him at the front of this discussion before I start admiring anybody's stopwatch. Pyrite has sent a twenty-two-year-old tackle with a 5.01 forty and a 6.97 cone. I want to see the interior job he can perform repeatedly, the kind of work that lets the more celebrated rushers finish.",
+          "concern": "Fifteen bench reps do not support treating him as an automatic strength mismatch. The wide range still leaves substantial uncertainty.",
+          "projection": "My early defensive-line headliner. Fortree should investigate an interior foundation before deciding the next pass rusher fixes everything."
+        },
+        {
+          "pid": "p1918",
+          "name": "Dracozolt",
+          "species": "Dracozolt",
+          "speciesId": 880,
+          "icon": "assets/sprites/880.png",
+          "position": "DE",
+          "age": 22,
+          "level": 7,
+          "range": [
+            64,
+            92
+          ],
+          "combine": {
+            "forty": 4.82,
+            "bench": 19,
+            "vertical": 33,
+            "cone": 6.85
+          },
+          "university": {
+            "id": "galar-turffield-state-university",
+            "name": "Turffield State University",
+            "city": "Turffield",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 2,
+          "analysis": "Dracozolt is the cleaner athletic invitation at the edge: 4.82 in the forty, nineteen bench reps and a 6.85 cone, beside a 64–92 range. Turffield State's prospect gives me several reasons to keep watching instead of one spectacular number to repeat. He is twenty-two and only level seven; the report describes a starting point, not a completed career.",
+          "concern": "Low visible level does not reveal how quickly development will happen. Do not turn the upper end of the range into his present rating.",
+          "projection": "An early edge candidate. Lavender needs more ways to shorten an opponent's possession, and this is a sensible scouting conversation."
+        },
+        {
+          "pid": "p2052",
+          "name": "Anorith",
+          "species": "Anorith",
+          "speciesId": 347,
+          "icon": "assets/sprites/347.png",
+          "position": "DT",
+          "age": 21,
+          "level": 20,
+          "range": [
+            47,
+            75
+          ],
+          "combine": {
+            "forty": 4.8,
+            "bench": 19,
+            "vertical": 35,
+            "cone": 6.59
+          },
+          "university": {
+            "id": "kanto-university-of-pewter",
+            "name": "University of Pewter",
+            "city": "Pewter City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 3,
+          "analysis": "Yes, I have moved Anorith above several wider-range favorites. Pewter's tackle ran 4.80 and posted a 6.59 cone with nineteen bench reps and a thirty-five-inch vertical. That is the most tempting movement combination near the top of my board. I want to know how it translates inside against traffic, rather than congratulate myself for finding a fast number.",
+          "concern": "The 47–75 range is materially lower than the first two prospects. A lively combine does not close that gap by itself.",
+          "projection": "My aggressive watch-list choice. Teams wanting an active interior defender should spend their next scouting attention here."
+        },
+        {
+          "pid": "p2026",
+          "name": "Heatmor",
+          "species": "Heatmor",
+          "speciesId": 631,
+          "icon": "assets/sprites/631.png",
+          "position": "DE",
+          "age": 23,
+          "level": 11,
+          "range": [
+            53,
+            81
+          ],
+          "combine": {
+            "forty": 4.98,
+            "bench": 19,
+            "vertical": 37,
+            "cone": 6.8
+          },
+          "university": {
+            "id": "sinnoh-solaceon-university",
+            "name": "Solaceon University",
+            "city": "Solaceon Town",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 4,
+          "analysis": "Solaceon's Heatmor has a thirty-seven-inch vertical, a 6.80 cone and nineteen bench reps. The 4.98 forty is less glamorous than some competitors', but the combination keeps him high on my edge list. His 53–81 range gives the athletic questions a credible foundation. Canalave's Passimian shows the value of converting front-seven activity into actual sacks; the comparison here is the job, not a promised total.",
+          "concern": "At twenty-three, he is older than several alternatives. The testing does not tell us how often he wins against a blocker.",
+          "projection": "A substantial edge scouting priority for a team that wants several useful indicators rather than a single-speed wager."
+        },
+        {
+          "pid": "p1879",
+          "name": "Heatmor",
+          "species": "Heatmor",
+          "speciesId": 631,
+          "icon": "assets/sprites/631.png",
+          "position": "DE",
+          "age": 23,
+          "level": 12,
+          "range": [
+            50,
+            78
+          ],
+          "combine": {
+            "forty": 4.86,
+            "bench": 14,
+            "vertical": 34,
+            "cone": 6.79
+          },
+          "university": {
+            "id": "galar-sonia-university",
+            "name": "Sonia University",
+            "city": "Motostoke",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 5,
+          "analysis": "Sonia University's Heatmor is a separate player and a different bet. The 4.86 forty and 6.79 cone make him the movement-first alternative to Solaceon's entrant. I like the idea enough to rank him fifth even with a slightly lower 50–78 range. Give me the chance to test whether those changes of direction survive contact with a real offensive line.",
+          "concern": "Fourteen bench reps create a different strength question from Solaceon's nineteen. The two Heatmor should not be merged into an imaginary prospect with the best of both.",
+          "projection": "An edge prospect for a patient evaluator. Mauville should ask what kind of pressure it is missing before choosing the more flattering test."
+        },
+        {
+          "pid": "p1871",
+          "name": "Carnivine",
+          "species": "Carnivine",
+          "speciesId": 455,
+          "icon": "assets/sprites/455.png",
+          "position": "DE",
+          "age": 23,
+          "level": 17,
+          "range": [
+            52,
+            80
+          ],
+          "combine": {
+            "forty": 5.03,
+            "bench": 16,
+            "vertical": 32,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "orre-university-of-agate",
+            "name": "University of Agate",
+            "city": "Agate Village",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 6,
+          "analysis": "Agate's Carnivine begins the crowded part of this board. A 52–80 range, level seventeen and a 6.96 cone put him in the serious conversation without demanding that I invent an exceptional trait. He is the sort of prospect whose next useful scouting detail could move him several places. That is not an insult; it is what a crowded middle looks like.",
+          "concern": "A 5.03 forty and sixteen bench reps leave no obvious testing advantage over nearby alternatives.",
+          "projection": "A middle-board edge option whose value depends on the next evidence. Celadon should compare the actual role before chasing a species preference."
+        },
+        {
+          "pid": "p1901",
+          "name": "Cranidos",
+          "species": "Cranidos",
+          "speciesId": 408,
+          "icon": "assets/sprites/408.png",
+          "position": "DE",
+          "age": 23,
+          "level": 17,
+          "range": [
+            52,
+            80
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 19,
+            "vertical": 34,
+            "cone": 6.94
+          },
+          "university": {
+            "id": "kanto-vermilion-metropolitan-university",
+            "name": "Vermilion Metropolitan University",
+            "city": "Vermilion City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 7,
+          "analysis": "Vermilion Metropolitan's Cranidos matches Agate's 52–80 range and level seventeen, with nineteen bench reps and a thirty-four-inch vertical. I am interested in the physical profile, but the 5.07 forty stops me from making the easy speed speech. He gives a different answer to the same edge question, and a team should know which answer it needs.",
+          "concern": "The combine does not establish pass-rush technique, and a familiar evolution line is not a scheduled future star.",
+          "projection": "A strength-leaning scouting alternative in this group. Keep him alongside the Carnivine candidates until the football details separate them."
+        },
+        {
+          "pid": "p1884",
+          "name": "Carnivine",
+          "species": "Carnivine",
+          "speciesId": 455,
+          "icon": "assets/sprites/455.png",
+          "position": "DE",
+          "age": 23,
+          "level": 12,
+          "range": [
+            51,
+            79
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 17,
+            "vertical": 33,
+            "cone": 7.02
+          },
+          "university": {
+            "id": "paldea-south-paldea-university",
+            "name": "South Paldea University",
+            "city": "Los Platos",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 8,
+          "analysis": "South Paldea's Carnivine has a 51–79 range, seventeen bench reps and a 5.00 forty. The difference from Agate is small enough that I refuse to build a dramatic story around one hundredth here or one rep there. These are separate players with separate careers ahead. The useful question is which one supplies the repeatable assignment a team actually needs.",
+          "concern": "The 7.02 cone is not a reason to declare him stiff, but it does not win this particular movement comparison.",
+          "projection": "A close middle-board alternative. More information can reasonably change the order of this Carnivine cluster."
+        },
+        {
+          "pid": "p2121",
+          "name": "Loudred",
+          "species": "Loudred",
+          "speciesId": 294,
+          "icon": "assets/sprites/294.png",
+          "position": "DT",
+          "age": 23,
+          "level": 21,
+          "range": [
+            51,
+            79
+          ],
+          "combine": {
+            "forty": 5.03,
+            "bench": 15,
+            "vertical": 33,
+            "cone": 7
+          },
+          "university": {
+            "id": "hoenn-university-of-mossdeep",
+            "name": "University of Mossdeep",
+            "city": "Mossdeep City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 9,
+          "analysis": "I know the University of Mossdeep colors make me sentimental. Loudred still earns his place with a 51–79 range at tackle, level twenty-one and a balanced, if unspectacular, combine. A 5.03 forty, fifteen bench reps and a 7.00 cone suggest more questions than headlines. Interior work does not need a headline every snap; it needs to keep the rest of the defense functional.",
+          "concern": "There is no outstanding testing mark to excuse a weak next report. Local affection is not an additional attribute.",
+          "projection": "A tackle to keep on the active scouting list. Fortree should compare him directly with Granbull and Anorith rather than treating all interior help as interchangeable."
+        },
+        {
+          "pid": "p1944",
+          "name": "Heatmor",
+          "species": "Heatmor",
+          "speciesId": 631,
+          "icon": "assets/sprites/631.png",
+          "position": "DE",
+          "age": 21,
+          "level": 9,
+          "range": [
+            47,
+            75
+          ],
+          "combine": {
+            "forty": 4.93,
+            "bench": 17,
+            "vertical": 32,
+            "cone": 6.9
+          },
+          "university": {
+            "id": "hoenn-university-of-rustboro",
+            "name": "University of Rustboro",
+            "city": "Rustboro City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 10,
+          "analysis": "Rustboro's Heatmor is twenty-one, with a 4.93 forty, seventeen bench reps and a 6.90 cone. The 47–75 range puts him below the leading Heatmor on present information, but I like the balance. He gives a team a younger option without asking it to pretend youth itself sacks a quarterback. My Hoenn notebook has a firm underline, not a guarantee.",
+          "concern": "Level nine and age twenty-one do not disclose his development rate. The current range still carries the evaluation.",
+          "projection": "A development-minded edge watch. I would keep him in the conversation after the first wave of better-known prospects is discussed."
+        },
+        {
+          "pid": "p1919",
+          "name": "Carnivine",
+          "species": "Carnivine",
+          "speciesId": 455,
+          "icon": "assets/sprites/455.png",
+          "position": "DE",
+          "age": 21,
+          "level": 21,
+          "range": [
+            48,
+            76
+          ],
+          "combine": {
+            "forty": 5.01,
+            "bench": 16,
+            "vertical": 33,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "johto-goldenrod-metropolitan-university",
+            "name": "Goldenrod Metropolitan University",
+            "city": "Goldenrod City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 11,
+          "analysis": "Goldenrod Metropolitan's Carnivine is twenty-one and level twenty-one, with a 48–76 range. His sixteen bench reps and 6.96 cone resemble parts of the older Carnivine profiles. That makes him worth comparing, not automatically superior. A roster that can give him a useful job should be interested; a roster that only wants to collect a younger name should explain the job first.",
+          "concern": "The 5.01 forty is ordinary within this group. Age does not resolve the wide uncertainty in the visible range.",
+          "projection": "A younger middle-board alternative. Lavender's evaluation should start with a defensive assignment, not another abstract promise."
+        },
+        {
+          "pid": "p2028",
+          "name": "Gumshoos",
+          "species": "Gumshoos",
+          "speciesId": 735,
+          "icon": "assets/sprites/735.png",
+          "position": "DE",
+          "age": 22,
+          "level": 23,
+          "range": [
+            45,
+            73
+          ],
+          "combine": {
+            "forty": 4.98,
+            "bench": 20,
+            "vertical": 33,
+            "cone": 6.87
+          },
+          "university": {
+            "id": "galar-wyndon-international-university",
+            "name": "Wyndon International University",
+            "city": "Wyndon",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 12,
+          "analysis": "Wyndon International's Gumshoos closes my dozen with twenty bench reps, a 4.98 forty and a 6.87 cone. The 45–73 range is less generous than several names above him, but the testing gives me a reason to ask another question. At twenty-two and level twenty-three, he is not merely a blank project. I want the next report to tell me what the strength buys against resistance.",
+          "concern": "A bench advantage is not a complete edge profile. The current range prevents me from moving him higher on testing alone.",
+          "projection": "A late addition to the serious watch list. Teams short of useful front depth should compare him with the names they have stopped discussing."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w9-draft-dl.png",
+        "alt": "Granbull works a blocking sled in a defensive-line scouting drill."
+      }
+    }
+  ]
+}
