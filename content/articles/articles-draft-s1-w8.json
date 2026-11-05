@@ -1,0 +1,423 @@
+{
+  "season": 1,
+  "week": 8,
+  "articles": [
+    {
+      "id": "draft-ol-s1-w8",
+      "type": "draft",
+      "title": "The Rook Board: Lapras leads, Klawf demands a second look",
+      "dek": "Calvin Rook ranks twelve offensive-line prospects, separates the two Eiscue files and refuses to let a workout become a promise.",
+      "author": "calvin-rook",
+      "teams": [
+        "mossdeep",
+        "fortree",
+        "snowpoint"
+      ],
+      "focus": "OL",
+      "body": [
+        {
+          "type": "p",
+          "text": "The league just watched Snowpoint allow five sacks, Olivine score nothing and Saffron recover from two long drives that ended on downs. None of those results can be pinned entirely on five blockers. All of them are a useful reminder that drafting another exciting pass catcher does not remove the work required before the ball reaches that player. This week the Rook Board turns to offensive linemen."
+        },
+        {
+          "type": "p",
+          "text": "Lapras from Agate State leads my twelve-player shortlist. Paniola State's Eiscue is close enough to demand serious comparison. Then comes the player I am choosing to argue about: Sunyshore's Klawf, whose workout earns third place despite a scouting band below Torkoal and Shuckle. That is my preference. It is not a secret exact grade disguised as an opinion."
+        },
+        {
+          "type": "p",
+          "text": "The class offers sixty-four linemen with an available assessment. The ranges and combine numbers below are the information we have; they do not reveal a guaranteed ceiling, an exact rating or a development timetable. A fast cone can justify another look at movement. It cannot tell us that a prospect handled a particular pass-rush move in a game we have not watched."
+        },
+        {
+          "type": "h2",
+          "text": "Two Eiscue, two Shuckle, four separate decisions"
+        },
+        {
+          "type": "p",
+          "text": "Keep the schools attached to the names. Paniola State's Eiscue and Azalea's Eiscue are different prospects, as are the Shuckle from Mauville and Viridian State. Their ages, assessments and testing differ. If a scout starts discussing the name without the school, stop the conversation before the wrong file reaches the draft room."
+        },
+        {
+          "type": "p",
+          "text": "The next circuit stop is the defensive line. For now, I would begin with Lapras, put the two leading Eiscue comparisons in order, and make someone explain why Klawf's workout should or should not change the football judgment. There are worse ways to spend a scouting meeting than arguing about who gets to keep the quarterback upright."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p2094",
+          "name": "Lapras",
+          "species": "Lapras",
+          "speciesId": 131,
+          "icon": "assets/sprites/131.png",
+          "position": "OL",
+          "age": 23,
+          "level": 14,
+          "range": [
+            77,
+            99
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 17,
+            "vertical": 33,
+            "cone": 6.91
+          },
+          "university": {
+            "id": "orre-agate-state-university",
+            "name": "Agate State University",
+            "city": "Agate Village",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 1,
+          "analysis": "Lapras is first because the available report begins higher than everyone else's, and the movement tests give me no compelling reason to argue with it. Agate State's prospect pairs a 4.95 forty with a 6.91 cone and a 33-inch vertical. That is an inviting starting point for a club trying to keep pressure away from its quarterback. I would investigate Lapras before building a draft plan around a receiver who needs extra time to get open.",
+          "concern": "Seventeen bench reps do not settle how consistently the strength will show up against an IFL rusher. The 77–99 range is still a range.",
+          "projection": "First OL on my board. Mossdeep should include Lapras in its succession scouting; that is a fit recommendation, not a prediction of availability."
+        },
+        {
+          "pid": "p2123",
+          "name": "Eiscue",
+          "species": "Eiscue",
+          "speciesId": 875,
+          "icon": "assets/sprites/875.png",
+          "position": "OL",
+          "age": 21,
+          "level": 15,
+          "range": [
+            71,
+            99
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 19,
+            "vertical": 31,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "alola-paniola-state-university",
+            "name": "Paniola State University",
+            "city": "Paniola Town",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 2,
+          "analysis": "Paniola State's Eiscue makes the strongest case for disturbing the top spot: the same 4.95 forty as Lapras, nineteen bench reps and an age of twenty-one. The 6.96 cone keeps the movement profile close. I prefer Lapras' higher lower bound today, but an additional report could change that conversation. A team with several line positions to refresh should be comparing these two before deciding it must solve the whole problem through an older acquisition.",
+          "concern": "The 71–99 assessment overlaps Lapras substantially. Two extra bench reps do not prove superior blocking.",
+          "projection": "Top-tier OL consideration. Keep the school attached to the name: another Eiscue appears lower on this board."
+        },
+        {
+          "pid": "p2177",
+          "name": "Klawf",
+          "species": "Klawf",
+          "speciesId": 950,
+          "icon": "assets/sprites/950.png",
+          "position": "OL",
+          "age": 23,
+          "level": 19,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 4.86,
+            "bench": 21,
+            "vertical": 33,
+            "cone": 6.83
+          },
+          "university": {
+            "id": "sinnoh-university-of-sunyshore",
+            "name": "University of Sunyshore",
+            "city": "Sunyshore City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 3,
+          "analysis": "Here is my deliberate departure from simply sorting the ranges. Sunyshore's Klawf runs 4.86, posts a 6.83 cone and completes 21 bench reps. Those are the best figures in those three tests among this selected group. I want to find out how much of that athletic promise becomes repeatable blocking. Fortree, after allowing two sacks even in its breakthrough win, is a club I would send to this workout with specific questions.",
+          "concern": "The 65–93 scouting band sits below the top two. Athletic tests cannot certify anticipation, hand placement or a particular pass-protection assignment.",
+          "projection": "My third lineman, on a bet about the profile rather than a claim that the uncertainty has disappeared."
+        },
+        {
+          "pid": "p2083",
+          "name": "Torkoal",
+          "species": "Torkoal",
+          "speciesId": 324,
+          "icon": "assets/sprites/324.png",
+          "position": "OL",
+          "age": 23,
+          "level": 9,
+          "range": [
+            68,
+            96
+          ],
+          "combine": {
+            "forty": 5.21,
+            "bench": 18,
+            "vertical": 30,
+            "cone": 7.24
+          },
+          "university": {
+            "id": "kanto-university-of-cinnabar",
+            "name": "University of Cinnabar",
+            "city": "Cinnabar Island",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 4,
+          "analysis": "Torkoal's 68–96 assessment earns a place near the front even though the 5.21 forty and 7.24 cone are less lively than Klawf's. Eighteen bench reps give the Cinnabar prospect a useful strength marker. I am willing to accept less straight-line speed for a lineman whose fuller report remains this promising. I am not willing to call the player a finished pass protector merely because the upper end of the range is attractive.",
+          "concern": "At twenty-three, with the slower movement figures in this top group, Torkoal needs a clear football case beyond the headline band.",
+          "projection": "Early OL shortlist; examine the assignment a team actually needs before moving Torkoal above the more mobile options."
+        },
+        {
+          "pid": "p1968",
+          "name": "Shuckle",
+          "species": "Shuckle",
+          "speciesId": 213,
+          "icon": "assets/sprites/213.png",
+          "position": "OL",
+          "age": 21,
+          "level": 13,
+          "range": [
+            66,
+            94
+          ],
+          "combine": {
+            "forty": 5.19,
+            "bench": 16,
+            "vertical": 28,
+            "cone": 7.27
+          },
+          "university": {
+            "id": "hoenn-university-of-mauville",
+            "name": "University of Mauville",
+            "city": "Mauville City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 5,
+          "analysis": "Mauville's Shuckle is twenty-one with a 66–94 assessment. That is enough to make me keep the file open even when the testing—5.19 forty, sixteen bench reps and a 7.27 cone—does not demand a sprint to the podium. I like young line prospects who offer room for a team to learn more before committing its entire protection plan. Mauville's professional club should ask the same questions as everybody else, without letting the familiar university badge answer them.",
+          "concern": "The broad range allows several different outcomes. Youth is not evidence of a particular development speed.",
+          "projection": "Fifth on this board. A useful comparison with Torkoal for clubs choosing between age and the present assessment."
+        },
+        {
+          "pid": "p1877",
+          "name": "Audino",
+          "species": "Audino",
+          "speciesId": 531,
+          "icon": "assets/sprites/531.png",
+          "position": "OL",
+          "age": 23,
+          "level": 24,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 16,
+            "vertical": 35,
+            "cone": 7.05
+          },
+          "university": {
+            "id": "kanto-saffron-institute-of-technology",
+            "name": "Saffron Institute of Technology",
+            "city": "Saffron City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 6,
+          "analysis": "Audino's 35-inch vertical is the highest among these twelve, and the 5.00 forty is respectable company for it. Saffron Institute of Technology supplies a different sort of testing profile from Torkoal: fewer bench reps, more vertical pop and a quicker cone. The scouting range is 63–91. I want the next evaluation to connect those movement figures with actual blocking demands, particularly for an offense that repeatedly asks its line to sustain long passing possessions.",
+          "concern": "Sixteen bench reps and a strong jump do not tell us how a defender gets handled at contact. The lower end of the band remains sixty-three.",
+          "projection": "Middle of the leading OL group, with enough athletic interest to merit another look."
+        },
+        {
+          "pid": "p2064",
+          "name": "Tropius",
+          "species": "Tropius",
+          "speciesId": 357,
+          "icon": "assets/sprites/357.png",
+          "position": "OL",
+          "age": 22,
+          "level": 17,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 17,
+            "vertical": 31,
+            "cone": 7.1
+          },
+          "university": {
+            "id": "orre-north-orre-university",
+            "name": "North Orre University",
+            "city": "Phenac City",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 7,
+          "analysis": "North Orre's Tropius shares Audino's 63–91 assessment but reaches it through a slightly different testing sheet: 5.06 in the forty, seventeen bench reps, a 31-inch vertical and a 7.10 cone. At twenty-two, Tropius belongs in the same discussion rather than an entirely different tier. I would keep both reports together and ask which player better addresses the job the drafting club needs. The numbers here do not settle that distinction.",
+          "concern": "There is no basis in the current information to name a specific line position or promise an immediate starter.",
+          "projection": "Seventh, narrowly behind Audino. A reasonable target for another scouting visit when the first tier becomes expensive."
+        },
+        {
+          "pid": "p1888",
+          "name": "Eiscue",
+          "species": "Eiscue",
+          "speciesId": 875,
+          "icon": "assets/sprites/875.png",
+          "position": "OL",
+          "age": 23,
+          "level": 15,
+          "range": [
+            60,
+            88
+          ],
+          "combine": {
+            "forty": 4.92,
+            "bench": 17,
+            "vertical": 33,
+            "cone": 7.09
+          },
+          "university": {
+            "id": "johto-azalea-university",
+            "name": "Azalea University",
+            "city": "Azalea Town",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 8,
+          "analysis": "This is the Azalea University Eiscue, age twenty-three, not Paniola State's twenty-one-year-old. The 4.92 forty is slightly quicker, but the 60–88 assessment starts materially lower. Seventeen bench reps and a 33-inch vertical keep the testing interesting. A name repeated on a draft list is an invitation to read carelessly; do not let the stronger Eiscue's reputation become a free endorsement of this one.",
+          "concern": "The 7.09 cone trails the other Eiscue's 6.96, and neither comparison overrides the broader scouting gap.",
+          "projection": "Second group of OL prospects. Potentially useful value if a club has done the identity-specific homework."
+        },
+        {
+          "pid": "p2015",
+          "name": "Spiritomb",
+          "species": "Spiritomb",
+          "speciesId": 442,
+          "icon": "assets/sprites/442.png",
+          "position": "OL",
+          "age": 23,
+          "level": 18,
+          "range": [
+            59,
+            87
+          ],
+          "combine": {
+            "forty": 5.09,
+            "bench": 18,
+            "vertical": 29,
+            "cone": 7.08
+          },
+          "university": {
+            "id": "johto-blackthorn-state-university",
+            "name": "Blackthorn State University",
+            "city": "Blackthorn City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 9,
+          "analysis": "Spiritomb moves above Lickitung on my list because eighteen bench reps and a 7.08 cone make the Blackthorn State prospect's testing more persuasive to me. The 59–87 band is slightly lower, so this is a judgment call rather than an arithmetic victory. The 5.09 forty is ordinary within this group. I would ask a protection-needy club such as Snowpoint to compare the whole sheet before deciding a one-point difference in the band has settled the order.",
+          "concern": "The report still covers a large span, and these tests do not establish that Spiritomb would prevent any particular sack we watched this week.",
+          "projection": "Ninth. A comparison prospect for teams that want strength and movement evidence without paying for the top headline."
+        },
+        {
+          "pid": "p2001",
+          "name": "Stunfisk",
+          "species": "Stunfisk",
+          "speciesId": 618,
+          "icon": "assets/sprites/618.png",
+          "position": "OL",
+          "age": 21,
+          "level": 16,
+          "range": [
+            58,
+            86
+          ],
+          "combine": {
+            "forty": 5.02,
+            "bench": 15,
+            "vertical": 30,
+            "cone": 7
+          },
+          "university": {
+            "id": "unova-university-of-castelia",
+            "name": "University of Castelia",
+            "city": "Castelia City",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 10,
+          "analysis": "Castelia's Stunfisk is twenty-one, runs 5.02 and posts a 7.00 cone. The 58–86 assessment is less commanding than the early names, but the movement figures keep this player above a few higher-band alternatives on my personal board. I would rather explain that preference openly than hide it behind a supposedly exact ranking. Several clubs need line options; not every one of them will be drafting early enough to choose Lapras.",
+          "concern": "Fifteen bench reps leave strength questions worth investigating. A younger age does not resolve them.",
+          "projection": "Tenth, with interest for teams comparing the second group on a narrower budget of premium selections."
+        },
+        {
+          "pid": "p2165",
+          "name": "Lickitung",
+          "species": "Lickitung",
+          "speciesId": 108,
+          "icon": "assets/sprites/108.png",
+          "position": "OL",
+          "age": 21,
+          "level": 11,
+          "range": [
+            60,
+            88
+          ],
+          "combine": {
+            "forty": 5.16,
+            "bench": 12,
+            "vertical": 27,
+            "cone": 7.34
+          },
+          "university": {
+            "id": "paldea-university-of-cortondo",
+            "name": "University of Cortondo",
+            "city": "Cortondo",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 11,
+          "analysis": "Lickitung brings a 60–88 assessment and an age of twenty-one. Those are the reasons the Cortondo prospect remains in this group despite twelve bench reps, a 27-inch vertical and a 7.34 cone. I can imagine a later report making the player more appealing; I cannot treat that imagined report as something already received. Put Lickitung beside Spiritomb and ask why the assessment and testing suggest different orders.",
+          "concern": "The testing trails several neighboring candidates. Do not convert the top of the scouting band into a certainty merely to make the fit attractive.",
+          "projection": "Eleventh. Further scouting is the strongest recommendation I can make before attaching an aggressive draft price."
+        },
+        {
+          "pid": "p2161",
+          "name": "Shuckle",
+          "species": "Shuckle",
+          "speciesId": 213,
+          "icon": "assets/sprites/213.png",
+          "position": "OL",
+          "age": 23,
+          "level": 21,
+          "range": [
+            57,
+            85
+          ],
+          "combine": {
+            "forty": 5.24,
+            "bench": 15,
+            "vertical": 29,
+            "cone": 7.25
+          },
+          "university": {
+            "id": "kanto-viridian-state-university",
+            "name": "Viridian State University",
+            "city": "Viridian City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 12,
+          "analysis": "Viridian State's Shuckle closes the board with a 57–85 assessment, fifteen bench reps and a 7.25 cone. The 5.24 forty will not be the workout's main selling point. At twenty-three, this Shuckle also differs meaningfully from Mauville's younger prospect. I am including the player to show where the leading shortlist currently ends, not to pretend the sixty-four visible OL candidates can be reduced to twelve certain outcomes.",
+          "concern": "The lower assessment and modest testing both require a persuasive follow-up before a club commits a starting job.",
+          "projection": "Twelfth on this week's shortlist. Keep reviewing the rest of the class; a place here is an editorial preference, not a completed evaluation."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w7-tightends-5d08dbac2044.webp",
+        "alt": "Football, gloves and blocking equipment for the offensive-line draft board."
+      }
+    }
+  ]
+}

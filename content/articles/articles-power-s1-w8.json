@@ -1,0 +1,324 @@
+{
+  "season": 1,
+  "week": 8,
+  "articles": [
+    {
+      "id": "power-s1-w8-night-shift",
+      "type": "power",
+      "title": "The Pecking Order: what keeps you up at night?",
+      "dek": "Mossdeep rests, Mt. Silver keeps winning, and several contenders discover that the injury report does not care about their place in the table.",
+      "author": "rowan-vale",
+      "teams": [
+        "mossdeep",
+        "goldenrod",
+        "saffron",
+        "blackthorn",
+        "cinnabar",
+        "sunyshore",
+        "petalburg",
+        "eterna",
+        "cerulean",
+        "rustboro",
+        "canalave",
+        "dewford",
+        "vermilion",
+        "azalea",
+        "viridian",
+        "ecruteak",
+        "mahogany",
+        "violet",
+        "veilstone",
+        "hearthome",
+        "olivine",
+        "fortree",
+        "mauville",
+        "snowpoint",
+        "celadon",
+        "pewter",
+        "oreburgh",
+        "pastoria",
+        "cianwood",
+        "sootopolis",
+        "fuchsia",
+        "lavaridge"
+      ],
+      "theme": "What keeps you up at night?",
+      "body": [
+        {
+          "type": "p",
+          "text": "I gave Mossdeep the week off and still found reasons to worry about everybody else. Saffron scored 44 unanswered points and lost Verrick Brooks for four weeks. Sunyshore ran for 221 yards and lost Myles Gabite for five. Mt. Silver threw two interceptions and won by 25 anyway, which is chiefly a concern for the rest of the league."
+        },
+        {
+          "type": "p",
+          "text": "This week's question is what keeps each club awake. Eterna climbs because its defense has earned more than polite appreciation. Fortree climbs because winning 34–10 is a more persuasive rebuttal than telling me it was always better than 0–6. Vermilion falls because someone has to account for being on the other side of that argument. The rankings are my judgment about the teams now; the standings remain entirely entitled to disagree."
+        },
+        {
+          "type": "p",
+          "text": "Last week I had Eterna fourteenth and Olivine twelfth. The Thorns won 19–0. Consider the order corrected. I reserve the right to make a fresh mistake before the end of this page."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "movement": 0,
+          "themeLabel": "The alarm clock",
+          "text": "Michael Dorrill's 7–0 team took the week off. It still owns a 307–53 scoring advantage and my top spot. Cerulean gets the first chance to discover whether the bye made the Eclipse rusty. My working assumption is that rust will find somewhere safer to live."
+        },
+        {
+          "rank": 2,
+          "team": "goldenrod",
+          "previous": 2,
+          "movement": 0,
+          "themeLabel": "An ordinary mistake",
+          "text": "Eight wins, no losses, and a 34–9 result with two interceptions thrown. Mt. Silver scored on a kickoff return and a pick-six. Connor McLarren has assembled a team that can survive a quarterback's bad decision by changing the department responsible for the next touchdown."
+        },
+        {
+          "rank": 3,
+          "team": "saffron",
+          "previous": 3,
+          "movement": 0,
+          "themeLabel": "Four weeks",
+          "text": "The Psi Corps scored 44 unanswered points and lost Verrick Brooks for four weeks. Ninetales is out four as well. I can adore Archam Manning's 86-yard return and still wonder who replaces thirteen sacks. My favorite team has provided both the fireworks and the bill."
+        },
+        {
+          "rank": 4,
+          "team": "blackthorn",
+          "previous": 4,
+          "movement": 0,
+          "themeLabel": "The next incompletion",
+          "text": "Hatterene completed 27 of 29 for 307 yards. The Dragons erased an eleven-point deficit, then scored twice in twenty-four seconds of fourth-quarter clock. I ranked them fourth last week. Apparently they decided two incompletions were enough resistance from the outside world."
+        },
+        {
+          "rank": 5,
+          "team": "cinnabar",
+          "previous": 5,
+          "movement": 0,
+          "themeLabel": "An opponent that finishes",
+          "text": "A 17–6 win takes the Blaze to 6–2 with eighty points allowed. Mauville's two interceptions helped, but the defense also recorded three sacks. Petalburg arrives next with a considerably better record than the Dynamos. Blaine gets a useful test of how portable that defensive control really is."
+        },
+        {
+          "rank": 6,
+          "team": "sunyshore",
+          "previous": 6,
+          "movement": 0,
+          "themeLabel": "Another backfield absence",
+          "text": "Scol Alexander ran for 165 yards, and Sunyshore finally kept the last possession. Fine work. Myles Gabite is now out five weeks, and the passing game still threw two interceptions against Mahogany. Karson Jones has a 6–2 team and several reasons to keep the meeting going."
+        },
+        {
+          "rank": 7,
+          "team": "petalburg",
+          "previous": 7,
+          "movement": 0,
+          "themeLabel": "The first series back",
+          "text": "The 5–2 Pride rested while most of the league demonstrated fresh ways to make winning difficult. Cinnabar awaits. Norman should bring the late-touchdown version of his offense and ask the defense for another possession this time. The bye did not change a very respectable seventh place."
+        },
+        {
+          "rank": 8,
+          "team": "eterna",
+          "previous": 14,
+          "movement": 6,
+          "themeLabel": "Another six-point afternoon",
+          "text": "Up six spots after a 19–0 shutout, and yes, I noticed the offense finally helped. Eterna has allowed 58 points in seven games. Its three losses came with six, six and three points scored. Gardenia's defense deserves a teammate that occasionally buys dinner."
+        },
+        {
+          "rank": 9,
+          "team": "cerulean",
+          "previous": 9,
+          "movement": 0,
+          "themeLabel": "The Eclipse at the door",
+          "text": "The Tide followed their 12–6 win over Sunyshore with a bye. Now Mossdeep visits. Four successful field goals made last week's win; I suspect Misty would appreciate a touchdown or two for this appointment. A 4–3 record keeps Cerulean relevant, not comfortable."
+        },
+        {
+          "rank": 10,
+          "team": "rustboro",
+          "previous": 15,
+          "movement": 5,
+          "themeLabel": "The next fourth-and-one",
+          "text": "Five places upward for a 14–0 road shutout. My Way, Son ran for 151 yards, GET HIM! stopped Viridian on fourth-and-one, and Philly converted Rustboro's own short fourth down. Tyler Scarboro can put those two clips beside last week's unfinished drives and let the contrast do the talking."
+        },
+        {
+          "rank": 11,
+          "team": "canalave",
+          "previous": 10,
+          "movement": -1,
+          "themeLabel": "The missing point",
+          "text": "A 14–13 loss despite 168 rushing yards is an excellent way to ruin a good running-back afternoon. Two lost fumbles and a late missed field goal supplied the explanation. The Bulwark are 5–3 with 103 points scored and 103 allowed. Even the totals refuse to choose a side."
+        },
+        {
+          "rank": 12,
+          "team": "dewford",
+          "previous": 17,
+          "movement": 5,
+          "themeLabel": "Giving it back",
+          "text": "The Breakers beat Pewter 14–7 despite two interceptions. At 4–4, they have returned to the middle of the argument. The trip to Viridian offers a chance to stay there. I like the recovery; I would like the offense to stop requiring forgiveness quite so often."
+        },
+        {
+          "rank": 13,
+          "team": "vermilion",
+          "previous": 8,
+          "movement": -5,
+          "themeLabel": "The injury list",
+          "text": "Down five after losing 34–10 to previously winless Fortree. Exploud, number 87, is out twelve weeks, and a 5–2 record now sits beside a plus-one point differential. Lt. Surge has five wins he can keep and a fresh result he cannot explain with those five wins."
+        },
+        {
+          "rank": 14,
+          "team": "azalea",
+          "previous": 16,
+          "movement": 2,
+          "themeLabel": "The first quarter",
+          "text": "A 17–0 win with 350 yards to Cianwood's 106 moves the Swarm up two. They waited until the second quarter to score, then stopped making the game mysterious. Drampa threw for 249 yards. Bugsy has a 4–4 club and, for once, a pleasant set of comparisons."
+        },
+        {
+          "rank": 15,
+          "team": "viridian",
+          "previous": 11,
+          "movement": -4,
+          "themeLabel": "One more empty possession",
+          "text": "The Titans gained ninety yards on a possession that ended with the first-half clock, then were stopped on fourth-and-one in the fourth. Zero points followed. At 4–4, Viridian has become a warning against treating distance traveled as a scoring system. Dewford arrives next."
+        },
+        {
+          "rank": 16,
+          "team": "ecruteak",
+          "previous": 19,
+          "movement": 3,
+          "themeLabel": "The lead after halftime",
+          "text": "Lavender moves up three because its 27–17 loss at Blackthorn was a real competitive response to the Mossdeep collapse. The Wails still led 17–6 and lost. Travis Scarboro gets credit for the opening drives and a very specific question about the closing ones. Sunyshore will ask it again."
+        },
+        {
+          "rank": 17,
+          "team": "mahogany",
+          "previous": 13,
+          "movement": -4,
+          "themeLabel": "The handoff",
+          "text": "The Frost forced three Sunyshore turnovers and still lost 17–10. Twenty carries produced 22 yards. Three-and-five with a positive point differential is a fascinating conversation starter; a functioning rushing series would be more useful. Hearthome visits after surviving its own one-point drama."
+        },
+        {
+          "rank": 18,
+          "team": "violet",
+          "previous": 22,
+          "movement": 4,
+          "themeLabel": "The fiftieth throw",
+          "text": "Iron Jugulis attempted 51 passes in a 13–9 victory. Gurdurr caught thirteen for 113 yards. The Falcons are 3–4, and apparently their preferred answer to a close game is to keep the receiver very busy. Pastoria is next; a little more scoring would make the volume easier to admire."
+        },
+        {
+          "rank": 19,
+          "team": "veilstone",
+          "previous": 23,
+          "movement": 4,
+          "themeLabel": "The eighth punt",
+          "text": "Veilstone punted eight times, converted one of eleven third downs and won 17–10. Three interceptions of Oreburgh supplied a ladder out of the hole. The Fists occupy the last current conference playoff position at 4–4. Blackthorn is unlikely to hand them the same ladder."
+        },
+        {
+          "rank": 20,
+          "team": "hearthome",
+          "previous": 27,
+          "movement": 7,
+          "themeLabel": "Another favor",
+          "text": "Up seven for a 14–13 road win. The defense kept providing chances until the offense finally converted the first down that ended it. Fantina should frame Haunter's ten-yard catch and keep the empty second-half possessions in a less decorative folder. Three-and-five is better than the alternative."
+        },
+        {
+          "rank": 21,
+          "team": "olivine",
+          "previous": 12,
+          "movement": -9,
+          "themeLabel": "The yard after the catch",
+          "text": "A 19–0 loss and two successful third downs in ten attempts move the Ironclads down nine. Several catches ended just short of being useful. Eterna did the tackling; Olivine supplied the recurring disappointment. A home game with Oreburgh offers a chance to produce something beyond an explanation."
+        },
+        {
+          "rank": 22,
+          "team": "fortree",
+          "previous": 31,
+          "movement": 9,
+          "themeLabel": "Losing the good parts",
+          "text": "Up nine after the Skyhawks beat a 5–1 opponent by 24. Rabsca threw three touchdowns, and Fortree built scoring drives of 77 and 78 yards around halftime. One-and-six is still one-and-six. It now includes proof that Winona's offense can do considerably more than lose attractively."
+        },
+        {
+          "rank": 23,
+          "team": "mauville",
+          "previous": 20,
+          "movement": -3,
+          "themeLabel": "The next contested throw",
+          "text": "Dragapult threw two interceptions in a 17–6 loss, while Cinnabar swatted nine passes. Three-and-five is survivable; continuing to finish possessions without touchdowns is less appealing. The Dynamos visit Pewter, where the scoring expectations have been known to arrive in a very small envelope."
+        },
+        {
+          "rank": 24,
+          "team": "snowpoint",
+          "previous": 21,
+          "movement": -3,
+          "themeLabel": "Three-point exchanges",
+          "text": "Three field goals were all the Blizzard managed against Mt. Silver. The Reds scored five touchdowns across offense, defense and returns. Snowpoint's 2–6 record does not erase some useful rushing work, but it does make the bye an excellent time to discuss five sacks allowed."
+        },
+        {
+          "rank": 25,
+          "team": "celadon",
+          "previous": 30,
+          "movement": 5,
+          "themeLabel": "Having to score again",
+          "text": "The Bloom closed a 17–13 win with runs that denied Fuchsia another turn. Delibird caught five passes for 104 yards and a touchdown. Celadon rises five places, which is what happens when the bottom of my table finally supplies something better than an apology."
+        },
+        {
+          "rank": 26,
+          "team": "pewter",
+          "previous": 28,
+          "movement": 2,
+          "themeLabel": "An eighth point",
+          "text": "A 14–7 defeat leaves the Rockers with 64 points in eight games. Two interceptions should have bought more than another discussion of a one-score loss. Pewter hosts Mauville next. I have asked the scoreboard operator to remain awake on the grounds that anything is possible."
+        },
+        {
+          "rank": 27,
+          "team": "oreburgh",
+          "previous": 24,
+          "movement": -3,
+          "themeLabel": "The third interception",
+          "text": "The Miners outgained Veilstone 188–181 and still lost 17–10 because Cryogonal threw three picks. Thievul's last interception ended the late attempt to tie. Oreburgh is 2–6, and an offense this short on surplus yards cannot keep returning its possessions as gifts."
+        },
+        {
+          "rank": 28,
+          "team": "pastoria",
+          "previous": 25,
+          "movement": -3,
+          "themeLabel": "The opening kickoff of the half",
+          "text": "Leading Saffron 9–7 at halftime was an achievement. Allowing 37 second-half points was the rest of the afternoon. The Waves are 2–5 and head to Violet. They should take Kilowattrel's 53-yard touchdown with them and leave the second-half special-teams experience in the review room."
+        },
+        {
+          "rank": 29,
+          "team": "cianwood",
+          "previous": 29,
+          "movement": 0,
+          "themeLabel": "Another punt",
+          "text": "Seven punts, four completions and a 17–0 defeat. Cianwood's runners gained 73 yards, but the passing game produced 33. Eterna arrives next with a defense that just shut out Olivine. Chuck needs a much better answer than hoping the visitor has become bored with tackling."
+        },
+        {
+          "rank": 30,
+          "team": "sootopolis",
+          "previous": 18,
+          "movement": -12,
+          "themeLabel": "The next absence",
+          "text": "The Surge lost 13–9 at Violet, and Heatmor is out six weeks. At 3–4 they still have more wins than several clubs above them here. My rankings are allowed to notice the minus-44 point differential and the trip to Saffron. Those are less reassuring companions."
+        },
+        {
+          "rank": 31,
+          "team": "fuchsia",
+          "previous": 26,
+          "movement": -5,
+          "themeLabel": "The third-down whistle",
+          "text": "Celadon converted a late third-and-three by running for eight and never returned the ball. Fuchsia fell to 1–7 and lost Kleavor for ten weeks. The Shadows host Fortree next. Somebody has to leave that meeting with a second win unless both decide to make my job worse."
+        },
+        {
+          "rank": 32,
+          "team": "lavaridge",
+          "previous": 32,
+          "movement": 0,
+          "themeLabel": "The tape from the bye",
+          "text": "The Inferno rested at 2–5 with 203 points allowed. Fortree's first win supplies an awkward divisional comparison: the Skyhawks just scored 34 against the same Vermilion club Lavaridge visits next. A week off is useful only if the next week looks different."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/898027f987bc1282.png",
+        "alt": "A football and stadium field under evening lights."
+      }
+    }
+  ]
+}
