@@ -1,0 +1,688 @@
+{
+  "season": 1,
+  "week": 10,
+  "articles": [
+    {
+      "id": "power-s1-w10",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "Keep the receipt: Mossdeep survives, Rustboro earns the upgrade",
+      "dek": "The top four hold, the Stone jump to fifth, and Sootopolis finally supplies a win worth arguing about. Rowan Vale audits all 32 teams after Week 10.",
+      "teams": [],
+      "theme": "Keep the receipt",
+      "body": [
+        {
+          "type": "p",
+          "text": "Mossdeep won by three. Mt. Silver won by thirty-four. Both are 9–0, and I am leaving the Eclipse first because a narrow win over Saffron is still a better answer than pretending the opponent does not matter. Dorian has been invited to express his disagreement at a volume appropriate for a building with other occupants."
+        },
+        {
+          "type": "p",
+          "text": "This week every club brings a receipt: one result or absence that supports the rank, complicates it, or makes me revise last week. Rustboro climbs past Cinnabar after beating it. Sootopolis makes the largest jump. Previous positions are the ones actually published, not the more flattering versions I might remember. These are power rankings; the standings retain their own perfectly functional arithmetic."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "movement": 0,
+          "themeLabel": "Receipt: a win when twenty was enough.",
+          "text": "Last week I wanted an examination. Saffron provided one, and Mossdeep passed 20–17 without receiving extra credit for artistic presentation. Dram Marino threw two touchdowns to Accel BeckhmJr; the offense survived four sacks. Nine wins still buy first place here. Marshall Flock's five-week absence is a serious new bill, especially with a trip to Vermilion next. The Eclipse have proved they can win a close one. Now they must prove they can keep winning with another job to cover."
+        },
+        {
+          "rank": 2,
+          "team": "goldenrod",
+          "previous": 2,
+          "movement": 0,
+          "themeLabel": "Receipt: thirty-four to absolutely nothing.",
+          "text": "The Reds stayed second while Canalave's offense stayed silent. Tic Thorpe threw for 281 yards and three touchdowns, ran for another, and Mt. Silver reached 9–0 with a 34–0 win. The Reds keep finding ways to win while the weekly explanation changes. That is a much better kind of repetition than another narrow escape. Eterna arrives next with a defense allowing 77 points through nine games. That is a much more interesting test than arguing about my stationery."
+        },
+        {
+          "rank": 3,
+          "team": "saffron",
+          "previous": 3,
+          "movement": 0,
+          "themeLabel": "Receipt: the favorite had to work.",
+          "text": "I picked Saffron to win. It lost by three, and I am somehow more convinced that third is the correct address. Archam Manning produced 258 passing yards, Gengar Pickens had 107 receiving, and a defense missing Verrick Brooks still sacked Marino four times. The 7–2 Psi Corps have allowed seventy points all season. They must finish the next close opportunity, of course. But a narrow loss to No. 1 does not require me to pretend they became ordinary."
+        },
+        {
+          "rank": 4,
+          "team": "blackthorn",
+          "previous": 4,
+          "movement": 0,
+          "themeLabel": "Receipt: the win counts; the warning does too.",
+          "text": "The Dragons remain fourth after escaping Hearthome 27–25. Hatterene completed seventeen of twenty-one for 249 yards and two touchdowns, which remains an excellent way to discourage panic. Forty-nine rushing yards and a two-point margin make the rest of the report less serene. Blackthorn is 8–1, with Sunyshore next and Grovyle now absent six weeks. I requested portable control last week. Clair returned with a win and a bag containing several loose screws."
+        },
+        {
+          "rank": 5,
+          "team": "rustboro",
+          "previous": 8,
+          "movement": 3,
+          "themeLabel": "Receipt: the passing game has entered the meeting.",
+          "text": "Up three. Last week I praised the backs; this week Porygon-Z threw five touchdowns and Gibby Timmy caught three of them in a 41–38 win over Cinnabar. A developing team is allowed more than one answer. The 6–4 Stone enter their bye with My Way, Son carrying a one-week absence and a defense that would appreciate fewer emergency assignments. Still, beating the team above you is a persuasive way to request its chair."
+        },
+        {
+          "rank": 6,
+          "team": "sunyshore",
+          "previous": 6,
+          "movement": 0,
+          "themeLabel": "Receipt: seven wins, with the next one still unearned.",
+          "text": "Unchanged at sixth through the bye, which will disappoint anyone hoping I would penalize the Starseekers for resting efficiently. Sunyshore is 7–2 and plus-109. Blackthorn away is the next assignment, with Myles Gabite still out three weeks. Karson Jones has had time to prepare; Clair has just survived a two-point game. I expect a proper contender's contest. My personal preference for Sunyshore losing remains separate from recognizing what a road win would mean."
+        },
+        {
+          "rank": 7,
+          "team": "cinnabar",
+          "previous": 5,
+          "movement": -2,
+          "themeLabel": "Receipt: thirty-eight points and an empty return trip.",
+          "text": "Down two after 41–38 at Rustboro. I still like the 7–3 Blaze, and Gholdengo's 325 passing yards support that affection. Allowing five passing touchdowns supports a much less pleasant conversation. Last week I asked whether the defense could stop Rustboro's runners; the Stone answered by changing the examination paper. Cinnabar's bye is useful. Blaine should use it to ensure the next opponent cannot make one receiving target feel like three separate emergencies."
+        },
+        {
+          "rank": 8,
+          "team": "eterna",
+          "previous": 7,
+          "movement": -1,
+          "themeLabel": "Receipt: the offense keeps contributing.",
+          "text": "Down one only because Rustboro jumped the queue. Eterna beat Azalea 27–13, Stantler ran for 140 yards, and the team allowed twenty-five rushing yards while collecting four sacks. At 6–3, the Thorns now have a plus-49 differential and an offense that has stopped requiring a formal invitation to help. Mt. Silver is next. That will tell us more than another comfortable ranking paragraph, although I have generously supplied this one anyway."
+        },
+        {
+          "rank": 9,
+          "team": "petalburg",
+          "previous": 9,
+          "movement": 0,
+          "themeLabel": "Receipt: an unglamorous recovery still spends.",
+          "text": "The Pride stay ninth after beating Viridian 14–7. Iron Valiant threw two touchdowns, Oinkologne ran for seventy-five yards, and the defense allowed 191 total rushing-plus-passing yards. Norman's club is 6–3. Last week's Cinnabar loss did not demand an identity crisis; it demanded a response. This qualifies. Pewter away offers another defensive contest, where fourteen points may again be useful and seventeen would represent an encouraging interest in personal growth."
+        },
+        {
+          "rank": 10,
+          "team": "olivine",
+          "previous": 13,
+          "movement": 3,
+          "themeLabel": "Receipt: two wins, and this one came with zero allowed.",
+          "text": "Up three after a 14–0 win at Snowpoint. Olivine has followed its own shutout loss with victories of 29–10 and 14–0, a sequence that suggests the embarrassment was at least put to work. Drampa completed twenty of twenty-five. The 5–4 Ironclads still carry a minus-two differential and several lengthy injuries, so I am withholding the brass band. Canalave visits next with no points from its last game. Keep the welcome brief."
+        },
+        {
+          "rank": 11,
+          "team": "dewford",
+          "previous": 11,
+          "movement": 0,
+          "themeLabel": "Receipt: the overtime escape remains on file.",
+          "text": "Unchanged during the bye at 5–4. Ambipom's 175 scrimmage yards against Viridian have not depreciated merely because another week happened. Neither have the two turnovers that made that overtime escape necessary. Dewford visits a Celadon team coming off six points and 99 passing yards. I want a clean road win before I move my favorite occasional headache any higher. A contender should sometimes leave the dramatic late field goal in its packaging."
+        },
+        {
+          "rank": 12,
+          "team": "violet",
+          "previous": 14,
+          "movement": 2,
+          "themeLabel": "Receipt: fourteen is more than six.",
+          "text": "Up two after a third consecutive win, 14–6 at Veilstone. Iron Jugulis threw two touchdowns, Furret supplied eighty-three receiving yards, and the defense kept another opponent out of double figures. The 5–4 Falcons are still minus-fourteen for the season. Fine: recent improvement and an imperfect past can coexist. Hearthome visits next with an offense that just scored twenty-five against Blackthorn. Violet may have to increase the scoring budget from pocket change to actual notes."
+        },
+        {
+          "rank": 13,
+          "team": "vermilion",
+          "previous": 12,
+          "movement": -1,
+          "themeLabel": "Receipt: six wins do not erase the minus sign.",
+          "text": "Down one after losing 24–10 at Sootopolis. The Volts are 6–3 and now minus-six, having allowed Drampa to throw three touchdowns without a sack or interception. Last week's narrow surplus has expired. Mossdeep arrives next, and Vermilion's lengthy cornerback absences have not acquired a convenient exception for unbeaten visitors. Chandelure needs more than 160 passing yards; the defense needs to make the opposing quarterback notice it exists. Preferably before the postgame handshake."
+        },
+        {
+          "rank": 14,
+          "team": "canalave",
+          "previous": 10,
+          "movement": -4,
+          "themeLabel": "Receipt: three sacks, no points.",
+          "text": "Down four after 34–0 against Mt. Silver. Delcatty produced three sacks, Gabite ran for eighty-six yards, and Canalave still managed only sixty-three passing yards. The Bulwark are 6–4 with a minus-21 differential. Last week I wondered how long the defense could survive a small offensive cushion. This time somebody removed the cushion entirely. A trip to Olivine follows. Byron needs scoring possessions, not another earnest explanation of how difficult the opponent was."
+        },
+        {
+          "rank": 15,
+          "team": "fortree",
+          "previous": 18,
+          "movement": 3,
+          "themeLabel": "Receipt: the recovery has reached three games.",
+          "text": "Up three after beating Cerulean 17–9. Fortree is still 3–6, but a three-game winning streak carries rather more weight than the original pleasant surprise. Floatzel ran for eighty-four yards, Dunsparce caught eight passes, and the defense allowed twenty-five rushing yards. Saffron away is next. The Skyhawks will need more than momentum there, but Winona has earned the right to arrive with an argument instead of an apology."
+        },
+        {
+          "rank": 16,
+          "team": "sootopolis",
+          "previous": 27,
+          "movement": 11,
+          "themeLabel": "Receipt: the quarterback had time and used it.",
+          "text": "Up eleven, because beating a 6–2 visitor 24–10 deserves more than a reluctant nod. Drampa completed twenty of twenty-six for 233 yards and three touchdowns without taking a sack. Sootopolis is 4–5 and still minus-58, so the season has not suddenly become beautiful. The latest game did. Fuchsia is next, offering Wallace an opportunity to make competence repeatable. I would like a second receipt before we discuss store credit for earlier losses."
+        },
+        {
+          "rank": 17,
+          "team": "mahogany",
+          "previous": 19,
+          "movement": 2,
+          "themeLabel": "Receipt: a tie remains a tie through a bye.",
+          "text": "Up two while idle because several neighbors actively damaged their applications. Mahogany is 3–5–1 with a plus-fourteen differential. That combination still interests me more than the record alone. Kricketune remains out ten weeks, and Pastoria arrives having found a productive passing afternoon. Pryce's team must turn competitive football into complete wins. I can move it a little on others' mistakes; the Frost should not build their playoff plan around my generosity."
+        },
+        {
+          "rank": 18,
+          "team": "hearthome",
+          "previous": 20,
+          "movement": 2,
+          "themeLabel": "Receipt: another close game, another missing win.",
+          "text": "Up two after losing 27–25 to Blackthorn. The Haunts are 3–6–1, and yes, that is still a poor record. They also scored twenty-five against an 8–1 team, with Frosmoth throwing two touchdowns and the defense allowing forty-nine rushing yards. Fantina has made the games competitive. Winning them remains the next item. Violet is a useful test: a tight defensive team that will not award points for being more troublesome than expected."
+        },
+        {
+          "rank": 19,
+          "team": "pewter",
+          "previous": 21,
+          "movement": 2,
+          "themeLabel": "Receipt: defense has kept the season open.",
+          "text": "Up two through the bye at 4–5. Pewter has scored seventy-seven points, which would be an acceptable weekend if it did not represent nine games. The defense has kept the Rockers close enough to remain relevant. Petalburg visits with a similar appetite for a low-scoring result, but Brock still has two cornerbacks facing long absences. I want the offense to contribute before the defense submits an invoice. Dorian's museum joke is already overdrawn."
+        },
+        {
+          "rank": 20,
+          "team": "pastoria",
+          "previous": 29,
+          "movement": 9,
+          "themeLabel": "Receipt: seventeen was a substantial improvement.",
+          "text": "Up nine after a 17–7 win over Lavender. Togekiss threw for 230 yards without an interception, Farigiraf supplied eighty-nine receiving yards, and the defense held Mr. Clanky to nine completions. The Waves are 3–6. I asked for another scoring drive last week; Pastoria supplied enough of an afternoon to earn the request's retirement. Mahogany away comes next, where the opposing record is less impressive than its differential. Keep the useful passing game packed."
+        },
+        {
+          "rank": 21,
+          "team": "mauville",
+          "previous": 25,
+          "movement": 4,
+          "themeLabel": "Receipt: the air route worked.",
+          "text": "Up four for 24–6 against Celadon. Togekiss threw for 238 yards and two touchdowns; Mothim caught eight passes. Fourteen rushing yards are less persuasive, but I will not demand balance before acknowledging that Mauville actually finished with twenty-four points. The 4–6 Dynamos enter their bye with something to build from. Last week's three-point showing remains evidence of the floor. This week's passing gives Wattson a reasonable direction toward a less embarrassing ceiling."
+        },
+        {
+          "rank": 22,
+          "team": "viridian",
+          "previous": 15,
+          "movement": -7,
+          "themeLabel": "Receipt: another close loss is still a loss.",
+          "text": "Down seven after 14–7 at Petalburg. Viridian is 4–6, having followed the overtime loss to Dewford with 118 passing yards and one touchdown. The defense kept the game available; the offense did not buy it. Toucannon, Sneasel and now Bonsly are among the players facing absences. The bye gives Giovanni time to reassess an attack that keeps leaving the final margin too small. Competitiveness without finishing is becoming a very repetitive product description."
+        },
+        {
+          "rank": 23,
+          "team": "cerulean",
+          "previous": 16,
+          "movement": -7,
+          "themeLabel": "Receipt: nine points will not repair fifty-six allowed.",
+          "text": "Down seven after 17–9 at Fortree. Cerulean's defense improved enormously from the Mossdeep disaster; the offense answered with twenty-five rushing yards and one touchdown pass in forty-five attempts. The Tide are 4–5. Arctozolt's eighty-nine receiving yards are useful, but they need company on the scoreboard. Lavaridge visits next. Misty should welcome the opportunity without confusing the Inferno's season totals with permission to repeat this week's finishing."
+        },
+        {
+          "rank": 24,
+          "team": "lavaridge",
+          "previous": 28,
+          "movement": 4,
+          "themeLabel": "Receipt: a defensive result worth keeping.",
+          "text": "Up four after beating Fuchsia 21–7. Lavaridge has allowed 234 points in nine games, and seven of them arrived this week. That contrast is the whole reason for the climb. Delphox threw two touchdowns, and the Inferno are 3–6 with a trip to Cerulean next. Flannery finally received enough resistance from the defense to make useful offense count. Repeat it once more and we can stop introducing every compliment with the season's alarming total."
+        },
+        {
+          "rank": 25,
+          "team": "cianwood",
+          "previous": 31,
+          "movement": 6,
+          "themeLabel": "Receipt: four touchdown passes, seventy-eight passing yards.",
+          "text": "Up six after winning 28–17 at Oreburgh. Victreebel's line is a direct challenge to anybody who sorts quarterbacks by yardage and stops reading: four touchdowns on seventy-eight yards. Swampert ran for ninety-two. Cianwood is 3–7, Gardevoir is still out seven weeks, and one productive result does not solve the season. It does disprove last week's suggestion that the available offense had nothing useful to offer. Snowpoint visits next. Keep making me revise that paragraph."
+        },
+        {
+          "rank": 26,
+          "team": "ecruteak",
+          "previous": 17,
+          "movement": -9,
+          "themeLabel": "Receipt: nine completions do not sustain a playoff argument.",
+          "text": "Down nine after a 17–7 loss at Pastoria. Mr. Clanky went nine-for-twenty-six for ninety-six yards and an interception. Lavender is 4–5 with a minus-85 differential. I have spent weeks discussing second halves; this result makes the whole offense the subject. Veilstone visits next, another team struggling to score. Travis Scarboro needs a convincing response, because winning an argument about which offense is less broken would still be a very modest achievement."
+        },
+        {
+          "rank": 27,
+          "team": "azalea",
+          "previous": 22,
+          "movement": -5,
+          "themeLabel": "Receipt: twenty-five rushing yards and four sacks allowed.",
+          "text": "Down five after losing 27–13 at Eterna. Azalea is 4–6 and has followed a shutout loss with another afternoon in which sustained offense was difficult. Doduo remains out four weeks. The Swarm host Oreburgh next, a chance to improve against a defense that just allowed four touchdown passes on remarkably little passing yardage. Bugsy must turn that opportunity into an actual result. The schedule cannot complete a third down on the team's behalf."
+        },
+        {
+          "rank": 28,
+          "team": "veilstone",
+          "previous": 23,
+          "movement": -5,
+          "themeLabel": "Receipt: the defense cannot score every point itself.",
+          "text": "Down five after losing 14–6 to Violet. Tatsugiri threw for 183 yards but no touchdowns and two interceptions. Veilstone is 4–6, with a trip to Lavender next. The Fists keep finding games in which ordinary offensive assistance would make the outcome plausible. They keep failing to provide it. Maylene does not need an extravagant attack to reverse this pattern. She needs one that can see a fourteen-point opponent and consider the number negotiable."
+        },
+        {
+          "rank": 29,
+          "team": "snowpoint",
+          "previous": 24,
+          "movement": -5,
+          "themeLabel": "Receipt: no touchdowns, no field goals, no ambiguity.",
+          "text": "Down five after a 14–0 home loss to Olivine. Snowpoint is 2–7 and minus-twenty-six. The old argument that the Blizzard were better than their record remains possible, but it is becoming harder to deliver with a straight face. Forty-six rushing yards and 130 passing yards did not threaten enough. Cianwood is next, fresh from a surprisingly efficient win. Candice must find scoring before I run out of synonyms for competitive-looking defeat."
+        },
+        {
+          "rank": 30,
+          "team": "celadon",
+          "previous": 26,
+          "movement": -4,
+          "themeLabel": "Receipt: the replacement offense needed more help.",
+          "text": "Down four after 24–6 at Mauville. Infernape threw for ninety-nine yards, while Seaking's seventy-six rushing yards were the more useful part of a 2–8 team's afternoon. The Bloom's defense allowed only fourteen rushing yards and still conceded twenty-four points. Dewford visits after its bye, so stopping one department will not be enough. Erika needs a more complete answer. The injured secondary and recent quarterback disruption explain difficulty; they do not make six points adequate."
+        },
+        {
+          "rank": 31,
+          "team": "oreburgh",
+          "previous": 30,
+          "movement": -1,
+          "themeLabel": "Receipt: the useful yards came with costly mistakes.",
+          "text": "Down one after losing 28–17 to Cianwood. Furret had 137 receiving yards, Diggersby ran for seventy-seven, and Cryogonal threw two interceptions. The Miners are 2–8. I will not pretend the yardage was meaningless, but I also cannot cash it for a win Roark did not get. Azalea away gives Oreburgh another opponent searching for a repair. Protecting the ball would be an excellent place to begin, before the same explanation becomes a franchise slogan."
+        },
+        {
+          "rank": 32,
+          "team": "fuchsia",
+          "previous": 32,
+          "movement": 0,
+          "themeLabel": "Receipt: one win, ten games.",
+          "text": "Unchanged at thirty-second after 21–7 at Lavaridge. Empoleon threw for 212 yards without a touchdown, and Fuchsia is now 1–9. The Shadows have managed to make several opponents feel considerably better about themselves. Sootopolis arrives next after its own convincing passing performance. Koga needs points and stops in the same game, preferably in sufficient quantities to affect the result. There is room to climb. At this position, that is less encouragement than geometry."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w10-power-5e5557d39567.png",
+        "alt": "A football field becomes the receipt behind this week’s rankings."
+      }
+    },
+    {
+      "id": "draft-lb-s1-w10",
+      "type": "draft",
+      "focus": "LB",
+      "author": "calvin-rook",
+      "teams": [],
+      "title": "The Rook Board: Iron Bundle gets first chase",
+      "dek": "Two Throhs, two Octillery prospects, one Hoenn favorite and a stopwatch worth a second look. Calvin Rook ranks twelve linebackers by the jobs he wants to investigate.",
+      "body": [
+        {
+          "type": "p",
+          "text": "There are at least two very different linebacker conversations happening in this league. Saffron is replacing the injured Verrick Brooks, whose thirteen sacks still lead everyone. Canalave is trying to turn pressure into a complete defensive afternoon while dealing with absences inside. Mossdeep just got three sacks in a close win. Saying a team needs a linebacker is the beginning of a scouting discussion, not a sufficient job description."
+        },
+        {
+          "type": "p",
+          "text": "Last week I worked through the defensive line. This week I am separating the fast outside invitation from the interior assignment, then taking responsibility for a few preferences. Iron Bundle goes above the strongest displayed range. Bouffalant gets the warmth of my Lilycove affection and a place he still has to defend. These are early scouting opinions from visible ranges, age, level and combine measurements; no college production or hidden traits are being smuggled into the argument."
+        },
+        {
+          "type": "p",
+          "text": "The ranges are broad, and their upper endpoints are not current ratings. A forty measures a run; it does not establish recognition. A bench test supplies context; it does not certify a block defeat. I want the numbers translated into questions that actual scouting can answer. The board can move when those answers arrive. Until then, here are twelve individual prospects, with school names kept distinct even where the species repeat."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p1867",
+          "name": "Iron Bundle",
+          "species": "Iron Bundle",
+          "speciesId": 991,
+          "icon": "assets/sprites/991.png",
+          "position": "OLB",
+          "age": 22,
+          "level": 21,
+          "range": [
+            69,
+            97
+          ],
+          "combine": {
+            "forty": 4.53,
+            "bench": 17,
+            "vertical": 47,
+            "cone": 5.96
+          },
+          "university": {
+            "id": "kalos-shalour-military-academy",
+            "name": "Shalour Military Academy",
+            "city": "Shalour City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 1,
+          "analysis": "I am putting Iron Bundle first, ahead of the highest displayed range, because the movement case is unusually persuasive. Shalour's outside linebacker brings a 4.53 forty, a 47-inch vertical and a 5.96 cone alongside a 69–97 range. That combination makes me want to investigate the space between edge pressure and pursuit, rather than assign one narrow job from a species name. Saffron's Verrick Brooks has shown what disruptive linebacker production can mean to a season. The comparison is an ambition, not thirteen sacks written into a draft card.",
+          "concern": "Seventeen bench reps do not settle his ability to handle blockers, and testing numbers do not demonstrate recognition or coverage decisions.",
+          "projection": "My first linebacker to investigate. Fortree should make room in its scouting schedule; rebuilding a defense needs players who can reach more than one problem."
+        },
+        {
+          "pid": "p2021",
+          "name": "Throh",
+          "species": "Throh",
+          "speciesId": 538,
+          "icon": "assets/sprites/538.png",
+          "position": "ILB",
+          "age": 23,
+          "level": 16,
+          "range": [
+            71,
+            99
+          ],
+          "combine": {
+            "forty": 5.05,
+            "bench": 18,
+            "vertical": 31,
+            "cone": 7.02
+          },
+          "university": {
+            "id": "orre-agate-state-university",
+            "name": "Agate State University",
+            "city": "Agate Village",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 2,
+          "analysis": "Agate State's Throh has the strongest visible range on this board at 71–99. He is twenty-three, level sixteen, and his 5.05 forty and 7.02 cone suggest a different conversation from Iron Bundle's. I want to see the interior responsibilities: closing a lane, taking the correct angle, finishing a stop before an ordinary gain becomes a first down. That is less glamorous than declaring a pass-rush savior and often more useful. Throh is my best starting point for that investigation.",
+          "concern": "The upper endpoint is not a present rating. His testing does not justify assuming he can cover every outside assignment as easily as an interior one.",
+          "projection": "An early inside-linebacker target. Canalave's current absences make the long-term middle of the defense a sensible scouting subject."
+        },
+        {
+          "pid": "p2024",
+          "name": "Qwilfish",
+          "species": "Qwilfish",
+          "speciesId": 211,
+          "icon": "assets/sprites/211.png",
+          "position": "OLB",
+          "age": 22,
+          "level": 23,
+          "range": [
+            67,
+            95
+          ],
+          "combine": {
+            "forty": 4.81,
+            "bench": 17,
+            "vertical": 41,
+            "cone": 6.42
+          },
+          "university": {
+            "id": "galar-mid-galar-state-university",
+            "name": "Mid-Galar State University",
+            "city": "Hammerlocke",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 3,
+          "analysis": "Qwilfish gives Mid-Galar State a credible challenger near the top: 67–95, a 4.81 forty, a 41-inch vertical and a 6.42 cone. I like the broad movement invitation. It is not Iron Bundle's spectacular card, but it does not need to be. My first question is whether he can keep his pursuit under control when the runner changes the destination. My second is how much useful work he can do when an offense refuses to let him rush cleanly.",
+          "concern": "Seventeen bench reps and a fast drill do not tell us how consistently he defeats contact. The actual football responsibilities still require scouting.",
+          "projection": "An early outside-linebacker option. Lavender should investigate a defender who could help end possessions, rather than simply hope the offense makes them shorter."
+        },
+        {
+          "pid": "p2044",
+          "name": "Bouffalant",
+          "species": "Bouffalant",
+          "speciesId": 626,
+          "icon": "assets/sprites/626.png",
+          "position": "ILB",
+          "age": 21,
+          "level": 13,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 4.96,
+            "bench": 20,
+            "vertical": 32,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "hoenn-university-of-lilycove",
+            "name": "University of Lilycove",
+            "city": "Lilycove City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 4,
+          "analysis": "I am moving Lilycove's Bouffalant above a few higher ranges. There: the Hoenn affection is declared. The 63–91 range is substantial, and twenty bench reps with a 4.96 forty give the interior case a useful physical outline. At twenty-one and level thirteen, he is also younger than Agate's Throh. I want him assessed in traffic, where strength, balance and choosing the correct gap need to become one decision. The stopwatch is a reason to watch, not permission to stop watching.",
+          "concern": "A 6.96 cone is not evidence of effortless coverage. Younger age leaves possibilities; it does not promise a faster development rate.",
+          "projection": "My preferred interior alternative after Throh. Fortree and Mauville should compare his actual assignments with their needs before treating another edge athlete as the universal answer."
+        },
+        {
+          "pid": "p2038",
+          "name": "Throh",
+          "species": "Throh",
+          "speciesId": 538,
+          "icon": "assets/sprites/538.png",
+          "position": "ILB",
+          "age": 21,
+          "level": 11,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 20,
+            "vertical": 31,
+            "cone": 7.04
+          },
+          "university": {
+            "id": "johto-university-of-mahogany",
+            "name": "University of Mahogany",
+            "city": "Mahogany Town",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 5,
+          "analysis": "The University of Mahogany's Throh makes a good argument for keeping identical species on separate scouting pages. This one is twenty-one, level eleven, with a 65–93 range and twenty bench reps. The 5.07 forty and 7.04 cone are close to Agate's figures, while the visible range is lower. I would not collapse those differences into one generic 'Throh prospect.' His individual report could support a different price and a different timetable.",
+          "concern": "The lower level cannot tell us how quickly he will improve. Similar combine times do not prove he is interchangeable with the prospect ranked second.",
+          "projection": "A serious inside-linebacker candidate. Teams weighing an immediate foundation against a longer project should scout both Throhs, then make the comparison with actual information."
+        },
+        {
+          "pid": "p2077",
+          "name": "Mawile",
+          "species": "Mawile",
+          "speciesId": 303,
+          "icon": "assets/sprites/303.png",
+          "position": "OLB",
+          "age": 21,
+          "level": 14,
+          "range": [
+            62,
+            90
+          ],
+          "combine": {
+            "forty": 4.98,
+            "bench": 14,
+            "vertical": 35,
+            "cone": 6.89
+          },
+          "university": {
+            "id": "kalos-university-of-cyllage",
+            "name": "University of Cyllage",
+            "city": "Cyllage City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 6,
+          "analysis": "Cyllage's Mawile has a 62–90 range, a 4.98 forty and a 6.89 cone. I like this as the point on the board where a team can stop chasing the most spectacular testing card and start asking about a specific outside job. The thirty-five-inch vertical is useful context; fourteen bench reps make the contact question unavoidable. He is twenty-one and level fourteen. Give me the player who can reliably perform the assignment a coordinator actually needs, not the best imaginary combination of everybody's numbers.",
+          "concern": "Nothing in these measurements proves the ability to anchor against a larger blocker or diagnose an unfolding route combination.",
+          "projection": "A scouting priority for a team seeking a complementary outside defender. Lavender should demand a clear intended job before adding another interesting name."
+        },
+        {
+          "pid": "p1982",
+          "name": "Sableye",
+          "species": "Sableye",
+          "speciesId": 302,
+          "icon": "assets/sprites/302.png",
+          "position": "OLB",
+          "age": 21,
+          "level": 18,
+          "range": [
+            62,
+            90
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 14,
+            "vertical": 33,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "paldea-porto-marinada-coastal-university",
+            "name": "Porto Marinada Coastal University",
+            "city": "Porto Marinada",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 7,
+          "analysis": "Porto Marinada Coastal's Sableye shares Mawile's 62–90 range but brings a different set of tests: 5.07 in the forty, fourteen bench reps and a 6.96 cone. I prefer Mawile's movement card narrowly; I am keeping Sableye close enough that a better football evaluation could reverse them. At twenty-one and level eighteen, he has an intriguing visible starting point. This is where a scout should earn an opinion, rather than simply sort by one hundredth of a second.",
+          "concern": "The combine does not establish anticipation, tackling reliability or how the player handles a failed first move. Those are questions, not assumed weaknesses.",
+          "projection": "A middle-board outside option with room to climb. Mauville should compare the work he can actually perform with the more athletic alternatives, not draft a ranking number."
+        },
+        {
+          "pid": "p2113",
+          "name": "Pyukumuku",
+          "species": "Pyukumuku",
+          "speciesId": 771,
+          "icon": "assets/sprites/771.png",
+          "position": "ILB",
+          "age": 21,
+          "level": 8,
+          "range": [
+            64,
+            92
+          ],
+          "combine": {
+            "forty": 5.23,
+            "bench": 14,
+            "vertical": 27,
+            "cone": 7.17
+          },
+          "university": {
+            "id": "kalos-ambrette-naval-academy",
+            "name": "Ambrette Naval Academy",
+            "city": "Ambrette Town",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 8,
+          "analysis": "Ambrette Naval's Pyukumuku is my deliberate disagreement with a straight range sort. The 64–92 range is strong, but the 5.23 forty, fourteen bench reps and 7.17 cone leave me with more questions about the breadth of the interior assignment. He is twenty-one and level eight. I can imagine a useful focused role; I cannot use imagination as evidence. I want this player scouted carefully enough that the eventual decision is about his football, not the novelty of the name.",
+          "concern": "The visible level is low and the movement measurements are modest. Neither establishes hidden potential, but both make an assumed all-purpose role premature.",
+          "projection": "An interior prospect worth deeper work before a firm grade. Teams comfortable developing a specific role should investigate; teams needing immediate universal cover should resist shortcuts."
+        },
+        {
+          "pid": "p1873",
+          "name": "Octillery",
+          "species": "Octillery",
+          "speciesId": 224,
+          "icon": "assets/sprites/224.png",
+          "position": "ILB",
+          "age": 22,
+          "level": 25,
+          "range": [
+            61,
+            89
+          ],
+          "combine": {
+            "forty": 5.02,
+            "bench": 18,
+            "vertical": 32,
+            "cone": 7.05
+          },
+          "university": {
+            "id": "johto-university-of-violet",
+            "name": "University of Violet",
+            "city": "Violet City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 9,
+          "analysis": "Violet's Octillery brings the more advanced visible level in this part of the board: twenty-five, with a 61–89 range at age twenty-two. Eighteen bench reps, a 5.02 forty and a 7.05 cone give a reasonably balanced testing outline without the striking outside athleticism of the leaders. I would begin with repeatable inside work. The league already has several Octillery linebackers collecting sacks, but sharing a species is not a substitute for assessing this individual.",
+          "concern": "Level twenty-five is not proof of professional readiness, and existing players' sack totals do not transfer to a prospect with the same face.",
+          "projection": "An inside-linebacker comparison point for clubs preferring a more developed visible starting level. Scout the role before deciding that the higher level deserves the higher pick."
+        },
+        {
+          "pid": "p2033",
+          "name": "Octillery",
+          "species": "Octillery",
+          "speciesId": 224,
+          "icon": "assets/sprites/224.png",
+          "position": "ILB",
+          "age": 23,
+          "level": 25,
+          "range": [
+            59,
+            87
+          ],
+          "combine": {
+            "forty": 5.05,
+            "bench": 19,
+            "vertical": 36,
+            "cone": 7.03
+          },
+          "university": {
+            "id": "johto-university-of-cherrygrove",
+            "name": "University of Cherrygrove",
+            "city": "Cherrygrove City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 10,
+          "analysis": "Cherrygrove's Octillery is twenty-three and also level twenty-five. His 59–87 range is slightly lower than Violet's, with nineteen bench reps and a thirty-six-inch vertical. I find that a useful comparison: broadly similar starting profiles, different individual evidence, and no reason to pretend one drill settles the order. The 5.05 forty and 7.03 cone keep the interior discussion more convincing than an expansive chase-everything promise.",
+          "concern": "A marginal advantage in bench or vertical is not a complete player advantage. His older age and the lower range belong in the same comparison.",
+          "projection": "A practical interior scouting alternative. Clubs shopping in this part of the board should compare both Octillery prospects rather than assume the school name is the difference."
+        },
+        {
+          "pid": "p2081",
+          "name": "Castform",
+          "species": "Castform",
+          "speciesId": 351,
+          "icon": "assets/sprites/351.png",
+          "position": "OLB",
+          "age": 23,
+          "level": 7,
+          "range": [
+            56,
+            84
+          ],
+          "combine": {
+            "forty": 4.91,
+            "bench": 13,
+            "vertical": 38,
+            "cone": 6.7
+          },
+          "university": {
+            "id": "paldea-university-of-medali",
+            "name": "University of Medali",
+            "city": "Medali",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 11,
+          "analysis": "Medali's Castform is my movement wildcard: 4.91 in the forty, a thirty-eight-inch vertical and a 6.70 cone. The 56–84 range trails the players above, and at twenty-three with level seven there is no honest basis for calling this a ready-made solution. I still want the next look. A defense with a defined outside task may find the athletic outline more interesting than a broader but slower profile. I am asking for evidence, while admitting I already like the invitation.",
+          "concern": "Thirteen bench reps leave the contact question open. The low level, age and lower range require a sober price rather than an excited promise.",
+          "projection": "My outside watch-list choice. Fortree should investigate the movement; it should not confuse my enthusiasm with a guarantee that the development timetable fits."
+        },
+        {
+          "pid": "p2087",
+          "name": "Pincurchin",
+          "species": "Pincurchin",
+          "speciesId": 871,
+          "icon": "assets/sprites/871.png",
+          "position": "ILB",
+          "age": 22,
+          "level": 20,
+          "range": [
+            59,
+            87
+          ],
+          "combine": {
+            "forty": 5.19,
+            "bench": 18,
+            "vertical": 29,
+            "cone": 7.19
+          },
+          "university": {
+            "id": "kanto-university-of-pewter",
+            "name": "University of Pewter",
+            "city": "Pewter City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 12,
+          "analysis": "Pewter's Pincurchin closes the dozen with a 59–87 range and eighteen bench reps. The 5.19 forty and 7.19 cone make this a narrower athletic case, but I do not want every linebacker discussion reduced to finding another Iron Bundle. At twenty-two and level twenty, there is a useful question about an inside role and the consistency needed to perform it. The answer must come from scouting the player, not apologizing for his stopwatch.",
+          "concern": "The movement measurements make an expansive pursuit or coverage projection hard to justify from current information. A bounded role still has to be demonstrated.",
+          "projection": "A focused inside-linebacker study. A team seeking dependable interior depth should investigate the fundamentals before paying for an upside story the visible evidence has not told."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w10-draft-lb-6cab4da8cec5.png",
+        "alt": "Iron Bundle changes direction in an indoor scouting drill."
+      }
+    }
+  ]
+}
