@@ -1,0 +1,123 @@
+{
+  "season": 1,
+  "week": 11,
+  "articles": [
+    {
+      "id": "feature-playoff-race-s1-w11",
+      "type": "feature",
+      "category": "Playoff Race",
+      "title": "Three scoreboards stand between Mossdeep and Hoenn East",
+      "dek": "Mossdeep can secure Hoenn East; Mt. Silver can book a playoff place. Ellis Quill lays out every Week 12 clinching combination and the games shaping both brackets.",
+      "author": "ellis-quill",
+      "teams": [
+        "mossdeep",
+        "goldenrod",
+        "sunyshore",
+        "saffron",
+        "cinnabar",
+        "rustboro",
+        "petalburg",
+        "canalave",
+        "eterna",
+        "dewford",
+        "ecruteak",
+        "olivine"
+      ],
+      "frontPageOrder": 0.7,
+      "body": [
+        {
+          "type": "p",
+          "text": "I generally distrust the moment a season starts looking finished on a standings page. The clubs below the line still have games to play, and the clubs above it still have opponents who would enjoy spoiling an afternoon. But Week 12 gives Mossdeep something firmer than a flattering seed: a route to securing Hoenn East. Ten wins have bought the Eclipse that opportunity. They have not yet bought the division, a first-round rest or an appointment in the Indigo Bowl."
+        },
+        {
+          "type": "p",
+          "text": "Michael Dorrill’s team is 10–0 after beating Vermilion 45–21. Sootopolis and Lavaridge are both 4–6, while Fortree is 3–7. Seven games remain for all four clubs. The distance looks enormous because it is enormous. It also leaves a little arithmetic to do before anybody orders the celebratory banner."
+        },
+        {
+          "type": "h2",
+          "text": "Mossdeep’s two division-clinching routes"
+        },
+        {
+          "type": "p",
+          "text": "Under the league’s published playoff rules, the first route requires a Mossdeep victory at Rustboro, plus Sootopolis failing to win at Petalburg and Lavaridge failing to win at Dewford. A loss or a tie is sufficient for each pursuer. All three parts matter. A Mossdeep win by itself would take the Eclipse to 11–0, but a victorious Sootopolis or Lavaridge could still finish with 11 wins by taking its remaining six games."
+        },
+        {
+          "type": "p",
+          "text": "The second route begins with a Mossdeep–Rustboro tie. In that case, both Sootopolis and Lavaridge must lose. Mossdeep would have ten wins and a tie, worth ten and a half wins in the standings even if it lost its last six games. Those two rivals would each be capped at ten wins. Fortree can already finish with no more than ten, so it cannot interfere with either of these clinching combinations."
+        },
+        {
+          "type": "p",
+          "text": "If Mossdeep loses, Hoenn East remains unsettled through this round. And if the Eclipse win while either principal pursuer also wins, an equal final record is still possible. The division tiebreaks cannot simply be waved away: a pursuer that wins out also improves its division record, while a Mossdeep collapse would damage its own. The six-game lead does real work here, but it does not make every equal-record finish safe."
+        },
+        {
+          "type": "p",
+          "text": "Those are the complete Week 12 combinations for securing Hoenn East. There is also a separate route to clinching a playoff berth while leaving the division open: Mossdeep wins; Sootopolis, Lavaridge and Sunyshore all win; Mauville fails to beat Fortree; and Pastoria fails to beat Oreburgh. A tie satisfies either of those last two requirements. Every part is required for this additional route. The results squeeze the remaining wild-card competition enough for Mossdeep’s head-to-head wins and the ordering of the other contenders to protect a place even in a late-season collapse."
+        },
+        {
+          "type": "h2",
+          "text": "The road after Rustboro still matters"
+        },
+        {
+          "type": "p",
+          "text": "A division title would settle one argument and leave several others open. Mossdeep’s remaining itinerary is Rustboro away, Fortree away, Petalburg at home, Canalave away, Sunyshore at home, Sootopolis at home and Lavaridge away. The Eclipse have to cross three of the conference’s present playoff positions in successive games from Weeks 14 through 16. Petalburg is the third seed, Canalave the fourth and Sunyshore the second. That is a fairly persuasive objection to treating November as a victory lap."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore’s visit in Week 16 is the obvious appointment in the race for the conference’s first seed. The Starseekers are 8–2 after their 21–20 escape at Blackthorn. Before Mossdeep, they travel to Eterna and Hearthome, then host Canalave and Rustboro. If Sunyshore keeps winning while Mossdeep drops games, that meeting can become a direct opportunity to change the order at the top. If the Eclipse keep winning, the same fixture becomes a much steeper chase. Those are conditional paths, not an announcement that either club has secured the bye."
+        },
+        {
+          "type": "p",
+          "text": "Only the first seed in each conference rests during the wild-card round. Nobody can secure that privilege through Week 12. Even an Eclipse win leaves enough schedule for Sunyshore to finish above a Mossdeep team that subsequently loses out. I would still make Mossdeep my first-seed choice today. A forecast can have a favorite without pretending the remaining six games have already happened."
+        },
+        {
+          "type": "h2",
+          "text": "Mt. Silver’s lead has a different shape"
+        },
+        {
+          "type": "p",
+          "text": "Across the league, Connor McLarren’s Mt. Silver Reds are also 10–0, with 277 points scored and only 68 conceded. Their 38–0 win over Eterna did nothing to make the defense look charitable. They now host 8–2 Blackthorn, the current second seed in Kanto–Johto, in a game that reaches well beyond the Reds’ immediate neighborhood."
+        },
+        {
+          "type": "p",
+          "text": "Mt. Silver cannot clinch Johto West this week, even with a win and an Olivine loss. That combination would leave the Reds with an 11-win floor and the Ironclads with an 11-win ceiling. Olivine could reach that ceiling by winning out, including its Week 13 trip to Mt. Silver, and take the division tiebreak in that particular finish. It is an unlikely-looking road when one watches the Reds play. It is still an open road in the standings."
+        },
+        {
+          "type": "p",
+          "text": "The Reds can, however, secure a playoff berth this week. They must beat Blackthorn, Olivine must beat Violet, Cianwood must beat Lavender, and Cerulean must fail to beat Celadon. Then one of two additional combinations is needed: Vermilion and Viridian tie; or Vermilion wins and Pewter fails to beat Fuchsia. A Cerulean tie is sufficient, and a Pewter tie is sufficient in that second branch. The Saffron–Cinnabar and Azalea–Mahogany results do not affect those combinations. It is a longer shopping list than Mossdeep’s division route, but it can deliver a postseason place without settling Johto West."
+        },
+        {
+          "type": "p",
+          "text": "McLarren’s remaining opponents are Blackthorn, Olivine, Mahogany, Saffron, Cinnabar, Azalea and Cianwood. Saffron’s Week 15 visit and Mt. Silver’s Week 16 trip to Cinnabar put two current division leaders directly in the Reds’ path. The Psi Corps, now 8–2 after beating Fortree 52–0, go to 7–3 Cinnabar this week. A Saffron win keeps pressure on the conference leaders and damages Cinnabar’s margin in Kanto West. A Blaze win pulls those two clubs level at eight victories. Neither result comes with a first-round bye attached."
+        },
+        {
+          "type": "h2",
+          "text": "The seventh seed has neighbors"
+        },
+        {
+          "type": "p",
+          "text": "The present Hoenn–Sinnoh order is Mossdeep, Sunyshore, Petalburg, Canalave, Rustboro, Eterna and Dewford. If those positions survived to the postseason, the opening games would be Sunyshore–Dewford, Petalburg–Eterna and Canalave–Rustboro, with Mossdeep waiting. They are a picture of the current bracket, not scheduled playoff fixtures. Canalave has played 11 games and is 7–4; the three current wild-card clubs are all 6–4. The Bulwark’s Week 12 bye makes that difference in games played especially visible."
+        },
+        {
+          "type": "p",
+          "text": "Rustboro’s immediate task is difficult and useful: beat the unbeaten visitors, then keep moving through a schedule that includes Sunyshore, Canalave, Petalburg and Dewford. Those last two divisional meetings arrive in Weeks 17 and 18. Petalburg already leads Hoenn West at 7–3, and its Week 13 home game against Dewford precedes the trip to Mossdeep. A Pride stumble can help both six-win pursuers; their remaining head-to-head games ensure that nobody gets to improve every contender’s record at once."
+        },
+        {
+          "type": "p",
+          "text": "Eterna and Canalave meet in Week 13. First, the Thorns host Sunyshore after losing 38–0 at Mt. Silver. An Eterna win would repair its own position and help Mossdeep’s first-seed chase; a loss would give Rustboro and Dewford an opportunity to move ahead in wins. The standings are full of favors that nobody intends to perform."
+        },
+        {
+          "type": "p",
+          "text": "Kanto–Johto currently lines up Mt. Silver, Blackthorn, Saffron, Cinnabar, Vermilion, Violet and Lavender. Hold those seeds and the wild-card games would be Blackthorn–Lavender, Saffron–Violet and Cinnabar–Vermilion. Lavender’s 31–14 win over Veilstone has brought the Wails to 5–5 and seventh place, level in record with Olivine immediately outside the bracket. Travis Scarboro’s club goes to Cianwood while Violet visits Olivine. That second game guarantees dropped standing ground for at least one of Lavender’s nearby rivals; the Wails still have to take care of their own trip."
+        },
+        {
+          "type": "p",
+          "text": "No club has yet secured a playoff berth. The first item I will be checking this week is therefore wonderfully specific: Mossdeep’s result at Rustboro, Sootopolis’s result at Petalburg and Lavaridge’s result at Dewford. Three scoreboards can turn Hoenn East from a commanding lead into a finished race. The rest of the conference would still have plenty to discuss."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/s1-w11-playoff-9a82603881c8.png",
+        "alt": "Colored paths approach seven closed playoff gates."
+      }
+    }
+  ]
+}
