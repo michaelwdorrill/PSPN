@@ -1,0 +1,950 @@
+{
+  "season": 1,
+  "week": 12,
+  "articles": [
+    {
+      "id": "feature-injury-report-s1-w12",
+      "type": "feature",
+      "title": "The waiting room is full: Week 12 injury report",
+      "dek": "Sixteen new absences, ten cleared recovery counters, and a changing cast for the playoff push. Ninjaskamara, Mr. Clanky and My Way, Son headline the league-wide report.",
+      "author": "tessa-wren",
+      "teams": [
+        "viridian",
+        "pewter",
+        "celadon",
+        "cinnabar",
+        "cerulean",
+        "saffron",
+        "vermilion",
+        "fuchsia",
+        "azalea",
+        "goldenrod",
+        "olivine",
+        "cianwood",
+        "violet",
+        "ecruteak",
+        "mahogany",
+        "blackthorn",
+        "rustboro",
+        "petalburg",
+        "dewford",
+        "mauville",
+        "lavaridge",
+        "fortree",
+        "mossdeep",
+        "sootopolis",
+        "oreburgh",
+        "eterna",
+        "canalave",
+        "snowpoint",
+        "hearthome",
+        "veilstone",
+        "pastoria",
+        "sunyshore"
+      ],
+      "frontPageOrder": 0.85,
+      "body": [
+        {
+          "type": "p",
+          "text": "The recovery room has become one of the league's busiest meeting places. Week 12 produced sixteen new injuries carrying a reported absence, and the list reaches directly into the playoff race: Mossdeep's leading rusher, Lavender's quarterback, Rustboro's rushing group and Vermilion's defensive depth. Winning the afternoon has not guaranteed an uncomplicated week of preparation."
+        },
+        {
+          "type": "p",
+          "text": "Across the league, fifty-three players now carry a positive recovery counter. Ten players who had time remaining in the previous report have reached zero or had that designation cleared. Those are different kinds of movement. A counter changing from four weeks to three is continuing recovery; it is not another injury. A counter reaching zero also does not, by itself, establish a return to the lineup."
+        },
+        {
+          "type": "p",
+          "text": "This report reflects confirmed information after Week 12 and before Week 13. Durations below are the reported recovery counts, not guaranteed dates for the next appearance. The game records identify injuries but do not establish when during a game each occurred. We can describe who produced in the recorded game; we cannot attach an injury to a particular collision unless the record supports it."
+        },
+        {
+          "type": "h2",
+          "text": "Mossdeep's clinch comes with a backfield problem"
+        },
+        {
+          "type": "p",
+          "text": "Ninjaskamara has a four-week injury entry after the 35–7 win at Rustboro. The Ninjask still leads the league with 1,138 rushing yards, so this is a meaningful change to an offense that has been able to ask different players to finish drives. He carried three times for sixteen yards in Week 12. His absence now stretches beyond the immediate trip to Fortree on the reported counter."
+        },
+        {
+          "type": "p",
+          "text": "Poury Holt supplied an actual answer during the game: sixteen carries for eighty-two yards, including the eight-yard third-down conversion that kept the first touchdown drive of the second half alive. That production gives Michael Dorrill something concrete to build on. It does not make the lost workload disappear, and a strong rushing performance is not a guarantee of the next week's final deployment."
+        },
+        {
+          "type": "p",
+          "text": "Richard Furman is also out for a reported five weeks. Listed as a cornerback, the Meowth nevertheless carried four times for thirty yards at Rustboro. That is why the position label alone does not describe everything Mossdeep loses. Marshall Flock's existing absence is now three weeks, down from four. The Eclipse have secured Hoenn East; getting there has not made their available personnel a fixed quantity."
+        },
+        {
+          "type": "h2",
+          "text": "Lavender must prepare beyond the rescue"
+        },
+        {
+          "type": "p",
+          "text": "Mr. Clanky's two-week entry changes the conversation around Lavender's 18–17 escape at Cianwood. The Iron Bundle completed one of four passes for one yard. Frosmoth supplied nine completions on twenty attempts for 113 yards and the late touchdown to Luvdisc, while Zorua also threw four passes and an interception. The combined passing line should not be mistaken for one replacement's afternoon."
+        },
+        {
+          "type": "p",
+          "text": "Frosmoth has the most substantial recent passing evidence among those alternatives. His twenty-two-yard fourth-down completion to Kujira on the winning drive is a reason to take that evidence seriously. Four sacks are a reason to give the protection equal attention. With Mahogany visiting next, Travis Scarboro needs a plan that accounts for both, rather than asking one comeback to settle the entire quarterback discussion."
+        },
+        {
+          "type": "p",
+          "text": "People Eater remains out for five weeks, down from six. Beedrill's previous one-week designation has reached zero. That change adds an availability question worth following, but the cleared counter does not establish a restored receiving role. Lavender's immediate concern is distributing a real workload among the players who can take it."
+        },
+        {
+          "type": "h2",
+          "text": "The other backfields have changed too"
+        },
+        {
+          "type": "p",
+          "text": "Rustboro's My Way, Son carries a six-week entry after two rushing attempts for five yards against Mossdeep. Philly ran twelve times for sixty-one yards, and Watchog added forty-five on nine carries. Those are recorded alternatives for the Stone's upcoming meeting with Mauville. Philly also has a new minor entry with no remaining absence; the report gives no basis for turning that into a multiweek diagnosis."
+        },
+        {
+          "type": "p",
+          "text": "Mauville has its own severe disruption: Unfezant's new recovery count is thirteen weeks. Sootopolis lists Arbok at seventeen weeks, another new injury whose duration reaches well beyond the remaining regular-season schedule. Those counters warrant planning for substantial absences. They do not justify inventing a specific medical condition or a firm postseason return date."
+        },
+        {
+          "type": "p",
+          "text": "Blackthorn beat Mt. Silver while Furret's game produced a two-week entry. The Dragons visit Violet next; Violet has new two-week absences for both Barbaracle and Snorlax. Olivine, traveling to Mt. Silver, adds Delcatty for three weeks while several earlier absences continue. None of these clubs gets to treat next week's matchup as an exact replay of the personnel available in the last one."
+        },
+        {
+          "type": "h2",
+          "text": "Vermilion's win carries a defensive bill"
+        },
+        {
+          "type": "p",
+          "text": "The Volts won 7–6 at Viridian and now face Saffron with two substantial new defensive absences: Gabite, a defensive end, is listed at seven weeks, and cornerback Drakloak at fifteen. Tentacruel's previous one-week designation has reached zero, but one cleared cornerback entry cannot be treated as proof that every coverage problem is solved. Saffron just produced 324 passing yards and three passing touchdowns at Cinnabar."
+        },
+        {
+          "type": "p",
+          "text": "The Psi Corps receive two encouraging changes of their own. NeMarcus Tare and Verrick Brooks have both reached zero after carrying one week in the prior report. Neither should be credited with playing in the Cinnabar game merely because the current counter has cleared. Demedicus Ware's eight recorded sacks are already in the book; decisions about how the available linebackers share the next game remain ahead."
+        },
+        {
+          "type": "p",
+          "text": "Snowpoint's 24–6 win brings an eleven-week injury for cornerback Jumpluff. The Blizzard can enjoy a much cleaner offensive afternoon and still have a significant defensive absence to manage before visiting Oreburgh. Elsewhere, Cerulean's Raticate and Oreburgh's Huntail each carry new two-week entries, while Celadon's Anorith is listed for five."
+        },
+        {
+          "type": "h2",
+          "text": "The complete absence board"
+        },
+        {
+          "type": "table",
+          "title": "Reported absences after Week 12",
+          "description": "All 53 players with time remaining. The change column distinguishes new injuries from the ordinary recovery countdown.",
+          "columns": [
+            "Team",
+            "Player / position",
+            "Reported status",
+            "Since last issue"
+          ],
+          "rows": [
+            {
+              "team": "azalea",
+              "cells": [
+                "Azalea Swarm",
+                "#22 Doduo · HB",
+                "Out · 2 weeks",
+                "Recovery count: 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "Blackthorn Dragons",
+                "#21 Furret · HB",
+                "Out · 2 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "Blackthorn Dragons",
+                "#18 Grovyle · SLOT",
+                "Out · 4 weeks",
+                "Recovery count: 5 → 4 weeks"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "Blackthorn Dragons",
+                "#51 Ninjask · WR",
+                "Out · 1 week",
+                "Recovery count: 2 → 1 week"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "Canalave Bulwark",
+                "#58 Kecleon · ILB",
+                "Out · 2 weeks",
+                "Recovery count: 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "Canalave Bulwark",
+                "#35 Octillery · ILB",
+                "Out · 4 weeks",
+                "Recovery count: 5 → 4 weeks"
+              ]
+            },
+            {
+              "team": "celadon",
+              "cells": [
+                "Celadon Bloom",
+                "#47 Anorith · HB",
+                "Out · 5 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "celadon",
+              "cells": [
+                "Celadon Bloom",
+                "#13 Frosmoth · S",
+                "Out · 7 weeks",
+                "Recovery count: 8 → 7 weeks"
+              ]
+            },
+            {
+              "team": "celadon",
+              "cells": [
+                "Celadon Bloom",
+                "#12 Gholdengo · QB",
+                "Out · 8 weeks",
+                "Recovery count: 9 → 8 weeks"
+              ]
+            },
+            {
+              "team": "cerulean",
+              "cells": [
+                "Cerulean Tide",
+                "#58 Raticate · CB",
+                "Out · 2 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "cerulean",
+              "cells": [
+                "Cerulean Tide",
+                "#12 Vikavolt · S",
+                "Out · 2 weeks",
+                "Recovery count: 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#12 Gardevoir · QB",
+                "Out · 5 weeks",
+                "Recovery count: 6 → 5 weeks"
+              ]
+            },
+            {
+              "team": "fortree",
+              "cells": [
+                "Fortree Skyhawks",
+                "#55 Pawmot · DE",
+                "Out · 5 weeks",
+                "Recovery count: 6 → 5 weeks"
+              ]
+            },
+            {
+              "team": "fuchsia",
+              "cells": [
+                "Fuchsia Shadows",
+                "#88 Kleavor · CB",
+                "Out · 6 weeks",
+                "Recovery count: 7 → 6 weeks"
+              ]
+            },
+            {
+              "team": "hearthome",
+              "cells": [
+                "Hearthome Haunts",
+                "#97 Luxray · HB",
+                "Out · 3 weeks",
+                "Recovery count: 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "hearthome",
+              "cells": [
+                "Hearthome Haunts",
+                "#26 Mr. Mime · S",
+                "Out · 12 weeks",
+                "Recovery count: 13 → 12 weeks"
+              ]
+            },
+            {
+              "team": "hearthome",
+              "cells": [
+                "Hearthome Haunts",
+                "#14 Sunflora · K",
+                "Out · 1 week",
+                "Recovery count: 2 → 1 week"
+              ]
+            },
+            {
+              "team": "lavaridge",
+              "cells": [
+                "Lavaridge Inferno",
+                "#93 Stantler · HB",
+                "Out · 1 week",
+                "Recovery count: 2 → 1 week"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#11 Mr. Clanky · QB",
+                "Out · 2 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#19 People Eater · WR",
+                "Out · 5 weeks",
+                "Recovery count: 6 → 5 weeks"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#92 Kricketune · OLB",
+                "Out · 8 weeks",
+                "Recovery count: 9 → 8 weeks"
+              ]
+            },
+            {
+              "team": "mauville",
+              "cells": [
+                "Mauville Dynamos",
+                "#22 Unfezant · HB",
+                "Out · 13 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "Mossdeep Eclipse",
+                "#44 Marshall Flock · CB",
+                "Out · 3 weeks",
+                "Recovery count: 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "Mossdeep Eclipse",
+                "#27 Ninjaskamara · HB",
+                "Out · 4 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "Mossdeep Eclipse",
+                "#14 Richard Furman · CB",
+                "Out · 5 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#7 Josh Alakazam · QB",
+                "Out · 10 weeks",
+                "Recovery count: 11 → 10 weeks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#29 Delcatty · WR",
+                "Out · 3 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#12 Gogoat · TE",
+                "Out · 1 week",
+                "Recovery count: 2 → 1 week"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#50 Kabutops · OLB",
+                "Out · 2 weeks",
+                "Recovery count: 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#11 Stantler · WR",
+                "Out · 10 weeks",
+                "Recovery count: 11 → 10 weeks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#39 Thievul · CB",
+                "Out · 4 weeks",
+                "Recovery count: 5 → 4 weeks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#83 Veluza · TE",
+                "Out · 3 weeks",
+                "Recovery count: 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "oreburgh",
+              "cells": [
+                "Oreburgh Miners",
+                "#89 Huntail · TE",
+                "Out · 2 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "Pastoria Waves",
+                "#40 Arbok · WR",
+                "Out · 3 weeks",
+                "Recovery count: 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "Pastoria Waves",
+                "#78 Oinkologne · HB",
+                "Out · 2 weeks",
+                "Recovery count: 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "Pewter Rockers",
+                "#88 Froslass · CB",
+                "Out · 3 weeks",
+                "Recovery count: 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "Pewter Rockers",
+                "#91 Scolipede · CB",
+                "Out · 8 weeks",
+                "Recovery count: 9 → 8 weeks"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "Rustboro Stone",
+                "#93 My Way, Son · HB",
+                "Out · 6 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "Saffron Psi Corps",
+                "#75 Emmitt Smoth · FB",
+                "Out · 1 week",
+                "Recovery count: 2 → 1 week"
+              ]
+            },
+            {
+              "team": "snowpoint",
+              "cells": [
+                "Snowpoint Blizzard",
+                "#24 Jumpluff · CB",
+                "Out · 11 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "Sootopolis Surge",
+                "#17 Arbok · WR",
+                "Out · 17 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "Sootopolis Surge",
+                "#87 Heatmor · TE",
+                "Out · 2 weeks",
+                "Recovery count: 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "Sunyshore Starseekers",
+                "#99 Myles Gabite · HB",
+                "Out · 1 week",
+                "Recovery count: 2 → 1 week"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#43 Delcatty · CB",
+                "Out · 8 weeks",
+                "Recovery count: 9 → 8 weeks"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#13 Drakloak · CB",
+                "Out · 15 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#87 Exploud · HB",
+                "Out · 8 weeks",
+                "Recovery count: 9 → 8 weeks"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#31 Exploud · HB",
+                "Out · 1 week",
+                "Recovery count: 2 → 1 week"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#99 Gabite · DE",
+                "Out · 7 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "violet",
+              "cells": [
+                "Violet Falcons",
+                "#52 Barbaracle · MLB",
+                "Out · 2 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "violet",
+              "cells": [
+                "Violet Falcons",
+                "#99 Snorlax · DT",
+                "Out · 2 weeks",
+                "New Week 12 injury"
+              ]
+            },
+            {
+              "team": "viridian",
+              "cells": [
+                "Viridian Titans",
+                "#60 Bonsly · OL",
+                "Out · 3 weeks",
+                "Recovery count: 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "viridian",
+              "cells": [
+                "Viridian Titans",
+                "#22 Sneasel · CB",
+                "Out · 1 week",
+                "Recovery count: 2 → 1 week"
+              ]
+            },
+            {
+              "team": "viridian",
+              "cells": [
+                "Viridian Titans",
+                "#99 Toucannon · ILB",
+                "Out · 3 weeks",
+                "Recovery count: 4 → 3 weeks"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Cleared counters to follow"
+        },
+        {
+          "type": "p",
+          "text": "These ten players had a positive recovery count in the prior issue and now have none. This is an update to the injury designation, not a declaration that all ten appeared in Week 12, will start in Week 13, or have regained their previous workload. Gregar Jenings is particularly relevant to Mt. Silver's receiving options as the Reds prepare for Olivine; the same distinction applies to every name on the board."
+        },
+        {
+          "type": "table",
+          "title": "Recovery counters now cleared",
+          "description": "Previous issue → current confirmed report. Appearance and role require separate game or lineup evidence.",
+          "columns": [
+            "Team",
+            "Player / position",
+            "Reported status",
+            "Since last issue"
+          ],
+          "rows": [
+            {
+              "team": "celadon",
+              "cells": [
+                "Celadon Bloom",
+                "#31 Vespiquen · S",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#31 Jumpluff · CB",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "hearthome",
+              "cells": [
+                "Hearthome Haunts",
+                "#24 Luvdisc · SLOT",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "lavaridge",
+              "cells": [
+                "Lavaridge Inferno",
+                "#35 Mothim · WR",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#93 Beedrill · WR",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#88 Gregar Jenings · WR",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "Saffron Psi Corps",
+                "#42 NeMarcus Tare · OLB",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "Saffron Psi Corps",
+                "#52 Verrick Brooks · OLB",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#11 Tentacruel · CB",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            },
+            {
+              "team": "violet",
+              "cells": [
+                "Violet Falcons",
+                "#98 Axew · DE",
+                "No reported time remaining",
+                "Previously 1 week"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "New minor entries"
+        },
+        {
+          "type": "p",
+          "text": "Twenty-one additional Week 12 entries have zero time remaining. They are included here so that a name appearing in a game injury list is not automatically read as another extended absence. The report does not supply a medical diagnosis or an additional availability label for these players."
+        },
+        {
+          "type": "table",
+          "title": "Minor entries from Week 12",
+          "description": "The current report lists zero weeks for each player below.",
+          "columns": [
+            "Team",
+            "Player / position",
+            "Reported status",
+            "Since last issue"
+          ],
+          "rows": [
+            {
+              "team": "cerulean",
+              "cells": [
+                "Cerulean Tide",
+                "#95 Farigiraf · QB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#18 Arbok · TE",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#42 Ledian · S",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "Cinnabar Blaze",
+                "#80 Arcanine · WR",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "Cinnabar Blaze",
+                "#45 Thievul · CB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "dewford",
+              "cells": [
+                "Dewford Breakers",
+                "#40 Gliscor · CB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "fuchsia",
+              "cells": [
+                "Fuchsia Shadows",
+                "#87 Oinkologne · OL",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "fuchsia",
+              "cells": [
+                "Fuchsia Shadows",
+                "#67 Tirtouga · FB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#24 Dugtrio · CB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#13 Unfezant · WR",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#22 Exploud · HB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "Pewter Rockers",
+                "#94 Lucario · DE",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "Rustboro Stone",
+                "#3 Diggersby · CB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "Rustboro Stone",
+                "#63 Philly · HB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "Rustboro Stone",
+                "#37 Porygon-Z · QB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "Saffron Psi Corps",
+                "#88 Mothel Irving · WR",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "snowpoint",
+              "cells": [
+                "Snowpoint Blizzard",
+                "#30 Medicham · S",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "Sunyshore Starseekers",
+                "#21 Serp Gardener · CB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "Sunyshore Starseekers",
+                "#52 Vig Rothington · MLB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "veilstone",
+              "cells": [
+                "Veilstone Fists",
+                "#21 Pidgeot · CB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#24 Kangaskhan · HB",
+                "Minor · 0 weeks",
+                "New game entry; no reported absence"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The next round's most consequential changes begin at running back and quarterback: Ninjaskamara's four weeks, My Way, Son's six, and Mr. Clanky's two. Their teams have other recorded contributors to examine. The next test is turning those individual answers into a complete game plan."
+        }
+      ],
+      "wordCount": 1114,
+      "art": {
+        "src": "assets/editorial/f76a63fd03c87a9f.webp",
+        "alt": "Ninjaskamara, Mr. Clanky, My Way Son and Richard Furman share a comic recovery ward."
+      }
+    }
+  ]
+}

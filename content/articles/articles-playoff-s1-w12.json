@@ -1,0 +1,182 @@
+{
+  "season": 1,
+  "week": 12,
+  "articles": [
+    {
+      "id": "feature-playoff-race-s1-w12",
+      "type": "feature",
+      "category": "Playoff Race",
+      "title": "Mossdeep is in. Mt. Silver has two routes to follow.",
+      "dek": "The Eclipse have secured Hoenn East. Ellis Quill maps every Week 13 clinching route, the ties that matter and the matchups reshaping both playoff fields.",
+      "author": "ellis-quill",
+      "teams": [
+        "mossdeep",
+        "goldenrod",
+        "olivine",
+        "blackthorn",
+        "violet",
+        "mahogany",
+        "ecruteak",
+        "saffron",
+        "vermilion",
+        "sunyshore",
+        "petalburg",
+        "dewford",
+        "canalave",
+        "eterna",
+        "rustboro"
+      ],
+      "frontPageOrder": 0.7,
+      "body": [
+        {
+          "type": "p",
+          "text": "Mossdeep can put one argument away. The Eclipse are Hoenn East champions, and their playoff place is secured. Their 35–7 victory at Rustboro supplied the eleventh win; defeats for Sootopolis and Lavaridge removed the last mathematical obstacle. Michael Dorrill’s club has been playing like a postseason team for months. Now the standings have stopped leaving room for an objection."
+        },
+        {
+          "type": "p",
+          "text": "That is the only qualification already settled. Mt. Silver’s 30–22 loss to Blackthorn ended the Reds’ unbeaten run and left their invitation unsigned. Week 13 offers a much simpler division-clinching assignment: beat visiting Olivine. There is also a precise three-game route if the Reds tie. Those are the complete new clinching possibilities this week under the league’s published playoff rules. No other club can secure a new berth or division title, and neither conference’s first-round bye can be clinched."
+        },
+        {
+          "type": "h2",
+          "text": "Mossdeep’s banner is earned; the rest is still work"
+        },
+        {
+          "type": "p",
+          "text": "At 11–0, Mossdeep already has more wins than any Hoenn East rival can finish with. Sootopolis and Lavaridge are 4–7 with six games remaining, giving each a ceiling of ten victories. Fortree is 3–8 and can reach nine. No tiebreak is needed. The Eclipse have won the division outright even in the worst remaining sequence of results."
+        },
+        {
+          "type": "flowchart",
+          "title": "Confirmed through Week 12: Mossdeep wins Hoenn East",
+          "description": "Season 1, Week 12 confirmed outcome. The three completed results below satisfied the division route.",
+          "steps": [
+            {
+              "label": "Mossdeep wins",
+              "text": "Eclipse beat Rustboro 35–7 and reach 11–0."
+            },
+            {
+              "label": "AND Sootopolis loses",
+              "text": "Surge lose 21–18 at Petalburg; maximum finish is ten wins."
+            },
+            {
+              "label": "AND Lavaridge loses",
+              "text": "Inferno lose 22–16 at Dewford; maximum finish is ten wins."
+            },
+            {
+              "label": "Division clinched",
+              "text": "Mossdeep secures Hoenn East and a playoff berth. The first seed remains open.",
+              "tone": "success"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The next opponent is Fortree, followed by Petalburg at home, Canalave away and Sunyshore at home. That three-game stretch from Weeks 14 through 16 crosses three current division leaders. Sootopolis at home and Lavaridge away complete the schedule. A secured division allows the Eclipse to look up the bracket; it does not make those appointments ceremonial."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore’s 14–6 loss at Eterna has widened the distance at the top. The Starseekers are 8–3, three wins behind Mossdeep, with a Week 16 trip to the Eclipse still available as a direct opportunity. They visit Hearthome next, then host Canalave and Rustboro. My first-seed choice remains Mossdeep. But even an Eclipse win this week leaves a possible finish in which Sunyshore wins its final five games and ends above a Mossdeep side that loses out. Only the first seed rests in the opening round, and that rest has not been reserved."
+        },
+        {
+          "type": "h2",
+          "text": "Mt. Silver route one: beat Olivine"
+        },
+        {
+          "type": "p",
+          "text": "A Reds victory produces an 11–1 record and clinches Johto West. Olivine would fall to 6–6, leaving the Ironclads able to reach eleven wins only by sweeping their final five games. Mt. Silver already beat Olivine 13–9 in Week 1. A second victory would complete the head-to-head sweep and settle that possible eleven-win tie in the Reds’ favor. Azalea can finish with no more than ten wins; Cianwood can reach nine."
+        },
+        {
+          "type": "flowchart",
+          "title": "Week 13 route A: Mt. Silver clinches the division",
+          "description": "Season 1, Week 13 conditional route. This route needs no help from another game.",
+          "steps": [
+            {
+              "label": "Mt. Silver wins",
+              "text": "Reds beat Olivine and improve to 11–1."
+            },
+            {
+              "label": "Head-to-head sweep secured",
+              "text": "Olivine can finish with eleven wins at most; Mt. Silver would own both meetings."
+            },
+            {
+              "label": "Division clinched",
+              "text": "Johto West and a playoff berth belong to Mt. Silver. The first seed remains open.",
+              "tone": "success"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "This is an unusually direct reward for recovering from a defeat. Blackthorn has made the conference race tighter, but the Reds do not need to watch Saffron or calculate a margin of victory to claim their own division. They need one more win over the nearest divisional pursuer. The first meeting was decided by four points, which is a useful antidote to treating the requirement as a formality."
+        },
+        {
+          "type": "h2",
+          "text": "Mt. Silver route two: a tie and two specific favors"
+        },
+        {
+          "type": "p",
+          "text": "If Mt. Silver ties Olivine, it can secure a playoff berth only if Blackthorn beats Violet AND Mahogany beats Lavender. Both supporting results must be outright wins. A tie in either supporting game is insufficient. This combination guarantees entry to the postseason while leaving Johto West open; Olivine could still finish above the Reds."
+        },
+        {
+          "type": "flowchart",
+          "title": "Week 13 route B: Mt. Silver secures a berth",
+          "description": "Season 1, Week 13 conditional route. ALL three results are required; this is an alternative to route A.",
+          "steps": [
+            {
+              "label": "Mt. Silver ties",
+              "text": "Reds and Olivine finish level; Mt. Silver becomes 10–1–1."
+            },
+            {
+              "label": "AND Blackthorn wins",
+              "text": "Dragons must beat Violet. A tie does not satisfy this step."
+            },
+            {
+              "label": "AND Mahogany wins",
+              "text": "Frost must beat Lavender. A tie does not satisfy this step."
+            },
+            {
+              "label": "Playoff berth secured",
+              "text": "Mt. Silver is in. Johto West and the first seed remain open.",
+              "tone": "success"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The reason those favors matter is the limited room left below the division winners. A Reds tie sets a floor of ten wins and a tie. Defeats leave Violet and Lavender at six wins apiece, with five games left and a meeting against each other still to come. Their competing paths, together with Mt. Silver’s head-to-head advantage over Violet and the conference’s other division races, prevent three wild-card clubs from all pushing the Reds out. The half-win counts; replacing either required loss with a tie changes the answer."
+        },
+        {
+          "type": "p",
+          "text": "If Mt. Silver loses, it cannot clinch this week. If it ties without both favors, it cannot clinch this week either. That means the race remains open, not that the Reds are eliminated. After Olivine, they visit Mahogany, host Saffron, visit Cinnabar and Azalea, then finish at home against Cianwood. Saffron’s Week 15 visit is the obvious next confrontation at the top of the conference."
+        },
+        {
+          "type": "h2",
+          "text": "The games that can rearrange the bracket"
+        },
+        {
+          "type": "p",
+          "text": "Kanto–Johto presently runs Mt. Silver, Blackthorn, Saffron and Cinnabar in the four division positions, followed by Vermilion, Lavender and Olivine. Freeze those seeds and the opening games would be Blackthorn–Olivine, Saffron–Lavender and Cinnabar–Vermilion. Those are possible pairings under an unchanged order, not booked fixtures. Violet is also 6–5 and sits just outside the seven; hosting Blackthorn gives the Falcons an immediate opportunity to change that."
+        },
+        {
+          "type": "p",
+          "text": "Saffron hosts 7–4 Vermilion after its 35–3 demolition of Cinnabar. A Psi Corps win would widen the Kanto East gap from two wins to three; a Volts win would narrow it to one. Blackthorn follows its trip to Violet with home games against Olivine and Cinnabar before visiting Saffron. Lavender’s next four opponents are Mahogany, Azalea, Celadon and Cerulean, followed by Violet and Blackthorn. The Wails have a chance to build a cushion before two division meetings that could decide how useful that cushion becomes."
+        },
+        {
+          "type": "p",
+          "text": "Hoenn–Sinnoh currently lines up Mossdeep, Sunyshore, Petalburg, Canalave, Eterna, Dewford and Rustboro. Hold that order and Sunyshore would host Rustboro, Petalburg would host Dewford, and Canalave would host Eterna. Two of those potential opening pairings happen in Week 13: Dewford visits Petalburg, and Canalave visits Eterna. Each gives the contender below the division leader a chance to take ground directly from a rival."
+        },
+        {
+          "type": "p",
+          "text": "Petalburg is 8–3 and Dewford 7–4, so a Breakers victory would put them level in overall record. Rustboro, now 6–5, hosts 5–6 Mauville; the Stone then visit Fortree and Sunyshore before closing with Canalave, Petalburg and Dewford at home. That closing sequence gives Rustboro substantial control over its own chase, provided it reaches those games close enough to use it. Eterna and Canalave are both 7–4, making their meeting equally relevant to the division and wild-card picture."
+        },
+        {
+          "type": "p",
+          "text": "For this week’s celebration watch, the instructions are short: Mossdeep has already earned its banner; Mt. Silver earns one by beating Olivine. If the Reds tie, the Blackthorn–Violet and Mahogany–Lavender scoreboards decide whether a playoff place is secured. Everywhere else, Week 13 changes the chase without completing it."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/d9fe8e814a1948e9.webp",
+        "alt": "An open magenta-and-gold gate and a closed crimson-and-silver gate illustrate the playoff qualification race."
+      }
+    }
+  ]
+}

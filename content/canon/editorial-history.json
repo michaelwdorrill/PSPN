@@ -1104,6 +1104,144 @@
           "team": "celadon"
         }
       ]
+    },
+    {
+      "key": "s1-w12",
+      "season": 1,
+      "week": 12,
+      "focus": "K",
+      "afterBowl": false,
+      "powerTheme": "The part that can break",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep"
+        },
+        {
+          "rank": 2,
+          "team": "saffron"
+        },
+        {
+          "rank": 3,
+          "team": "blackthorn"
+        },
+        {
+          "rank": 4,
+          "team": "goldenrod"
+        },
+        {
+          "rank": 5,
+          "team": "petalburg"
+        },
+        {
+          "rank": 6,
+          "team": "sunyshore"
+        },
+        {
+          "rank": 7,
+          "team": "dewford"
+        },
+        {
+          "rank": 8,
+          "team": "eterna"
+        },
+        {
+          "rank": 9,
+          "team": "rustboro"
+        },
+        {
+          "rank": 10,
+          "team": "cinnabar"
+        },
+        {
+          "rank": 11,
+          "team": "ecruteak"
+        },
+        {
+          "rank": 12,
+          "team": "olivine"
+        },
+        {
+          "rank": 13,
+          "team": "canalave"
+        },
+        {
+          "rank": 14,
+          "team": "vermilion"
+        },
+        {
+          "rank": 15,
+          "team": "violet"
+        },
+        {
+          "rank": 16,
+          "team": "mauville"
+        },
+        {
+          "rank": 17,
+          "team": "pastoria"
+        },
+        {
+          "rank": 18,
+          "team": "fuchsia"
+        },
+        {
+          "rank": 19,
+          "team": "viridian"
+        },
+        {
+          "rank": 20,
+          "team": "mahogany"
+        },
+        {
+          "rank": 21,
+          "team": "lavaridge"
+        },
+        {
+          "rank": 22,
+          "team": "sootopolis"
+        },
+        {
+          "rank": 23,
+          "team": "azalea"
+        },
+        {
+          "rank": 24,
+          "team": "snowpoint"
+        },
+        {
+          "rank": 25,
+          "team": "celadon"
+        },
+        {
+          "rank": 26,
+          "team": "cianwood"
+        },
+        {
+          "rank": 27,
+          "team": "pewter"
+        },
+        {
+          "rank": 28,
+          "team": "fortree"
+        },
+        {
+          "rank": 29,
+          "team": "cerulean"
+        },
+        {
+          "rank": 30,
+          "team": "oreburgh"
+        },
+        {
+          "rank": 31,
+          "team": "hearthome"
+        },
+        {
+          "rank": 32,
+          "team": "veilstone"
+        }
+      ]
     }
   ]
 }

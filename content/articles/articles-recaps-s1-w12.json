@@ -1,0 +1,671 @@
+{
+  "season": 1,
+  "week": 12,
+  "articles": [
+    {
+      "id": "recap-1-12-rustboro",
+      "type": "recap",
+      "game": "1-12-rustboro",
+      "title": "Five throws that finished it",
+      "dek": "Ninjulio Jones caught three touchdowns, Mossdeep shut out Rustboro after halftime, and the Eclipse secured Hoenn East at 11–0.",
+      "author": "mara-voss",
+      "teams": [
+        "mossdeep",
+        "rustboro"
+      ],
+      "frontPageOrder": 1,
+      "body": [
+        {
+          "type": "p",
+          "text": "Five touchdown passes. Seventeen attempts. If that sounds like the quarterback spent the afternoon throwing at an empty field, watch the work between the scores. Mossdeep ran for 157 yards, converted a fourth-and-one to extend a touchdown drive and sacked Rustboro's passer five times. The spectacular efficiency had a fairly practical foundation: keep creating another useful down, then make the scoring opportunity count."
+        },
+        {
+          "type": "p",
+          "text": "The Eclipse won 35–7 at Rustboro, reached 11–0 and clinched the Hoenn East title and a playoff berth. Blackthorn's victory over Mt. Silver leaves Mossdeep as the league's only unbeaten team. Those are substantial accomplishments. Michael Dorrill's next job is equally concrete: prepare for Fortree with Ninjaskamara newly listed out four weeks, Richard Furman out five and Marshall Flock still out three."
+        },
+        {
+          "type": "p",
+          "text": "Ninjulio Jones supplied the headline performance. His four receptions produced ninety-six yards and three touchdowns, with another thirty yards on three carries. Dram Marino completed twelve of seventeen for 151 yards, five scores and no interceptions. Accel BeckhmJr, fresh from four touchdowns and 259 receiving yards at Vermilion, caught three passes for twenty-two yards here. Two still ended in the end zone. Mossdeep has become an extremely irritating team to describe as dependent on one receiver."
+        },
+        {
+          "type": "quote",
+          "speaker": "Ninjulio Jones",
+          "text": "Give me the next one. That's what I kept thinking. We had chances to finish, and I wanted to get there before the chance disappeared. Three feels good. There's still a catch I wanted back.",
+          "playerId": "p204"
+        },
+        {
+          "type": "p",
+          "text": "Jones's first touchdown followed Rustboro's most expensive early mistake. On fourth-and-one with 2:40 left in the first quarter, Porygon-Z ran up the middle for five yards and fumbled. Glalie recovered for Mossdeep. The Stone had gained the distance they needed and still lost the possession. Three offensive plays later, Marino found Jones deep over the middle for a thirty-one-yard touchdown."
+        },
+        {
+          "type": "p",
+          "text": "That sequence matters because neither offense had opened smoothly. Rustboro punted after its first three offensive snaps. Mossdeep did the same after Tyrantrum sacked Marino on third-and-ten. The visitors did not arrive with a touchdown attached to every possession. They needed an opening, received one through their defense, and used runs of five and seven yards before taking the larger shot."
+        },
+        {
+          "type": "p",
+          "text": "Rustboro briefly found movement through Philly and Gibby Timmy. Philly gained twelve up the middle, and Porygon-Z hit Timmy deep left for twenty-three on third-and-ten. Then Derrat Brooks recorded a six-yard sack. The drive reached a fifty-six-yard field-goal attempt early in the second quarter, but Gorebyss missed wide right. Mossdeep had survived two Stone possessions that moved beyond their opening difficulties without yielding a point."
+        },
+        {
+          "type": "p",
+          "text": "The next Eclipse touchdown was less abrupt and, to my eye, just as useful. Lorenzo Steel caught the third-and-eight pass that kept the drive going. Ninjaskamara ran left for eleven. Poury Holt added eight to the right. Marino finished with an eleven-yard throw deep left to BeckhmJr, putting Mossdeep ahead 14–0. A receiver who had spent the previous week winning over enormous distances was perfectly capable of doing the shorter work."
+        },
+        {
+          "type": "p",
+          "text": "I liked the variety there. The chain-moving pass went to the fullback. The two substantial runs came from different players. The touchdown went to the receiver Rustboro could hardly claim to have forgotten. That is what a balanced threat looks like in a possession: several responsibilities arriving in succession, with no promise that the next useful touch goes to the same name."
+        },
+        {
+          "type": "p",
+          "text": "Rustboro's best answer came before halftime. The Stone drove sixty-nine yards and overcame two sacks within the possession. Shieldon caught a fifteen-yard pass on third-and-nine, Watchog moved the ball on the ground, and Timmy caught a twenty-eight-yard throw deep left after Brooks had pushed the offense backward again. Porygon-Z finished with a one-yard run up the middle with nineteen seconds left. At 14–7, the game remained very much available to the home team."
+        },
+        {
+          "type": "quote",
+          "speaker": "Tyler Scarboro",
+          "text": "That drive showed we could keep working through a bad down. We needed more possessions with that response. When you give them the ball back without making them defend enough plays, the pressure comes right back at you.",
+          "coachTeam": "rustboro"
+        },
+        {
+          "type": "p",
+          "text": "The third-quarter answer began on the ground. After the teams exchanged punts, Holt ran left for seven, eight, seven and six yards within the next possession. The eight-yard gain converted third-and-two. George Kipple caught a seven-yard pass, and Furman gained twelve to the right on third-and-one. Marino needed only the last yard through the air, finding BeckhmJr short right for his second touchdown."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/f1a4b30e4c0ed6ba.webp",
+          "alt": "Panpour Poury Holt runs left in a Mossdeep number19 jersey.",
+          "caption": "Poury Holt’s eight-yard gain on third-and-two kept Mossdeep’s third touchdown drive moving."
+        },
+        {
+          "type": "p",
+          "text": "That drive covered fifty-one yards. Its important quality was persistence. Mossdeep's opening possession after halftime produced a six-yard run, two incompletions and a punt; Dorrill's offense then found a sequence of useful runs instead of demanding that the next throw erase the previous possession. Holt finished with eighty-two yards on sixteen carries. His afternoon was a reminder that a receiver's listed job does not prevent him from doing meaningful work with handoffs."
+        },
+        {
+          "type": "quote",
+          "speaker": "Poury Holt",
+          "text": "If there's room, take it. If there isn't much room, get what is there and make the next down easier. I wasn't waiting for the passing game to do my part of the work.",
+          "playerId": "p1571"
+        },
+        {
+          "type": "p",
+          "text": "Rustboro received the ball with a fourteen-point problem. Joey Sporeter immediately made it harder, sacking Porygon-Z for four yards. Philly then lost a yard to a Pachirisu tackle, and a Watchog run gained only three on third-and-fourteen. The Stone punted again. Sporeter finished with three sacks; Brooks added two. The five together cost Rustboro thirty-one yards and repeatedly changed what its offense had to solve."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/59dacaf0fef28eba.webp",
+          "alt": "Breloom Joey Sporeter tackles Rustboro’s Porygon-Z behind the line.",
+          "caption": "Joey Sporeter’s third sack started another empty Rustboro possession."
+        },
+        {
+          "type": "p",
+          "text": "This is where I stop entertaining the idea that the score was solely a receiving exhibition. Rustboro had thrown five touchdowns in its previous game, a 41–38 win over Cinnabar. Here Porygon-Z completed seven of seventeen for ninety-nine yards and no passing touchdowns. Timmy's three catches accounted for seventy-four of those yards. Mossdeep's pressure and eight recorded pass breakups made the other completions much harder to find."
+        },
+        {
+          "type": "p",
+          "text": "Jones began the next scoring possession with a seventeen-yard run right. Later, Gronkaludon's five-yard catch left fourth-and-one, and Furman ran up the middle for seven to extend the drive at the end of the third quarter. Furman added nine to the right after the break. Marino eventually found Jones short left for four yards and the touchdown. The lead was 28–7, and the big-play receiver had just helped build a score through several small, consequential gains."
+        },
+        {
+          "type": "p",
+          "text": "The final touchdown was the faster version. Jones ran left for twelve, then caught a fifty-seven-yard pass deep over the middle. Two plays, sixty-nine yards, 35–7. His three scoring receptions had covered thirty-one, four and fifty-seven yards. Anyone preparing for Mossdeep can write those distances down. Choosing which one to prevent first is the less pleasant exercise."
+        },
+        {
+          "type": "quote",
+          "speaker": "Dram Marino",
+          "text": "We had good opportunities, but you still have to finish the individual play. The runs kept giving us manageable situations. Ninjulio did a lot with the chances he had, and the protection gave us enough time on the scoring throws.",
+          "playerId": "p346"
+        },
+        {
+          "type": "p",
+          "text": "The Stone never scored after halftime. Their four second-half possessions all ended in punts. They ran for 112 yards overall, including sixty-one from Philly and forty-five from Watchog, but the ground production could not keep repairing the passing downs. Four conversions in twelve third-down attempts left too many drives unfinished. Mossdeep, meanwhile, scored on three consecutive second-half possessions after its initial punt."
+        },
+        {
+          "type": "p",
+          "text": "There is a cost to carry out of this win. Ninjaskamara had three carries for sixteen yards; Furman had four for thirty. Both now face multiweek absences. Their injury listings do not establish the precise snap on which either was hurt. What the performance does establish is that Holt already supplied substantial rushing work, and Jones also contributed on the ground. Those are observed alternatives for the next preparation, not a guarantee that the same distribution will solve every opponent."
+        },
+        {
+          "type": "p",
+          "text": "Rustboro has another difficult availability change. My Way, Son returned to the rushing line with two carries for five yards and is now listed out six weeks following a new injury. The Stone fall to 6–5 and host Mauville next. Their seventh position in the current Hoenn–Sinnoh playoff order gives the next game immediate weight, even without treating that position as a promise about the final standings."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep goes to Fortree with 463 points scored and 104 allowed. The division is secured; the season's larger work remains. I would keep this game's lesson close to the preparation sheet: a short touchdown can be the reward for a long series of sound choices. Jones supplied the spectacular finish. The runners and pass rush made sure Mossdeep kept reaching one."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/0d1c1bd72e044cd0.webp",
+        "alt": "Ninjulio Jones, a Ninjask in Mossdeep number46, reaches for a touchdown pass."
+      }
+    },
+    {
+      "id": "recap-1-12-cinnabar",
+      "type": "recap",
+      "game": "1-12-cinnabar",
+      "title": "Eight sacks, three points, no rebuttal",
+      "dek": "Demedicus Ware wrecked Cinnabar’s passing day while HeeDee Lamb and Dam Skattebo carried Saffron to another emphatic win.",
+      "author": "rowan-vale",
+      "teams": [
+        "saffron",
+        "cinnabar"
+      ],
+      "frontPageOrder": 2,
+      "body": [
+        {
+          "type": "p",
+          "text": "Cinnabar began the second half with a twenty-five-yard completion. Good start. A chance to make the 14–0 deficit feel less permanent. Then Demedicus Ware sacked Gholdengo for five yards. On the next snap, Ware sacked him for seven more. The promising possession became third-and-twenty-three, then a punt. The Blaze had found a door and discovered the same Medicham waiting on both sides."
+        },
+        {
+          "type": "p",
+          "text": "Ware finished with eight sacks. All eight Saffron sacks. Fifty-two yards lost by Gholdengo. There are afternoons when a defender needs a long tactical explanation to establish his influence. This was an afternoon when the explanation kept interrupting the quarterback. The Psi Corps won 35–3, moved to 9–2 and made their 52–0 demolition of Fortree look like the beginning of a particularly unpleasant fortnight for opposing offenses."
+        },
+        {
+          "type": "p",
+          "text": "I had Saffron winning 33–22. I shall accept the modest error in the winning score and spend rather longer considering what possessed me to award Cinnabar twenty-two points. Dorian predicted thirty-six for the Blaze. We will be holding separate meetings. Mine can be conducted at normal volume."
+        },
+        {
+          "type": "p",
+          "text": "The simplest account belongs to the scoreboard, but the details make the result more persuasive. Saffron gained 416 yards to Cinnabar's 110, made twenty first downs to five and converted eight of twelve third downs. The Blaze converted one of nine. Archam Manning threw for 324 yards and three touchdowns. HeeDee Lamb caught nine passes for 177 yards and two scores. Dam Skattebo scored twice on the ground and once as a receiver. Cinnabar's defense had several problems; its offense kept returning them to work."
+        },
+        {
+          "type": "quote",
+          "speaker": "Demedicus Ware",
+          "text": "You take the next snap as its own job. The number builds because everybody keeps doing the work around you. We wanted to keep the quarterback from getting comfortable, and we kept finding chances to do that.",
+          "playerId": "p434"
+        },
+        {
+          "type": "p",
+          "text": "Ware, the Medicham wearing number 56, set the tone on Cinnabar's first offensive play. Saffron had already driven seventy-seven yards for a touchdown. Gholdengo then lost seven yards to the first sack, Seismitoad gained one, and a short-right pass fell incomplete after Swampert broke it up. Three plays and a punt gave the home crowd a remarkably efficient introduction to the afternoon's problem."
+        },
+        {
+          "type": "p",
+          "text": "Saffron's opening drive had been the opposite: an offense giving its quarterback several good destinations. Mothel Irving caught fourteen yards to the right. Bysson Witten supplied nineteen to the left and twelve over the middle. Lamb added twenty-nine on a deep-middle throw. Skattebo ran the last five yards to the left. Six plays covered the distance, and the Psi Corps led 7–0 before Cinnabar had run an offensive snap."
+        },
+        {
+          "type": "p",
+          "text": "The middle of the first half deserves some attention because Saffron did not simply score without resistance. Castform sacked Manning late in the first quarter. That possession ended early in the second quarter with Octillery's forty-three-yard field-goal attempt striking the upright and missing. Scizor later sacked Manning on third-and-four, forcing a punt. Cinnabar had created a stretch in which its defense gave the offense room to get involved. The offense declined the invitation with considerable consistency."
+        },
+        {
+          "type": "p",
+          "text": "Ware's second sack came on third-and-ten. His third came on second-and-ten, leaving third-and-seventeen. Neither possession survived. The Blaze's first three full drives ended in punts, and the last play of their half was a kneel. Gholdengo was never intercepted, which makes the lack of production more striking. Cinnabar did not need turnovers to lose control of its opportunities. It kept spending its downs trying to recover the ground lost behind the line."
+        },
+        {
+          "type": "p",
+          "text": "The touchdown before halftime was the more expensive miss. Saffron began at its own twenty-eight with 1:54 remaining and worked through Lamb, Skattebo, Irving and L'oudre Swift. Lamb converted third-and-one with a ten-yard catch. With nine seconds left and another third-and-one, Manning threw deep right to Skattebo for fifteen yards and the touchdown. The runner who had scored five times on the ground against Fortree had found a new way to irritate a defense."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/19a2d4bb8f60f330.webp",
+          "alt": "Darmanitan Dam Skattebo secures a touchdown pass before halftime.",
+          "caption": "Dam Skattebo added a receiving touchdown to his two scores on the ground."
+        },
+        {
+          "type": "p",
+          "text": "That made it 14–0. It also preserved an important distinction between the teams. Saffron could suffer a sack, a missed kick or an incomplete pass and still locate a different answer later. Cinnabar had increasingly little room to tolerate any bad down. Its offense entered the break without a scoring possession, and its first promising gain after halftime would be answered by Ware twice in succession."
+        },
+        {
+          "type": "quote",
+          "speaker": "Dam Skattebo",
+          "text": "Archam gave me a chance to help through the air, and the guys cleared space when I ran it. Everybody has a share in those scores. I was happy we could finish that drive before the half and give the defense a little more support.",
+          "playerId": "p577"
+        },
+        {
+          "type": "p",
+          "text": "Lamb then supplied the larger separation. On Saffron's next possession, Manning found him deep left for twenty-four yards on third-and-five. Two plays later, the throw went deep right for twenty-five and a touchdown. The drive covered eighty yards, the lead became 21–0, and Lamb had made both sidelines part of Cinnabar's problem. His work did not fit into one location that the Blaze could simply stop visiting."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/cd9246b58afe4397.webp",
+          "alt": "Heliolisk HeeDee Lamb receives a deep pass in Saffron number11.",
+          "caption": "HeeDee Lamb’s twenty-five-yard touchdown gave Saffron a 21–0 lead."
+        },
+        {
+          "type": "p",
+          "text": "The Heliolisk finished with nine catches on sixteen targets. That is a busy receiving assignment, and it was not an afternoon when every chance worked. Cinnabar's Tatsugiri and Thievul defenders broke up throws in his direction. Manning continued to use him anyway. Lamb produced first downs, larger gains and the two touchdowns that justified the continued attention. Persistence here had evidence behind it."
+        },
+        {
+          "type": "quote",
+          "speaker": "HeeDee Lamb",
+          "text": "An incomplete pass doesn't end the conversation. We kept finding chances, and Archam kept giving us a ball to work with. The important thing was to stay available for the next one instead of carrying the last play around.",
+          "playerId": "p717"
+        },
+        {
+          "type": "p",
+          "text": "Cinnabar's one scoring opportunity with a short field came through Tatsugiri's interception of Manning at the end of the third quarter. The safety returned it nineteen yards. The Blaze opened the fourth with first-and-six, precisely the sort of situation that ought to make a three-touchdown deficit feel negotiable. An incompletion and a one-yard Gholdengo run followed. Then Ware arrived for his seventh sack, costing another seven yards."
+        },
+        {
+          "type": "p",
+          "text": "Charjabug made the twenty-eight-yard field goal off the upright. That ended the shutout and made the score 21–3. It did not turn the possession into the answer Cinnabar needed. Saffron's defense had been handed a difficult starting point and allowed the offense to travel backward. There are more elaborate ways to defend a short field. This one was wonderfully direct."
+        },
+        {
+          "type": "p",
+          "text": "The last two Saffron touchdowns settled the margin. Witten caught gains of fourteen and eleven around Lamb's twenty-one-yard reception on a fifty-two-yard drive. Skattebo finished from one yard out to the right with 1:20 remaining. Ware then added sack number eight on Cinnabar's final failed fourth-down possession. Manning and Lamb connected again for a seventeen-yard touchdown with eighteen seconds left, completing the scoring at 35–3."
+        },
+        {
+          "type": "p",
+          "text": "I will not ask that last touchdown to prove anything the earlier possessions had left unclear. The decisive work had been done much earlier, while Cinnabar still had time to respond. Ware's consecutive third-quarter sacks killed the best early chance to change the game. His seventh stopped the short-field answer. Saffron's offense repeatedly turned those defensive gains into a larger lead."
+        },
+        {
+          "type": "p",
+          "text": "Blaine's team had scored thirty-eight points in its previous game and lost at Rustboro. It returned from the bye and scored three. Gholdengo completed thirteen of twenty-one for 102 yards; Seismitoad led the receivers with forty-seven. The Blaze ran seven times for eight yards. There was no productive ground response to make the passing difficulties less central. Their next trip to Viridian now comes with a 7–4 record and two consecutive defeats to explain."
+        },
+        {
+          "type": "quote",
+          "speaker": "Trent Scarboro",
+          "text": "The defense kept making the next possession possible for us. I liked the response after the interception, and I liked how many different players helped finish drives. We have to take that same attention into the division game next week.",
+          "coachTeam": "saffron"
+        },
+        {
+          "type": "p",
+          "text": "Saffron hosts Vermilion next. Verrick Brooks and NeMarcus Tare, the Ninetales wearing number 42, now have no weeks remaining on their injury listings; that does not put either into this game's sack total. Emmitt Smoth remains out one week. Ware's eight bring his season sack count to eighteen, and the defense has allowed seventy-three points through eleven games. Those are sufficiently large achievements without borrowing credit from players who did not produce them here."
+        },
+        {
+          "type": "p",
+          "text": "Two weeks, eighty-seven points scored, three allowed. My favorite team has made a very helpful contribution to my professional objectivity. The more durable point is that Saffron answered its close loss to Mossdeep with two different kinds of offensive production and the same demand on defense: make every useful yard difficult. Cinnabar found that demand eight times in the backfield. Its next answer needs to arrive sooner than the punter."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/c2426066558c1669.webp",
+        "alt": "Medicham Demedicus Ware brings down Cinnabar quarterback Gholdengo."
+      }
+    },
+    {
+      "id": "recap-1-12-goldenrod",
+      "type": "recap",
+      "game": "1-12-goldenrod",
+      "title": "The zero is gone",
+      "dek": "Blackthorn scored on its first six possessions, Hatterene threw for 358 yards, and Mt. Silver finally had to count a loss.",
+      "author": "dorian-pike",
+      "teams": [
+        "blackthorn",
+        "goldenrod"
+      ],
+      "frontPageOrder": 3,
+      "body": [
+        {
+          "type": "p",
+          "text": "I predicted Mt. Silver 29, Blackthorn 18. I reminded everyone that the Reds had won their previous two games seventy-two to nothing. I used the word nothing twice, in case the first appearance had failed to convey my respect for arithmetic. Blackthorn has now supplied the reply: thirty. Thirty points, six consecutive scoring possessions and the first loss of Mt. Silver's season."
+        },
+        {
+          "type": "p",
+          "text": "The Dragons won 30–22. Hatterene threw for 358 yards and three touchdowns, Cacturne made all three field goals, and Clair's team took an unbeaten opponent's best opening punch without abandoning its passing game. Mt. Silver is 10–1. Blackthorn is 9–2. Mossdeep is the only perfect team left. Yes, I have seen the table. No, there is no need to send a second copy with the relevant row enlarged."
+        },
+        {
+          "type": "p",
+          "text": "And here's the uncomfortable truth: Blackthorn did not require a giveaway parade or a miraculous late scramble to steal this game. Neither team threw an interception or lost a fumble. The Dragons simply kept producing points while the Reds passed through a long stretch without any. Mt. Silver's late touchdown made the margin eight. It did not reverse the work that had established a sixteen-point deficit."
+        },
+        {
+          "type": "p",
+          "text": "The first snap had looked like a continuation of my argument. Blayz Matthews sacked Hatterene for six yards, leaving second-and-sixteen. Then Hatterene threw short left to Tinkaton for thirty-one. A nineteen-yard completion to Seadra followed later in the drive, along with a ten-yard Gumshoos run. Hatterene finished with a twenty-six-yard touchdown deep left to Seadra. Eighty yards, seven offensive plays, and an immediate correction to the assumption that one sack had settled anything."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/edc366b66dc7e21d.webp",
+          "alt": "Tinkaton carries a reception upfield in Blackthorn number31.",
+          "caption": "Tinkaton turned second-and-sixteen into a thirty-one-yard gain on the opening possession."
+        },
+        {
+          "type": "p",
+          "text": "That was the first of several occasions on which Blackthorn treated a difficult down as a problem to solve. Matthews had another sack on the next Dragons possession. Hatterene eventually faced third-and-seventeen and found Tinkaton deep left for twenty-four yards. The drive continued into the second quarter and ended with Cacturne's forty-seven-yard field goal. Pressure was arriving. So were answers."
+        },
+        {
+          "type": "quote",
+          "speaker": "Hatterene",
+          "text": "They kept putting us farther back, so we had to make the next catch a little more annoying. Tinkaton was very considerate about that. You can't spend the whole drive being offended by the last play.",
+          "playerId": "p714"
+        },
+        {
+          "type": "p",
+          "text": "Tinkaton caught seven passes for ninety-one yards. The opening thirty-one-yard gain and the third-and-seventeen conversion mattered beyond their share of that total. Blackthorn was without Ninjask and Grovyle, two receivers whose absences had formed part of the pregame argument for the Reds. The remaining group did not accept that discussion as a limit on its production. Hatterene completed twenty-eight of thirty-eight and spread the three touchdowns among Seadra, Exploud and Sawsbuck."
+        },
+        {
+          "type": "p",
+          "text": "Mt. Silver had answers of its own early. Tic Thorpe found Doduo for thirty-five yards and Scep Smith Jr. for twenty-one on the Reds' first possession. Vibrava converted fourth-and-one with a six-yard run up the middle. Thorpe then found Vulpix short left for the one-yard touchdown, tying the game at seven. The home offense was capable of building a drive that survived a difficult down. It would need to keep doing so."
+        },
+        {
+          "type": "p",
+          "text": "Instead, the next Reds possession ended after Vigoroth's sack and a third-down incompletion. Blackthorn took the ball and moved sixty-three yards. Sawsbuck caught a twenty-four-yard pass deep right; Exploud finished with a fourteen-yard touchdown on a short-right throw on third-and-five. The Dragons led 17–7. Mt. Silver's defense had now seen three possessions and allowed points on all three."
+        },
+        {
+          "type": "quote",
+          "speaker": "Tinkaton",
+          "text": "The ball got to me with room to help. I just wanted to give us the next down. Other people finished those drives, and the line kept working after the sacks. We needed all of it.",
+          "playerId": "p136"
+        },
+        {
+          "type": "p",
+          "text": "Connor McLarren's offense answered with another seventy-five-yard touchdown drive. Garshawn Lynch contributed eight yards on a run left, and Doduo caught a thirty-seven-yard throw deep left. Thorpe found Vibrava for the final two yards. At 17–14, there was still every reason to expect the unbeaten team to exert itself over the rest of the game. There was considerably less reason to assume Blackthorn would make that convenient."
+        },
+        {
+          "type": "p",
+          "text": "The Dragons added a field goal before halftime despite Matthews's third sack. Seadra caught twenty-two yards before it and twenty-one after it. Tinkaton added fifteen, Frosmoth sixteen. Three incompletions near the end of the drive prevented the touchdown, but Cacturne made the thirty-two-yard kick. Blackthorn went to the break ahead 20–14. Matthews had three sacks. His defense had still conceded points on every Dragons possession."
+        },
+        {
+          "type": "p",
+          "text": "That is the distinction I want kept intact. A disruptive individual performance can be real without establishing control of the whole game. Matthews did his work. Hatterene and the receivers repeatedly did theirs afterward. The Dragons did not turn four sacks allowed into a reason to stop trying the passing combinations that were moving the ball. Their final 407 yards were earned through the resistance, not in its absence."
+        },
+        {
+          "type": "p",
+          "text": "The second half began with Mt. Silver moving into another third-down problem. Thorpe had already converted third-and-five with a twelve-yard pass to Tony Gyarzalez. Later in the same drive, Leavanny sacked him on third-and-six, forcing a punt. It was a damaging stop because Blackthorn then drove eighty yards and scored again. Hatterene converted a third-and-one with a two-yard run before the receivers took over the larger distances."
+        },
+        {
+          "type": "p",
+          "text": "Sawsbuck supplied the touchdown: a forty-one-yard reception on a deep-right throw, third-and-seven, with 1:52 left in the third quarter. The lead became 27–14. Blackthorn had opened with a Seadra score, added an Exploud score and now finished through Sawsbuck. Three different touchdown targets. Mt. Silver could not point to one successful matchup and insist that the rest of the problem would disappear when it addressed that one."
+        },
+        {
+          "type": "p",
+          "text": "The Reds moved thirty-eight yards on the next possession but finished with a fifty-four-yard field-goal attempt that missed wide right. Blackthorn then made another sustained possession count. Exploud caught eleven yards on third-and-fourteen, and Clair's offense stayed on the field for fourth-and-three. Hatterene found Exploud short left for eight. Cacturne eventually made the thirty-six-yard kick off the upright, extending the lead to 30–14."
+        },
+        {
+          "type": "p",
+          "text": "Six possessions. Six scores."
+        },
+        {
+          "type": "p",
+          "text": "There. That is the number I should have been emphasizing. Blackthorn did not punt until the fourth quarter, when Solrock finally ended a possession with a sack on third-and-eight. By then Mt. Silver had punted three times and missed its only field goal. The Dragons converted five of ten third downs overall; the Reds converted one of six. Similar touchdown totals can conceal very different amounts of productive football between them."
+        },
+        {
+          "type": "p",
+          "text": "Thorpe made the finish interesting. Starting with 2:08 left, he found Plusico Buress for twenty-six yards and Doduo for twenty-three, then worked through Vibrava and Gyarzalez. A one-yard pass to Vibrava produced the touchdown with 1:47 remaining. The two-point pass to Doduo was good. At 30–22, Mt. Silver had reduced the problem to recovering the ball and manufacturing one last scoring drive."
+        },
+        {
+          "type": "p",
+          "text": "Seadra recovered the onside kick for Blackthorn. That removed one route back, but the Reds still needed the defense to prevent a first down. After a completion for no gain and a six-yard Gumshoos run, the Dragons faced third-and-four with 1:01 remaining. This time the completion that had carried so much of the afternoon was not necessary."
+        },
+        {
+          "type": "p",
+          "text": "The last first down belonged to a runner. Gumshoos went up the middle for eight yards. Hatterene later kneeled, and the unbeaten record was finished. I appreciate the bluntness of the ending. After 358 passing yards, the final useful answer required the Dragons to gain four on the ground. They gained eight and left the Reds without another offensive possession."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/ec888cb42c9f1bdd.webp",
+          "alt": "Gumshoos drives forward with the ball in Blackthorn number64.",
+          "caption": "Gumshoos converted third-and-four to end Mt. Silver’s last hope of another possession."
+        },
+        {
+          "type": "quote",
+          "speaker": "Clair",
+          "text": "We kept responding after the negative plays. That was the important part. The receivers gave us answers, the defense got stops when we needed them, and the run at the end let us finish with the ball.",
+          "coachTeam": "blackthorn"
+        },
+        {
+          "type": "p",
+          "text": "Thorpe finished twenty-of-twenty-eight for 260 yards and three touchdowns. Doduo had 104 receiving yards, Buress 75. Those are worthwhile performances. They also come attached to a defeat, because Blackthorn controlled enough of the scoring opportunities to make Mt. Silver's late production insufficient. The Reds still lead the current Kanto–Johto seeding order. A first loss does not dismantle a contender; it does dismantle the luxury of treating every difficult question as someone else's problem."
+        },
+        {
+          "type": "p",
+          "text": "Mt. Silver hosts Olivine next. Gregar Jenings now has no weeks remaining on his injury listing, while Josh Alakazam remains out ten. Blackthorn visits Violet with Furret newly out two weeks, Ninjask still out one and Grovyle four. The Dragons have won all four road games so far, and the next trip carries division importance. I will make another prediction. Before doing so, I will remember that the last team I invited to admire its statistics instead put thirty points on my preferred defense."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/8a6bf8e176fb3fce.webp",
+        "alt": "Hatterene, Tinkaton and Seadra stand together on the field in Blackthorn blue."
+      }
+    },
+    {
+      "id": "recap-1-12-cianwood",
+      "type": "recap",
+      "game": "1-12-cianwood",
+      "title": "Ninety-six yards to one point",
+      "dek": "Lavender lost Mr. Clanky, found a late answer through Frosmoth and Luvdisc, and trusted Machoke with the winning two-point try.",
+      "author": "ellis-quill",
+      "teams": [
+        "ecruteak",
+        "cianwood"
+      ],
+      "frontPageOrder": 4,
+      "body": [
+        {
+          "type": "p",
+          "text": "There was still one short trip to make. Lavender had traveled ninety-six yards, survived fourth-and-thirteen and scored with fifty-eight seconds remaining. The Wails could tie the game with a kick or try to finish the comeback with a run. Machoke went up the middle for two yards. Lavender led 18–17. After spending most of the afternoon behind, Travis Scarboro's team had finally found the useful side of a one-point margin."
+        },
+        {
+          "type": "p",
+          "text": "I had predicted a much more comfortable Lavender win. That forecast now looks like something written by a person who did not expect three different Wails to attempt passes, the starting quarterback to finish with one passing yard or the winning drive to begin at the team's own four. I will keep the correct winner and surrender the claim that I understood the route."
+        },
+        {
+          "type": "p",
+          "text": "The Wails are 6–5 after their second consecutive victory. Cianwood is 4–8, and this loss will be difficult to put down neatly: the Crushers led 14–0, took a 17–7 advantage into halftime and did not allow the winning touchdown until the final minute. They also did not score in the second half. Lavender's comeback required its offense to solve an awkward problem, but the defense gave it repeated chances to try."
+        },
+        {
+          "type": "p",
+          "text": "Mr. Clanky completed one of four passes for one yard and is now listed out two weeks. The record establishes a new injury, without identifying its exact timing. Zorua attempted four passes before halftime, completing none and throwing an interception. Frosmoth handled the second-half passing, finishing nine-of-twenty for 113 yards and the touchdown to Luvdisc. None of those individual lines sounds much like a tidy victory. Together with Hobbes's running and the defense, they were enough."
+        },
+        {
+          "type": "quote",
+          "speaker": "Travis Scarboro",
+          "text": "We had to keep finding something we could do next. The defense kept us close enough to have that last drive. Once we scored, we trusted the run on the try. I'm proud of the way the group stayed with it.",
+          "coachTeam": "ecruteak"
+        },
+        {
+          "type": "p",
+          "text": "Cianwood had earned its early lead. Its opening touchdown drive covered sixty-eight yards and included a fourth-and-three conversion by Doduo, who ran left for seven. Swampert found Wigglytuff for fourteen on third-and-six, then Bibarel finished with a three-yard run up the middle. Chuck's offense did not ask one explosive play to do all the work. It kept a possession alive through the downs most likely to end it."
+        },
+        {
+          "type": "p",
+          "text": "Lavender answered with an incompletion, a one-yard Hobbes run and a Guzzlord sack of Clanky. After the punt, Cianwood drove fifty-four yards. Arbok caught a thirty-five-yard throw deep left, Doduo converted another third down on the ground, and Haunter ran left for seven yards and a touchdown on the opening snap of the second quarter. The score was 14–0. The Wails had scarcely begun an offensive conversation."
+        },
+        {
+          "type": "p",
+          "text": "Hobbes had already supplied the long way back. On Lavender's next play, the Arcanine ran left for fifty-six yards. Machoke added runs of eleven and six. Then the advance stopped: an incomplete pass, a run for no gain and a fourth-and-four Unfezant run for no gain. Lavender had covered seventy-three yards and received no points. It was an early version of the question that would follow the Wails almost to the finish: how much movement would finally become enough?"
+        },
+        {
+          "type": "p",
+          "text": "Picasso gave the offense another chance immediately. The Mimikyu intercepted Swampert's short-left pass and returned it seventeen yards, leaving Lavender first-and-one. The Wails still needed three plays. Clanky missed one throw and completed another to Hobbes for a yard before Hobbes scored on a one-yard run up the middle. With 3:55 left in the second quarter, the deficit was seven and the comeback had its first actual points."
+        },
+        {
+          "type": "quote",
+          "speaker": "Hobbes",
+          "text": "The long run opened the jar. We still had to get the lid off. There were a lot of hands on it by the end, which is probably the only sensible way to describe this one.",
+          "playerId": "p87"
+        },
+        {
+          "type": "p",
+          "text": "The next Lavender possession showed how quickly the afternoon could turn awkward again. Clanky ran for four, Hobbes for seven, and Zorua then appeared in the passing sequence. His fourth attempt was intercepted by Spiritomb and returned twenty-four yards. Cianwood converted fourth-and-one with a pass to Bibarel and eventually made a twenty-six-yard field goal. The Crushers carried a ten-point lead into halftime, while the Wails had a change of passer and a growing list of unfinished possessions."
+        },
+        {
+          "type": "p",
+          "text": "Hobbes supplied another large gain to open the second half, returning the kickoff sixty-eight yards to the Cianwood twenty-seven. Frosmoth completed a six-yard pass to Luvdisc, was sacked by Hawlucha and watched Hobbes gain eight on the next run. Just a cactus made the thirty-eight-yard field goal. The Wails were within 17–10. They had converted the return into points, but the offense still had a long way to go before anyone could call it comfortable."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/48ae3753bad0b876.webp",
+          "alt": "Lavender’s Frosmoth throws a pass in number 15.",
+          "caption": "Frosmoth threw for 113 yards and delivered Lavender’s late touchdown pass."
+        },
+        {
+          "type": "p",
+          "text": "The next stretch belonged to the defenses and punters. Cianwood finished every third-quarter possession with a punt. Lavender did the same on its next four possessions after the field goal. Frosmoth found Luvdisc for twenty-eight yards once, only for a later Victreebel sack to help end the drive. Leafeon added another sack in the fourth quarter. The Crushers finished with five sacks from five different defenders. Their pressure was a real part of the game, even though it could not secure the result."
+        },
+        {
+          "type": "p",
+          "text": "Lavender's defense did not need sacks to answer. It held Bibarel to forty-four yards on twenty-three carries, a sharp change from his 121 yards against Snowpoint the week before. Mauler Twin, Muk, Throh and the rest of the front kept appearing around runs that went nowhere or backward. Cianwood gained seventy-nine rushing yards overall and 108 through the air. After halftime, it never supplied the additional score that would have made Lavender's final task larger."
+        },
+        {
+          "type": "p",
+          "text": "With 2:31 remaining, Charjabug punted forty-three yards to the Lavender three. Dugtrio returned it one yard. Ninety-six yards stood between the Wails and a touchdown, and they had not scored one since the second quarter. The first pass was broken up by Golbat. Frosmoth came back to Luvdisc for nineteen, then found him again for fifteen after another incompletion. The drive was moving, but it had not become easy."
+        },
+        {
+          "type": "p",
+          "text": "The drive nearly ended on fourth-and-thirteen. Unfezant had gained five on a run left, an incompletion followed, and Parasect sacked Frosmoth for eight yards on third-and-five. At 1:44, Frosmoth threw deep left to Kujira. The Wailord caught it for twenty-two yards. One reception supplied the conversion and kept all the work before it from becoming another long possession with nothing at the end."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/56d308354459c23f.webp",
+          "alt": "Wailord Kujira secures a pass in Lavender number99.",
+          "caption": "Kujira’s twenty-two-yard reception rescued Lavender on fourth-and-thirteen."
+        },
+        {
+          "type": "quote",
+          "speaker": "Kujira",
+          "text": "Get it, get moving, get the next play. I didn't want us discussing almost. There was still room to keep going, and we needed to use it before the clock took the choice away.",
+          "playerId": "p536"
+        },
+        {
+          "type": "p",
+          "text": "Machoke caught the next pass for ten. After an incompletion intended for Zorua, Hobbes ran up the middle for ten. Samurott caught seven and went out of bounds. Hobbes then ran left for fourteen, taking the drive to first-and-one. Those were different players solving successive pieces of the same problem. The quarterback had changed, but the Wails did not ask the replacement to supply every yard himself."
+        },
+        {
+          "type": "p",
+          "text": "Frosmoth found Luvdisc short over the middle for the one-yard touchdown. Luvdisc finished with five catches for sixty-nine yards, including three catches on the winning touchdown drive. The recorded possession took fourteen offensive plays and 1:28. There was no single throw that could tell the whole story, although Kujira's fourth-down catch would make a very persuasive opening sentence."
+        },
+        {
+          "type": "p",
+          "text": "Then came Machoke's try. Two yards up the middle changed 17–16 into 18–17. The touchdown had earned Lavender a choice, and the Wails used it to put the decision in the runner's hands. It was a particularly bold finish to an afternoon spent struggling for ordinary completions. Scarboro trusted a short ground answer after a drive that had needed nearly every available kind of help."
+        },
+        {
+          "type": "quote",
+          "speaker": "Machoke",
+          "text": "One point down felt a little unfriendly after all that walking. I thought we should see whether two yards would improve the arrangement. Everybody did their part, and I was very happy to be difficult for the other side.",
+          "playerId": "p29"
+        },
+        {
+          "type": "p",
+          "text": "Cianwood still had fifty-two seconds when its offense returned. Swampert threw incomplete, Bibarel gained nothing against Mauler Twin, and another pass fell incomplete. On fourth-and-ten, Bibarel ran up the middle and lost a yard to Mauler Twin. Lavender had the ball back with forty seconds left. Hobbes's final run gained nothing, but for once the Wails did not need another yard to make the possession useful."
+        },
+        {
+          "type": "p",
+          "text": "The injury picture gives this victory a serious next chapter. People Eater remains out five weeks. Beedrill now has no weeks remaining on his listing, while Clanky's new two-week absence creates the more immediate question at quarterback. Frosmoth has shown that he can complete a decisive drive; one winning possession does not establish how the next full game should unfold. It gives Scarboro a real performance to study before Mahogany comes to Lavender."
+        },
+        {
+          "type": "p",
+          "text": "Cianwood has a bye, with Gardevoir still out five weeks and Jumpluff's counter now at zero. For the Wails, sixth in the current Kanto–Johto seeding order is a useful place to stand, not a finished recovery. I like this win because it required patience without rewarding passivity. They kept defending, kept trying different contributors and finally made the smallest distance matter most. Ninety-six yards earned the chance. Machoke's two decided what it was worth."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/749276463f1ba4c1.webp",
+        "alt": "Machoke powers over the goal line in a Lavender number87 jersey."
+      }
+    },
+    {
+      "id": "recap-1-12-eterna",
+      "type": "recap",
+      "game": "1-12-eterna",
+      "title": "Eterna wins where the drives end",
+      "dek": "Sunyshore threw for 273 yards and scored six points. The Thorns answered with two sustained touchdown drives and three fourth-down stops.",
+      "author": "tessa-wren",
+      "teams": [
+        "sunyshore",
+        "eterna"
+      ],
+      "frontPageOrder": 5,
+      "body": [
+        {
+          "type": "p",
+          "text": "Sunyshore had already moved seventy-two yards when the first important comparison arrived. Fourth-and-one. DeZhaun Watzon ran right and lost two yards to Doduo. Eterna took over and drove ninety-eight yards for a touchdown. The distance between the teams was not established by which offense could move the ball. It was established by which one could finish after doing so."
+        },
+        {
+          "type": "p",
+          "text": "The Thorns won 14–6, rebounding from their 38–0 loss at Mt. Silver and improving to 7–4. Sunyshore fell to 8–3 despite outgaining Eterna 318–276 and receiving 176 yards from Scol Alexander. That is a substantial receiving performance attached to a frustrating result. The Starseekers scored on one possession, missed an extra point and a field goal, lost a fumble and failed on three fourth downs. They had opportunities. Eterna made the final down of too many of them belong to its defense."
+        },
+        {
+          "type": "p",
+          "text": "I picked Sunyshore 24–13. I expected FLOAT SZN's rushing to give the visitors a stable beginning and make Eterna pursue a scoring pace it could not comfortably match. Instead, FLOAT SZN carried five times for thirty-four yards, the Starseekers gained forty-five on the ground altogether, and Eterna converted seven of thirteen third downs. The Thorns supplied the sustained offense I had doubted. Sunyshore supplied the larger passing total without the points I expected to follow it."
+        },
+        {
+          "type": "p",
+          "text": "That distinction was visible immediately. Watzon found Alexander for twenty-six yards deep left, thirteen short right and twenty-five deep right on the opening drive. Three completions, sixty-four yards, and a receiver apparently offering a route through any part of the secondary. FLOAT SZN then gained six up the middle and four to the left. The possession still reached fourth-and-one, where Doduo stopped Watzon behind the line. Eterna had allowed the trip and refused the destination."
+        },
+        {
+          "type": "p",
+          "text": "The answer took ninety-eight yards. Tatsugiri opened with a nine-yard completion to Dewgong and later converted third-and-ten with a sixteen-yard throw deep right to Marowak. On another third-and-ten, he found Clamperl short right for fourteen. Vanillish caught twenty-four on third-and-six. The Thorns had made no third-down conversion at Mt. Silver the previous week; their first possession here included three passing conversions before Stantler supplied another on the ground."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/df4526cdaee8293b.webp",
+          "alt": "Dewgong catches a short touchdown pass in Eterna number60.",
+          "caption": "Dewgong finished Eterna’s ninety-eight-yard opening touchdown drive."
+        },
+        {
+          "type": "p",
+          "text": "Stantler's five-yard run right on third-and-four set up the finish. Tatsugiri found Dewgong short right for six yards and the touchdown with twenty-one seconds left in the first quarter. Sixteen offensive plays had carried the ball almost the full length of the field. Eterna had not escaped its starting point with one enormous gain. It had answered a series of difficult downs with several different players."
+        },
+        {
+          "type": "quote",
+          "speaker": "Tatsugiri",
+          "text": "We had to stay with the next part of the drive. Some downs were longer than we wanted, but there were still receivers available and chances to keep going. Once we finished that possession, the work was to do it again when we got the opportunity.",
+          "playerId": "p881"
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore's reply was startlingly quick. After an incompletion, Watzon threw deep left to Alexander for a seventy-eight-yard touchdown. Eterna's long possession had produced seven points; two Starseekers plays had produced six. Duo SON missed the extra point wide left. The Thorns remained ahead 7–6, and Sunyshore would not score again. The shortest description of the game's offensive contrast had already appeared before the first-quarter clock reached zero."
+        },
+        {
+          "type": "p",
+          "text": "Alexander finished with six catches on eight targets. His 176 yards were comfortably more than half of Sunyshore's 273 through the air. He had made the opening possession productive and immediately answered Eterna's touchdown. The lesson is not that his performance was somehow hollow. It is that one receiver can create a great deal of field movement without being able to finish every possession for the entire offense."
+        },
+        {
+          "type": "quote",
+          "speaker": "Scol Alexander",
+          "text": "There were good opportunities in the passing game, and we made some of them count. That doesn't mean we finished enough drives. I can appreciate the catches and still see the work we left on the field.",
+          "playerId": "p179"
+        },
+        {
+          "type": "p",
+          "text": "The second quarter gave Sunyshore another example. Beginning near its own goal line, the offense moved through Jolt Vick, a Watzon run and Fera LaGatr's twenty-yard catch. Watzon then found Vick short left for thirteen yards, but Vick fumbled and Maushold recovered for Eterna. The possession had again traveled a substantial distance. It again ended without points. The Thorns did not turn that takeaway into a score, but they kept the narrow lead intact through halftime."
+        },
+        {
+          "type": "p",
+          "text": "Eterna was not consistently smooth between its touchdowns. Conkel Jones sacked Tatsugiri for seven yards in the second quarter and again on third-and-ten early in the third. The Thorns punted on four consecutive possessions after the opening touchdown. A 7–6 halftime lead left ample room for Sunyshore to take control. Gardenia's team still needed an offensive answer beyond pointing at the first drive and hoping its memory would last."
+        },
+        {
+          "type": "p",
+          "text": "It found that answer on a sixty-three-yard third-quarter possession. Stantler broke a twenty-one-yard run up the middle after an initial run for no gain. Doduo later converted third-and-two with a six-yard run left. When Ambipom's four-yard run left the Thorns facing fourth-and-one, Stantler gained five up the middle. That was the other side of the game's opening comparison: Eterna made its short-yardage chance extend a drive."
+        },
+        {
+          "type": "p",
+          "text": "Tatsugiri completed the possession with a three-yard pass short right to Audino, making the score 14–6 after the extra point. Audino caught both of his targets for six yards, a modest line with a meaningful conclusion. Stantler finished with sixty-nine rushing yards on twenty-one carries. Eterna did not produce a dominant average on every run; it gained enough on the necessary downs to make its passing finishes possible."
+        },
+        {
+          "type": "quote",
+          "speaker": "Gardenia",
+          "text": "We needed an offense that could stay on the field, and the players gave us that on the scoring drives. Defensively, the important thing was to keep responding after a gain. They made big plays. We still had another down to defend.",
+          "coachTeam": "eterna"
+        },
+        {
+          "type": "p",
+          "text": "The fourth quarter tested that response repeatedly. Sunyshore worked forward through MF STOMP, FLOAT SZN and Vick before Eterna's Charjabug wearing number 48 sacked Watzon on third-and-seven. The seven-yard loss left a fifty-three-yard field-goal attempt. Duo SON missed wide right. That defensive Charjabug was a different player from Eterna's number 55 kicker, who supplied both successful extra points. The distinction matters in a game where individual stops and kicking outcomes carried so much weight."
+        },
+        {
+          "type": "p",
+          "text": "Eterna promptly returned the opportunity. Dewgong caught a fifteen-yard pass over the middle and fumbled; 88 Special recovered for Sunyshore. The Starseekers had 3:27 remaining and an eight-point deficit. FLOAT SZN gained ten to the left, and Alexander caught another deep pass for twenty-nine. The visitors had again reached a position from which one successful finishing sequence could change the entire result."
+        },
+        {
+          "type": "p",
+          "text": "Instead, an incompletion, a four-yard catch by EKTRIK RED and another incompletion left fourth-and-six. Watzon threw deep left toward Fera LaGatr. Parasect broke it up with 2:01 left. There was no need for an interception return or a sack to make the play decisive. The ball fell incomplete, the possession changed, and Eterna still held the same eight-point advantage."
+        },
+        {
+          "type": "quote",
+          "speaker": "Parasect",
+          "text": "I had that play to take care of. The yards before it were already gone. I wanted this one to end without a catch.",
+          "playerId": "p772"
+        },
+        {
+          "type": "p",
+          "text": "Fera LaGatr caught one of six targets for twenty yards. MF STOMP caught three of six for twenty-two. Alexander's success had not made every Sunyshore receiving option equally available. Eterna recorded seven pass breakups, and the last one on that drive ensured that Alexander's earlier twenty-nine-yard gain could not become the beginning of an immediate scoring answer. The Thorns kept playing the remaining down instead of treating a large gain as the end of their defensive argument."
+        },
+        {
+          "type": "p",
+          "text": "Tatsugiri then found Marowak for fifteen yards on second-and-nine. Stantler added eight on the next run. Eterna eventually had to punt, but it had moved the clock and field before doing so. The kick left Sunyshore beginning at its own seventeen with twenty-three seconds remaining. The Starseekers still needed a touchdown and two-point conversion to tie. Their final opportunity was shorter in time and longer in required work."
+        },
+        {
+          "type": "p",
+          "text": "The final possession ended with the pass rush. Watzon completed three yards to MF STOMP, then spiked the ball. Rampardos sacked him for seven yards on third-and-seven. Klawf added another seven-yard sack on fourth-and-fourteen with five seconds left. Tatsugiri kneeled after the turnover on downs. Eterna's last two defensive plays had moved the ball backward fourteen yards and removed the last possibility of a Sunyshore answer."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/bc883842cc5cceb0.webp",
+          "alt": "Eterna’s Klawf raises a claw on the sideline in number 54.",
+          "caption": "Klawf finished Sunyshore’s final possession with a fourth-down sack."
+        },
+        {
+          "type": "p",
+          "text": "The result leaves the Thorns fifth in the current Hoenn–Sinnoh seeding order and still unbeaten at home, 5–0. They host Canalave next, a division game that gives this recovery an immediate test. Tatsugiri's eighteen completions in twenty-five attempts produced 180 yards, two touchdowns and no interceptions. It was a considerable improvement on the forty-one-yard passing afternoon at Mt. Silver, supported by more productive work on the downs that had previously stopped the offense."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore remains second in that conference's current seed order and visits Hearthome next. Myles Gabite is still out one week. Karson Jones has a valuable receiving performance to retain and several finishing failures to address. Eterna's lesson is easier to state: an opponent's gain does not remove the next defensive assignment. The Thorns allowed plenty of yards, won the last necessary downs and kept all but six points out of the end zone."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/afe6f094197279b8.webp",
+        "alt": "Eterna’s Parasect disrupts a pass intended for Sunyshore’s Feraligatr."
+      }
+    }
+  ]
+}

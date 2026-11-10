@@ -1,0 +1,727 @@
+{
+  "season": 1,
+  "week": 12,
+  "articles": [
+    {
+      "id": "power-s1-w12",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "Fault lines: Blackthorn rises, Saffron takes second, and perfection gets lonely",
+      "dek": "Only Mossdeep remains unbeaten. Rowan Vale promotes Blackthorn, rewards the surging Hoenn West pair, and inspects the part of every club that could spoil its next good afternoon.",
+      "teams": [],
+      "theme": "The part that can break",
+      "body": [
+        {
+          "type": "p",
+          "text": "Last week I asked what travels. Blackthorn packed 358 passing yards for Mt. Silver and came home with the Reds’ first loss. Mossdeep traveled to Rustboro, scored thirty-five and returned with an unbeaten record plus two injured runners. Sunyshore brought 176 receiving yards from Scol Alexander to Eterna and somehow brought home only six points. The travel column has produced several claims."
+        },
+        {
+          "type": "p",
+          "text": "This week I am examining the part that can break. Even the best team has one; Mossdeep has helpfully identified its current concern for us. Saffron rises to second after another dismantling. Blackthorn takes third over the team it just beat. Mt. Silver falls to fourth, which is not an obituary, although Dorian may dress for one."
+        },
+        {
+          "type": "p",
+          "text": "Petalburg and Dewford climb before their division meeting. Eterna returns to the top eight. Fuchsia’s two wins buy ten places because the offense has supplied more than an encouraging adjective. These are my rankings through Week 12, not the playoff seeds. If you want the seeds, consult the standings. If you want to argue about whether a 3–9 team should be eighteenth, I have already left the door open."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "movement": 0,
+          "themeLabel": "The backfield is suddenly the question.",
+          "text": "Eleven wins, zero losses, and five touchdown passes on seventeen Dram Marino attempts at Rustboro. First place remains deserved. Now Ninjaskamara is out four weeks and Richard Furman five, with Marshall Flock still absent three. Poury Holt ran for eighty-two yards in the 35–7 win; that useful contribution has become urgent evidence. The unbeaten team has found a new problem. The rest of the league would probably accept it in exchange for Mossdeep's old solutions."
+        },
+        {
+          "rank": 2,
+          "team": "saffron",
+          "previous": 3,
+          "movement": 1,
+          "themeLabel": "The defense can survive my endorsement.",
+          "text": "Up one after 35–3 at Cinnabar, following 52–0 against Fortree. Saffron has allowed three points in two games and seventy-three all season. HeeDee Lamb's 177 receiving yards gave the offense an entirely different headline from last week's five Skattebo rushing touchdowns. Vermilion visits next, having won the first meeting 10–9. I expect Trent Scarboro has retained that number somewhere prominent. Possibly underlined. Possibly on every available wall."
+        },
+        {
+          "rank": 3,
+          "team": "blackthorn",
+          "previous": 5,
+          "movement": 2,
+          "themeLabel": "The passing game no longer needs a permission slip.",
+          "text": "Up two after beating Mt. Silver 30–22. Hatterene threw for 358 yards and three touchdowns, and Blackthorn allowed only thirty-seven rushing yards. Last week I complained that excellent passing needed a traveling companion. The defense has replied, in writing, at the previously unbeaten team's address. The Dragons are 9–2 and 4–0 away. Furret's new two-week absence matters, as do Ninjask's remaining one and Grovyle's four. Third place does not mend a roster."
+        },
+        {
+          "rank": 4,
+          "team": "goldenrod",
+          "previous": 2,
+          "movement": -2,
+          "themeLabel": "Thirty points were possible after all.",
+          "text": "Down two because Blackthorn just demonstrated the thing everybody said might happen someday. Mt. Silver is 10–1, still outstanding, and no longer protected from discussion by a zero in the loss column. Tic Thorpe threw three touchdowns without an interception; the Reds' running produced thirty-seven yards. Connor McLarren gets Olivine next. Restore some ground support and the conference leader can make this a correction. Leave Thorpe doing all the arithmetic and it becomes a pattern."
+        },
+        {
+          "rank": 5,
+          "team": "petalburg",
+          "previous": 8,
+          "movement": 3,
+          "themeLabel": "Seven completions leave little spare room.",
+          "text": "Up three after a third straight win, 21–18 over Sootopolis. The Pride are 8–3 and perfect in five home games. Flygon's eighty-yard punt-return touchdown was rather more useful than my ongoing concerns about seven completions. Dewford visits next with four straight wins. Petalburg can keep finding different ways to score; it cannot commission another return touchdown on demand. Norman's biggest asset is the division lead. His most useful improvement would be a less nerve-racking passing afternoon."
+        },
+        {
+          "rank": 6,
+          "team": "sunyshore",
+          "previous": 4,
+          "movement": -2,
+          "themeLabel": "The yards still have to reach the scoreboard.",
+          "text": "Down two after 14–6 at Eterna. Scol Alexander gained 176 receiving yards, and Sunyshore's whole team scored six points. That discrepancy deserves its own increasingly irritated accountant. The Starseekers are 8–3, with their running reduced to forty-five yards after FLOAT SZN's big Blackthorn game. Hearthome away offers a chance to reconnect movement and scoring. I remain impressed by the front. I remain unconvinced that the receiving totals should receive their own victory parade."
+        },
+        {
+          "rank": 7,
+          "team": "dewford",
+          "previous": 10,
+          "movement": 3,
+          "themeLabel": "Returns are a contribution, not an allowance.",
+          "text": "Up three after a fourth straight win, 22–16 over Lavaridge. Meowscarada supplied a seventy-five-yard punt-return touchdown, and the Breakers survived with 189 offensive yards. I like Dewford. I would like Dewford even more with an offense that did not occasionally ask special teams to bring the main course. A 4–1 road record now meets Petalburg's 5–0 home record. Brawly has earned the marquee. The next step is earning the division argument."
+        },
+        {
+          "rank": 8,
+          "team": "eterna",
+          "previous": 11,
+          "movement": 3,
+          "themeLabel": "The response has to leave room for a second one.",
+          "text": "Up three after holding Sunyshore to six points and forty-five rushing yards. Tatsugiri supplied 180 passing yards and two touchdowns, which was a considerable improvement on the previous week's forty-one yards and shutout. Eterna is 7–4 and 5–0 at home. Canalave visits with the same record and the division lead. Gardenia has made the Mt. Silver rout look less predictive. Beating the Bulwark would make this recovery considerably more consequential."
+        },
+        {
+          "rank": 9,
+          "team": "rustboro",
+          "previous": 6,
+          "movement": -3,
+          "themeLabel": "The ground underneath the offense has shifted.",
+          "text": "Down three after 35–7 against Mossdeep. Porygon-Z's previous five-touchdown game became ninety-nine passing yards, while My Way, Son acquired a new six-week absence. The Stone are 6–5 and only three points above even for the season. Philly's sixty-one rushing yards offer a useful starting place before Mauville arrives. Last week I asked Tyler Scarboro to use the entire menu. This week the kitchen has lost an important ingredient and the guests are already seated."
+        },
+        {
+          "rank": 10,
+          "team": "cinnabar",
+          "previous": 7,
+          "movement": -3,
+          "themeLabel": "Protection cannot be a polite suggestion.",
+          "text": "Down three after scoring three against Saffron. Eight sacks, eight rushing yards and 102 passing yards make a fairly complete case for the demotion. The Blaze are still 7–4 and leading their division; their last two opponents have scored seventy-six points between them. Viridian away is a more manageable assignment. Dorian can continue describing Cinnabar as a secret. The secret I want explained is how Gholdengo is supposed to finish a throw from underneath the pass rush."
+        },
+        {
+          "rank": 11,
+          "team": "ecruteak",
+          "previous": 13,
+          "movement": 2,
+          "themeLabel": "The recovery now belongs to the available players.",
+          "text": "Up two after an 18–17 win at Cianwood moved the Wails to 6–5. Hobbes ran for 118 yards, and Frosmoth handled most of the passing. Mr. Clanky is now out two weeks; People Eater remains out five. Lavender has found two consecutive wins after four consecutive losses, then immediately received another complication. Mahogany visits next. Travis Scarboro needs the version of adaptability that survives a second appointment, rather than a commemorative certificate for the first."
+        },
+        {
+          "rank": 12,
+          "team": "olivine",
+          "previous": 17,
+          "movement": 5,
+          "themeLabel": "The defense has bought another meeting.",
+          "text": "Up five after beating Violet 16–3. Five sacks and three interceptions helped turn a four-game winning opponent into a very quiet visitor. Drampa added 211 passing yards and a touchdown. The Ironclads are 6–5 with Mt. Silver next and several receiving options still absent. Jasmine's defense has done enough to make the trip interesting. The offense has to supply more than a proud explanation of how difficult it made the Reds' afternoon."
+        },
+        {
+          "rank": 13,
+          "team": "canalave",
+          "previous": 12,
+          "movement": -1,
+          "themeLabel": "A week off did not invent a passing game.",
+          "text": "Down one during the bye as Eterna and Olivine supplied fresh evidence. Canalave remains 7–4 and first in Sinnoh West, with a 6–3 win its most recent result. The trip to Eterna now tests whether 1,279 season rushing yards can carry an attack with 1,055 through the air. Byron's team knows how to keep a game small. Eventually the opponent will insist on including the end zones, and the Bulwark should prepare for that unreasonable demand."
+        },
+        {
+          "rank": 14,
+          "team": "vermilion",
+          "previous": 15,
+          "movement": 1,
+          "themeLabel": "Seven points is a narrow form of security.",
+          "text": "Up one after beating Viridian 7–6. The Volts are 7–4, unbeaten within their division and still minus-twenty-nine overall. I have spent weeks objecting to this combination. It has apparently chosen to continue without my approval. Saffron away is next, and the earlier 10–9 win makes the rematch meaningful. Chandelure's 147 passing yards and the team's thirty-two rushing yards will need substantial help against a defense coming off eight sacks."
+        },
+        {
+          "rank": 15,
+          "team": "violet",
+          "previous": 9,
+          "movement": -6,
+          "themeLabel": "The quarterback cannot lend out three possessions.",
+          "text": "Down six after a four-game winning streak ended 16–3 at Olivine. Iron Jugulis completed ten of thirty and threw three interceptions. Blackthorn now arrives after beating Mt. Silver. The Falcons are 6–5, but 0–3 within the division; that second record is more relevant to this next assignment than nostalgia for the four wins. Falkner has a chance to make a direct repair. He also has a visitor capable of making every unsuccessful pass feel very expensive."
+        },
+        {
+          "rank": 16,
+          "team": "mauville",
+          "previous": 16,
+          "movement": 0,
+          "themeLabel": "Useful passing still needs a traveling version.",
+          "text": "Still sixteenth, now with a second straight win. Togekiss threw for 274 yards and two touchdowns in a 23–17 defeat of Fortree. Wugtrio and Mothim both contributed, which is healthier than asking one receiver to hold up the entire discussion. Mauville is 5–6 and visits an injured Rustboro side it beat 23–0 in Week 1. Wattson has a real opportunity. His 1–3 road record is the reason I have not already written the celebration."
+        },
+        {
+          "rank": 17,
+          "team": "pastoria",
+          "previous": 19,
+          "movement": 2,
+          "themeLabel": "Ten points leaves the defense no afternoon off.",
+          "text": "Up two after a third straight win, 10–9 at Oreburgh. Farigiraf threw two interceptions, and the Waves won anyway. That describes a helpful defense and an arrangement I would not recommend preserving. Pastoria is 5–6 and visits Veilstone next, with Arbok still absent three weeks and Oinkologne two. Crasher Wake has won with seventeen points, twenty points and ten during this run. Ten is the lower boundary of an already modest arrangement. Please stop testing it."
+        },
+        {
+          "rank": 18,
+          "team": "fuchsia",
+          "previous": 28,
+          "movement": 10,
+          "themeLabel": "The improvement still throws interceptions.",
+          "text": "Up ten after a second consecutive victory, 22–21 at Pewter. Empoleon threw for 302 yards and three touchdowns; he also threw three interceptions and took six sacks. Sharpedo #89 and Manectric both cleared one hundred receiving yards. The Shadows are 3–9, which prevents me from pretending this is a finished repair. It does not prevent a substantial promotion. Cerulean away comes next. Koga has found the accelerator and should now locate the steering wheel."
+        },
+        {
+          "rank": 19,
+          "team": "viridian",
+          "previous": 14,
+          "movement": -5,
+          "themeLabel": "The defense cannot manufacture the seventh point.",
+          "text": "Down five after losing 7–6, a fourth straight defeat. Gabite ran for seventy-seven yards and Mr. Rime completed nineteen of twenty-six, yet the scoreboard refused to become helpful. Viridian is 4–7, and Toucannon and Bonsly now carry three-week absences. Cinnabar visits after being flattened by Saffron. Giovanni has an opponent with problems of its own. Winning requires making those problems count for something more substantial than a sympathetic paragraph."
+        },
+        {
+          "rank": 20,
+          "team": "mahogany",
+          "previous": 24,
+          "movement": 4,
+          "themeLabel": "The positive differential is becoming performance art.",
+          "text": "Up four because the lower half keeps offering competing varieties of failure. Mahogany lost 18–17 at Azalea despite rushing for 150 yards, leaving it 3–7–1 and still plus-six overall. I would like the Frost to explain the joke, slowly. Lavender away comes next with its quarterback absent, offering Pryce another reachable game. Exploud's eighty-four rushing yards provide the practical argument. The attractive season differential has used up its speaking time."
+        },
+        {
+          "rank": 21,
+          "team": "lavaridge",
+          "previous": 18,
+          "movement": -3,
+          "themeLabel": "Two interceptions can overwhelm useful work.",
+          "text": "Down three after a 22–16 loss at Dewford. Delphox completed nineteen of twenty-six for 204 yards and two touchdowns, then surrendered two passes to the other team. Lavaridge is 4–7 with Sootopolis visiting next and Stantler still absent one week. The Inferno have enough offense to threaten an opponent. Flannery needs that threat to survive its own generosity, especially against a Surge receiving group now missing Arbok for seventeen weeks."
+        },
+        {
+          "rank": 22,
+          "team": "sootopolis",
+          "previous": 23,
+          "movement": 1,
+          "themeLabel": "The missing receiver is a real problem.",
+          "text": "Up one despite a 21–18 loss, because the performance was more competitive than several alternatives. Drampa threw for 260 yards, and Rillaboom added sixty-four rushing. The new seventeen-week Arbok absence is the serious part: a productive target has left the coming matchup against Lavaridge. The Surge are 4–7 and winless in five road games. Wallace has to distribute the work differently. The schedule has declined to make that adjustment at home."
+        },
+        {
+          "rank": 23,
+          "team": "azalea",
+          "previous": 31,
+          "movement": 8,
+          "themeLabel": "Eighteen can be enough when the opponent stops at seventeen.",
+          "text": "Up eight after beating Mahogany by one. Drampa threw for 171 yards, while Ursaring and Kricketune each scored on the ground. The Swarm are 5–7 and enter their bye with Doduo still out two weeks. Their defense allowed 150 rushing yards in the win, so the underlying difficulty has not politely excused itself. Bugsy can enjoy a result that improved the record. There is no requirement to call it a comprehensive renovation."
+        },
+        {
+          "rank": 24,
+          "team": "snowpoint",
+          "previous": 30,
+          "movement": 6,
+          "themeLabel": "The road record has not seen this version yet.",
+          "text": "Up six after a 24–6 win over Veilstone. Drampa completed twenty-four of thirty-one, Abomasnow caught eight for eighty-eight yards, and the Blizzard finally made their completions useful on the scoreboard. At 3–8, they visit Oreburgh next. Snowpoint is 0–4 away. Candice has a much better recent performance to take on the trip; I will reserve the grand claim of transformation until it survives a change of address."
+        },
+        {
+          "rank": 25,
+          "team": "celadon",
+          "previous": 32,
+          "movement": 7,
+          "themeLabel": "The new answer must last longer than one headline.",
+          "text": "Up seven after beating Cerulean 34–13. Infernape completed twenty of thirty for 169 yards and two touchdowns without an interception. Celadon had scored six and ten in its previous two games; thirty-four is a substantial interruption. The Bloom are 3–9 with Pewter next and their existing injury absences still in place. Erika has earned a fresh question about her offense. For once, it is not merely where the points went."
+        },
+        {
+          "rank": 26,
+          "team": "cianwood",
+          "previous": 21,
+          "movement": -5,
+          "themeLabel": "The running game did not carry its usual share.",
+          "text": "Down five after losing 18–17 to Lavender. Bibarel's 121 rushing yards the week before became forty-four on twenty-three carries. Swampert threw for 108 yards. The Crushers are 4–8 and get their bye now, with Gardevoir still absent five weeks. Chuck's team has competed in several manageable games. The next useful development would be making one manageable without requiring the defense to maintain a one-point emergency for the entire afternoon."
+        },
+        {
+          "rank": 27,
+          "team": "pewter",
+          "previous": 20,
+          "movement": -7,
+          "themeLabel": "Six sacks should buy more than this.",
+          "text": "Down seven after a 22–21 loss to Fuchsia. The Rockers harassed Empoleon and still allowed 302 passing yards and three touchdown throws. Delcatty ran for ninety-six, but Wyrdeer's passing supplied sixty-six. Pewter is 4–7 with Celadon next. Scolipede and Froslass remain absent at corner. Brock needs a way to convert disruption into actual stops; the opposing quarterback cannot be allowed to recover all the lost ground in the next highlight."
+        },
+        {
+          "rank": 28,
+          "team": "fortree",
+          "previous": 25,
+          "movement": -3,
+          "themeLabel": "The passing recovery still lacks a running partner.",
+          "text": "Down three after 23–17 at Mauville. Rabsca's 242 yards and two touchdowns are a useful answer to the Saffron shutout, but twenty-five team rushing yards left too much of the repair in one place. Fortree is 3–8 and hosts unbeaten Mossdeep next, with Pawmot still out five weeks. The Eclipse have new backfield injuries. Winona should test them, while acknowledging that seventeen points probably cannot be the ceiling of her own ambition."
+        },
+        {
+          "rank": 29,
+          "team": "cerulean",
+          "previous": 22,
+          "movement": -7,
+          "themeLabel": "The opponent’s recovery keeps arriving on this schedule.",
+          "text": "Down seven after losing 34–13 to Celadon, a fourth straight defeat. Farigiraf threw two interceptions and the Tide allowed an offense with sixteen points across its previous two games to discover thirty-four. Cerulean is 4–7, with Fuchsia's revived passing next. Misty has Raticate and Vikavolt absent two weeks apiece. A defense already allowing 248 points does not need another reason to make the next quarterback look comfortably employed."
+        },
+        {
+          "rank": 30,
+          "team": "oreburgh",
+          "previous": 27,
+          "movement": -3,
+          "themeLabel": "Nine points turns every mistake into the story.",
+          "text": "Down three after losing 10–9 to Pastoria. Cryogonal threw two interceptions in a game offering no useful scoring cushion. The Miners are 3–9 and host Snowpoint next, with Huntail newly out two weeks. Roark has received another opponent capable of keeping the contest within reach. His offense needs to accept the invitation before its own turnovers spend the afternoon forwarding it to somebody else."
+        },
+        {
+          "rank": 31,
+          "team": "hearthome",
+          "previous": 29,
+          "movement": -2,
+          "themeLabel": "A bye does not erase the last six points.",
+          "text": "Down two while idle as several clubs below the Haunts found wins. Hearthome remains 3–7–1, with a 24–6 loss at Violet its last appearance. Sunyshore visits after scoring only six itself, which is a coincidence rather than a competitive guarantee. Luxray, Sunflora and Mr. Mime remain absent. Fantina needs the rested passing game to provide a better reason for optimism than the opponent's embarrassment at Eterna."
+        },
+        {
+          "rank": 32,
+          "team": "veilstone",
+          "previous": 26,
+          "movement": -6,
+          "themeLabel": "The home split is all that interrupts the slide.",
+          "text": "Down six after a fourth straight loss, 24–6 at Snowpoint. Veilstone is 4–8 and has lost all seven road games. The good news is that Pastoria comes here: the Fists are 4–1 at home. Maylene's latest passing produced 164 yards without a touchdown. The location gives the next game a different shape, but it does not throw the ball. Thirty-second is harsh. Four consecutive losses and six points make the appeal fairly brief."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/da9e3985c71360b7.webp",
+        "alt": "Dram Marino, Archam Manning, Blackthorn’s Hatterene and Tic Thorpe represent their clubs on a layered ranking pyramid."
+      }
+    },
+    {
+      "id": "draft-k-s1-w12",
+      "type": "draft",
+      "focus": "K",
+      "author": "calvin-rook",
+      "teams": [],
+      "title": "The Rook Board: thirteen kickers, and the question the stopwatch cannot answer",
+      "dek": "Maractus leads the visible scouting bands. Luvdisc wins the workout. Calvin Rook separates those two arguments, ranks all thirteen kickers and names the clubs that should investigate.",
+      "body": [
+        {
+          "type": "p",
+          "text": "I can tell you which kicker ran the fastest forty. I cannot tell you which one will make a forty-seven-yard field goal from these numbers. That is the first useful distinction in this week’s Rook Board, and the one I expect somebody to ignore before reaching the third prospect."
+        },
+        {
+          "type": "p",
+          "text": "Accumula State’s Maractus is my first evaluation because his visible 65–93 scouting band leads the class. University of Fortree’s Luvdisc is the athlete I want to watch longest: 4.71 in the forty, a forty-two-inch vertical and a 6.37 cone. Both judgments can be true. The class contains thirteen visible kickers, two separate Grubbin prospects and no supplied college accuracy chart or measured kicking-distance session. The upper end of a scouting band is not a current ability rating."
+        },
+        {
+          "type": "p",
+          "text": "The IFL supplies plenty of reasons to take the position seriously. Petalburg’s Sunflora is nine-for-nine on field goals through Week 12. Fortree’s Lanturn is eleven-for-twelve. Fuchsia’s Gorebyss is seven-for-sixteen and Olivine’s Sunflora eight-for-fourteen. Those totals invite different conversations, although distance and circumstances still matter before anybody declares an incumbent finished. Fortree has enough other problems without treating a local college kicker as an automatic solution."
+        },
+        {
+          "type": "p",
+          "text": "My comparisons below are evaluation fits, not draft orders or claims that a club has committed to change. A sprint can suggest usefulness in coverage. A cone can make an athlete worth examining in space. Neither demonstrates repeatable contact, placement or range. I am ranking the available evidence, then identifying the football question I would ask next. Maractus gets the first appointment; Luvdisc gets the longest second look."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p2097",
+          "name": "Maractus",
+          "species": "Maractus",
+          "speciesId": 556,
+          "icon": "assets/sprites/556.png",
+          "position": "K",
+          "age": 23,
+          "level": 6,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 13,
+            "vertical": 31,
+            "cone": 6.95
+          },
+          "university": {
+            "id": "unova-accumula-state-university",
+            "name": "Accumula State University",
+            "city": "Accumula Town",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 1,
+          "analysis": "Accumula State's Maractus goes first because the 65–93 visible scouting band is the highest in this group. The workout is respectable rather than theatrical: 4.95 in the forty, thirteen bench repetitions, thirty-one inches vertically and 6.95 through the cones. At twenty-three and level six, this is a very different development proposition from the more advanced Charjabug below. I want to see actual kicking before turning a promising band into a dependable Sunday leg. The resemblance to Lavender's Just a cactus and Mossdeep's Adam Vinathorn makes a convenient introduction; it does not transfer their results to a college prospect.",
+          "concern": "We have no prospect field-goal distances or accuracy chart. Nothing in the forty establishes where his reliable kicking range ends.",
+          "projection": "My first kicking evaluation. Fuchsia, with seven makes in sixteen season field-goal attempts, should investigate; that record invites comparison, not a prewritten replacement decision."
+        },
+        {
+          "pid": "p2195",
+          "name": "Stunfisk",
+          "species": "Stunfisk",
+          "speciesId": 618,
+          "icon": "assets/sprites/618.png",
+          "position": "K",
+          "age": 22,
+          "level": 8,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 10,
+            "vertical": 29,
+            "cone": 7.06
+          },
+          "university": {
+            "id": "kanto-celadon-metropolitan-university",
+            "name": "Celadon Metropolitan University",
+            "city": "Celadon City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 2,
+          "analysis": "Celadon Metropolitan's Stunfisk owns a 63–91 band, close enough to Maractus that I will not pretend the order is a settled verdict. The 5.07 forty and 7.06 cone are unremarkable movement results. They also answer a question a place-kicker is rarely hired primarily to solve. He is twenty-two and level eight, and the next useful evidence would concern his actual striking routine. I would rather admit what this workout does not show than turn a slow cone into a missed forty-yard attempt in my imagination.",
+          "concern": "The promising scouting interval remains wide. A twenty-nine-inch jump does not prove a weak leg or a strong one.",
+          "projection": "A serious top-of-group alternative for Olivine, whose eight makes in fourteen attempts give Jasmine reason to compare options carefully."
+        },
+        {
+          "pid": "p2192",
+          "name": "Luvdisc",
+          "species": "Luvdisc",
+          "speciesId": 370,
+          "icon": "assets/sprites/370.png",
+          "position": "K",
+          "age": 22,
+          "level": 21,
+          "range": [
+            59,
+            87
+          ],
+          "combine": {
+            "forty": 4.71,
+            "bench": 8,
+            "vertical": 42,
+            "cone": 6.37
+          },
+          "university": {
+            "id": "hoenn-university-of-fortree",
+            "name": "University of Fortree",
+            "city": "Fortree City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 3,
+          "analysis": "Here is the Hoenn prospect I am going to spend too much time discussing. University of Fortree's Luvdisc ran 4.71, jumped forty-two inches and completed the cone in 6.37, all the best marks in this thirteen-player group. The 59–87 band does not lead the class, but the athlete certainly gets my attention. Those movement results could matter in coverage or an emergency scramble; they still need a football job to justify the admiration. At level twenty-one, he offers a different visible starting point from the two names above him.",
+          "concern": "Athleticism cannot substitute for repeatable placement. I am ranking an intriguing evaluation, not certifying him as the class's most accurate kicker.",
+          "projection": "Sunyshore should take a close look after four field goals in seven attempts. Fortree should enjoy its local prospect without forgetting Lanturn is already eleven-for-twelve."
+        },
+        {
+          "pid": "p2011",
+          "name": "Charjabug",
+          "species": "Charjabug",
+          "speciesId": 737,
+          "icon": "assets/sprites/737.png",
+          "position": "K",
+          "age": 21,
+          "level": 24,
+          "range": [
+            60,
+            88
+          ],
+          "combine": {
+            "forty": 5.09,
+            "bench": 15,
+            "vertical": 33,
+            "cone": 7
+          },
+          "university": {
+            "id": "galar-ballonlea-state-university",
+            "name": "Ballonlea State University",
+            "city": "Ballonlea",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 4,
+          "analysis": "Ballonlea State's Charjabug is twenty-one, level twenty-four and carries a 60–88 scouting interval. That combination earns fourth even though the 5.09 forty and 7.00 cone will not generate a workout montage. Fifteen bench repetitions distinguish him from the two Grubbin prospects without proving anything specific about ball flight. The relevant attraction is a relatively young player with a more advanced visible level and an encouraging band. Cinnabar and Snowpoint already use Charjabug kickers; those familiar silhouettes should prompt questions about this individual, not a species-wide scouting shortcut.",
+          "concern": "Level is a development marker, not a guarantee that his placement or distance is superior to lower-level candidates.",
+          "projection": "A priority comparison for Mauville alongside the higher-band options. Sunflora's thirteen-for-nineteen season calls for a careful evaluation of the misses before a roster judgment."
+        },
+        {
+          "pid": "p2189",
+          "name": "Klawf",
+          "species": "Klawf",
+          "speciesId": 950,
+          "icon": "assets/sprites/950.png",
+          "position": "K",
+          "age": 22,
+          "level": 11,
+          "range": [
+            56,
+            84
+          ],
+          "combine": {
+            "forty": 4.84,
+            "bench": 22,
+            "vertical": 37,
+            "cone": 6.69
+          },
+          "university": {
+            "id": "paldea-levincia-technical-university",
+            "name": "Levincia Technical University",
+            "city": "Levincia",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 5,
+          "analysis": "Levincia Technical's Klawf makes the strongest physical case after Luvdisc: 4.84 in the forty, twenty-two bench repetitions, a thirty-seven-inch vertical and 6.69 cone. That bench result leads the group comfortably. His 56–84 band keeps him below several less spectacular workouts in my order. I am interested in whether the athlete can add useful special-teams work around the central kicking assignment. I am not going to translate twenty-two repetitions into a fictional sixty-yard field goal. He is twenty-two and level eleven, with plenty still to establish.",
+          "concern": "The strongest bench performance supplies no direct measurement of kicking power. His upper scouting endpoint is also below the leading candidates.",
+          "projection": "Rustboro should include him in a broader specialist comparison; the Stone have used several kickers, and a useful athlete deserves a look without being promised the job."
+        },
+        {
+          "pid": "p2095",
+          "name": "Grubbin",
+          "species": "Grubbin",
+          "speciesId": 736,
+          "icon": "assets/sprites/736.png",
+          "position": "K",
+          "age": 22,
+          "level": 14,
+          "range": [
+            58,
+            86
+          ],
+          "combine": {
+            "forty": 5.04,
+            "bench": 9,
+            "vertical": 35,
+            "cone": 6.91
+          },
+          "university": {
+            "id": "kalos-north-kalos-university",
+            "name": "North Kalos University",
+            "city": "Laverre City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 6,
+          "analysis": "North Kalos University's Grubbin gets the first of the two Grubbin places. He is twenty-two, level fourteen, and carries a 58–86 interval. The 5.04 forty, nine bench repetitions and thirty-five-inch vertical are a little stronger overall than Coumarine Coastal's nearby entry, although the cone comparison reverses by two hundredths. That is a modest ordering judgment, not an enormous football distinction. The school name matters here because the species name alone would collapse two separate prospects into one misleading evaluation.",
+          "concern": "The near-identical profiles need kicking evidence to separate them. Small combine differences should not become a large confidence gap.",
+          "projection": "A second-wave evaluation for Pewter, where Unown has made thirteen of nineteen field-goal attempts and competition could be useful if the direct kicking comparison supports it."
+        },
+        {
+          "pid": "p1896",
+          "name": "Grubbin",
+          "species": "Grubbin",
+          "speciesId": 736,
+          "icon": "assets/sprites/736.png",
+          "position": "K",
+          "age": 22,
+          "level": 13,
+          "range": [
+            57,
+            85
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 6,
+            "vertical": 35,
+            "cone": 6.89
+          },
+          "university": {
+            "id": "kalos-coumarine-coastal-university",
+            "name": "Coumarine Coastal University",
+            "city": "Coumarine City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 7,
+          "analysis": "Coumarine Coastal University's Grubbin has the same age and vertical as North Kalos's prospect, with a 57–85 band and level thirteen. The 5.06 forty and six bench repetitions trail his counterpart; the 6.89 cone edges him. I place him seventh because the total visible case is slightly less persuasive, then immediately note how easily an actual kicking session could reverse those two names. This is exactly the part of a board where a confident scout should stop mistaking a numbered list for certainty.",
+          "concern": "No recorded college kick separates him from the Grubbin above. Similarity in the available measurements is a reason to investigate, not to merge their identities.",
+          "projection": "Evaluate beside North Kalos's Grubbin rather than after him as an afterthought. Canalave's thirteen-for-nineteen field-goal line supplies a reasonable team for that comparison."
+        },
+        {
+          "pid": "p2191",
+          "name": "Koffing",
+          "species": "Koffing",
+          "speciesId": 109,
+          "icon": "assets/sprites/109.png",
+          "position": "K",
+          "age": 23,
+          "level": 24,
+          "range": [
+            57,
+            85
+          ],
+          "combine": {
+            "forty": 5.12,
+            "bench": 9,
+            "vertical": 32,
+            "cone": 6.99
+          },
+          "university": {
+            "id": "hoenn-ole-fallarbor",
+            "name": "Ole Fallarbor",
+            "city": "Fallarbor Town",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 8,
+          "analysis": "Ole Fallarbor's Koffing is my familiar Hoenn temptation, and I am keeping him eighth anyway. At twenty-three and level twenty-four, he enters at the highest visible level in the group, shared with Charjabug. The 57–85 band matches Coumarine's Grubbin; the workout reads 5.12, nine bench repetitions, thirty-two inches and 6.99. There is no dramatic movement advantage to sell. There is an established development marker worth comparing against younger, less advanced prospects. I would like that comparison to happen with a football on a tee.",
+          "concern": "The older age and advanced level do not tell us how much useful improvement remains. No growth promise is supported here.",
+          "projection": "Mauville should evaluate the local-region option without allowing familiarity to decide it. He belongs in the same working session as Charjabug, not in a separate sentimental category."
+        },
+        {
+          "pid": "p2193",
+          "name": "Yamask",
+          "species": "Yamask",
+          "speciesId": 562,
+          "icon": "assets/sprites/562.png",
+          "position": "K",
+          "age": 22,
+          "level": 10,
+          "range": [
+            54,
+            82
+          ],
+          "combine": {
+            "forty": 5.12,
+            "bench": 9,
+            "vertical": 32,
+            "cone": 7.05
+          },
+          "university": {
+            "id": "alola-po-state-university",
+            "name": "Po State University",
+            "city": "Po Town",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 9,
+          "analysis": "Po State's Yamask has a 54–82 band at twenty-two and level ten. The 5.12 forty, nine bench repetitions, thirty-two-inch vertical and 7.05 cone create a conventional lower-middle workout profile. I am putting him ninth because the visible range trails the central cluster, not because his movement disqualifies him from a position built around a different task. A club conducting a genuine specialist search should still collect the missing kicking evidence. There is no prize for rejecting a workable leg because somebody else ran a tidier shuttle.",
+          "concern": "The current evidence does not identify either a standout athletic advantage or a superior scouting band.",
+          "projection": "A later comparison for a club seeking a second kicking option; the actual roster fit still has to justify the place."
+        },
+        {
+          "pid": "p2194",
+          "name": "Meditite",
+          "species": "Meditite",
+          "speciesId": 307,
+          "icon": "assets/sprites/307.png",
+          "position": "K",
+          "age": 21,
+          "level": 15,
+          "range": [
+            47,
+            75
+          ],
+          "combine": {
+            "forty": 4.93,
+            "bench": 9,
+            "vertical": 34,
+            "cone": 6.75
+          },
+          "university": {
+            "id": "kanto-viridian-state-university",
+            "name": "Viridian State University",
+            "city": "Viridian City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 10,
+          "analysis": "Viridian State's Meditite is twenty-one and level fifteen, with a 47–75 band. The 4.93 forty and 6.75 cone are better movement numbers than those of several players above him. That is why I want the direct evaluation before dismissing him, and why I still will not move him past prospects with much stronger visible bands merely to reward the stopwatch. Thirty-four inches in the vertical and nine bench repetitions complete a profile that is athletic enough to ask a second question.",
+          "concern": "The lower scouting interval is a real caution. Youth is not evidence of a guaranteed improvement path.",
+          "projection": "A developmental competition candidate after the leading group. Teams with dependable incumbents should compare his future role against other roster needs before spending a pick."
+        },
+        {
+          "pid": "p2188",
+          "name": "Skitty",
+          "species": "Skitty",
+          "speciesId": 300,
+          "icon": "assets/sprites/300.png",
+          "position": "K",
+          "age": 21,
+          "level": 13,
+          "range": [
+            44,
+            72
+          ],
+          "combine": {
+            "forty": 4.99,
+            "bench": 8,
+            "vertical": 35,
+            "cone": 6.85
+          },
+          "university": {
+            "id": "paldea-university-of-cortondo",
+            "name": "University of Cortondo",
+            "city": "Cortondo",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 11,
+          "analysis": "University of Cortondo's Skitty is the youngest tier of this class at twenty-one, with level thirteen and a 44–72 interval. A 4.99 forty, thirty-five-inch jump and 6.85 cone keep the movement respectable. Eight bench repetitions add little separation. I prefer the age and slightly stronger band floor to the final two entries, but the kicking question remains almost entirely open. The sensible response is a targeted workout, not a promise that an attractive young athlete will eventually solve a specialist job.",
+          "concern": "Neither the low-end band nor the absence of direct kicking measurements supports an immediate-starter claim.",
+          "projection": "A later developmental evaluation for a team that can afford patience; I would not ask an offense already struggling to score to assume he is ready."
+        },
+        {
+          "pid": "p2196",
+          "name": "Combee",
+          "species": "Combee",
+          "speciesId": 415,
+          "icon": "assets/sprites/415.png",
+          "position": "K",
+          "age": 23,
+          "level": 6,
+          "range": [
+            44,
+            72
+          ],
+          "combine": {
+            "forty": 4.89,
+            "bench": 7,
+            "vertical": 38,
+            "cone": 6.7
+          },
+          "university": {
+            "id": "hoenn-dewford-university",
+            "name": "Dewford University",
+            "city": "Dewford Town",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 12,
+          "analysis": "Dewford University's Combee gives me another Hoenn athlete to admire: 4.89 in the forty, thirty-eight inches vertically and 6.70 through the cones. Those are better movement marks than his 44–72 band might lead a casual reader to expect. He is twenty-three and level six, so I rank him twelfth rather than inventing a long development runway from the workout alone. Brawly's current Numel has made ten of twelve field goals. The college name is pleasant; it does not create a vacancy on the Breakers.",
+          "concern": "The athletic display does not resolve placement, distance or the meaning of the low scouting interval. The oldest age tier merits care in developmental projections.",
+          "projection": "A specialist-session invitation before a draft commitment. Dewford should evaluate on merit while treating its productive incumbent as a real comparison."
+        },
+        {
+          "pid": "p2190",
+          "name": "Munna",
+          "species": "Munna",
+          "speciesId": 517,
+          "icon": "assets/sprites/517.png",
+          "position": "K",
+          "age": 23,
+          "level": 16,
+          "range": [
+            43,
+            71
+          ],
+          "combine": {
+            "forty": 5.13,
+            "bench": 5,
+            "vertical": 29,
+            "cone": 7.26
+          },
+          "university": {
+            "id": "johto-university-of-violet",
+            "name": "University of Violet",
+            "city": "Violet City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 13,
+          "analysis": "University of Violet's Munna closes the list at twenty-three and level sixteen. His 43–71 band is the lowest here, and the 5.13 forty, five bench repetitions and 7.26 cone do not supply an athletic reason to override it. The twenty-nine-inch vertical is tied at the bottom. I am comfortable ranking this visible case thirteenth. I am less comfortable telling a reader that it proves he cannot kick, because none of those measurements records an attempt through the uprights.",
+          "concern": "Every broad indicator leaves work to do, and direct specialist evidence is still absent. This is the weakest current case, not a hidden discovery I can honestly sell.",
+          "projection": "A late evaluation only if the actual kicking session changes the discussion. Do not spend ahead of the stronger visible candidates on a story the evidence has not told."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/c0c7e1cd5923fd3c.webp",
+        "alt": "Accumula State prospect Maractus works through a kick during a practice drill."
+      }
+    }
+  ]
+}
