@@ -1,0 +1,254 @@
+{
+  "season": 1,
+  "week": 14,
+  "articles": [
+    {
+      "id": "preview-s1-w15",
+      "type": "preview",
+      "author": "tessa-wren",
+      "title": "Week 15: Saffron meets Mt. Silver, and the wild-card chase tightens",
+      "dek": "Sixteen games, eighty independently authored predictions, and a full week of direct tests for the contenders.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Saffron at Mt. Silver leads the week: eleven wins against twelve, two outstanding defenses, and two coaches with very different ways of expressing confidence. Rustboro at Sunyshore brings the other meeting among our featured clubs. Everyone plays this week. The individual score cards reflect each writer’s matchup judgment; some games invite close calls, while Mossdeep at Canalave presents a much wider recent scoring gap."
+        },
+        {
+          "type": "p",
+          "text": "I owe Petalburg an apology for the optimism in last week’s 34–20 Mossdeep pick. The Eclipse won 55–0. Petalburg missed both of my targets, while Mossdeep met its protection and passing-touchdown goals. This week I am backing the undefeated team by thirty-five at Canalave, whose last two games have produced six points in total."
+        }
+      ],
+      "matchups": [
+        {
+          "gid": "1-15-cianwood",
+          "week": 15,
+          "home": "cianwood",
+          "away": "fuchsia",
+          "matchup": "The Crushers can win with the ground game",
+          "analysis": "Cianwood won at Violet with Bibarel carrying twenty-two times. Fuchsia returns from its bye to a defense that just allowed ten points; I expect the Crushers to sustain the steadier possessions.",
+          "awayKey": "Score at least two offensive touchdowns.",
+          "homeKey": "Rush for 120 yards and lose no fumbles.",
+          "prediction": {
+            "away": 13,
+            "home": 24
+          }
+        },
+        {
+          "gid": "1-15-violet",
+          "week": 15,
+          "home": "violet",
+          "away": "viridian",
+          "matchup": "Violet needs to finish drives",
+          "analysis": "Violet's three straight losses have come with shrinking room for offensive mistakes. Viridian surrendered fifty-six at Saffron but still gained passing yards; this should demand more than the Falcons' ten points last week.",
+          "awayKey": "Keep interceptions to one or fewer.",
+          "homeKey": "Convert at least forty percent of third downs.",
+          "prediction": {
+            "away": 17,
+            "home": 23
+          }
+        },
+        {
+          "gid": "1-15-olivine",
+          "week": 15,
+          "home": "olivine",
+          "away": "vermilion",
+          "matchup": "Two damaged offenses meet at the cut line",
+          "analysis": "Olivine threw four interceptions at Blackthorn but reached 253 passing yards. Vermilion managed 122 through the air against Pewter and has new absences. I favor the home offense narrowly if it protects possessions.",
+          "awayKey": "Hold Olivine below twenty points.",
+          "homeKey": "Throw no more than one interception.",
+          "prediction": {
+            "away": 13,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-15-mahogany",
+          "week": 15,
+          "home": "mahogany",
+          "away": "pewter",
+          "matchup": "Pewter tries to carry its improvement on the road",
+          "analysis": "Pewter's seventeen points at Vermilion came with two Wyrdeer touchdown passes. Mahogany has a new four-week absence for Golduck after scoring seven against Mt. Silver. The Rockers have the clearer recent offensive answer.",
+          "awayKey": "Record at least three sacks.",
+          "homeKey": "Produce two touchdown drives without Golduck.",
+          "prediction": {
+            "away": 20,
+            "home": 16
+          }
+        },
+        {
+          "gid": "1-15-goldenrod",
+          "week": 15,
+          "home": "goldenrod",
+          "away": "saffron",
+          "matchup": "A championship-caliber defensive test",
+          "analysis": "Saffron brings fifty-six points from its last game and only seventy-nine allowed all season. Mt. Silver counters with Tic Thorpe's 335-yard afternoon and home field. I narrowly favor the Reds' receiving depth in the week's hardest call.",
+          "awayKey": "Rush for at least 120 yards and win the turnover margin.",
+          "homeKey": "Keep Thorpe to one interception or fewer and score three offensive touchdowns.",
+          "prediction": {
+            "away": 24,
+            "home": 27
+          }
+        },
+        {
+          "gid": "1-15-blackthorn",
+          "week": 15,
+          "home": "blackthorn",
+          "away": "cinnabar",
+          "matchup": "Cinnabar must answer Hatterene early",
+          "analysis": "Hatterene threw five touchdowns against Olivine, with Ninjask and Sawsbuck each reaching at least 130 receiving yards. Cinnabar lost by one at Cerulean despite Arcanine's 105 yards. I expect the Dragons to win a game with real offensive exchanges.",
+          "awayKey": "Score two first-half touchdowns.",
+          "homeKey": "Get touchdowns from at least two different receivers.",
+          "prediction": {
+            "away": 24,
+            "home": 34
+          }
+        },
+        {
+          "gid": "1-15-azalea",
+          "week": 15,
+          "home": "azalea",
+          "away": "cerulean",
+          "matchup": "Cerulean's late success faces a new road test",
+          "analysis": "Farigiraf threw two touchdowns without an interception against Cinnabar. Azalea produced three points at Lavender. I favor Cerulean carrying its cleaner passing into a game the Swarm need to keep low-scoring.",
+          "awayKey": "Finish without an interception.",
+          "homeKey": "Rush for at least 100 yards and hold Cerulean below twenty.",
+          "prediction": {
+            "away": 20,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-15-ecruteak",
+          "week": 15,
+          "home": "ecruteak",
+          "away": "celadon",
+          "matchup": "Lavender asks its defense to do it again",
+          "analysis": "Lavender has won four straight and just held Azalea to three points. Celadon returns from a bye with several continuing absences. I favor Frosmoth sustaining enough short completions to build a two-score cushion.",
+          "awayKey": "Create two takeaways.",
+          "homeKey": "Allow no more than one touchdown and commit no turnovers.",
+          "prediction": {
+            "away": 10,
+            "home": 23
+          }
+        },
+        {
+          "gid": "1-15-snowpoint",
+          "week": 15,
+          "home": "snowpoint",
+          "away": "sootopolis",
+          "matchup": "The Surge must cover for an injured cornerback",
+          "analysis": "Sootopolis loses cornerback Kingdra for five weeks after the Dewford game. Snowpoint also needs an offensive recovery after scoring six at Hearthome, but the visitors face the more substantial immediate continuity problem.",
+          "awayKey": "Allow no more than one passing touchdown without Kingdra.",
+          "homeKey": "Score at least two offensive touchdowns.",
+          "prediction": {
+            "away": 17,
+            "home": 24
+          }
+        },
+        {
+          "gid": "1-15-veilstone",
+          "week": 15,
+          "home": "veilstone",
+          "away": "mauville",
+          "matchup": "Two low-scoring teams fight for another week of hope",
+          "analysis": "Mauville won eleven-ten at Lavaridge, while Veilstone comes off its bye after beating Pastoria ten-three. I expect field position and one sustained touchdown drive to decide a narrow Dynamos win.",
+          "awayKey": "Produce two touchdown drives.",
+          "homeKey": "Hold Mauville below seventeen points.",
+          "prediction": {
+            "away": 16,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-15-oreburgh",
+          "week": 15,
+          "home": "oreburgh",
+          "away": "fortree",
+          "matchup": "Fortree looks for a complete afternoon",
+          "analysis": "Fortree pushed Rustboro to twenty-nine–twenty-three with Rabsca throwing for 230 yards. Oreburgh returns from a bye after an overtime defeat to Snowpoint. I favor the visitors' latest passing improvement by a small margin.",
+          "awayKey": "Complete three passes gaining at least twenty yards.",
+          "homeKey": "Keep giveaways to one and exceed twenty points.",
+          "prediction": {
+            "away": 24,
+            "home": 20
+          }
+        },
+        {
+          "gid": "1-15-hearthome",
+          "week": 15,
+          "home": "hearthome",
+          "away": "dewford",
+          "matchup": "Dewford brings the more dependable ground game",
+          "analysis": "Dewford won twenty-four–seventeen with Excadrill rushing for ninety-five yards. Hearthome recovered impressively against Snowpoint, but I trust the Breakers to repeat productive possessions with fewer demands on their passing game.",
+          "awayKey": "Rush for 120 yards and keep giveaways to one.",
+          "homeKey": "Hold Dewford below 100 rushing yards.",
+          "prediction": {
+            "away": 27,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-15-eterna",
+          "week": 15,
+          "home": "eterna",
+          "away": "lavaridge",
+          "matchup": "Eterna needs points to reward its defense",
+          "analysis": "Eterna scored three at Pastoria and allowed seven sacks. Lavaridge has surrendered 302 points this season, so I expect a home rebound if the Thorns protect even adequately and avoid giving the Inferno short fields.",
+          "awayKey": "Record at least four sacks.",
+          "homeKey": "Allow no more than two sacks and score two touchdowns.",
+          "prediction": {
+            "away": 10,
+            "home": 21
+          }
+        },
+        {
+          "gid": "1-15-pastoria",
+          "week": 15,
+          "home": "pastoria",
+          "away": "petalburg",
+          "matchup": "Petalburg faces another disruptive defense",
+          "analysis": "Petalburg took seven sacks and threw three interceptions at Mossdeep. Pastoria just produced seven sacks against Eterna. I still favor the nine-win Pride, but protection makes this a much tighter road game than the records suggest.",
+          "awayKey": "Allow no more than two sacks and throw no interceptions.",
+          "homeKey": "Record at least four sacks and score two touchdowns.",
+          "prediction": {
+            "away": 17,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-15-canalave",
+          "week": 15,
+          "home": "canalave",
+          "away": "mossdeep",
+          "matchup": "Mossdeep can force an early chase",
+          "analysis": "Canalave has scored six points in two games and now faces a Mossdeep offense with 134 in that span. The Eclipse's seven sacks against Petalburg compound a mismatch that justifies a large margin.",
+          "awayKey": "Convert at least half of third downs and allow fewer than fourteen points.",
+          "homeKey": "Hold Mossdeep below thirty and score two offensive touchdowns.",
+          "prediction": {
+            "away": 42,
+            "home": 7
+          }
+        },
+        {
+          "gid": "1-15-sunyshore",
+          "week": 15,
+          "home": "sunyshore",
+          "away": "rustboro",
+          "matchup": "Rustboro tests a reshuffled secondary",
+          "analysis": "Sunyshore shut out Canalave but now has cornerback Serp Gardener out two weeks and running back FLOAT SZN out one. Rustboro's Gibby Timmy just caught two deep touchdowns. I favor the Starseekers while expecting the visitors to find more explosive plays.",
+          "awayKey": "Complete three passes of twenty yards or more.",
+          "homeKey": "Hold Rustboro below twenty-four and win the turnover margin.",
+          "prediction": {
+            "away": 20,
+            "home": 30
+          }
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/d9c69566b381b563.webp",
+        "alt": "Sixteen colorful admission tickets sit on an imaginary regional map."
+      }
+    }
+  ]
+}

@@ -36,6 +36,11 @@ function renderTeamStats(g){if(!g.teamStats)return '<div class="panel"><h3>Team 
 function articleBody(a){return `<div class="prose">${a.body.map(b=>{
  if(b.type==='figure')return `<figure class="article-figure"><img src="${esc(b.src)}" alt="${esc(b.alt)}" loading="lazy" decoding="async">${b.caption?`<figcaption>${esc(b.caption)}</figcaption>`:''}</figure>`;
  if(b.type==='table')return `<section class="article-data" aria-label="${esc(b.title)}"><h2>${esc(b.title)}</h2>${b.description?`<p>${esc(b.description)}</p>`:''}<table><thead><tr>${b.columns.map(c=>`<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${b.rows.map(r=>`<tr>${r.cells.map((c,i)=>`<td data-label="${esc(b.columns[i])}">${i===0&&r.team?logo(r.team):''}${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></section>`;
+ if(b.type==='flowchart'&&b.nodes){
+  const root=b.nodes.find(n=>!b.edges.some(e=>e.to===n.id));
+  const branch=(id,label='')=>{const n=b.nodes.find(n=>n.id===id),edges=b.edges.filter(e=>e.from===id);return `<li>${label?`<span class="branch-label">${esc(label)}</span>`:''}<div class="branch-card flow-${esc(n.tone)}"><b>${esc(n.label)}</b><span>${esc(n.text)}</span></div>${edges.length?`<ul>${edges.map(e=>branch(e.to,e.label)).join('')}</ul>`:''}</li>`;};
+  return `<figure class="article-flow article-tree"><figcaption><strong>${esc(b.title)}</strong>${b.description?`<span>${esc(b.description)}</span>`:''}</figcaption><ul class="branch-root">${branch(root.id)}</ul></figure>`;
+ }
  if(b.type==='flowchart')return `<figure class="article-flow"><figcaption><strong>${esc(b.title)}</strong>${b.description?`<span>${esc(b.description)}</span>`:''}</figcaption><ol>${b.steps.map(s=>`<li class="flow-${esc(s.tone||'neutral')}"><b>${esc(s.label)}</b><span>${esc(s.text)}</span></li>`).join('')}</ol></figure>`;
  return b.type==='h2'?`<h2>${esc(b.text)}</h2>`:b.type==='quote'?`<blockquote><p>“${esc(b.text.replace(/^[“"]|[”"]$/g,''))}”</p><cite>— ${esc(b.speaker)}</cite></blockquote>`:`<p>${esc(b.text)}</p>`;
  }).join('')}</div>`;}

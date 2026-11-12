@@ -266,6 +266,50 @@
       900,
       1500
     ],
-    "canonApproval": "Michael explicitly approved the new two favorites/two rivals and volume settings in the Week 5 chat. Proposed biographical lore, venues and real-coach personas remain unadopted."
+    "canonApproval": "Michael explicitly approved the two favorites/two rivals and volume settings in the Week 5 chat. On November 11, 2026 he approved all six coaching inspirations saved in coachPersonas for future coverage. Other proposed biographical lore and venues remain unadopted."
+  },
+  "coachPersonas": {
+    "mossdeep": {
+      "name": "Michael Dorrill",
+      "direction": "User-approved November 11, 2026: Nick Saban-inspired demand for perfection. Three punts warrant a sharp confrontation about failed possessions; an allowed touchdown brings exacting assignment review and correction. Comfortable wins never excuse poor execution. Only winning the championship earns a rest.",
+      "voice": "Demanding, blunt, specific and relentlessly accountable. Press players and coaches on their job, preparation and execution. Let humor emerge from how little satisfaction a lopsided win buys him. Vary the expression rather than repeating a stock tirade.",
+      "evidence": "Use verified game events to ground criticism. Do not invent a missed assignment or blame a named defender unless the record supports it. Fictional interview dialogue follows the existing league-universe quote policy. The Saban reference guides temperament only; do not copy real quotes or import biography.",
+      "inspiration": "Nick Saban"
+    },
+    "rustboro": {
+      "name": "Tyler Scarboro",
+      "inspiration": "Mike Leach",
+      "direction": "User-approved November 11, 2026: The wandering professor: curious, eccentric and dryly cutting. An ordinary football question can lead to a surprising tangent before a blunt, simple diagnosis of execution.",
+      "voice": "Vary the tangents and give them a natural conversational trigger. His curiosity and football intelligence should be as visible as his impatience.",
+      "evidence": "Use verified game events and the existing authorized fictional interview convention. Borrow temperament; develop an original league character without importing real quotations, biography, catchphrases or unsupported events."
+    },
+    "goldenrod": {
+      "name": "Connor McLarren",
+      "inspiration": "Steve Spurrier",
+      "direction": "User-approved November 11, 2026: The smiling needler: clever, competitive and casually mischievous. Enjoys a well-placed jab at a rival and lets the room discover the insult.",
+      "voice": "Build barbs around verified results and established rivalries. Show respect for worthy opponents and take responsibility when his own team falls short.",
+      "evidence": "Use verified game events and the existing authorized fictional interview convention. Borrow temperament; develop an original league character without importing real quotations, biography, catchphrases or unsupported events."
+    },
+    "sunyshore": {
+      "name": "Karson Jones",
+      "inspiration": "Deion Sanders",
+      "direction": "User-approved November 11, 2026: The spotlight commander: charismatic, self-assured and comfortable making his program an event. Speaks about belief, identity, expectations and readiness for attention.",
+      "voice": "Give his confidence substance through player relationships and concrete standards. Let public swagger coexist with protective, direct conversations about preparation.",
+      "evidence": "Use verified game events and the existing authorized fictional interview convention. Borrow temperament; develop an original league character without importing real quotations, biography, catchphrases or unsupported events."
+    },
+    "ecruteak": {
+      "name": "Travis Scarboro",
+      "inspiration": "Bill Belichick",
+      "direction": "User-approved November 11, 2026: The withholding technician: terse with broad questions and intensely detailed when discussing a specific football problem. Dry humor comes from understatement and exactness.",
+      "voice": "Vary short public answers with revealing technical explanations and private teaching. Ground tactical details in available game evidence.",
+      "evidence": "Use verified game events and the existing authorized fictional interview convention. Borrow temperament; develop an original league character without importing real quotations, biography, catchphrases or unsupported events."
+    },
+    "saffron": {
+      "name": "Trent Scarboro",
+      "inspiration": "Dan Campbell",
+      "direction": "User-approved November 11, 2026: The emotional believer: openly invested in his players, accountable for decisions and willing to ask a great deal because he believes in them.",
+      "voice": "Write earnest, specific loyalty, shared responsibility and emotional stakes. Let vulnerability and resolve coexist; any claimed aggressive decision must come from the game record.",
+      "evidence": "Use verified game events and the existing authorized fictional interview convention. Borrow temperament; develop an original league character without importing real quotations, biography, catchphrases or unsupported events."
+    }
   }
 }
