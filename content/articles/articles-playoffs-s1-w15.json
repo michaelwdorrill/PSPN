@@ -1,0 +1,536 @@
+{
+  "season": 1,
+  "week": 15,
+  "articles": [
+    {
+      "id": "feature-playoff-race-s1-w15",
+      "type": "feature",
+      "category": "Playoff Race",
+      "title": "Seven berths secured, two byes available—and nine wild-card endings",
+      "dek": "Saffron and Cinnabar win divisions, Petalburg qualifies, and Mossdeep can settle its bye against Sunyshore. Ellis Quill follows the verified routes and the ties that change the field.",
+      "author": "ellis-quill",
+      "teams": [
+        "mossdeep",
+        "goldenrod",
+        "sunyshore",
+        "saffron",
+        "blackthorn",
+        "petalburg",
+        "cinnabar",
+        "ecruteak",
+        "vermilion",
+        "olivine",
+        "violet",
+        "cerulean",
+        "rustboro",
+        "dewford",
+        "canalave",
+        "eterna",
+        "mauville"
+      ],
+      "frontPageOrder": 0.7,
+      "body": [
+        {
+          "type": "p",
+          "text": "Cinnabar won a division by beating Blackthorn. Saffron won a division on the same afternoon it lost at Mt. Silver. Petalburg escaped Pastoria by one point and secured a playoff place. Three games remain, seven clubs have qualified, and the rewards still available range from a first-round bye to the simple relief of knowing there will be a nineteenth week."
+        },
+        {
+          "type": "p",
+          "text": "I would allow each of those teams an evening to appreciate the achievement. Saffron has surrendered only 115 points in fourteen games; one painful 36–33 loss does not erase that season. Petalburg has ten victories despite being outscored overall. Cinnabar followed an 18–17 loss at Cerulean with a division-clinching win at Blackthorn. Their routes have been different, and all three now have something definite to show for them."
+        },
+        {
+          "type": "p",
+          "text": "The uncertainty is considerable elsewhere. Mossdeep receives Sunyshore with the Hoenn–Sinnoh bye available. Mt. Silver goes to Cinnabar needing both a win and help from Saffron to secure the Kanto–Johto bye. Lavender can qualify by winning at Cerulean, just as an eight-week injury report removes Mr. Clanky from its available options. A favorable position does not spare a staff the next difficult assignment."
+        },
+        {
+          "type": "h2",
+          "text": "Seven clubs have qualified; five have division titles"
+        },
+        {
+          "type": "table",
+          "title": "Secured through Season 1, Week 15",
+          "description": "Season 1, through Week 15; future results are conditional where stated.",
+          "columns": [
+            "Club",
+            "Record",
+            "Highest secured status"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Mossdeep Eclipse",
+                "14–0",
+                "Y — Hoenn East"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "13–1",
+                "Y — Johto West"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "11–3",
+                "Y — Sinnoh East"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "11–3",
+                "Y — Kanto East, newly secured"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "9–5",
+                "Y — Kanto West, newly secured"
+              ]
+            },
+            {
+              "cells": [
+                "Blackthorn Dragons",
+                "11–3",
+                "X — playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "10–4",
+                "X — playoff berth, newly secured"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Saffron’s division was settled when Vermilion lost 19–0 at Olivine. The Volts and Cerulean are both 7–7, leaving either with a maximum of ten victories against Saffron’s eleven. Cinnabar’s 31–19 victory, combined with Pewter’s loss at Mahogany, produces the same certainty in Kanto West: the Blaze have nine wins and the Rockers can reach only eight."
+        },
+        {
+          "type": "p",
+          "text": "Petalburg’s guarantee requires the whole remaining schedule. Even if the Pride lose their last three games and receive the unfavorable side of every equal-record comparison, the conference cannot produce enough qualifying rivals to exclude them. That secures a berth; Rustboro and Dewford can still take Hoenn West. Their two remaining meetings with one another and Petalburg are particularly consequential now."
+        },
+        {
+          "type": "p",
+          "text": "Seven teams qualify from each conference: four division winners followed by three wild cards. Division winners receive seeds one through four. Only the first seed rests during the opening round. X means a secured berth, Y a secured division, and Z the secured first seed and bye. Neither conference has a Z after Week 15."
+        },
+        {
+          "type": "h2",
+          "text": "Mossdeep can settle the bye against the only remaining challenger"
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep needs a win or a tie at home against Sunyshore. A victory puts the Eclipse on fifteen wins, beyond every conference rival’s ceiling. A tie leaves Mossdeep with fourteen wins and a tie while Sunyshore can finish no better than thirteen wins and a tie. Petalburg can reach only thirteen wins. The calculation ends there."
+        },
+        {
+          "type": "p",
+          "text": "A Sunyshore victory keeps the race open. If the Starseekers then beat Pastoria and Veilstone while Mossdeep loses to Sootopolis and Lavaridge, both finish 14–3. Sunyshore would hold the head-to-head win and take the first seed. Those results are a possible route, not a forecast of an Eclipse collapse. They explain exactly why an undefeated team still has something to clinch."
+        },
+        {
+          "type": "flowchart",
+          "title": "Week 16: Sunyshore at Mossdeep decides whether the bye is secured",
+          "description": "Complete classification of this game’s win/tie/loss outcomes. Losing the chance to clinch this week does not mean losing the eventual first seed.",
+          "nodes": [
+            {
+              "id": "mos",
+              "label": "Sunyshore at Mossdeep",
+              "text": "Follow Mossdeep’s result."
+            },
+            {
+              "id": "mw",
+              "label": "Mossdeep wins",
+              "text": "Mossdeep clinches the conference first seed and bye.",
+              "tone": "success"
+            },
+            {
+              "id": "mt",
+              "label": "Game ends tied",
+              "text": "Mossdeep clinches the conference first seed and bye.",
+              "tone": "success"
+            },
+            {
+              "id": "ml",
+              "label": "Sunyshore wins",
+              "text": "Bye remains open. Sunyshore can still win out while Mossdeep loses out.",
+              "tone": "warning"
+            }
+          ],
+          "edges": [
+            {
+              "from": "mos",
+              "to": "mw",
+              "label": "Mossdeep win"
+            },
+            {
+              "from": "mos",
+              "to": "mt",
+              "label": "Tie"
+            },
+            {
+              "from": "mos",
+              "to": "ml",
+              "label": "Mossdeep loss"
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Mt. Silver needs Saffron’s help a week after beating it"
+        },
+        {
+          "type": "p",
+          "text": "Mt. Silver clinches its bye by winning at Cinnabar while Blackthorn ties or loses at Saffron. The Reds would have fourteen wins. A Blackthorn tie reduces the Dragons’ maximum to thirteen wins and a tie; a loss reduces it to thirteen. Saffron could still reach fourteen after beating Blackthorn, but Mt. Silver owns their head-to-head comparison after the 36–33 victory."
+        },
+        {
+          "type": "p",
+          "text": "A Blackthorn win keeps the bye open even if Mt. Silver wins. The Dragons beat the Reds 30–22 in Week 12 and can still reach fourteen victories. A Mt. Silver tie or loss also leaves a viable challenger after every result in Blackthorn–Saffron. The Reds have a home-field cushion and a very specific reason to watch the other scoreboard."
+        },
+        {
+          "type": "flowchart",
+          "title": "Week 16: two results determine Mt. Silver’s bye",
+          "description": "Complete classification. Every branch marked open has a possible finish in which Mt. Silver does not take the first seed.",
+          "nodes": [
+            {
+              "id": "msr",
+              "label": "Mt. Silver at Cinnabar",
+              "text": "Follow the Reds’ result."
+            },
+            {
+              "id": "msw",
+              "label": "Mt. Silver wins",
+              "text": "Now check Blackthorn at Saffron."
+            },
+            {
+              "id": "mst",
+              "label": "Mt. Silver ties",
+              "text": "Bye remains open after any Blackthorn–Saffron result.",
+              "tone": "warning"
+            },
+            {
+              "id": "msl",
+              "label": "Mt. Silver loses",
+              "text": "Bye remains open after any Blackthorn–Saffron result.",
+              "tone": "warning"
+            },
+            {
+              "id": "msbw",
+              "label": "Blackthorn wins",
+              "text": "Bye remains open: Blackthorn can match fourteen wins and owns the head-to-head.",
+              "tone": "warning"
+            },
+            {
+              "id": "msbt",
+              "label": "Blackthorn and Saffron tie",
+              "text": "Mt. Silver clinches the conference first seed and bye.",
+              "tone": "success"
+            },
+            {
+              "id": "msbl",
+              "label": "Saffron wins",
+              "text": "Mt. Silver clinches the conference first seed and bye.",
+              "tone": "success"
+            }
+          ],
+          "edges": [
+            {
+              "from": "msr",
+              "to": "msw",
+              "label": "Win"
+            },
+            {
+              "from": "msr",
+              "to": "mst",
+              "label": "Tie"
+            },
+            {
+              "from": "msr",
+              "to": "msl",
+              "label": "Loss"
+            },
+            {
+              "from": "msw",
+              "to": "msbw",
+              "label": "Blackthorn win"
+            },
+            {
+              "from": "msw",
+              "to": "msbt",
+              "label": "Tie"
+            },
+            {
+              "from": "msw",
+              "to": "msbl",
+              "label": "Blackthorn loss"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Tic Thorpe’s new six-week absence gives that bye practical weight. Crem Ftzpatrik completed the winning drive against Saffron; the Reds now visit a newly crowned division champion. Their schedule ends at Azalea and home against Cianwood. Saffron finishes with Cerulean and Fuchsia, while Blackthorn travels to Mahogany and Lavender. The standings reward the games already won, but the remaining opponents still determine who gets a week to prepare."
+        },
+        {
+          "type": "h2",
+          "text": "Division titles and Lavender’s invitation"
+        },
+        {
+          "type": "table",
+          "title": "Week 16 clinching routes",
+          "description": "Season 1, through Week 15; future results are conditional where stated.",
+          "columns": [
+            "Club",
+            "Required results",
+            "Secures"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Blackthorn",
+                "Beat Saffron AND Lavender ties or loses at Cerulean; OR tie Saffron AND Lavender loses.",
+                "Johto East"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg",
+                "Beat Eterna AND Rustboro ties or loses against Canalave; OR tie Eterna AND Rustboro loses AND Dewford ties or loses against Oreburgh.",
+                "Hoenn West"
+              ]
+            },
+            {
+              "cells": [
+                "Lavender",
+                "Beat Cerulean. Also sufficient: tie Cerulean AND either Violet ties/loses at Fuchsia OR Olivine loses at Pewter.",
+                "Playoff berth"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Blackthorn and Petalburg’s title rows classify their Week 16 opportunities completely. Eterna cannot settle Sinnoh West this week, even with a win at Petalburg and a Canalave loss at Rustboro. In that favorable combination, Eterna could still finish 9–8 while Canalave wins its last two to reach 9–8. The Bulwark could then have the superior division record after their split head-to-head series. The Thorns must keep attending to the remaining games against Oreburgh and Snowpoint."
+        },
+        {
+          "type": "p",
+          "text": "Lavender’s win-and-in route depends on a tiebreak already protected against Violet. The Wails won their first meeting and have three division victories. Violet can finish with only two. Even if the Falcons win the rematch and match Lavender’s final overall record, they cannot take the higher division position. A tenth Lavender win therefore secures entry without another result. The tie routes listed above are verified sufficient routes; they do not claim to catalogue every deeper tie-dependent possibility."
+        },
+        {
+          "type": "h2",
+          "text": "Three possible wild-card fields from two final games"
+        },
+        {
+          "type": "p",
+          "text": "Olivine’s shutout of Vermilion matters beyond the immediate order. Here is a possible Kanto–Johto finish in which those two clubs, Violet, Lavender and Cerulean reach the last weekend with different routes. Every result in the table is an assumption for this example. The two variable finales are Vermilion at Cerulean and Olivine at Azalea."
+        },
+        {
+          "type": "p",
+          "text": "Under these assumptions, Violet wins its last three games to finish 10–7. Lavender loses to Cerulean and Violet, then beats Blackthorn, also finishing 10–7. Olivine and Vermilion win their next two games to enter Week 18 at 9–7. Cerulean beats Lavender and loses to Saffron, arriving at 8–8. These are demanding assignments, particularly Lavender beating Blackthorn and Violet winning out. They are useful because changing either finale changes who qualifies."
+        },
+        {
+          "type": "table",
+          "title": "All fixed Kanto–Johto results in this illustrative finish",
+          "description": "Season 1, through Week 15; future results are conditional where stated.",
+          "columns": [
+            "Week",
+            "Assumed winners; every listed result is a win"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Week 16",
+                "Cianwood over Viridian; Violet over Fuchsia; Olivine over Pewter; Vermilion over Mahogany; Mt. Silver over Cinnabar; Saffron over Blackthorn; Azalea over Celadon; Cerulean over Lavender"
+              ]
+            },
+            {
+              "cells": [
+                "Week 17",
+                "Pewter over Viridian; Cinnabar over Celadon; Saffron over Cerulean; Vermilion over Fuchsia; Mt. Silver over Azalea; Olivine over Cianwood; Violet over Lavender; Blackthorn over Mahogany"
+              ]
+            },
+            {
+              "cells": [
+                "Week 18",
+                "Viridian over Celadon; Cinnabar over Pewter; Saffron over Fuchsia; Mt. Silver over Cianwood; Violet over Mahogany; Lavender over Blackthorn"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "flowchart",
+          "title": "Nine final-week branches: which three clubs qualify?",
+          "description": "A deliberately partial scenario tree, conditional on every fixed result listed above. Endpoints give wild-card membership, not seed order. Ties are separate outcomes; no branch is a probability.",
+          "nodes": [
+            {
+              "id": "wc",
+              "label": "Week 18: Vermilion at Cerulean",
+              "text": "All results in the preceding table are assumed. Follow this result, then Olivine at Azalea."
+            },
+            {
+              "id": "wc0",
+              "label": "Vermilion wins",
+              "text": "Next: Olivine at Azalea."
+            },
+            {
+              "id": "wc00",
+              "label": "Wild cards: Lavender, Olivine, Vermilion",
+              "text": "Outside: Cerulean 8–9, Violet 10–7.",
+              "tone": "success"
+            },
+            {
+              "id": "wc01",
+              "label": "Wild cards: Lavender, Vermilion, Violet",
+              "text": "Outside: Cerulean 8–9, Olivine 9–7–1.",
+              "tone": "success"
+            },
+            {
+              "id": "wc02",
+              "label": "Wild cards: Lavender, Vermilion, Violet",
+              "text": "Outside: Cerulean 8–9, Olivine 9–8.",
+              "tone": "success"
+            },
+            {
+              "id": "wc1",
+              "label": "They tie",
+              "text": "Next: Olivine at Azalea."
+            },
+            {
+              "id": "wc10",
+              "label": "Wild cards: Lavender, Olivine, Violet",
+              "text": "Outside: Cerulean 8–8–1, Vermilion 9–7–1.",
+              "tone": "success"
+            },
+            {
+              "id": "wc11",
+              "label": "Wild cards: Lavender, Olivine, Violet",
+              "text": "Outside: Cerulean 8–8–1, Vermilion 9–7–1.",
+              "tone": "success"
+            },
+            {
+              "id": "wc12",
+              "label": "Wild cards: Lavender, Vermilion, Violet",
+              "text": "Outside: Cerulean 8–8–1, Olivine 9–8.",
+              "tone": "success"
+            },
+            {
+              "id": "wc2",
+              "label": "Cerulean wins",
+              "text": "Next: Olivine at Azalea."
+            },
+            {
+              "id": "wc20",
+              "label": "Wild cards: Lavender, Olivine, Violet",
+              "text": "Outside: Cerulean 9–8, Vermilion 9–8.",
+              "tone": "success"
+            },
+            {
+              "id": "wc21",
+              "label": "Wild cards: Lavender, Olivine, Violet",
+              "text": "Outside: Cerulean 9–8, Vermilion 9–8.",
+              "tone": "success"
+            },
+            {
+              "id": "wc22",
+              "label": "Wild cards: Lavender, Olivine, Violet",
+              "text": "Outside: Cerulean 9–8, Vermilion 9–8.",
+              "tone": "success"
+            }
+          ],
+          "edges": [
+            {
+              "from": "wc",
+              "to": "wc0",
+              "label": "Vermilion wins"
+            },
+            {
+              "from": "wc0",
+              "to": "wc00",
+              "label": "Olivine wins"
+            },
+            {
+              "from": "wc0",
+              "to": "wc01",
+              "label": "They tie"
+            },
+            {
+              "from": "wc0",
+              "to": "wc02",
+              "label": "Azalea wins"
+            },
+            {
+              "from": "wc",
+              "to": "wc1",
+              "label": "They tie"
+            },
+            {
+              "from": "wc1",
+              "to": "wc10",
+              "label": "Olivine wins"
+            },
+            {
+              "from": "wc1",
+              "to": "wc11",
+              "label": "They tie"
+            },
+            {
+              "from": "wc1",
+              "to": "wc12",
+              "label": "Azalea wins"
+            },
+            {
+              "from": "wc",
+              "to": "wc2",
+              "label": "Cerulean wins"
+            },
+            {
+              "from": "wc2",
+              "to": "wc20",
+              "label": "Olivine wins"
+            },
+            {
+              "from": "wc2",
+              "to": "wc21",
+              "label": "They tie"
+            },
+            {
+              "from": "wc2",
+              "to": "wc22",
+              "label": "Azalea wins"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "If Vermilion and Olivine both win, Lavender, the Volts, the Ironclads and Violet all finish 10–7. Violet misses. The division procedure first puts Lavender ahead of the Falcons; the wild-card procedure then awards each remaining place. Equal overall records give Violet a tiebreak hearing, not an automatic invitation."
+        },
+        {
+          "type": "p",
+          "text": "If Vermilion wins while Olivine ties or loses, Violet qualifies with Lavender and Vermilion. If Vermilion ties while Olivine wins, the three become Lavender, Violet and Olivine. When both finales end tied, Olivine takes the last berth ahead of Vermilion at 9–7–1 on their head-to-head result: the 19–0 game just played. That result has acquired a clear use in a later argument."
+        },
+        {
+          "type": "p",
+          "text": "Cerulean wins its finale and still misses in all three branches of this particular setup. Even if Olivine loses too, the Tide, Volts and Ironclads are 9–8 behind Lavender and Violet. Vermilion has the better division record than Cerulean; Olivine then wins the head-to-head comparison with Vermilion. Every named qualifying trio survives the later strength-of-victory and scoring tiebreaks. The chart does not promise exact seed order."
+        },
+        {
+          "type": "h2",
+          "text": "The current bracket is a starting position"
+        },
+        {
+          "type": "p",
+          "text": "If the present seed order held, Blackthorn would host Vermilion, Saffron would host Olivine, and Cinnabar would host Lavender. In Hoenn–Sinnoh, Sunyshore would host Mauville, Petalburg would host Dewford, and Eterna would host Rustboro. Mossdeep and Mt. Silver currently occupy the bye positions. Those are current pairings, not booked playoff games; the next three rounds can change both entry and placement."
+        },
+        {
+          "type": "p",
+          "text": "Canalave at Rustboro is especially useful to follow alongside the marquee games. The Stone are 8–6 after losing 41–7 at Sunyshore, the Bulwark 7–7 after losing 51–7 to Mossdeep. Both have immediate reason to recover, and their result can also decide whether Petalburg celebrates a division title. Dewford hosts Oreburgh after its overtime loss at Hearthome. Mauville, now the seventh seed at 7–7, hosts Snowpoint before visiting Dewford and Petalburg. Those last two division games give the Dynamos direct opportunities to change the order above them."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/4f09be9920e038a2.webp",
+        "alt": "Illuminated branching garden paths lead toward seven stadium entrances and an elevated balcony."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1267 @@
+{
+  "season": 1,
+  "week": 15,
+  "articles": [
+    {
+      "id": "injury-report-s1-w15",
+      "type": "feature",
+      "author": "ellis-quill",
+      "title": "Injury Report: Thorpe and Mr. Clanky face long absences",
+      "dek": "Mt. Silver and Lavender prepare new passing plans; Mahogany loses Watchog; the full league recovery comparison.",
+      "teams": [
+        "goldenrod",
+        "ecruteak",
+        "mahogany",
+        "mossdeep",
+        "sunyshore"
+      ],
+      "frontPageOrder": 0.4,
+      "body": [
+        {
+          "type": "h2",
+          "text": "Two winning teams lose important passers"
+        },
+        {
+          "type": "p",
+          "text": "Mt. Silver’s Tic Thorpe has a new six-week report after throwing for 244 yards and two touchdowns against Saffron. Josh Alakazam still has seven reported weeks remaining. Crem Ftzpatrik completed five of eight for 69 yards and a touchdown, then directed the winning field-goal drive. His actual relief work makes him a demonstrated option before Cinnabar; a future starting assignment still requires the team’s decision. Foo Warner has a new two-week report, and cornerback Ninjask has one."
+        },
+        {
+          "type": "p",
+          "text": "Lavender’s Mr. Clanky has a new eight-week report. His listed position is SLOT, but he completed six of eight passes for 121 yards and a touchdown against Celadon. Frosmoth supplied 163 passing yards in the same win. The Wails must prepare the available passing group for Cerulean while People Eater remains out two weeks. The injury record does not identify either passer’s precise injury play."
+        },
+        {
+          "type": "h2",
+          "text": "New absences around the league"
+        },
+        {
+          "type": "p",
+          "text": "Mahogany’s outside linebacker Watchog has a new seventeen-week report, the largest new recovery duration this week. Jellicent is out two weeks, adding another receiving absence while Golduck continues his recovery. The Frost visit Vermilion, whose offense was shut out at Olivine. Their defensive replacements must preserve the opportunity created by that matchup."
+        },
+        {
+          "type": "p",
+          "text": "Cinnabar’s Seismitoad has a new two-week report after four carries for 16 yards. Pidgeotto finished the Blackthorn win with useful late runs and totaled 25 yards on three attempts; he is one observed contributor for the staff to consider before Mt. Silver. Oreburgh’s fullback Swampert is newly out four weeks before Dewford. Cianwood receiver Doduo has one week, and Azalea safety Castform has two. These are reported durations rather than guaranteed return dates."
+        },
+        {
+          "type": "h2",
+          "text": "Recovery changes before the marquee matchup"
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep’s Marshall Flock and Luvrelle Revis have cleared their previous positive recovery counters. Sunyshore’s FLOAT SZN has also cleared his. Those changes improve the availability picture before the Starseekers visit the Eclipse, but do not establish an appearance or starting role. Serp Gardener still has one reported week, Ninjaskamara one and Richard Furman two. Rustboro’s My Way, Son has three before Canalave."
+        },
+        {
+          "type": "p",
+          "text": "The full table compares the current report with the previous issue, separating new injuries from ordinary countdown changes and cleared designations. Zero weeks means no remaining absence is reported; it does not establish game participation. Positions are the current listed positions. No diagnoses, unsupported doubtful labels or certain return dates are added."
+        },
+        {
+          "type": "table",
+          "title": "Reported injuries and recovery changes",
+          "description": "Season 1 · after Week 15",
+          "columns": [
+            "Team",
+            "Player",
+            "Position",
+            "Reported status",
+            "Change"
+          ],
+          "rows": [
+            {
+              "team": "azalea",
+              "cells": [
+                "Azalea Swarm",
+                "#29 Castform",
+                "S",
+                "Out 2 weeks",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "azalea",
+              "cells": [
+                "Azalea Swarm",
+                "#22 Doduo",
+                "HB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "azalea",
+              "cells": [
+                "Azalea Swarm",
+                "#11 Vivillon",
+                "WR",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "Blackthorn Dragons",
+                "#21 Furret",
+                "WR",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "Blackthorn Dragons",
+                "#18 Grovyle",
+                "SLOT",
+                "Out 1 week",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "Blackthorn Dragons",
+                "#88 Hawlucha",
+                "CB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "Canalave Bulwark",
+                "#22 Gabite",
+                "HB",
+                "Out 12 weeks",
+                "Recovery 13 → 12 weeks"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "Canalave Bulwark",
+                "#58 Kecleon",
+                "ILB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "Canalave Bulwark",
+                "#49 Medicham",
+                "S",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "Canalave Bulwark",
+                "#52 Nidoking",
+                "HB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "Canalave Bulwark",
+                "#35 Octillery",
+                "ILB",
+                "Out 1 week",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "team": "celadon",
+              "cells": [
+                "Celadon Bloom",
+                "#47 Anorith",
+                "HB",
+                "Out 2 weeks",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "celadon",
+              "cells": [
+                "Celadon Bloom",
+                "#33 Deerling",
+                "DE",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "celadon",
+              "cells": [
+                "Celadon Bloom",
+                "#13 Frosmoth",
+                "S",
+                "Out 4 weeks",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "team": "celadon",
+              "cells": [
+                "Celadon Bloom",
+                "#12 Gholdengo",
+                "QB",
+                "Out 5 weeks",
+                "Recovery 6 → 5 weeks"
+              ]
+            },
+            {
+              "team": "cerulean",
+              "cells": [
+                "Cerulean Tide",
+                "#58 Raticate",
+                "SLOT",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "cerulean",
+              "cells": [
+                "Cerulean Tide",
+                "#63 Seismitoad",
+                "HB",
+                "Out 10 weeks",
+                "Recovery 11 → 10 weeks"
+              ]
+            },
+            {
+              "team": "cerulean",
+              "cells": [
+                "Cerulean Tide",
+                "#12 Vikavolt",
+                "S",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "cerulean",
+              "cells": [
+                "Cerulean Tide",
+                "#11 Wugtrio",
+                "CB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#33 Diggersby",
+                "S",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#97 Doduo",
+                "WR",
+                "Out 1 week",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#12 Gardevoir",
+                "QB",
+                "Out 2 weeks",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#14 Haunter",
+                "WR",
+                "Out 4 weeks",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "Cianwood Crushers",
+                "#79 Spiritomb",
+                "ILB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "Cinnabar Blaze",
+                "#16 Buizel",
+                "WR",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "Cinnabar Blaze",
+                "#92 Octillery",
+                "OLB",
+                "Out 3 weeks",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "Cinnabar Blaze",
+                "#74 Seismitoad",
+                "HB",
+                "Out 2 weeks",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "Cinnabar Blaze",
+                "#45 Thievul",
+                "SLOT",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "dewford",
+              "cells": [
+                "Dewford Breakers",
+                "#5 Vikavolt",
+                "OL",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "eterna",
+              "cells": [
+                "Eterna Thorns",
+                "#58 Ambipom",
+                "WR",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "eterna",
+              "cells": [
+                "Eterna Thorns",
+                "#96 Stantler",
+                "HB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "eterna",
+              "cells": [
+                "Eterna Thorns",
+                "#51 Whiscash",
+                "OLB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "fortree",
+              "cells": [
+                "Fortree Skyhawks",
+                "#52 Banette",
+                "OLB",
+                "Out 11 weeks",
+                "Recovery 12 → 11 weeks"
+              ]
+            },
+            {
+              "team": "fortree",
+              "cells": [
+                "Fortree Skyhawks",
+                "#17 Haunter",
+                "WR",
+                "Out 3 weeks",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "fortree",
+              "cells": [
+                "Fortree Skyhawks",
+                "#55 Pawmot",
+                "DE",
+                "Out 2 weeks",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "fortree",
+              "cells": [
+                "Fortree Skyhawks",
+                "#31 Toxapex",
+                "MLB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "fuchsia",
+              "cells": [
+                "Fuchsia Shadows",
+                "#88 Kleavor",
+                "CB",
+                "Out 3 weeks",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "hearthome",
+              "cells": [
+                "Hearthome Haunts",
+                "#97 Luxray",
+                "OLB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "hearthome",
+              "cells": [
+                "Hearthome Haunts",
+                "#26 Mr. Mime",
+                "S",
+                "Out 9 weeks",
+                "Recovery 10 → 9 weeks"
+              ]
+            },
+            {
+              "team": "lavaridge",
+              "cells": [
+                "Lavaridge Inferno",
+                "#12 Delphox",
+                "QB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#24 Dugtrio",
+                "CB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#58 Hobbes",
+                "SLOT",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#50 Might Guy",
+                "OLB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#11 Mr. Clanky",
+                "SLOT",
+                "Out 8 weeks",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "Lavender Wails",
+                "#19 People Eater",
+                "WR",
+                "Out 2 weeks",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#91 Bibarel",
+                "OLB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#55 Golduck",
+                "TE",
+                "Out 3 weeks",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#88 Jellicent",
+                "TE",
+                "Out 2 weeks",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#92 Kricketune",
+                "OLB",
+                "Out 5 weeks",
+                "Recovery 6 → 5 weeks"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#24 Lopunny",
+                "CB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#74 Quilladin",
+                "OL",
+                "Out 4 weeks",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "Mahogany Frost",
+                "#3 Watchog",
+                "OLB",
+                "Out 17 weeks",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "mauville",
+              "cells": [
+                "Mauville Dynamos",
+                "#12 Dragapult",
+                "CB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "mauville",
+              "cells": [
+                "Mauville Dynamos",
+                "#42 Togekiss",
+                "QB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "mauville",
+              "cells": [
+                "Mauville Dynamos",
+                "#22 Unfezant",
+                "HB",
+                "Out 10 weeks",
+                "Recovery 11 → 10 weeks"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "Mossdeep Eclipse",
+                "#24 Gronkaludon",
+                "TE",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "Mossdeep Eclipse",
+                "#33 Luvrelle Revis",
+                "S",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "Mossdeep Eclipse",
+                "#44 Marshall Flock",
+                "CB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "Mossdeep Eclipse",
+                "#27 Ninjaskamara",
+                "HB",
+                "Out 1 week",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "Mossdeep Eclipse",
+                "#14 Richard Furman",
+                "CB",
+                "Out 2 weeks",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#12 Crem Ftzpatrik",
+                "QB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#92 Foo Warner",
+                "OLB",
+                "Out 2 weeks",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#8 Jacoby Brizzet",
+                "S",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#7 Josh Alakazam",
+                "QB",
+                "Out 7 weeks",
+                "Recovery 8 → 7 weeks"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#24 Ninjask",
+                "CB",
+                "Out 1 week",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#42 Tic Thorpe",
+                "QB",
+                "Out 6 weeks",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#13 Tony Gyarzalez",
+                "TE",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "Mt. Silver Reds",
+                "#39 Vulpix",
+                "SLOT",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#58 Beedrill",
+                "WR",
+                "Out 15 weeks",
+                "Recovery 16 → 15 weeks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#29 Delcatty",
+                "WR",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#22 Gabite",
+                "HB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#12 Gogoat",
+                "OL",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#50 Kabutops",
+                "OLB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#97 Maractus",
+                "WR",
+                "Out 1 week",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#54 Quilladin",
+                "OLB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#11 Stantler",
+                "WR",
+                "Out 7 weeks",
+                "Recovery 8 → 7 weeks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#39 Thievul",
+                "CB",
+                "Out 1 week",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#10 Vanillish",
+                "WR",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "Olivine Ironclads",
+                "#83 Veluza",
+                "TE",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "oreburgh",
+              "cells": [
+                "Oreburgh Miners",
+                "#89 Huntail",
+                "TE",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "oreburgh",
+              "cells": [
+                "Oreburgh Miners",
+                "#58 Swampert",
+                "FB",
+                "Out 4 weeks",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "oreburgh",
+              "cells": [
+                "Oreburgh Miners",
+                "#72 Whiscash",
+                "ILB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "Pastoria Waves",
+                "#40 Arbok",
+                "WR",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "Pastoria Waves",
+                "#95 Farigiraf",
+                "QB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "Pastoria Waves",
+                "#21 Kilowattrel",
+                "WR",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "Pastoria Waves",
+                "#78 Oinkologne",
+                "HB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "Pastoria Waves",
+                "#67 Sandygast",
+                "FB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "Pastoria Waves",
+                "#33 Watchog",
+                "WR",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "petalburg",
+              "cells": [
+                "Petalburg Pride",
+                "#99 Rampardos",
+                "DE",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "petalburg",
+              "cells": [
+                "Petalburg Pride",
+                "#92 Sandslash",
+                "ILB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "Pewter Rockers",
+                "#35 Delcatty",
+                "HB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "Pewter Rockers",
+                "#88 Froslass",
+                "CB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "Pewter Rockers",
+                "#83 Heatmor",
+                "TE",
+                "Out 1 week",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "Pewter Rockers",
+                "#58 Mightyena",
+                "OLB",
+                "Out 8 weeks",
+                "Recovery 9 → 8 weeks"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "Pewter Rockers",
+                "#91 Scolipede",
+                "CB",
+                "Out 5 weeks",
+                "Recovery 6 → 5 weeks"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "Rustboro Stone",
+                "#93 My Way, Son",
+                "HB",
+                "Out 3 weeks",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "Saffron Psi Corps",
+                "#75 Emmitt Smoth",
+                "FB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "Saffron Psi Corps",
+                "#11 HeeDee Lamb",
+                "SLOT",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "snowpoint",
+              "cells": [
+                "Snowpoint Blizzard",
+                "#24 Jumpluff",
+                "CB",
+                "Out 8 weeks",
+                "Recovery 9 → 8 weeks"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "Sootopolis Surge",
+                "#17 Arbok",
+                "WR",
+                "Out 14 weeks",
+                "Recovery 15 → 14 weeks"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "Sootopolis Surge",
+                "#87 Heatmor",
+                "TE",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "Sootopolis Surge",
+                "#21 Kingdra",
+                "CB",
+                "Out 4 weeks",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "Sootopolis Surge",
+                "#14 Pawmo",
+                "SLOT",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "Sootopolis Surge",
+                "#58 Rillaboom",
+                "HB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "Sootopolis Surge",
+                "#53 Shiftry",
+                "OLB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "Sunyshore Starseekers",
+                "#10 FLOAT SZN",
+                "HB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "Sunyshore Starseekers",
+                "#58 Scol Alexander",
+                "CB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "Sunyshore Starseekers",
+                "#21 Serp Gardener",
+                "CB",
+                "Out 1 week",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#43 Delcatty",
+                "CB",
+                "Out 5 weeks",
+                "Recovery 6 → 5 weeks"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#13 Drakloak",
+                "CB",
+                "Out 12 weeks",
+                "Recovery 13 → 12 weeks"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#87 Exploud",
+                "HB",
+                "Out 5 weeks",
+                "Recovery 6 → 5 weeks"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#99 Gabite",
+                "DE",
+                "Out 4 weeks",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#24 Kangaskhan",
+                "HB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "Vermilion Volts",
+                "#71 Torterra",
+                "NT",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "violet",
+              "cells": [
+                "Violet Falcons",
+                "#52 Barbaracle",
+                "MLB",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "violet",
+              "cells": [
+                "Violet Falcons",
+                "#99 Snorlax",
+                "DT",
+                "No current designation",
+                "Designation cleared"
+              ]
+            },
+            {
+              "team": "viridian",
+              "cells": [
+                "Viridian Titans",
+                "#60 Bonsly",
+                "OL",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "viridian",
+              "cells": [
+                "Viridian Titans",
+                "#99 Toucannon",
+                "ILB",
+                "0 weeks reported",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "team": "viridian",
+              "cells": [
+                "Viridian Titans",
+                "#22 Weavile",
+                "CB",
+                "0 weeks reported",
+                "New injury entry"
+              ]
+            }
+          ]
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/8c282cadd81722c9.webp",
+        "alt": "Togekiss 42 and IronBundle 11 watch television in an imaginary lounge."
+      }
+    }
+  ]
+}

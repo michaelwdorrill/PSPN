@@ -1,0 +1,407 @@
+{
+  "season": 1,
+  "week": 15,
+  "articles": [
+    {
+      "id": "draft-qb-s1-w15",
+      "type": "draft",
+      "focus": "QB",
+      "author": "calvin-rook",
+      "teams": [],
+      "title": "The Rook Board: the next quarterback needs a defined job",
+      "dek": "Sootopolis State’s Drampa leads the returning quarterback circuit; Fortree’s Girafarig offers a different movement profile.",
+      "body": [
+        {
+          "type": "p",
+          "text": "Mt. Silver and Lavender both won games in which a different passer had to contribute, then received long injury reports for important players. That makes quarterback depth an immediate league subject. The draft is a future solution with its own evaluation timetable. A rookie board should compare starting competition, immediate reserve work and longer development as different assignments."
+        },
+        {
+          "type": "p",
+          "text": "Sootopolis State’s Drampa leads my twelve-player board. Girafarig from the University of Fortree is the first movement-oriented comparison, and the two Roselia prospects deserve identical throwing work before anyone treats their overlapping ranges as a settled order. These rankings are my scouting judgments from disclosed ranges and combines."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep’s current seven-touchdown passing afternoon does not create a requirement to spend its next pick at quarterback. Mt. Silver’s injuries do not prove that a particular rookie solves its future roster. Every club should begin with the job it needs filled, the players it already has and the time it can actually provide. Then put these prospects through the relevant throws."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p2079",
+          "name": "Drampa",
+          "species": "Drampa",
+          "speciesId": 780,
+          "icon": "assets/sprites/780.png",
+          "position": "QB",
+          "age": 21,
+          "level": 22,
+          "range": [
+            51,
+            79
+          ],
+          "combine": {
+            "forty": 5.1,
+            "bench": 17,
+            "vertical": 28,
+            "cone": 7.28
+          },
+          "university": {
+            "id": "hoenn-sootopolis-state-university",
+            "name": "Sootopolis State University",
+            "city": "Sootopolis City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 1,
+          "analysis": "Sootopolis State’s Drampa leads my quarterback board with the strongest disclosed band in this group, 51–79. The 5.10 forty and 7.28 cone do not sell a movement-first design; I want the passing evaluation to justify a planned pocket role.",
+          "concern": "The band overlaps several alternatives; accuracy, decisions and protection response remain to be established.",
+          "projection": "First quarterback evaluation for a club seeking an eventual starting competitor."
+        },
+        {
+          "pid": "p1986",
+          "name": "Girafarig",
+          "species": "Girafarig",
+          "speciesId": 203,
+          "icon": "assets/sprites/203.png",
+          "position": "QB",
+          "age": 23,
+          "level": 16,
+          "range": [
+            43,
+            71
+          ],
+          "combine": {
+            "forty": 4.82,
+            "bench": 14,
+            "vertical": 37,
+            "cone": 6.51
+          },
+          "university": {
+            "id": "hoenn-university-of-fortree",
+            "name": "University of Fortree",
+            "city": "Fortree City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 2,
+          "analysis": "Fortree’s Girafarig offers a 43–71 band, 4.82 forty and 6.51 cone. I like the movement questions those numbers invite, and I want a staff willing to test throws after the pocket changes. Fortree’s school gets my attention; the actual throws must keep it.",
+          "concern": "Workout agility is not evidence of reading coverage or delivering an accurate moving pass.",
+          "projection": "Compare with Drampa for a role requiring more movement."
+        },
+        {
+          "pid": "p1942",
+          "name": "Roselia",
+          "species": "Roselia",
+          "speciesId": 315,
+          "icon": "assets/sprites/315.png",
+          "position": "QB",
+          "age": 22,
+          "level": 23,
+          "range": [
+            41,
+            69
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 8,
+            "vertical": 39,
+            "cone": 6.64
+          },
+          "university": {
+            "id": "kalos-university-of-anistar",
+            "name": "University of Anistar",
+            "city": "Anistar City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 3,
+          "analysis": "Anistar’s Roselia brings a 41–69 range, 4.95 forty and 39-inch vertical. The broad band keeps him in the main comparison, but I would spend the next evaluation on the ordinary completions that sustain drives.",
+          "concern": "The vertical does not measure passing accuracy; the overlap prevents a firm talent separation.",
+          "projection": "Developmental competition for clubs with time to evaluate a successor."
+        },
+        {
+          "pid": "p2039",
+          "name": "Stantler",
+          "species": "Stantler",
+          "speciesId": 234,
+          "icon": "assets/sprites/234.png",
+          "position": "QB",
+          "age": 21,
+          "level": 9,
+          "range": [
+            40,
+            68
+          ],
+          "combine": {
+            "forty": 4.8,
+            "bench": 14,
+            "vertical": 39,
+            "cone": 6.68
+          },
+          "university": {
+            "id": "kalos-shalour-military-academy",
+            "name": "Shalour Military Academy",
+            "city": "Shalour City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 4,
+          "analysis": "Shalour Military’s Stantler is 21 with a 40–68 range and 4.80 forty. That is an appealing movement profile. The case must extend beyond a fast workout into keeping the offense functional after the first read disappears.",
+          "concern": "Age and speed do not establish readiness, growth rate or a guaranteed starting ceiling.",
+          "projection": "Movement-oriented developmental comparison with Girafarig."
+        },
+        {
+          "pid": "p2059",
+          "name": "Drampa",
+          "species": "Drampa",
+          "speciesId": 780,
+          "icon": "assets/sprites/780.png",
+          "position": "QB",
+          "age": 21,
+          "level": 6,
+          "range": [
+            40,
+            68
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 13,
+            "vertical": 29,
+            "cone": 7.18
+          },
+          "university": {
+            "id": "hoenn-mauville-aandm-university",
+            "name": "Mauville A&M University",
+            "city": "Mauville City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 5,
+          "analysis": "Mauville A&M’s Drampa has the same 40–68 band as Stantler but a 5.07 forty and 7.18 cone. I would compare their intended jobs directly instead of treating a shared range as identical football.",
+          "concern": "The range is uncertain and the workout cannot resolve passing quality.",
+          "projection": "Pocket-role comparison for a team able to retain a capable immediate reserve."
+        },
+        {
+          "pid": "p1923",
+          "name": "Roselia",
+          "species": "Roselia",
+          "speciesId": 315,
+          "icon": "assets/sprites/315.png",
+          "position": "QB",
+          "age": 22,
+          "level": 24,
+          "range": [
+            38,
+            66
+          ],
+          "combine": {
+            "forty": 4.94,
+            "bench": 10,
+            "vertical": 36,
+            "cone": 6.73
+          },
+          "university": {
+            "id": "orre-phenac-air-academy",
+            "name": "Phenac Air Academy",
+            "city": "Phenac City",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 6,
+          "analysis": "Phenac Air’s Roselia has a 38–66 band and 6.73 cone. His 4.94 forty is close to the Anistar prospect’s, while the visible ranges overlap substantially. Both deserve the same throwing assignments before the board separates them confidently.",
+          "concern": "Small combine differences cannot support precise quarterback rankings.",
+          "projection": "A second Roselia option for a patient succession plan."
+        },
+        {
+          "pid": "p1868",
+          "name": "Flaaffy",
+          "species": "Flaaffy",
+          "speciesId": 180,
+          "icon": "assets/sprites/180.png",
+          "position": "QB",
+          "age": 21,
+          "level": 23,
+          "range": [
+            35,
+            63
+          ],
+          "combine": {
+            "forty": 5.05,
+            "bench": 12,
+            "vertical": 34,
+            "cone": 6.77
+          },
+          "university": {
+            "id": "paldea-university-of-zapapico",
+            "name": "University of Zapapico",
+            "city": "Zapapico",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 7,
+          "analysis": "Zapapico’s Flaaffy is 21 with a 35–63 band and 6.77 cone. I would investigate whether the passing evaluation supports a useful reserve path before spending a pick on a distant starting story.",
+          "concern": "No disclosed workout establishes the time needed to become a dependable reserve.",
+          "projection": "Longer development track with an existing game-ready backup ahead."
+        },
+        {
+          "pid": "p2174",
+          "name": "Porygon",
+          "species": "Porygon",
+          "speciesId": 137,
+          "icon": "assets/sprites/137.png",
+          "position": "QB",
+          "age": 23,
+          "level": 23,
+          "range": [
+            34,
+            62
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 11,
+            "vertical": 31,
+            "cone": 6.98
+          },
+          "university": {
+            "id": "paldea-levincia-technical-university",
+            "name": "Levincia Technical University",
+            "city": "Levincia",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 8,
+          "analysis": "Levincia Technical’s Porygon presents a 34–62 band, 5.07 forty and 6.98 cone. Sunyshore and Rustboro demonstrate how differently two Porygon-Z passers can perform in the same game; species alone cannot complete this projection.",
+          "concern": "Future evolution, role and performance are not promised by the current form.",
+          "projection": "Developmental passing evaluation with explicit competition for the roster place."
+        },
+        {
+          "pid": "p2184",
+          "name": "Munna",
+          "species": "Munna",
+          "speciesId": 517,
+          "icon": "assets/sprites/517.png",
+          "position": "QB",
+          "age": 23,
+          "level": 24,
+          "range": [
+            32,
+            60
+          ],
+          "combine": {
+            "forty": 5.12,
+            "bench": 8,
+            "vertical": 29,
+            "cone": 7.17
+          },
+          "university": {
+            "id": "sinnoh-university-of-canalave",
+            "name": "University of Canalave",
+            "city": "Canalave City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 9,
+          "analysis": "Canalave’s Munna has a 32–60 band and a 5.12 forty. This is a passing-work evaluation, not a speed campaign. I want a clear account of what he can execute now before a team commits to a longer timetable.",
+          "concern": "Neither the range nor the workout establishes ball security under pressure.",
+          "projection": "Reserve-development comparison after the stronger disclosed candidates."
+        },
+        {
+          "pid": "p2086",
+          "name": "Porygon",
+          "species": "Porygon",
+          "speciesId": 137,
+          "icon": "assets/sprites/137.png",
+          "position": "QB",
+          "age": 23,
+          "level": 8,
+          "range": [
+            29,
+            57
+          ],
+          "combine": {
+            "forty": 5.08,
+            "bench": 12,
+            "vertical": 35,
+            "cone": 7.07
+          },
+          "university": {
+            "id": "johto-goldenrod-metropolitan-university",
+            "name": "Goldenrod Metropolitan University",
+            "city": "Goldenrod City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 10,
+          "analysis": "Goldenrod Metropolitan’s Porygon carries a 29–57 band and 5.08 forty. The school makes a topical connection to the Reds’ current injuries, but the next draft cannot repair this week’s lineup. Evaluate the long-term job separately.",
+          "concern": "A current league injury is not proof that this prospect merits a selection.",
+          "projection": "Later quarterback evaluation for a team preserving a reliable current reserve."
+        },
+        {
+          "pid": "p1863",
+          "name": "Clauncher",
+          "species": "Clauncher",
+          "speciesId": 692,
+          "icon": "assets/sprites/692.png",
+          "position": "QB",
+          "age": 21,
+          "level": 10,
+          "range": [
+            25,
+            53
+          ],
+          "combine": {
+            "forty": 5.04,
+            "bench": 10,
+            "vertical": 33,
+            "cone": 6.83
+          },
+          "university": {
+            "id": "paldea-university-of-cascarrafa",
+            "name": "University of Cascarrafa",
+            "city": "Cascarrafa",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 11,
+          "analysis": "Cascarrafa’s Clauncher is 21 with a 25–53 band and 6.83 cone. The broad uncertainty leaves room for a focused evaluation, but I would require a concrete developmental assignment and an affordable roster place.",
+          "concern": "A favorable top end is an uncertainty boundary, not a predicted final rating.",
+          "projection": "A later project only after comparing immediate backup needs."
+        },
+        {
+          "pid": "p1937",
+          "name": "Feebas",
+          "species": "Feebas",
+          "speciesId": 349,
+          "icon": "assets/sprites/349.png",
+          "position": "QB",
+          "age": 21,
+          "level": 15,
+          "range": [
+            14,
+            42
+          ],
+          "combine": {
+            "forty": 4.88,
+            "bench": 3,
+            "vertical": 39,
+            "cone": 6.58
+          },
+          "university": {
+            "id": "sinnoh-twinleaf-university",
+            "name": "Twinleaf University",
+            "city": "Twinleaf Town",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 12,
+          "analysis": "Twinleaf’s Feebas runs 4.88 with a 6.58 cone and 39-inch vertical. Those results are intriguing beside a 14–42 band. I want to watch the throws before allowing the athletic curiosity to climb the board.",
+          "concern": "Movement numbers do not erase the weaker disclosed range or prove future transformation.",
+          "projection": "Exploratory evaluation, with substantial uncertainty and no immediate-role promise."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/f275ccedb7be509d.webp",
+        "alt": "An empty indoor quarterback testing lane with passing target, cones and football rack."
+      }
+    }
+  ]
+}
