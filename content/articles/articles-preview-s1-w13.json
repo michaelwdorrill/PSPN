@@ -1,0 +1,222 @@
+{
+  "season": 1,
+  "week": 13,
+  "articles": [
+    {
+      "id": "preview-s1-w14",
+      "type": "preview",
+      "author": "tessa-wren",
+      "title": "Week 14: Petalburg visits Mossdeep, and the chase gets crowded",
+      "dek": "Fourteen games, five writers and a week of direct opportunities for the teams trying to secure playoff places.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Petalburg at Mossdeep is my Game of the Week: two division leaders, twenty-one wins between them and a useful test of an unbeaten team with new defensive absences. Canalave at Sunyshore and Azalea at Lavender directly involve the chasing clubs. Celadon, Fuchsia, Oreburgh and Veilstone are on bye. Scores below are writer forecasts, with all five panelists retained for the weekly scorecard."
+        }
+      ],
+      "matchups": [
+        {
+          "gid": "1-14-saffron",
+          "week": 14,
+          "home": "saffron",
+          "away": "viridian",
+          "matchup": "Viridian must keep its completions and its possessions",
+          "analysis": "Saffron has allowed three points in three games. Viridian led Cinnabar 21–0 at halftime and lost 29–21 after four turnovers. The Titans can move the ball, but their next opponent has repeatedly punished unsuccessful possessions without needing a perfect offensive day. NeMarcus Tare just made four sacks, while HeeDee Lamb caught 126 yards. I favor the Psi Corps at home because Viridian needs both a cleaner possession game and sustained finishing against this defense.",
+          "awayKey": "Finish with no more than one giveaway and at least 100 rushing yards.",
+          "homeKey": "Hold Viridian below twenty points and turn at least two possessions into offensive touchdowns.",
+          "prediction": {
+            "away": 10,
+            "home": 31
+          }
+        },
+        {
+          "gid": "1-14-vermilion",
+          "week": 14,
+          "home": "vermilion",
+          "away": "pewter",
+          "matchup": "Two struggling offenses get a direct comparison",
+          "analysis": "Vermilion scored zero at Saffron; Pewter scored three against Celadon. The Volts still hold a current playoff position at 7–5, so this is a useful home opportunity rather than a game they can afford to dismiss. Chandelure threw no interceptions in the shutout but completed only twenty of forty-two. I expect the Volts to find enough short completions and defensive stops to win a small game. Pewter can change that forecast by making Vermilion chase more than two scores.",
+          "awayKey": "Produce two touchdowns rather than relying on field goals.",
+          "homeKey": "Reach twenty first downs or win with at least two touchdown drives.",
+          "prediction": {
+            "away": 10,
+            "home": 16
+          }
+        },
+        {
+          "gid": "1-14-cerulean",
+          "week": 14,
+          "home": "cerulean",
+          "away": "cinnabar",
+          "matchup": "Cinnabar needs its second half from the beginning",
+          "analysis": "The Blaze scored twenty-nine unanswered at Viridian after trailing 21–0. Cerulean beat Fuchsia 13–7, a much quieter route to a useful win. Gholdengo threw four touchdowns in the comeback, and I expect that passing threat to create more than Cerulean allowed last week. The Tide can make this competitive by keeping the early score small and forcing Cinnabar to sustain possessions. My pick assumes the Blaze avoid supplying another opponent with a three-touchdown start. Cerulean also has a new twelve-week injury for fullback Seismitoad, while Cinnabar outside linebacker Octillery is listed for five weeks. Both clubs must absorb a fresh absence alongside their differing offensive form.",
+          "awayKey": "Score in the first half and limit giveaways to one.",
+          "homeKey": "Hold Cinnabar below twenty and score two offensive touchdowns.",
+          "prediction": {
+            "away": 24,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-14-ecruteak",
+          "week": 14,
+          "home": "ecruteak",
+          "away": "azalea",
+          "matchup": "Lavender tests the next version of its backfield",
+          "analysis": "The Wails have won three straight and now face another offensive absence: Hobbes is out two weeks. Mr. Clanky remains out one and People Eater four. Frosmoth threw two touchdowns against Mahogany; Machoke and Diggersby already supplied rushing work. Azalea comes off a bye at 5–7 and can directly hurt a team it is chasing. I prefer Lavender at home because Wailord and Luvdisc give the replacement passer established receiving production, while recognizing that two receiver fumbles kept the last game unnecessarily close.",
+          "awayKey": "Win the turnover count and hold Lavender below twenty.",
+          "homeKey": "Get at least ninety combined rushing yards and lose no receiver fumbles.",
+          "prediction": {
+            "away": 16,
+            "home": 23
+          }
+        },
+        {
+          "gid": "1-14-mahogany",
+          "week": 14,
+          "home": "mahogany",
+          "away": "goldenrod",
+          "matchup": "Mt. Silver brings the division title and a restored run game",
+          "analysis": "The Reds clinched Johto West 45–0, with Garshawn Lynch rushing for 131 yards and three touchdowns. Mahogany converted two recovered fumbles into scores at Lavender but added nothing around them in a 23–14 loss. I expect Mt. Silver to control enough possessions through the run and Tic Thorpe’s efficient passing. The Frost need productive drives that do not begin with a gift from the opponent. Josh Alakazam remains out nine weeks; the Reds’ recent success belongs to their available group. Mahogany offensive lineman Quilladin has a new six-week injury, another concern against a Reds defense coming off a shutout.",
+          "awayKey": "Rush for at least 130 yards and commit no more than one turnover.",
+          "homeKey": "Add two sustained touchdown drives without relying on takeaways.",
+          "prediction": {
+            "away": 31,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-14-blackthorn",
+          "week": 14,
+          "home": "blackthorn",
+          "away": "olivine",
+          "matchup": "Olivine faces another contender immediately",
+          "analysis": "The Ironclads lost 45–0 at Mt. Silver and travel to a 10–2 Blackthorn team that just won 30–17 at Violet. Olivine completed twenty-one passes for 136 yards last week, then lost three possessions. It needs more distance from its successful throws before the turnovers are even considered. Hatterene’s attack has scored thirty in consecutive games. I favor the Dragons, with Olivine’s path resting on ball security and a much more productive rushing contribution. Olivine now lists fullback Beedrill for seventeen weeks. That adds a substantial absence to an offense coming off a shutout.",
+          "awayKey": "Lose no fumbles and exceed 100 rushing yards.",
+          "homeKey": "Score at least three offensive touchdowns and hold Olivine below twenty.",
+          "prediction": {
+            "away": 13,
+            "home": 27
+          }
+        },
+        {
+          "gid": "1-14-violet",
+          "week": 14,
+          "home": "violet",
+          "away": "cianwood",
+          "matchup": "Violet gets a chance to stop the retreat",
+          "analysis": "The Falcons have followed four straight wins with losses to Olivine and Blackthorn. Cianwood comes off a bye at 4–8 after an 18–17 defeat to Lavender. Both teams need a result that can be described without the phrase close enough. I give Violet a narrow home edge, with the passing game required to avoid the mistakes that spoiled the Olivine trip. The Crushers can win by restoring the rushing production that fell to forty-four Bibarel yards in their last game.",
+          "awayKey": "Rush for 120 yards and keep the turnover margin level or better.",
+          "homeKey": "Allow fewer than 120 rushing yards and commit no more than one interception.",
+          "prediction": {
+            "away": 17,
+            "home": 20
+          }
+        },
+        {
+          "gid": "1-14-fortree",
+          "week": 14,
+          "home": "fortree",
+          "away": "rustboro",
+          "matchup": "Rustboro must make its own improvement travel",
+          "analysis": "The Stone beat Mauville 17–3 after losing the first meeting 23–0. Their three takeaways mattered more than a modest passing-yard advantage. Fortree just allowed 79 points to Mossdeep, but I am not treating that score as a forecast for a different offense. Rustboro has productive available targets in Gibby Timmy, Gengar and Shieldon while My Way, Son remains out five weeks. I expect enough passing efficiency to win, provided the Stone avoid letting Floatzel’s running produce another long touchdown.",
+          "awayKey": "Finish with two passing touchdowns and no more than one giveaway.",
+          "homeKey": "Hold Rustboro below twenty and get at least 100 rushing yards.",
+          "prediction": {
+            "away": 24,
+            "home": 14
+          }
+        },
+        {
+          "gid": "1-14-mossdeep",
+          "week": 14,
+          "home": "mossdeep",
+          "away": "petalburg",
+          "matchup": "Petalburg tests the unbeaten team with the division lead intact",
+          "analysis": "Petalburg is 9–3 after 14–10 over Dewford. Mossdeep is 12–0 after 79–13 at Fortree, with Dram Marino throwing 550 yards and Accel BeckhmJr catching 376. I expect a much tighter game than that last score, but favor the Eclipse’s passing and protection. Luvrelle Revis is newly out two weeks; Ninjaskamara remains out three, Richard Furman four and Marshall Flock two. The Pride need to convert the available defensive changes into productive possessions while preventing repeated explosive throws.",
+          "awayKey": "Hold Mossdeep below thirty and score at least three offensive touchdowns.",
+          "homeKey": "Allow no more than two sacks and produce at least three passing touchdowns.",
+          "prediction": {
+            "away": 20,
+            "home": 34
+          }
+        },
+        {
+          "gid": "1-14-sootopolis",
+          "week": 14,
+          "home": "sootopolis",
+          "away": "dewford",
+          "matchup": "Dewford has little room to waste a road chance",
+          "analysis": "The Breakers are 7–5 after losing 14–10 at Petalburg. Sootopolis reached 5–7 by beating Lavaridge 14–10 and has a useful 3–1 division record. I favor Dewford narrowly because it needs a more complete offensive response and has remained competitive against strong opponents. The Surge have a real home chance, especially if the game stays within one possession. Their receiving group continues without Arbok, whose long absence changes the available targets. Dewford offensive lineman Vikavolt is newly listed for two weeks, complicating the protection and rushing work needed to recover from the Petalburg loss.",
+          "awayKey": "Produce two offensive touchdowns and avoid a negative turnover margin.",
+          "homeKey": "Hold Dewford below twenty and convert at least two scoring possessions into touchdowns.",
+          "prediction": {
+            "away": 20,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-14-lavaridge",
+          "week": 14,
+          "home": "lavaridge",
+          "away": "mauville",
+          "matchup": "Mauville’s yards need to arrive with points",
+          "analysis": "Togekiss threw 239 yards at Rustboro, but Mauville scored only three and lost three possessions. Lavaridge scored ten in a four-point defeat to Sootopolis. I expect a close game with more offensive production than either managed last week, and give the Dynamos the edge through their receivers. Mothim caught nine of ten targets at Rustboro. Preserving that efficiency while removing the late interceptions would make a substantial difference.",
+          "awayKey": "Keep giveaways to one and score two passing touchdowns.",
+          "homeKey": "Prevent completions of thirty yards or more and reach twenty points.",
+          "prediction": {
+            "away": 23,
+            "home": 20
+          }
+        },
+        {
+          "gid": "1-14-pastoria",
+          "week": 14,
+          "home": "pastoria",
+          "away": "eterna",
+          "matchup": "Eterna can make a small offense smaller",
+          "analysis": "The Thorns beat Canalave 14–6 to take first place in Sinnoh West at 8–4. Pastoria’s three-game winning run ended 10–3 at Veilstone. Eterna has allowed 127 points all season, and I favor its defense against an attack that has already been operating with little scoring margin. The Waves can upset the pick by forcing the Thorns to win through sustained offensive production rather than a few useful possessions. Eterna outside linebacker Whiscash is newly listed for two weeks. Pastoria has one-week injuries for fullback Sandygast and receiver Watchog, reducing its available options for the immediate matchup.",
+          "awayKey": "Hold Pastoria below seventeen and score two touchdowns.",
+          "homeKey": "Rush for at least 100 yards and avoid interceptions.",
+          "prediction": {
+            "away": 20,
+            "home": 10
+          }
+        },
+        {
+          "gid": "1-14-sunyshore",
+          "week": 14,
+          "home": "sunyshore",
+          "away": "canalave",
+          "matchup": "Canalave tries to keep Sunyshore’s possessions ordinary",
+          "analysis": "Sunyshore scored 53 at Hearthome with seven Watzon touchdown passes and five takeaways. Canalave lost 14–6 at Eterna and now faces another road game against a division leader. I favor the Starseekers because LaGatr’s receiving volume and FLOAT SZN’s rushing provide productive options even if the turnovers do not repeat. The Bulwark need long, secure possessions and more than six points from them. This is a strong test of whether Sunyshore can finish drives without receiving repeated short opportunities. Canalave’s Gabite is newly listed for fourteen weeks. The long absence adds to the Bulwark’s challenge against a quarterback who just threw seven touchdown passes.",
+          "awayKey": "Lose no more than one possession to a turnover and score two touchdowns.",
+          "homeKey": "Get at least 100 rushing yards and hold Canalave below twenty.",
+          "prediction": {
+            "away": 13,
+            "home": 27
+          }
+        },
+        {
+          "gid": "1-14-hearthome",
+          "week": 14,
+          "home": "hearthome",
+          "away": "snowpoint",
+          "matchup": "Snowpoint brings consecutive wins to a turnover repair job",
+          "analysis": "The Blizzard won 23–17 in overtime at Oreburgh, following 24–6 over Veilstone. Hearthome gave the ball away five times in a 53–17 defeat to Sunyshore. I favor Snowpoint narrowly because its recent results provide a more stable basis for trust. The Haunts gained 335 yards last week, so an upset can begin with retaining the useful plays they already produce. Fantina needs a game with one giveaway or fewer, rather than another passing total overwhelmed by lost possessions.",
+          "awayKey": "Win the turnover margin and score at least two touchdowns.",
+          "homeKey": "Limit giveaways to one and convert the passing yards into three touchdowns.",
+          "prediction": {
+            "away": 23,
+            "home": 20
+          }
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/75bb1674a39d46e8.webp",
+        "alt": "Illuminated football stadiums across a varied regional landscape."
+      }
+    }
+  ]
+}

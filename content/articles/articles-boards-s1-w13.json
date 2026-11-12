@@ -1,0 +1,1304 @@
+{
+  "season": 1,
+  "week": 13,
+  "articles": [
+    {
+      "id": "power-s1-w13",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "The Pecking Order: what changed, and who earned it",
+      "dek": "Mossdeep stays first, Mt. Silver brings home a division title, and the lower half gives Rowan more movement than confidence.",
+      "teams": [],
+      "theme": "The change since last week",
+      "body": [
+        {
+          "type": "p",
+          "text": "Mt. Silver clinched a division, Saffron allowed another zero and Mossdeep scored seventy-nine. I have moved the Reds up one place, kept the top two intact and prepared for Dorian to issue a formal complaint in approximately thirty seconds. The rankings are my judgment of current strength; the standings continue to award wins without consulting me."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "movement": 0,
+          "themeLabel": "Fortree needed a longer field.",
+          "text": "Dram Marino threw for 550 yards, Accel BeckhmJr caught 376 of them, and the Eclipse won 79–13. Twelve wins, no losses, plus 425. Petalburg is a much more useful next test than my ability to invent another adjective. Luvrelle Revis is now out two weeks; the defensive availability deserves attention even after a score this large."
+        },
+        {
+          "rank": 2,
+          "team": "saffron",
+          "previous": 2,
+          "movement": 0,
+          "themeLabel": "The shutout is becoming a habit.",
+          "text": "The last three opponents have scored zero, three and zero. NeMarcus Tare made four sacks in the 34–0 win over Vermilion, and Jolt Train Ln supplied a punt-return touchdown. I put Saffron second last week and have received no reason to apologize. Manning's sixteen completions in thirty-eight attempts keep the offensive review from becoming a victory parade."
+        },
+        {
+          "rank": 3,
+          "team": "goldenrod",
+          "previous": 4,
+          "movement": 1,
+          "themeLabel": "The division banner comes with receipts.",
+          "text": "45–0 over Olivine secured Johto West. Garshawn Lynch ran for 131 yards and three scores, a substantial improvement on the previous week's entire rushing output. Mt. Silver is 11–1 and still leads the conference. I am promoting a division champion; Dorian will somehow regard one place as a personal insult."
+        },
+        {
+          "rank": 4,
+          "team": "blackthorn",
+          "previous": 3,
+          "movement": -1,
+          "themeLabel": "Thirty travels very well.",
+          "text": "Blackthorn slips one place after Mt. Silver’s shutout and division clinch. The 30–17 win at Violet was still good work. The Dragons are 10–2 and 5–0 away. Hatterene's offense has followed the Reds upset with another thirty-point afternoon. Olivine visits next carrying the unpleasant experience of facing another excellent team immediately beforehand."
+        },
+        {
+          "rank": 5,
+          "team": "sunyshore",
+          "previous": 6,
+          "movement": 1,
+          "themeLabel": "Seven passing touchdowns need no embellishment.",
+          "text": "Sunyshore moves up one after a 53–17 victory at Hearthome. Watzon threw seven scores, Vick caught three and the defense collected five takeaways. The total-yardage advantage was only seven, which is why I would begin the highlights with the turnovers. Canalave arrives next. The Bulwark will probably request a much quieter game and should submit the paperwork early."
+        },
+        {
+          "rank": 6,
+          "team": "petalburg",
+          "previous": 5,
+          "movement": -1,
+          "themeLabel": "Fourteen kept the lead intact.",
+          "text": "Petalburg slips one despite beating Dewford 14–10; Sunyshore’s afternoon was harder to ignore. The Pride are 9–3 and still lead Hoenn West by two games. Their reward is a visit to 12–0 Mossdeep. Norman has won the game directly in front of him; now comes the opponent that just scored seventy-nine."
+        },
+        {
+          "rank": 7,
+          "team": "eterna",
+          "previous": 8,
+          "movement": 1,
+          "themeLabel": "The defense has taken first place seriously.",
+          "text": "14–6 over Canalave moved the Thorns atop Sinnoh West at 8–4. Eterna has allowed 127 points, fewer than any Hoenn–Sinnoh team except Mossdeep. The trip to Pastoria offers another chance to make an opponent's modest offense look even smaller. I would like the attack to give its defense an occasional afternoon with fewer conditions attached."
+        },
+        {
+          "rank": 8,
+          "team": "cinnabar",
+          "previous": 10,
+          "movement": 2,
+          "themeLabel": "Twenty-nine is a better second-half speech.",
+          "text": "Cinnabar climbs two after coming back from 21–0 to beat Viridian 29–21. Four Gholdengo touchdown passes helped repair the damage, but the halftime deficit still happened. The Blaze are 8–4 and visit Cerulean. Dorian will describe the comeback as destiny. I would prefer Blaine locate the working offense before the intermission."
+        },
+        {
+          "rank": 9,
+          "team": "rustboro",
+          "previous": 9,
+          "movement": 0,
+          "themeLabel": "The rematch has been corrected.",
+          "text": "17–3 over Mauville reversed a 23–0 opening-week defeat. Lombre threw the touchdown pass, Porygon-Z ran for another and the defense took the ball three times. At 7–5, the Stone visit Fortree with a useful opportunity. My Way, Son remains out five weeks; the available receivers have just provided encouraging evidence."
+        },
+        {
+          "rank": 10,
+          "team": "ecruteak",
+          "previous": 11,
+          "movement": 1,
+          "themeLabel": "The replacements keep getting assignments.",
+          "text": "23–14 over Mahogany made it three straight wins. Frosmoth threw two scores, Wailord caught eight passes and Maractus made three field goals. Hobbes is now out two weeks, joining Mr. Clanky and People Eater on the absence list. Lavender hosts Azalea next. Travis Scarboro's depth chart is earning overtime without receiving overtime pay."
+        },
+        {
+          "rank": 11,
+          "team": "dewford",
+          "previous": 7,
+          "movement": -4,
+          "themeLabel": "A close defeat still costs a game.",
+          "text": "14–10 at Petalburg dropped the Breakers to 7–5. They remain in the current field, but Rustboro and Canalave have the same record. Sootopolis away is next. Dewford has already demonstrated it can trouble strong teams; the practical need is another win before the equally plausible teams behind it become the teams ahead of it."
+        },
+        {
+          "rank": 12,
+          "team": "canalave",
+          "previous": 13,
+          "movement": 1,
+          "themeLabel": "Six points surrendered first place.",
+          "text": "Canalave moves up one as several neighboring clubs fall, despite losing 14–6 at Eterna. The Bulwark are 7–5 and now trail the Thorns in Sinnoh West, with Sunyshore away next. Byron's defense has kept this season competitive. Asking it to accommodate another six-point offensive afternoon against a team coming off fifty-three would be an unusually demanding favor."
+        },
+        {
+          "rank": 13,
+          "team": "vermilion",
+          "previous": 14,
+          "movement": 1,
+          "themeLabel": "The old one-point win has company.",
+          "text": "Vermilion rises one place despite losing 34–0 at Saffron, which makes the earlier 10–9 victory less persuasive as current evidence. The Volts are 7–5 and host Pewter next. Chandelure threw no interceptions in the shutout, so this repair requires more than telling the quarterback to stop giving it away. Somebody must finish a drive."
+        },
+        {
+          "rank": 14,
+          "team": "violet",
+          "previous": 15,
+          "movement": 1,
+          "themeLabel": "The winning streak feels farther away.",
+          "text": "Olivine's defeat was worse, which is a charitable basis for promotion. Violet followed 16–3 at Olivine with 30–17 against Blackthorn and is now 6–6. Cianwood visits after a bye. Falkner has an attainable game and a shrinking margin for allowing another contender to move away."
+        },
+        {
+          "rank": 15,
+          "team": "olivine",
+          "previous": 12,
+          "movement": -3,
+          "themeLabel": "Forty-five makes the next trip longer.",
+          "text": "A 45–0 defeat that secured Mt. Silver's division title. Drampa completed twenty-one passes for 136 yards; two fumbles and an interception helped the Reds turn possession into points. Blackthorn away comes next. At 6–6, Olivine still holds a current playoff place and needs to give that sentence some protection."
+        },
+        {
+          "rank": 16,
+          "team": "mauville",
+          "previous": 16,
+          "movement": 0,
+          "themeLabel": "The passing yards need an end zone.",
+          "text": "Still sixteenth after 17–3 at Rustboro. Togekiss threw for 239 yards, but the Dynamos lost three possessions and scored only a field goal. The two-game winning run is over. Lavaridge away offers a chance to recover at 5–7. Wattson can keep the useful completions and remove the part where the other team receives the next possession."
+        },
+        {
+          "rank": 17,
+          "team": "snowpoint",
+          "previous": 24,
+          "movement": 7,
+          "themeLabel": "The road win has finally arrived.",
+          "text": "Snowpoint climbs seven after winning 23–17 in overtime at Oreburgh. The Blizzard are 4–8, still below the contenders but no longer winless away. Hearthome is the next road trip, with the Haunts freshly reminded how expensive five turnovers can become. Candice has consecutive wins and a sensible reason to ask for a third."
+        },
+        {
+          "rank": 18,
+          "team": "cerulean",
+          "previous": 29,
+          "movement": 11,
+          "themeLabel": "Thirteen was sufficient this time.",
+          "text": "Cerulean climbs eleven after beating Fuchsia 13–7. Cerulean is 5–7 and hosts Cinnabar, whose comeback in Viridian supplies a clear warning about allowing a passing game to recover. The Tide have earned an improved position in this deeply cooperative lower half. A second win would make the improvement easier to describe without discussing everyone else's mistakes."
+        },
+        {
+          "rank": 19,
+          "team": "sootopolis",
+          "previous": 22,
+          "movement": 3,
+          "themeLabel": "The division record is doing useful work.",
+          "text": "14–10 at Lavaridge moved the Surge to 5–7 and 3–1 within Hoenn East. Dewford visits next. The long Arbok absence remains part of the receiving problem, so this result matters as evidence from the available group. Wallace has a chance to turn a respectable division record into a broader late-season recovery."
+        },
+        {
+          "rank": 20,
+          "team": "veilstone",
+          "previous": 32,
+          "movement": 12,
+          "themeLabel": "Ten points bought a week off.",
+          "text": "Veilstone climbs twelve after beating Pastoria 10–3. The Fists are 5–8 and enter their bye with a result that hurt a team previously ahead of them. I will accept a defensive win without demanding a fireworks display. I will also remember that ten points leaves very little room for the defense to have an ordinary day."
+        },
+        {
+          "rank": 21,
+          "team": "azalea",
+          "previous": 23,
+          "movement": 2,
+          "themeLabel": "The bye preserved the opportunity.",
+          "text": "Azalea rises two places during its bye. At 5–7, the Swarm visit 7–5 Lavender and can directly affect a team they are chasing. The Wails have three straight wins and several offensive absences. Bugsy has had time to prepare. That is an advantage available in the schedule, rather than three points automatically added to the scoreboard."
+        },
+        {
+          "rank": 22,
+          "team": "cianwood",
+          "previous": 26,
+          "movement": 4,
+          "themeLabel": "A quiet week before a useful opponent.",
+          "text": "Cianwood rises four places during its bye. The Crushers are 4–8 and visit a Violet side that has lost two straight after four consecutive wins. Cianwood's most recent game was an 18–17 defeat to Lavender. Chuck needs the narrow margins to start ending on the favorable side, preferably before they become the entire season's explanation."
+        },
+        {
+          "rank": 23,
+          "team": "pastoria",
+          "previous": 17,
+          "movement": -6,
+          "themeLabel": "Three ended the progress.",
+          "text": "Pastoria drops six after a 10–3 loss at Veilstone ended its three-game winning run. The Waves are 5–7 and host division-leading Eterna next. Pastoria had already been winning with modest point totals; three removed the remaining room for error. Crasher Wake needs a better offensive response against a defense allowing barely more than ten points per game."
+        },
+        {
+          "rank": 24,
+          "team": "viridian",
+          "previous": 19,
+          "movement": -5,
+          "themeLabel": "The halftime lead was not a finished product.",
+          "text": "Viridian drops five after turning a 21–0 lead into a 29–21 loss to Cinnabar. The Titans are 4–8 and now visit Saffron, whose last three opponents combined for three points. Giovanni has a first half worth preserving and a second half requiring very specific corrections. The next defense is unlikely to offer a sympathetic opening interview."
+        },
+        {
+          "rank": 25,
+          "team": "mahogany",
+          "previous": 20,
+          "movement": -5,
+          "themeLabel": "The record finally matches the differential's mood.",
+          "text": "Mahogany drops five after losing 23–14 at Lavender. Two recovered fumbles became touchdowns, which is useful. The rest of the offense did not add enough. Mt. Silver visits next after clinching Johto West 45–0. Pryce needs more than another explanation of how competitive the unsuccessful parts were."
+        },
+        {
+          "rank": 26,
+          "team": "celadon",
+          "previous": 25,
+          "movement": -1,
+          "themeLabel": "Two wins can survive an awkward record.",
+          "text": "Celadon slips one as other clubs move past it. The Bloom beat Pewter 13–3 and are 4–9 heading into their bye. Erika has consecutive wins after a difficult season and can review them without pretending the overall record has vanished. Sustained competence is welcome even when it arrives after the standings have become unkind."
+        },
+        {
+          "rank": 27,
+          "team": "lavaridge",
+          "previous": 21,
+          "movement": -6,
+          "themeLabel": "Ten is a difficult number to defend.",
+          "text": "Lavaridge drops six after losing 14–10 to Sootopolis. Lavaridge is 4–8 and hosts Mauville next, a visitor also trying to turn passing production into more than one scoring play. Flannery has lost two straight close division-region matchups. The offense needs enough points that one late mistake does not immediately become the entire result."
+        },
+        {
+          "rank": 28,
+          "team": "hearthome",
+          "previous": 31,
+          "movement": 3,
+          "themeLabel": "Five giveaways overwhelm 335 yards.",
+          "text": "Hearthome rises three as other clubs slide, despite losing 53–17 to Sunyshore. The Haunts gained nearly as many yards as the visitors and lost the ball five times. That is a complete explanation of why I am unimpressed by the yardage defense. Snowpoint visits next with consecutive wins. Fantina needs a game in which completed passes remain her team's possessions."
+        },
+        {
+          "rank": 29,
+          "team": "pewter",
+          "previous": 27,
+          "movement": -2,
+          "themeLabel": "Three points made Celadon's recovery easier.",
+          "text": "Pewter drops two after losing 13–3 to Celadon. The Rockers are 4–8 and visit Vermilion, which just scored zero. There is a reasonable football game available here if either offense chooses to participate fully. Brock's immediate requirement is less theatrical: find enough successful possessions that the defense can survive allowing a touchdown."
+        },
+        {
+          "rank": 30,
+          "team": "fuchsia",
+          "previous": 18,
+          "movement": -12,
+          "themeLabel": "The improvement has encountered another wall.",
+          "text": "Fuchsia drops twelve after losing 13–7 at Cerulean. The Shadows are 3–10 and enter their bye after the two-game winning run ended. Empoleon's passing had recently supplied reasons for optimism. Seven points supplies a reason to keep the review open. Koga has time to work without another result arriving before the corrections do."
+        },
+        {
+          "rank": 31,
+          "team": "oreburgh",
+          "previous": 30,
+          "movement": -1,
+          "themeLabel": "Overtime offered another chance and another defeat.",
+          "text": "Oreburgh slips one after losing 23–17 to Snowpoint. The Miners are 3–10 and have a bye. Getting the game into overtime gave Oreburgh a chance to win; it did not improve the record when the chance ended. Roark can use the break to identify which successful sequences deserve repeating and which late failures keep turning close games away."
+        },
+        {
+          "rank": 32,
+          "team": "fortree",
+          "previous": 28,
+          "movement": -4,
+          "themeLabel": "The next opponent will bring its own offense.",
+          "text": "Fortree drops four to last after losing 79–13 to Mossdeep. Floatzel's fifty-five-yard touchdown run was real; so were 550 passing yards allowed and a 41–0 second half. Rustboro visits next at 7–5. Winona needs a much more stable defensive performance before any isolated highlight can carry a persuasive argument for promotion."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/f4f038191507b371.webp",
+        "alt": "Colorful stadium seats rise in a ranking-inspired collage."
+      }
+    },
+    {
+      "id": "draft-top32-s1-w13",
+      "type": "draft",
+      "focus": "top 32",
+      "author": "calvin-rook",
+      "teams": [],
+      "title": "The Rook Board: Marshadow leads the first Top 32",
+      "dek": "A provisional cross-position board built from visible scouting bands and workouts, with Iron Bundle climbing and Stakataka forcing a serious fullback discussion.",
+      "body": [
+        {
+          "type": "p",
+          "text": "Marshadow is my first evaluation. Gateon State’s corner brings an 85–99 visible scouting band, a 4.55 forty, a 48-inch vertical and a 6.10 cone. I can make a football case for investigating that combination after a week in which one receiver gained 376 yards. I cannot turn it into a promise that a rookie will immediately solve the problem."
+        },
+        {
+          "type": "p",
+          "text": "This is a provisional evaluation board across positions, rather than a predicted draft order. I began with the strongest visible scouting bands, then adjusted for the workouts and the jobs I would investigate. That puts Iron Bundle fourth despite a lower band than several names below him. Stakataka remains second because 87–99 deserves attention, with the fullback workload made explicit before anybody commits a premium selection."
+        },
+        {
+          "type": "p",
+          "text": "The thirty-two names are distinct prospects with persistent universities and identities. Two Sigilyph and two Throh entries represent separate players. The supplied evidence contains no college game statistics, prospect injury predictions or guaranteed final ratings. Club suggestions below identify evaluations worth doing; no team has made a commitment, and a future rookie cannot fill a current Week 14 absence."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p1852",
+          "name": "Marshadow",
+          "species": "Marshadow",
+          "speciesId": 802,
+          "icon": "assets/sprites/802.png",
+          "position": "CB",
+          "age": 23,
+          "level": 31,
+          "range": [
+            85,
+            99
+          ],
+          "combine": {
+            "forty": 4.55,
+            "bench": 21,
+            "vertical": 48,
+            "cone": 6.1
+          },
+          "university": {
+            "id": "orre-gateon-state-university",
+            "name": "Gateon State University",
+            "city": "Gateon Port",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 1,
+          "analysis": "The corner leads my board because the 85–99 band comes with a 4.55 forty,48-inch vertical and 6.10 cone. Gateon State has supplied an athlete worth investigating at a position that can change a passing matchup. Fortree should begin here after allowing 550 passing yards.",
+          "concern": "The band is broad; the workout does not establish coverage technique.",
+          "projection": "First defensive-back evaluation for Fortree and other clubs needing coverage."
+        },
+        {
+          "pid": "p1995",
+          "name": "Stakataka",
+          "species": "Stakataka",
+          "speciesId": 805,
+          "icon": "assets/sprites/805.png",
+          "position": "FB",
+          "age": 23,
+          "level": 10,
+          "range": [
+            87,
+            99
+          ],
+          "combine": {
+            "forty": 5.23,
+            "bench": 27,
+            "vertical": 28,
+            "cone": 7.28
+          },
+          "university": {
+            "id": "paldea-university-of-zapapico",
+            "name": "University of Zapapico",
+            "city": "Zapapico",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 2,
+          "analysis": "Stakataka owns the strongest visible lower bound in this group,87, and adds 27 bench repetitions. I place the fullback second because the football assignment must justify the investment. A team that uses the role extensively can make a stronger case than one looking for an occasional substitute.",
+          "concern": "A 5.23 forty and 7.28 cone invite questions about work in space.",
+          "projection": "Premium fullback evaluation for a club with a defined blocking role."
+        },
+        {
+          "pid": "p1921",
+          "name": "Cryogonal",
+          "species": "Cryogonal",
+          "speciesId": 615,
+          "icon": "assets/sprites/615.png",
+          "position": "S",
+          "age": 21,
+          "level": 16,
+          "range": [
+            82,
+            99
+          ],
+          "combine": {
+            "forty": 4.61,
+            "bench": 13,
+            "vertical": 39,
+            "cone": 6.58
+          },
+          "university": {
+            "id": "unova-icirrus-university",
+            "name": "Icirrus University",
+            "city": "Icirrus City",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 3,
+          "analysis": "Icirrus University’s safety brings an 82–99 band and a 4.61 forty. The 39-inch vertical supports the athletic conversation without answering every coverage question. Mossdeep’s new safety absence is a reminder of the position’s value, though a future draft pick cannot repair this week’s lineup.",
+          "concern": "The listed range does not guarantee an immediate starting standard.",
+          "projection": "Early safety evaluation; compare coverage work before projecting a specific role."
+        },
+        {
+          "pid": "p1867",
+          "name": "Iron Bundle",
+          "species": "Iron Bundle",
+          "speciesId": 991,
+          "icon": "assets/sprites/991.png",
+          "position": "OLB",
+          "age": 22,
+          "level": 21,
+          "range": [
+            69,
+            97
+          ],
+          "combine": {
+            "forty": 4.53,
+            "bench": 17,
+            "vertical": 47,
+            "cone": 5.96
+          },
+          "university": {
+            "id": "kalos-shalour-military-academy",
+            "name": "Shalour Military Academy",
+            "city": "Shalour City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 4,
+          "analysis": "I am moving Iron Bundle above several wider-band competitors because 4.53,47 inches and 5.96 through the cones is a remarkable outside-linebacker workout. Shalour Military Academy has given me a prospect I want to watch move through an actual football assignment. Mauville should investigate.",
+          "concern": "The 69–97 scouting band leaves substantial uncertainty about current football quality.",
+          "projection": "Athletic outside-linebacker priority, with role testing before commitment."
+        },
+        {
+          "pid": "p1988",
+          "name": "Dhelmise",
+          "species": "Dhelmise",
+          "speciesId": 781,
+          "icon": "assets/sprites/781.png",
+          "position": "TE",
+          "age": 22,
+          "level": 5,
+          "range": [
+            80,
+            99
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 28,
+            "vertical": 30,
+            "cone": 7.24
+          },
+          "university": {
+            "id": "kalos-university-of-santalune",
+            "name": "University of Santalune",
+            "city": "Santalune City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 5,
+          "analysis": "Dhelmise combines an 80–99 band with 28 bench repetitions. That makes the tight end a compelling comparison for teams seeking a substantial blocking contribution alongside receiving work. I want the passing evaluation to explain how much the 5.06 forty matters within the intended routes.",
+          "concern": "Level 5 means the current development stage deserves particular attention.",
+          "projection": "Tight-end evaluation for teams seeking more than a detached receiver."
+        },
+        {
+          "pid": "p2132",
+          "name": "Comfey",
+          "species": "Comfey",
+          "speciesId": 764,
+          "icon": "assets/sprites/764.png",
+          "position": "S",
+          "age": 22,
+          "level": 12,
+          "range": [
+            77,
+            99
+          ],
+          "combine": {
+            "forty": 4.67,
+            "bench": 12,
+            "vertical": 40,
+            "cone": 6.31
+          },
+          "university": {
+            "id": "paldea-university-of-levincia",
+            "name": "University of Levincia",
+            "city": "Levincia",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 6,
+          "analysis": "Comfey’s 6.31 cone is the detail that keeps drawing me back. The Levincia safety also has a 40-inch vertical and a 77–99 band. I prefer this movement profile to the next safety’s slower sprint, while recognizing that neither drill supplies a coverage result.",
+          "concern": "Twelve bench repetitions leave the strength comparison open.",
+          "projection": "Safety shortlist for clubs needing a mobile option in space."
+        },
+        {
+          "pid": "p2131",
+          "name": "Sigilyph",
+          "species": "Sigilyph",
+          "speciesId": 561,
+          "icon": "assets/sprites/561.png",
+          "position": "S",
+          "age": 21,
+          "level": 16,
+          "range": [
+            77,
+            99
+          ],
+          "combine": {
+            "forty": 4.84,
+            "bench": 10,
+            "vertical": 42,
+            "cone": 6.43
+          },
+          "university": {
+            "id": "galar-sonia-university",
+            "name": "Sonia University",
+            "city": "Motostoke",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 7,
+          "analysis": "Sonia University’s Sigilyph has a 77–99 band and a 42-inch vertical. I rank him behind Comfey because the 4.84 forty and 6.43 cone make the athletic comparison less persuasive. The band still warrants a serious evaluation rather than a dismissal based on one sprint.",
+          "concern": "Ten bench repetitions and the slower forty need role-specific follow-up.",
+          "projection": "Safety evaluation where the available coverage evidence supports the role."
+        },
+        {
+          "pid": "p2094",
+          "name": "Lapras",
+          "species": "Lapras",
+          "speciesId": 131,
+          "icon": "assets/sprites/131.png",
+          "position": "OL",
+          "age": 23,
+          "level": 14,
+          "range": [
+            77,
+            99
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 17,
+            "vertical": 33,
+            "cone": 6.91
+          },
+          "university": {
+            "id": "orre-agate-state-university",
+            "name": "Agate State University",
+            "city": "Agate Village",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 8,
+          "analysis": "Lapras offers a 77–99 band with a 4.95 forty and 6.91 cone on the offensive line. Agate State’s prospect has enough movement to make a protection evaluation interesting. Fortree and Pewter should compare the actual blocking work rather than treating the position label as a completed answer.",
+          "concern": "Seventeen bench repetitions are a comparison point, not proof of poor blocking.",
+          "projection": "Offensive-line shortlist for teams reviewing pass protection."
+        },
+        {
+          "pid": "p2016",
+          "name": "Druddigon",
+          "species": "Druddigon",
+          "speciesId": 621,
+          "icon": "assets/sprites/621.png",
+          "position": "FB",
+          "age": 22,
+          "level": 16,
+          "range": [
+            74,
+            99
+          ],
+          "combine": {
+            "forty": 5.11,
+            "bench": 23,
+            "vertical": 28,
+            "cone": 7.01
+          },
+          "university": {
+            "id": "alola-po-state-university",
+            "name": "Po State University",
+            "city": "Po Town",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 9,
+          "analysis": "Druddigon brings a 74–99 band and 23 bench repetitions to the fullback group. Po State’s prospect sits below Stakataka on my board but runs the faster forty at 5.11. A team can reasonably prefer that tradeoff if its fullback regularly works beyond the initial contact.",
+          "concern": "The intended fullback workload determines how much value the club can realize.",
+          "projection": "Alternative fullback evaluation for a broader movement assignment."
+        },
+        {
+          "pid": "p2123",
+          "name": "Eiscue",
+          "species": "Eiscue",
+          "speciesId": 875,
+          "icon": "assets/sprites/875.png",
+          "position": "OL",
+          "age": 21,
+          "level": 15,
+          "range": [
+            71,
+            99
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 19,
+            "vertical": 31,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "alola-paniola-state-university",
+            "name": "Paniola State University",
+            "city": "Paniola Town",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 10,
+          "analysis": "Paniola State’s Eiscue pairs a 71–99 band with nineteen bench repetitions. The 4.95 forty resembles Lapras’s, while the 6.96 cone is slightly slower. I want the blocking comparison to separate two prospects whose workouts alone do not establish a decisive football difference.",
+          "concern": "A wide band leaves the current level of play unresolved.",
+          "projection": "Offensive-line comparison with Lapras and the more developed candidates below."
+        },
+        {
+          "pid": "p2021",
+          "name": "Throh",
+          "species": "Throh",
+          "speciesId": 538,
+          "icon": "assets/sprites/538.png",
+          "position": "ILB",
+          "age": 23,
+          "level": 16,
+          "range": [
+            71,
+            99
+          ],
+          "combine": {
+            "forty": 5.05,
+            "bench": 18,
+            "vertical": 31,
+            "cone": 7.02
+          },
+          "university": {
+            "id": "orre-agate-state-university",
+            "name": "Agate State University",
+            "city": "Agate Village",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 11,
+          "analysis": "Agate State’s Throh has the stronger visible band of the two Throh prospects here:71–99. Eighteen bench repetitions and a 5.05 forty describe the workout. Lavender should investigate the interior-linebacker group while keeping the two players’ identities and development stages separate.",
+          "concern": "Level 16 and age 23 change the development discussion relative to the younger Throh.",
+          "projection": "Interior-linebacker evaluation for a clearly defined defensive job."
+        },
+        {
+          "pid": "p2147",
+          "name": "Sigilyph",
+          "species": "Sigilyph",
+          "speciesId": 561,
+          "icon": "assets/sprites/561.png",
+          "position": "S",
+          "age": 23,
+          "level": 19,
+          "range": [
+            70,
+            98
+          ],
+          "combine": {
+            "forty": 4.73,
+            "bench": 12,
+            "vertical": 41,
+            "cone": 6.44
+          },
+          "university": {
+            "id": "hoenn-petalburg-university",
+            "name": "Petalburg University",
+            "city": "Petalburg City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 12,
+          "analysis": "Petalburg University’s Sigilyph runs 4.73 and jumps 41 inches, with a 70–98 band. I prefer his sprint to the Sonia prospect’s, though the lower scouting floor keeps him below that earlier entry. Hoenn has a useful safety comparison here, and I would like both players evaluated in the same assignments.",
+          "concern": "The two Sigilyph prospects are separate players; their reports must remain separate.",
+          "projection": "Safety alternative for clubs comparing movement and scouting uncertainty."
+        },
+        {
+          "pid": "p2177",
+          "name": "Klawf",
+          "species": "Klawf",
+          "speciesId": 950,
+          "icon": "assets/sprites/950.png",
+          "position": "OL",
+          "age": 23,
+          "level": 19,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 4.86,
+            "bench": 21,
+            "vertical": 33,
+            "cone": 6.83
+          },
+          "university": {
+            "id": "sinnoh-university-of-sunyshore",
+            "name": "University of Sunyshore",
+            "city": "Sunyshore City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 13,
+          "analysis": "Klawf moves up from the raw band ordering because the 4.86 forty,21 bench repetitions and 6.83 cone make an attractive line workout. University of Sunyshore has supplied a prospect worth comparing with the higher-band linemen. The 65–93 range keeps the enthusiasm qualified.",
+          "concern": "Athletic testing does not establish protection consistency.",
+          "projection": "Offensive-line evaluation for teams seeking movement without ignoring strength."
+        },
+        {
+          "pid": "p1928",
+          "name": "Miltank",
+          "species": "Miltank",
+          "speciesId": 241,
+          "icon": "assets/sprites/241.png",
+          "position": "HB",
+          "age": 22,
+          "level": 16,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 4.72,
+            "bench": 22,
+            "vertical": 40,
+            "cone": 6.58
+          },
+          "university": {
+            "id": "johto-university-of-blackthorn",
+            "name": "University of Blackthorn",
+            "city": "Blackthorn City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 14,
+          "analysis": "Miltank gives the halfback group a 65–93 band,22 bench repetitions and a 4.72 forty. The forty-inch vertical adds another useful athletic measure. Canalave’s new rushing absence illustrates why teams need options, although this draft evaluation concerns next season rather than an immediate replacement.",
+          "concern": "The workout does not establish ball security or actual rushing efficiency.",
+          "projection": "Halfback evaluation for clubs planning future rushing depth."
+        },
+        {
+          "pid": "p2024",
+          "name": "Qwilfish",
+          "species": "Qwilfish",
+          "speciesId": 211,
+          "icon": "assets/sprites/211.png",
+          "position": "OLB",
+          "age": 22,
+          "level": 23,
+          "range": [
+            67,
+            95
+          ],
+          "combine": {
+            "forty": 4.81,
+            "bench": 17,
+            "vertical": 41,
+            "cone": 6.42
+          },
+          "university": {
+            "id": "galar-mid-galar-state-university",
+            "name": "Mid-Galar State University",
+            "city": "Hammerlocke",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 15,
+          "analysis": "Qwilfish’s 4.81 forty and 6.42 cone support an outside-linebacker evaluation alongside a 67–95 band. He is level 23, a different starting point from several prospects near him. I would ask a club to compare the current role directly before paying for an imagined development path.",
+          "concern": "Seventeen bench repetitions alone cannot settle the contact assignment.",
+          "projection": "Outside-linebacker alternative when the club values a more advanced current level."
+        },
+        {
+          "pid": "p2013",
+          "name": "Arctozolt",
+          "species": "Arctozolt",
+          "speciesId": 881,
+          "icon": "assets/sprites/881.png",
+          "position": "TE",
+          "age": 21,
+          "level": 13,
+          "range": [
+            67,
+            95
+          ],
+          "combine": {
+            "forty": 4.87,
+            "bench": 20,
+            "vertical": 31,
+            "cone": 7.18
+          },
+          "university": {
+            "id": "kanto-lavender-forest-university",
+            "name": "Lavender Forest University",
+            "city": "Lavender Town",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 16,
+          "analysis": "Lavender Forest’s Arctozolt brings a 67–95 band and a 4.87 forty at tight end. Twenty bench repetitions provide a useful companion to that movement. I prefer him for an exploratory receiving-and-blocking comparison rather than assigning a specialist role from the workout.",
+          "concern": "Level 13 and the 7.18 cone leave several development and movement questions.",
+          "projection": "Tight-end comparison for teams broadening the available receiving group."
+        },
+        {
+          "pid": "p2083",
+          "name": "Torkoal",
+          "species": "Torkoal",
+          "speciesId": 324,
+          "icon": "assets/sprites/324.png",
+          "position": "OL",
+          "age": 23,
+          "level": 9,
+          "range": [
+            68,
+            96
+          ],
+          "combine": {
+            "forty": 5.21,
+            "bench": 18,
+            "vertical": 30,
+            "cone": 7.24
+          },
+          "university": {
+            "id": "kanto-university-of-cinnabar",
+            "name": "University of Cinnabar",
+            "city": "Cinnabar Island",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 17,
+          "analysis": "Torkoal’s 68–96 band keeps the Cinnabar lineman in this group despite a 5.21 forty. Eighteen bench repetitions and a 7.24 cone do not make him the workout winner. They also do not replace the need to examine how he actually blocks.",
+          "concern": "The movement profile needs careful matching to the intended line assignment.",
+          "projection": "Line evaluation where blocking evidence outweighs sprint preference."
+        },
+        {
+          "pid": "p1968",
+          "name": "Shuckle",
+          "species": "Shuckle",
+          "speciesId": 213,
+          "icon": "assets/sprites/213.png",
+          "position": "OL",
+          "age": 21,
+          "level": 13,
+          "range": [
+            66,
+            94
+          ],
+          "combine": {
+            "forty": 5.19,
+            "bench": 16,
+            "vertical": 28,
+            "cone": 7.27
+          },
+          "university": {
+            "id": "hoenn-university-of-mauville",
+            "name": "University of Mauville",
+            "city": "Mauville City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 18,
+          "analysis": "University of Mauville’s Shuckle has a 66–94 band, sixteen bench repetitions and a 5.19 forty. I want Wattson’s club to examine its own local prospect without mistaking familiarity for proof. The visible range earns an evaluation; the workout asks for more football evidence.",
+          "concern": "The 28-inch vertical and 7.27 cone provide limited athletic separation.",
+          "projection": "Developmental offensive-line comparison with a specific coaching plan."
+        },
+        {
+          "pid": "p1918",
+          "name": "Dracozolt",
+          "species": "Dracozolt",
+          "speciesId": 880,
+          "icon": "assets/sprites/880.png",
+          "position": "DE",
+          "age": 22,
+          "level": 7,
+          "range": [
+            64,
+            92
+          ],
+          "combine": {
+            "forty": 4.82,
+            "bench": 19,
+            "vertical": 33,
+            "cone": 6.85
+          },
+          "university": {
+            "id": "galar-turffield-state-university",
+            "name": "Turffield State University",
+            "city": "Turffield",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 19,
+          "analysis": "Dracozolt’s 4.82 forty and 6.85 cone are useful numbers for a defensive-end evaluation. The 64–92 band and level 7 make this an unfinished prospect. Turffield State has supplied enough movement to justify attention, particularly for teams seeking future pressure options.",
+          "concern": "Current technique and readiness are not established by the workout.",
+          "projection": "Defensive-end development candidate after direct football evaluation."
+        },
+        {
+          "pid": "p2023",
+          "name": "Granbull",
+          "species": "Granbull",
+          "speciesId": 210,
+          "icon": "assets/sprites/210.png",
+          "position": "DT",
+          "age": 22,
+          "level": 23,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 5.01,
+            "bench": 15,
+            "vertical": 32,
+            "cone": 6.97
+          },
+          "university": {
+            "id": "orre-university-of-pyrite",
+            "name": "University of Pyrite",
+            "city": "Pyrite Town",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 20,
+          "analysis": "Granbull enters with a 65–93 band at defensive tackle and a level 23 starting point. The 5.01 forty is respectable for the listed role. Fifteen bench repetitions make the strength comparison worth examining rather than assuming the species or position has already answered it.",
+          "concern": "The available measures do not establish interior run-defense quality.",
+          "projection": "Defensive-tackle comparison for clubs seeking a defined interior assignment."
+        },
+        {
+          "pid": "p2038",
+          "name": "Throh",
+          "species": "Throh",
+          "speciesId": 538,
+          "icon": "assets/sprites/538.png",
+          "position": "ILB",
+          "age": 21,
+          "level": 11,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 20,
+            "vertical": 31,
+            "cone": 7.04
+          },
+          "university": {
+            "id": "johto-university-of-mahogany",
+            "name": "University of Mahogany",
+            "city": "Mahogany Town",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 21,
+          "analysis": "The Mahogany Throh is 21 and level 11, with a 65–93 band and twenty bench repetitions. That differs materially from Agate State’s older, higher-band prospect. I would keep both on the same comparison sheet and make the development assumptions explicit.",
+          "concern": "A younger age does not guarantee a better eventual player.",
+          "projection": "Interior-linebacker development evaluation with the required time made clear."
+        },
+        {
+          "pid": "p1920",
+          "name": "Zangoose",
+          "species": "Zangoose",
+          "speciesId": 335,
+          "icon": "assets/sprites/335.png",
+          "position": "HB",
+          "age": 21,
+          "level": 20,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 4.75,
+            "bench": 19,
+            "vertical": 40,
+            "cone": 6.6
+          },
+          "university": {
+            "id": "unova-university-of-opelucid",
+            "name": "University of Opelucid",
+            "city": "Opelucid City",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 22,
+          "analysis": "Zangoose combines a 4.75 forty, forty-inch vertical and 63–91 band. Opelucid’s halfback is level 20, offering a different current stage from some earlier names. I want the rushing comparison with Miltank to use actual role work instead of declaring the sprint difference decisive.",
+          "concern": "Neither ball security nor receiving reliability is supplied by these drills.",
+          "projection": "Halfback alternative for a club seeking competition in the rushing group."
+        },
+        {
+          "pid": "p2044",
+          "name": "Bouffalant",
+          "species": "Bouffalant",
+          "speciesId": 626,
+          "icon": "assets/sprites/626.png",
+          "position": "ILB",
+          "age": 21,
+          "level": 13,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 4.96,
+            "bench": 20,
+            "vertical": 32,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "hoenn-university-of-lilycove",
+            "name": "University of Lilycove",
+            "city": "Lilycove City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 23,
+          "analysis": "Lilycove’s Bouffalant has twenty bench repetitions and a 4.96 forty alongside a 63–91 band. I like having an interior-linebacker prospect who invites both movement and contact questions. The next step is finding which defensive assignment makes those numbers useful.",
+          "concern": "Level 13 means readiness remains a separate question from athletic appeal.",
+          "projection": "Interior-linebacker evaluation for a team with a realistic development role."
+        },
+        {
+          "pid": "p2078",
+          "name": "Parasect",
+          "species": "Parasect",
+          "speciesId": 47,
+          "icon": "assets/sprites/47.png",
+          "position": "FB",
+          "age": 22,
+          "level": 24,
+          "range": [
+            64,
+            92
+          ],
+          "combine": {
+            "forty": 5.05,
+            "bench": 20,
+            "vertical": 29,
+            "cone": 7.11
+          },
+          "university": {
+            "id": "kalos-university-of-cyllage",
+            "name": "University of Cyllage",
+            "city": "Cyllage City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 24,
+          "analysis": "Parasect is level 24 with a 64–92 band and twenty bench repetitions. The 5.05 forty is faster than the two earlier fullbacks, though their bands are stronger. Cyllage’s prospect deserves a direct comparison when a club needs a useful current role rather than only a distant projection.",
+          "concern": "The role must justify carrying and developing a fullback.",
+          "projection": "Fullback alternative for teams comparing current stage and movement."
+        },
+        {
+          "pid": "p2113",
+          "name": "Pyukumuku",
+          "species": "Pyukumuku",
+          "speciesId": 771,
+          "icon": "assets/sprites/771.png",
+          "position": "ILB",
+          "age": 21,
+          "level": 8,
+          "range": [
+            64,
+            92
+          ],
+          "combine": {
+            "forty": 5.23,
+            "bench": 14,
+            "vertical": 27,
+            "cone": 7.17
+          },
+          "university": {
+            "id": "kalos-ambrette-naval-academy",
+            "name": "Ambrette Naval Academy",
+            "city": "Ambrette Town",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 25,
+          "analysis": "Ambrette’s Pyukumuku has a 64–92 band at interior linebacker, but the 5.23 forty and 27-inch vertical require a careful assignment. I would investigate the football evidence before making a broad claim about range. The prospect has a place on the board because the visible scouting remains promising.",
+          "concern": "Level 8 and the slower workout create substantial readiness questions.",
+          "projection": "Interior-linebacker project requiring a narrow, tested role."
+        },
+        {
+          "pid": "p1877",
+          "name": "Audino",
+          "species": "Audino",
+          "speciesId": 531,
+          "icon": "assets/sprites/531.png",
+          "position": "OL",
+          "age": 23,
+          "level": 24,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 16,
+            "vertical": 35,
+            "cone": 7.05
+          },
+          "university": {
+            "id": "kanto-saffron-institute-of-technology",
+            "name": "Saffron Institute of Technology",
+            "city": "Saffron City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 26,
+          "analysis": "Saffron Institute’s Audino is level 24 and has a 63–91 band. The 35-inch vertical is a useful distinction within this line group, alongside a 5.00 forty. A club comparing him with less developed prospects should separate present usefulness from assumptions about future improvement.",
+          "concern": "Sixteen bench repetitions do not resolve the blocking-strength question.",
+          "projection": "Offensive-line comparison where current development stage matters."
+        },
+        {
+          "pid": "p2064",
+          "name": "Tropius",
+          "species": "Tropius",
+          "speciesId": 357,
+          "icon": "assets/sprites/357.png",
+          "position": "OL",
+          "age": 22,
+          "level": 17,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 17,
+            "vertical": 31,
+            "cone": 7.1
+          },
+          "university": {
+            "id": "orre-north-orre-university",
+            "name": "North Orre University",
+            "city": "Phenac City",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 27,
+          "analysis": "Tropius supplies a 63–91 band, seventeen bench repetitions and a 5.06 forty. North Orre’s lineman is level 17. The profile gives a team enough to investigate without an obvious workout statistic demanding that it ignore the other candidates.",
+          "concern": "The 7.10 cone leaves the movement comparison open.",
+          "projection": "Offensive-line depth and development evaluation."
+        },
+        {
+          "pid": "p2167",
+          "name": "Klefki",
+          "species": "Klefki",
+          "speciesId": 707,
+          "icon": "assets/sprites/707.png",
+          "position": "S",
+          "age": 22,
+          "level": 9,
+          "range": [
+            62,
+            90
+          ],
+          "combine": {
+            "forty": 4.86,
+            "bench": 15,
+            "vertical": 39,
+            "cone": 6.57
+          },
+          "university": {
+            "id": "hoenn-university-of-lavaridge",
+            "name": "University of Lavaridge",
+            "city": "Lavaridge Town",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 28,
+          "analysis": "Lavaridge’s Klefki has a 62–90 band, fifteen bench repetitions and a 39-inch vertical. The 4.86 forty is slower than several safeties above him. I still want a direct coverage comparison before turning that difference into a fixed ceiling on his football role.",
+          "concern": "Level 9 and the broad range make readiness uncertain.",
+          "projection": "Safety development candidate for a club able to provide a useful role."
+        },
+        {
+          "pid": "p1933",
+          "name": "Seviper",
+          "species": "Seviper",
+          "speciesId": 336,
+          "icon": "assets/sprites/336.png",
+          "position": "WR",
+          "age": 22,
+          "level": 16,
+          "range": [
+            62,
+            90
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 19,
+            "vertical": 34,
+            "cone": 6.87
+          },
+          "university": {
+            "id": "kanto-university-of-celadon",
+            "name": "University of Celadon",
+            "city": "Celadon City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 29,
+          "analysis": "Seviper is the receiver on this provisional board, carrying a 62–90 band and nineteen bench repetitions. A 4.95 forty does not make the Celadon prospect an automatic deep threat. I would examine route work, contested opportunities and the actual receiving assignment before choosing the label.",
+          "concern": "The combine does not supply catching or route-quality evidence.",
+          "projection": "Receiver evaluation for a team seeking a specific complementary role."
+        },
+        {
+          "pid": "p2077",
+          "name": "Mawile",
+          "species": "Mawile",
+          "speciesId": 303,
+          "icon": "assets/sprites/303.png",
+          "position": "OLB",
+          "age": 21,
+          "level": 14,
+          "range": [
+            62,
+            90
+          ],
+          "combine": {
+            "forty": 4.98,
+            "bench": 14,
+            "vertical": 35,
+            "cone": 6.89
+          },
+          "university": {
+            "id": "kalos-university-of-cyllage",
+            "name": "University of Cyllage",
+            "city": "Cyllage City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 30,
+          "analysis": "Mawile’s 62–90 band and level 14 place him among the outside-linebacker projects. The 4.98 forty and 6.89 cone are less spectacular than Iron Bundle’s. That makes the direct football comparison more necessary, especially before a team assumes the two can perform interchangeable jobs.",
+          "concern": "Fourteen bench repetitions and the movement profile require role testing.",
+          "projection": "Outside-linebacker development comparison with modest initial expectations."
+        },
+        {
+          "pid": "p2097",
+          "name": "Maractus",
+          "species": "Maractus",
+          "speciesId": 556,
+          "icon": "assets/sprites/556.png",
+          "position": "K",
+          "age": 23,
+          "level": 6,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 13,
+            "vertical": 31,
+            "cone": 6.95
+          },
+          "university": {
+            "id": "unova-accumula-state-university",
+            "name": "Accumula State University",
+            "city": "Accumula Town",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 31,
+          "analysis": "Last week’s leading kicker remains on my overall evaluation list. Maractus has a 65–93 band, but his 4.95 forty and thirteen bench repetitions still do not tell us which field goals he will make. Accumula State has earned a kicking workout invitation.",
+          "concern": "No prospect accuracy chart or measured kicking-distance session is available.",
+          "projection": "First specialist evaluation for clubs reviewing their kicking options."
+        },
+        {
+          "pid": "p2195",
+          "name": "Stunfisk",
+          "species": "Stunfisk",
+          "speciesId": 618,
+          "icon": "assets/sprites/618.png",
+          "position": "K",
+          "age": 22,
+          "level": 8,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 10,
+            "vertical": 29,
+            "cone": 7.06
+          },
+          "university": {
+            "id": "kanto-celadon-metropolitan-university",
+            "name": "Celadon Metropolitan University",
+            "city": "Celadon City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 32,
+          "analysis": "Stunfisk’s 63–91 band keeps a second kicker in the final places. Celadon Metropolitan’s prospect is level 8 and runs 5.07. I will rank the scouting promise here while refusing to turn a sprint into a claim about reliable range.",
+          "concern": "Actual kicking consistency remains unmeasured in the supplied evidence.",
+          "projection": "Specialist comparison after Maractus, with accuracy evaluated directly."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/7e893d767b6f1d9e.webp",
+        "alt": "Marshadow runs a combine drill between cones."
+      }
+    }
+  ]
+}

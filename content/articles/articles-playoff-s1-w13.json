@@ -1,0 +1,437 @@
+{
+  "season": 1,
+  "week": 13,
+  "articles": [
+    {
+      "id": "feature-playoff-race-s1-w13",
+      "type": "feature",
+      "category": "Playoff Race",
+      "title": "Two division champions, and five teams with a route to follow",
+      "dek": "Mt. Silver joins Mossdeep. Ellis Quill maps verified Week 14 clinching combinations, the remaining schedules and the injury concerns shaping the chase.",
+      "author": "ellis-quill",
+      "teams": [
+        "mossdeep",
+        "goldenrod",
+        "blackthorn",
+        "cinnabar",
+        "sunyshore",
+        "saffron",
+        "petalburg",
+        "eterna",
+        "canalave",
+        "rustboro",
+        "dewford",
+        "ecruteak"
+      ],
+      "frontPageOrder": 0.7,
+      "body": [
+        {
+          "type": "p",
+          "text": "Mt. Silver has joined Mossdeep among the division champions. The Reds’ 45–0 victory over Olivine settled Johto West at 11–1, giving Connor McLarren’s team a playoff place and a home game in the opening round if it does not earn the bye. Mossdeep already owns Hoenn East and improved to 12–0 by beating Fortree 79–13. Both clubs can now concentrate on the conference lead while several pursuers try to secure their invitations."
+        },
+        {
+          "type": "p",
+          "text": "Blackthorn has the simplest new berth route in Week 14: beat Olivine at home. Cinnabar and Sunyshore have verified division-clinching combinations involving help elsewhere, while Saffron and Petalburg can also secure playoff places through combinations below. These are guaranteed routes, including specified ties. The guide is a selection of verified sufficient combinations, not an exhaustive list of every tiebreak-dependent possibility. A result outside a displayed route requires a fresh standings check; it does not automatically mean a club remains unqualified."
+        },
+        {
+          "type": "h2",
+          "text": "Two division titles are secure"
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep has twelve wins. Its nearest Hoenn East rival, Sootopolis, is 5–7 and can finish with ten. Mt. Silver has eleven wins; Olivine is 6–6 and can only tie that total by winning its final five. The Reds won both meetings with the Ironclads, 13–9 and 45–0, so that tie belongs to Mt. Silver. Azalea’s ceiling is ten wins and Cianwood’s is nine. The standings therefore show Y beside Mossdeep and Mt. Silver. No other current berth is mathematically secured."
+        },
+        {
+          "type": "p",
+          "text": "Seven teams qualify in each conference: four division winners and three wild cards. Division winners occupy the first four seeds, and only the conference’s first seed receives a bye. A berth guarantees entry; a division title also protects a place among those first four. Neither conference’s bye can be secured this week. Even after a Mossdeep win, Sunyshore can still finish with fourteen victories while the Eclipse could remain on thirteen. Mt. Silver likewise has Saffron and Blackthorn close enough to prevent an immediate first-seed clinch."
+        },
+        {
+          "type": "h2",
+          "text": "Blackthorn: a win books the trip"
+        },
+        {
+          "type": "flowchart",
+          "title": "Blackthorn’s direct Week 14 berth route",
+          "description": "Guaranteed playoff berth; this does not by itself clinch Johto East.",
+          "steps": [
+            {
+              "label": "Beat Olivine",
+              "text": "The Dragons reach eleven wins."
+            },
+            {
+              "label": "Playoff berth secured",
+              "text": "Blackthorn qualifies regardless of the other Week 14 results.",
+              "tone": "success"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The Dragons are 10–2 after beating Violet 30–17. They have already beaten Mt. Silver and remain close enough to influence the first-seed race, but their own division still includes Lavender at 7–5 and Violet at 6–6. Qualification would remove one uncertainty while leaving the title and seed to be settled. Olivine arrives with a new seventeen-week injury to fullback Beedrill, on top of an offense that scored zero against the Reds."
+        },
+        {
+          "type": "p",
+          "text": "A Blackthorn tie also suffices if Pewter beats Vermilion, or if Cianwood beats Violet. Another verified tie route requires Azalea to beat Lavender and Cianwood to tie Violet. Those combinations reduce the number of rival non-division-winners that can finish ahead of the Dragons. Blackthorn can avoid depending on any of them by winning its own game."
+        },
+        {
+          "type": "h2",
+          "text": "Cinnabar and Sunyshore can secure their divisions"
+        },
+        {
+          "type": "flowchart",
+          "title": "Cinnabar’s outright-record division route",
+          "description": "All three conditions are required. A separate tie route is described below.",
+          "steps": [
+            {
+              "label": "Cinnabar beats Cerulean",
+              "text": "The Blaze reach nine wins."
+            },
+            {
+              "label": "Viridian does not win at Saffron",
+              "text": "A loss or tie caps the Titans below nine wins."
+            },
+            {
+              "label": "Pewter does not win at Vermilion",
+              "text": "A loss or tie caps the Rockers below nine; Celadon can reach only eight."
+            },
+            {
+              "label": "Kanto West secured",
+              "text": "Cinnabar wins the division and qualifies for the playoffs.",
+              "tone": "success"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Cinnabar can also clinch with a tie at Cerulean if Viridian and Pewter both lose. The Blaze would have eight wins and a tie; all three division rivals would be capped at eight wins. This is a useful consequence of the 29–21 comeback at Viridian. Blaine’s club needed four second-half touchdown passes to rescue that game, but the resulting eighth victory has placed a division title within immediate reach."
+        },
+        {
+          "type": "p",
+          "text": "The injury report complicates the matchup without changing the arithmetic. Cinnabar outside linebacker Octillery is newly listed for five weeks, and Cerulean fullback Seismitoad for twelve. The Blaze then visit Blackthorn, host Mt. Silver, visit Celadon and finish at Pewter. Securing the title before those two leading Johto opponents would provide a considerable improvement in comfort, even though the remaining results would still affect seeding."
+        },
+        {
+          "type": "flowchart",
+          "title": "Sunyshore’s outright-record division routes",
+          "description": "Either branch guarantees Sinnoh East; ties are distinguished from losses.",
+          "steps": [
+            {
+              "label": "Win plus help",
+              "text": "Sunyshore beats Canalave AND Pastoria loses or ties against Eterna."
+            },
+            {
+              "label": "OR tie plus help",
+              "text": "Sunyshore ties Canalave AND Pastoria loses to Eterna."
+            },
+            {
+              "label": "Sinnoh East secured",
+              "text": "Veilstone can reach only nine wins and Hearthome only eight wins and a tie; the specified Pastoria result leaves it below Sunyshore.",
+              "tone": "success"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore’s 53–17 win at Hearthome put the Starseekers at 9–3, with a 4–0 division record. Canalave now visits after losing 14–6 at Eterna and reporting a fourteen-week injury for Gabite. Karson Jones has a strong immediate opportunity, followed by Rustboro at home and Mossdeep away. The final two games are at Pastoria and Veilstone. Those direct division meetings preserve leverage for the chasing clubs if the title remains open."
+        },
+        {
+          "type": "h2",
+          "text": "Saffron can qualify while the division stays open"
+        },
+        {
+          "type": "p",
+          "text": "A Saffron win over Viridian secures a berth if Lavender fails to beat Azalea, or if Olivine fails to beat Blackthorn. Those are two separate help routes: either is sufficient. If Saffron ties, a Blackthorn win or a Cianwood win also guarantees qualification. More detailed verified combinations appear in the route table below. These claims secure a berth; they should not be read as an automatic Kanto East title."
+        },
+        {
+          "type": "p",
+          "text": "Saffron’s defense has allowed three points in three games, and the Psi Corps remain 10–2. Vermilion is three wins behind at 7–5, but the clubs split their season series and the Volts still have five games left. The following two Saffron appointments—at Mt. Silver and home to Blackthorn—could rearrange the top of Kanto–Johto. Trent Scarboro’s team has already demonstrated that it can control an opponent for an afternoon. The coming stretch asks it to repeat that work against two of the conference’s best."
+        },
+        {
+          "type": "h2",
+          "text": "Petalburg needs a result at Mossdeep and help"
+        },
+        {
+          "type": "p",
+          "text": "One verified Petalburg route is a win at Mossdeep combined with Dewford beating or tying Sootopolis, Lavaridge beating or tying Mauville, and Eterna beating or tying Pastoria. All four conditions are required in that route. Petalburg can also qualify with a tie if Dewford, Lavaridge and Eterna all win. The combinations constrain the wild-card competition across Hoenn–Sinnoh; the berth is guaranteed even if the eventual Hoenn West title remains unsettled."
+        },
+        {
+          "type": "p",
+          "text": "The Pride are 9–3 after beating Dewford 14–10. Iron Valiant completed all fourteen passes in that game, giving Petalburg an encouraging performance to carry into the week’s most difficult venue. Mossdeep will be without newly injured Luvrelle Revis, listed for two weeks. That is a relevant opening for the Pride’s passing game, although the Eclipse’s offense has just produced 550 passing yards of its own. My expectation remains that Mossdeep wins; the clinching route describes what Petalburg can secure if it earns a different result."
+        },
+        {
+          "type": "h2",
+          "text": "The combinations at a glance"
+        },
+        {
+          "type": "table",
+          "title": "Verified sufficient Week 14 routes",
+          "columns": [
+            "Team",
+            "Required results (each row is an alternative)",
+            "Secures"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Blackthorn Dragons",
+                "Blackthorn Dragons beat Olivine Ironclads",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Blackthorn Dragons",
+                "Pewter Rockers beat Vermilion Volts; AND Olivine Ironclads and Blackthorn Dragons tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Blackthorn Dragons",
+                "Olivine Ironclads and Blackthorn Dragons tie; AND Cianwood Crushers beat Violet Falcons",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Blackthorn Dragons",
+                "Azalea Swarm beat Lavender Wails; AND Olivine Ironclads and Blackthorn Dragons tie; AND Cianwood Crushers and Violet Falcons tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "Saffron Psi Corps beat Viridian Titans; AND Vermilion Volts beat Pewter Rockers; AND Cinnabar Blaze and Cerulean Tide tie",
+                "Division"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "Viridian Titans and Saffron Psi Corps tie; AND Vermilion Volts beat Pewter Rockers; AND Cinnabar Blaze beat Cerulean Tide",
+                "Division"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "Saffron Psi Corps beat Viridian Titans; AND Pewter Rockers and Vermilion Volts tie; AND Cinnabar Blaze beat Cerulean Tide",
+                "Division"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "Viridian Titans and Saffron Psi Corps tie; AND Pewter Rockers and Vermilion Volts tie; AND Cinnabar Blaze beat Cerulean Tide",
+                "Division"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "Saffron Psi Corps beat Viridian Titans; AND Vermilion Volts beat Pewter Rockers; AND Cinnabar Blaze beat Cerulean Tide",
+                "Division"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Saffron Psi Corps beat Viridian Titans; AND Azalea Swarm and Lavender Wails tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Saffron Psi Corps beat Viridian Titans; AND Azalea Swarm beat Lavender Wails",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Viridian Titans and Saffron Psi Corps tie; AND Cianwood Crushers beat Violet Falcons",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Viridian Titans and Saffron Psi Corps tie; AND Blackthorn Dragons beat Olivine Ironclads",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Saffron Psi Corps beat Viridian Titans; AND Olivine Ironclads and Blackthorn Dragons tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Saffron Psi Corps beat Viridian Titans; AND Blackthorn Dragons beat Olivine Ironclads",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Viridian Titans and Saffron Psi Corps tie; AND Azalea Swarm beat Lavender Wails; AND Cianwood Crushers and Violet Falcons tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Viridian Titans and Saffron Psi Corps tie; AND Pewter Rockers beat Vermilion Volts; AND Olivine Ironclads and Blackthorn Dragons tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Saffron Psi Corps beat Viridian Titans; AND Cianwood Crushers and Violet Falcons tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Saffron Psi Corps beat Viridian Titans; AND Cianwood Crushers beat Violet Falcons",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Saffron Psi Corps beat Viridian Titans; AND Pewter Rockers beat Vermilion Volts",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Saffron Psi Corps beat Viridian Titans; AND Pewter Rockers and Vermilion Volts tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride and Mossdeep Eclipse tie; AND Dewford Breakers beat Sootopolis Surge; AND Lavaridge Inferno beat Mauville Dynamos; AND Eterna Thorns beat Pastoria Waves",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride beat Mossdeep Eclipse; AND Dewford Breakers and Sootopolis Surge tie; AND Lavaridge Inferno beat Mauville Dynamos; AND Eterna Thorns and Pastoria Waves tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride beat Mossdeep Eclipse; AND Dewford Breakers beat Sootopolis Surge; AND Mauville Dynamos and Lavaridge Inferno tie; AND Eterna Thorns beat Pastoria Waves",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride beat Mossdeep Eclipse; AND Dewford Breakers beat Sootopolis Surge; AND Lavaridge Inferno beat Mauville Dynamos; AND Eterna Thorns beat Pastoria Waves",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride beat Mossdeep Eclipse; AND Dewford Breakers and Sootopolis Surge tie; AND Mauville Dynamos and Lavaridge Inferno tie; AND Eterna Thorns and Pastoria Waves tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride beat Mossdeep Eclipse; AND Dewford Breakers and Sootopolis Surge tie; AND Mauville Dynamos and Lavaridge Inferno tie; AND Eterna Thorns beat Pastoria Waves",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride beat Mossdeep Eclipse; AND Dewford Breakers beat Sootopolis Surge; AND Lavaridge Inferno beat Mauville Dynamos; AND Eterna Thorns and Pastoria Waves tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride beat Mossdeep Eclipse; AND Dewford Breakers and Sootopolis Surge tie; AND Lavaridge Inferno beat Mauville Dynamos; AND Eterna Thorns beat Pastoria Waves",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Petalburg Pride beat Mossdeep Eclipse; AND Dewford Breakers beat Sootopolis Surge; AND Mauville Dynamos and Lavaridge Inferno tie; AND Eterna Thorns and Pastoria Waves tie",
+                "Playoff berth"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "Eterna Thorns beat Pastoria Waves; AND Canalave Bulwark and Sunyshore Starseekers tie",
+                "Division"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "Eterna Thorns and Pastoria Waves tie; AND Sunyshore Starseekers beat Canalave Bulwark",
+                "Division"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "Eterna Thorns beat Pastoria Waves; AND Sunyshore Starseekers beat Canalave Bulwark",
+                "Division"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The table covers the verified combinations described here. Every result joined by AND in a row must occur; separate rows are alternatives. Other games may finish in any way. The routes do not depend on a chosen victory margin or on a favorable later scoring tiebreak."
+        },
+        {
+          "type": "h2",
+          "text": "The chase continues beyond this week"
+        },
+        {
+          "type": "p",
+          "text": "Eterna’s 14–6 victory over Canalave gave the Thorns the Sinnoh West lead at 8–4. Eterna cannot clinch a berth in Week 14, even with a win at Pastoria. Its next games are home to Lavaridge, at Petalburg, at Oreburgh and home to Snowpoint. Canalave is only one win behind but faces Sunyshore, Mossdeep and Rustboro before its closing division games against Snowpoint and Oreburgh. Gabite’s new absence makes that demanding sequence more difficult."
+        },
+        {
+          "type": "p",
+          "text": "Rustboro and Dewford also sit at 7–5. The Stone visit Fortree and Sunyshore, host Canalave, visit Mauville and finish at home against Dewford. The Breakers visit Sootopolis and Hearthome, host Oreburgh and Petalburg, then go to Rustboro. Their finale could settle several arguments at once, but both clubs first have opportunities to improve their position against teams below them. Dewford’s newly injured offensive lineman Vikavolt is listed for two weeks."
+        },
+        {
+          "type": "p",
+          "text": "In Kanto–Johto, Lavender has won three straight and is 7–5. Azalea and Celadon visit next, followed by trips to Cerulean and Blackthorn and a home finale against Mahogany. Vermilion hosts Pewter, visits Olivine, hosts Mahogany and Fuchsia, and finishes at Cerulean. Olivine and Violet are 6–6 and have just lost ground. The next results will determine whether those clubs remain close enough for their late meetings to decide a wild-card place."
+        },
+        {
+          "type": "p",
+          "text": "My first-seed choices remain Mossdeep and Mt. Silver, with Saffron and Blackthorn providing the strongest immediate challenge to the Reds. That is a forecast. The secured achievements are the two division titles, and the next guaranteed opportunities are the combinations above. With five games left for most contenders, there is ample room for the order of the remaining field to change."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/4452a3d013cdb79a.webp",
+        "alt": "Magenta-gold and scarlet-silver banners hang above open stadium doorways."
+      }
+    }
+  ]
+}
