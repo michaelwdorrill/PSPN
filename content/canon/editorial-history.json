@@ -1656,6 +1656,144 @@
           "team": "fuchsia"
         }
       ]
+    },
+    {
+      "key": "s1-w16",
+      "season": 1,
+      "week": 16,
+      "focus": "HB",
+      "afterBowl": false,
+      "powerTheme": "The next piece of evidence",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep"
+        },
+        {
+          "rank": 2,
+          "team": "saffron"
+        },
+        {
+          "rank": 3,
+          "team": "cinnabar"
+        },
+        {
+          "rank": 4,
+          "team": "goldenrod"
+        },
+        {
+          "rank": 5,
+          "team": "sunyshore"
+        },
+        {
+          "rank": 6,
+          "team": "ecruteak"
+        },
+        {
+          "rank": 7,
+          "team": "rustboro"
+        },
+        {
+          "rank": 8,
+          "team": "blackthorn"
+        },
+        {
+          "rank": 9,
+          "team": "dewford"
+        },
+        {
+          "rank": 10,
+          "team": "eterna"
+        },
+        {
+          "rank": 11,
+          "team": "petalburg"
+        },
+        {
+          "rank": 12,
+          "team": "mauville"
+        },
+        {
+          "rank": 13,
+          "team": "olivine"
+        },
+        {
+          "rank": 14,
+          "team": "violet"
+        },
+        {
+          "rank": 15,
+          "team": "vermilion"
+        },
+        {
+          "rank": 16,
+          "team": "hearthome"
+        },
+        {
+          "rank": 17,
+          "team": "lavaridge"
+        },
+        {
+          "rank": 18,
+          "team": "cerulean"
+        },
+        {
+          "rank": 19,
+          "team": "veilstone"
+        },
+        {
+          "rank": 20,
+          "team": "celadon"
+        },
+        {
+          "rank": 21,
+          "team": "viridian"
+        },
+        {
+          "rank": 22,
+          "team": "canalave"
+        },
+        {
+          "rank": 23,
+          "team": "sootopolis"
+        },
+        {
+          "rank": 24,
+          "team": "cianwood"
+        },
+        {
+          "rank": 25,
+          "team": "mahogany"
+        },
+        {
+          "rank": 26,
+          "team": "pastoria"
+        },
+        {
+          "rank": 27,
+          "team": "pewter"
+        },
+        {
+          "rank": 28,
+          "team": "fuchsia"
+        },
+        {
+          "rank": 29,
+          "team": "fortree"
+        },
+        {
+          "rank": 30,
+          "team": "azalea"
+        },
+        {
+          "rank": 31,
+          "team": "oreburgh"
+        },
+        {
+          "rank": 32,
+          "team": "snowpoint"
+        }
+      ]
     }
   ]
 }

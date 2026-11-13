@@ -1,0 +1,258 @@
+{
+  "season": 1,
+  "week": 16,
+  "articles": [
+    {
+      "id": "preview-s1-w17",
+      "type": "preview",
+      "author": "tessa-wren",
+      "title": "Week 17: Hoenn West puts four contenders on the same afternoon",
+      "dek": "Petalburg–Rustboro leads a sixteen-game slate; Mauville tests Dewford, Lavender visits Violet, and eighty writer picks cover every matchup.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Hoenn West supplies the two games I most want to watch. Petalburg visits Rustboro with a one-win lead over the Stone, while Dewford hosts a Mauville team that has won three straight. Lavender goes to Violet in a matchup between a ten-win club and an eight-win team currently outside the playoff seeds. Saffron and Mt. Silver continue the chase at the top of Kanto–Johto against very different opponents."
+        },
+        {
+          "type": "p",
+          "text": "I went 11–5 last week. My Mossdeep–Sunyshore forecast, 38–21, gave both offenses too much credit: the Eclipse won 27–3. Mossdeep met both of my slate targets: it allowed two sacks and held Sunyshore to three conversions in ten third downs. The Starseekers met the limit of four passing touchdowns allowed, conceding two, but missed the target of 120 rushing yards with forty-eight. I expect Sunyshore to respond at Pastoria, but a response has to show up in completed passes before it earns a new reputation."
+        },
+        {
+          "type": "p",
+          "text": "All sixteen games appear below with checkable targets and my own score forecast. Each panelist chose a separate score and argument; the picks are editorial judgments, not playoff odds or promises about game outcomes."
+        }
+      ],
+      "matchups": [
+        {
+          "gid": "1-17-viridian",
+          "week": 17,
+          "home": "viridian",
+          "away": "pewter",
+          "matchup": "A modest passing target in a low-scoring game",
+          "analysis": "Viridian beat Cianwood with 104 passing yards from Mr. Rime and 84 rushing yards from Gabite. Pewter produced five sacks against Olivine but lost despite holding the visitors to twelve points. I expect another game in which one clean touchdown drive matters more than a large yardage total.",
+          "awayKey": "Complete at least half the passes and throw no interceptions.",
+          "homeKey": "Rush for at least ninety yards and allow no more than two sacks.",
+          "prediction": {
+            "away": 10,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-17-celadon",
+          "week": 17,
+          "home": "celadon",
+          "away": "cinnabar",
+          "matchup": "Cinnabar needs new runners around a thriving passer",
+          "analysis": "Gholdengo completed 33 of 41 passes for 357 yards against Mt. Silver. Arcanine, who contributed two rushing touchdowns and fifty receiving yards, now has a three-week injury report; Seismitoad remains out one. Celadon shut out Azalea, but its own hundred passing yards leave a considerable scoring gap to bridge.",
+          "awayKey": "Complete at least sixty-five percent of passes and lose no more than one turnover.",
+          "homeKey": "Hold Cinnabar below twenty-four points and reach 150 rushing yards.",
+          "prediction": {
+            "away": 28,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-17-cerulean",
+          "week": 17,
+          "home": "cerulean",
+          "away": "saffron",
+          "matchup": "Cerulean must survive the pass rush",
+          "analysis": "Saffron has sixty-nine sacks through fifteen games, including seven by NeMarcus Tare against Blackthorn. Archam Manning added 528 passing yards and seven touchdowns in the 70–0 win. Cerulean can move the ball through Zebstrika, but Farigiraf threw two interceptions against Lavender.",
+          "awayKey": "Record at least four sacks and throw no interceptions.",
+          "homeKey": "Allow no more than two sacks and complete three passes gaining twenty yards or more.",
+          "prediction": {
+            "away": 38,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-17-vermilion",
+          "week": 17,
+          "home": "vermilion",
+          "away": "fuchsia",
+          "matchup": "Vermilion can lean on Kangaskhan again",
+          "analysis": "Kangaskhan ran for 107 yards and caught a touchdown in the win over Mahogany. Fuchsia made Violet work in a 20–17 loss, with Empoleon throwing no interceptions, but the Shadows have conceded 321 points this season. Vermilion needs another controlled offensive game to defend its current seventh seed.",
+          "awayKey": "Throw no interceptions and hold Kangaskhan below eighty rushing yards.",
+          "homeKey": "Rush for at least one hundred yards and limit turnovers to one.",
+          "prediction": {
+            "away": 16,
+            "home": 21
+          }
+        },
+        {
+          "gid": "1-17-azalea",
+          "week": 17,
+          "home": "azalea",
+          "away": "goldenrod",
+          "matchup": "Mt. Silver can restore the running emphasis",
+          "analysis": "Garshawn Lynch gained 113 yards on eight carries and scored three total touchdowns at Cinnabar. Jacoby Brizzet did most of the passing in that loss; Tic Thorpe and Josh Alakazam remain unavailable, and Ariados now has twelve reported weeks out. Azalea has allowed 1,958 rushing yards, the largest total in the league.",
+          "awayKey": "Rush for at least 150 yards and give the ball away no more than once.",
+          "homeKey": "Hold Lynch below one hundred yards and score on three possessions.",
+          "prediction": {
+            "away": 30,
+            "home": 7
+          }
+        },
+        {
+          "gid": "1-17-olivine",
+          "week": 17,
+          "home": "olivine",
+          "away": "cianwood",
+          "matchup": "Two limited passing attacks put a premium on finishing",
+          "analysis": "Olivine has won twice while allowing ten total points. New injuries to Magmar and Bibarel complicate a receiving group that already lacked Stantler and Beedrill, although Maractus and Thievul have cleared their positive recovery counters. Cianwood managed three points at Viridian; Gardevoir still has one reported week out.",
+          "awayKey": "Rush for at least 120 yards and score two offensive touchdowns.",
+          "homeKey": "Allow fewer than fourteen points and throw no more than one interception.",
+          "prediction": {
+            "away": 10,
+            "home": 16
+          }
+        },
+        {
+          "gid": "1-17-violet",
+          "week": 17,
+          "home": "violet",
+          "away": "ecruteak",
+          "matchup": "Lavender brings its running game to an urgent host",
+          "analysis": "Hobbes ran for 122 yards and two touchdowns at Cerulean. Violet answered Fuchsia with 176 passing yards from Iron Jugulis and ninety-six receiving yards from Samurott, but now loses Maractus for two reported weeks. Lavender enters 10–5; Violet is 8–7 and currently outside the seven playoff seeds.",
+          "awayKey": "Gain at least 120 rushing yards and allow fewer than three sacks.",
+          "homeKey": "Hold Hobbes below eighty rushing yards and score three offensive touchdowns.",
+          "prediction": {
+            "away": 23,
+            "home": 20
+          }
+        },
+        {
+          "gid": "1-17-mahogany",
+          "week": 17,
+          "home": "mahogany",
+          "away": "blackthorn",
+          "matchup": "Blackthorn needs a recovery in protection",
+          "analysis": "The Dragons have allowed forty-three sacks and were shut out at Saffron. Sawsbuck now carries a six-week injury report. Mahogany gained 236 passing yards at Vermilion, 174 through Dugtrio, but its run game stalled and safety Frosmoth is newly out nine weeks.",
+          "awayKey": "Allow no more than two sacks and score three touchdowns.",
+          "homeKey": "Complete three passes gaining twenty yards or more and keep turnovers to one.",
+          "prediction": {
+            "away": 24,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-17-rustboro",
+          "week": 17,
+          "home": "rustboro",
+          "away": "petalburg",
+          "matchup": "Hoenn West meets at the line of scrimmage",
+          "analysis": "Petalburg leads Rustboro by one win, with Dewford also pursuing the division title and Mauville chasing a wild-card berth. Shawn Watzon completed 24 of 31 against Canalave, and Philly Gabite scored twice. The Pride must replace newly injured Seviper; Rustboro loses cornerback Milotic for six reported weeks. The full Game of the Week feature examines the competing ways to attack those absences.",
+          "awayKey": "Hold Rustboro below 120 rushing yards and finish with a positive turnover margin.",
+          "homeKey": "Complete at least sixty-five percent of passes and allow no more than two sacks.",
+          "prediction": {
+            "away": 20,
+            "home": 27
+          }
+        },
+        {
+          "gid": "1-17-dewford",
+          "week": 17,
+          "home": "dewford",
+          "away": "mauville",
+          "matchup": "A direct test of the wild-card order",
+          "analysis": "Dewford is 9–6 and Mauville 8–7. Both occupy current playoff seeds. Dewford can still win Hoenn West; Mauville is pursuing a wild-card berth. Mauville has won three straight, most recently 37–0 over Snowpoint; Dewford answered its Hearthome loss with a 24–10 win over Oreburgh. This is the other essential division game on the slate.",
+          "awayKey": "Throw no interceptions and hold Dewford below one hundred rushing yards.",
+          "homeKey": "Convert at least forty percent of third downs and score three touchdowns.",
+          "prediction": {
+            "away": 24,
+            "home": 23
+          }
+        },
+        {
+          "gid": "1-17-lavaridge",
+          "week": 17,
+          "home": "lavaridge",
+          "away": "fortree",
+          "matchup": "The Inferno can attack a vulnerable defense",
+          "analysis": "Delphox threw four touchdowns against Pastoria, three to Fearow. Lavaridge also intercepted five passes. Fortree has allowed 389 points and fifty-two sacks this season, so the Skyhawks must improve at both ends to prevent another difficult road afternoon.",
+          "awayKey": "Allow no more than two sacks and hold Fearow below eighty receiving yards.",
+          "homeKey": "Complete two touchdown passes and limit turnovers to one.",
+          "prediction": {
+            "away": 17,
+            "home": 30
+          }
+        },
+        {
+          "gid": "1-17-mossdeep",
+          "week": 17,
+          "home": "mossdeep",
+          "away": "sootopolis",
+          "matchup": "Mossdeep has multiple ways to keep winning",
+          "analysis": "The Eclipse held Sunyshore to three points while Poury Holt gained 121 rushing yards and Dram Marino passed for 316. Sootopolis lost 24–18 to Veilstone and still has cornerback Kingdra unavailable for three reported weeks. Mossdeep’s passing depth and running production present more problems than the Surge have recently solved.",
+          "awayKey": "Force two turnovers and hold Mossdeep below thirty points.",
+          "homeKey": "Complete at least seventy percent of passes and allow fewer than fourteen points.",
+          "prediction": {
+            "away": 10,
+            "home": 41
+          }
+        },
+        {
+          "gid": "1-17-oreburgh",
+          "week": 17,
+          "home": "oreburgh",
+          "away": "eterna",
+          "matchup": "Eterna can ask its defense for another controlled win",
+          "analysis": "Eterna held Petalburg to fourteen while Tatsugiri threw two touchdowns and two interceptions. Oreburgh now loses cornerback Dusknoir and receivers Sharpedo and Poliwhirl, adding to a difficult week after the 24–10 defeat at Dewford. The Thorns should have the stronger defensive platform.",
+          "awayKey": "Limit interceptions to one and allow fewer than fourteen points.",
+          "homeKey": "Force two takeaways and reach one hundred rushing yards.",
+          "prediction": {
+            "away": 20,
+            "home": 7
+          }
+        },
+        {
+          "gid": "1-17-canalave",
+          "week": 17,
+          "home": "canalave",
+          "away": "snowpoint",
+          "matchup": "A low-scoring chance to stop a losing run",
+          "analysis": "Canalave has lost three straight; Snowpoint has also lost its last three and was shut out by Mauville. Slowking threw for ninety-four yards at Rustboro, so the Bulwark still need improvement even against an opponent struggling to score. Canalave’s season rushing defense supplies the most convincing edge.",
+          "awayKey": "Pass for at least 180 yards and lose no more than one turnover.",
+          "homeKey": "Hold Snowpoint below eighty rushing yards and score two offensive touchdowns.",
+          "prediction": {
+            "away": 10,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-17-hearthome",
+          "week": 17,
+          "home": "hearthome",
+          "away": "veilstone",
+          "matchup": "Hearthome looks for a fourth straight win",
+          "analysis": "Frosmoth passed for 253 yards and Feraligatr rushed for 108 at Fortree. Veilstone also won on the road, scoring twenty-four at Sootopolis, but now has Vigoroth out three reported weeks. Hearthome loses cornerback Dodrio for four, leaving a vulnerability for the visitors to test.",
+          "awayKey": "Complete at least sixty percent of passes and hold Feraligatr below eighty rushing yards.",
+          "homeKey": "Score three touchdowns and throw no interceptions.",
+          "prediction": {
+            "away": 20,
+            "home": 23
+          }
+        },
+        {
+          "gid": "1-17-pastoria",
+          "week": 17,
+          "home": "pastoria",
+          "away": "sunyshore",
+          "matchup": "Sunyshore gets a chance to repair its passing game",
+          "analysis": "DeZhaun Watzon threw for 122 yards at Mossdeep after four touchdown passes against Rustboro the week before. Pastoria’s Farigiraf threw five interceptions at Lavaridge. Serp Gardener has cleared his positive recovery counter; that does not by itself establish a starting assignment, but it improves Sunyshore’s availability picture.",
+          "awayKey": "Complete at least sixty percent of passes and score three offensive touchdowns.",
+          "homeKey": "Throw no more than one interception and hold Sunyshore below one hundred rushing yards.",
+          "prediction": {
+            "away": 30,
+            "home": 10
+          }
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/8888f00e9fc5a9c3.webp",
+        "alt": "Sixteen games fill the Week 17 schedule."
+      }
+    }
+  ]
+}

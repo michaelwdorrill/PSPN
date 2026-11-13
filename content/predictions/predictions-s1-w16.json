@@ -1,0 +1,599 @@
+{
+  "season": 1,
+  "week": 16,
+  "nextWeek": 17,
+  "games": [
+    {
+      "gid": "1-17-viridian",
+      "away": "pewter",
+      "home": "viridian",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 10,
+          "home": 16,
+          "reason": "Viridian just won while scoring twelve, which is positively extravagant in this company. Pewter’s two interceptions make the Titans the safer low-scoring choice."
+        },
+        {
+          "author": "mara-voss",
+          "away": 13,
+          "home": 9,
+          "reason": "Pewter generated five sacks against Olivine. I trust that pressure to disrupt Mr. Rime before Viridian’s running game can establish the same control."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 10,
+          "home": 12,
+          "reason": "Neither offense has earned a generous forecast. Viridian’s eighty-four yards from Gabite offer the slightly steadier way to keep a narrow lead."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 7,
+          "home": 17,
+          "reason": "The Rockers have nineteen points across two losses and another pair of interceptions to explain. Viridian can win this without commissioning a monument to offensive football."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 10,
+          "home": 13,
+          "reason": "Pewter can create pressure, but its passing mistakes give Viridian the better chance to win a game with very few scoring possessions."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-celadon",
+      "away": "cinnabar",
+      "home": "celadon",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 31,
+          "home": 10,
+          "reason": "Cinnabar has beaten Blackthorn and Mt. Silver in consecutive weeks. Celadon’s shutout earns respect; its hundred passing yards earn a much smaller score prediction."
+        },
+        {
+          "author": "mara-voss",
+          "away": 27,
+          "home": 7,
+          "reason": "Arcanine’s absence removes useful receiving and finishing work, but Gholdengo’s distribution against Mt. Silver was excellent. Celadon lacks enough passing production to answer it."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 23,
+          "home": 14,
+          "reason": "The Blaze must redistribute Arcanine’s touches, and Celadon has allowed only seventeen points in two games. I expect a slower win than Cinnabar’s recent headlines suggest."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 38,
+          "home": 10,
+          "reason": "Thirty-three completions against the Reds are evidence I can use. Cinnabar’s receivers can carry the scoring while the backfield adjusts, and I expect them to do it emphatically."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 28,
+          "home": 13,
+          "reason": "The missing backs should reduce Cinnabar’s efficiency near the goal line, but the broad passing attack still offers more scoring opportunities than Celadon has recently created."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-cerulean",
+      "away": "saffron",
+      "home": "cerulean",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 49,
+          "home": 10,
+          "reason": "HeeDee Lamb caught five touchdowns last week. Cerulean allowed thirty-two to Lavender, so I expect Saffron’s passing advantage to become visible before halftime."
+        },
+        {
+          "author": "mara-voss",
+          "away": 42,
+          "home": 7,
+          "reason": "Cerulean’s deep passing has a chance only if the protection lasts. Saffron’s sixty-nine season sacks persuade me that too many Tide possessions will end before that happens."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 31,
+          "home": 17,
+          "reason": "Zebstrika’s 134 receiving yards give Cerulean a credible answer on some possessions. Saffron should still win comfortably without reproducing an extraordinary seventy-point afternoon."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 45,
+          "home": 14,
+          "reason": "Blackthorn arrived with eleven victories and left with seventy unanswered points against it. Cerulean has allowed 321 this season; Saffron will find enough of the same openings."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 38,
+          "home": 13,
+          "reason": "I expect Cerulean to produce a few explosive completions, but Saffron’s pressure and Manning’s recent ball security should make the visitors' scoring much more repeatable."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-vermilion",
+      "away": "fuchsia",
+      "home": "vermilion",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 14,
+          "home": 20,
+          "reason": "Vermilion has rediscovered touchdowns, a development I welcome with appropriate caution. Kangaskhan’s running should keep the Volts ahead of a Fuchsia attack still short on sustained production."
+        },
+        {
+          "author": "mara-voss",
+          "away": 17,
+          "home": 23,
+          "reason": "The Volts can give Kangaskhan meaningful early-down work against a defense that has conceded more than 1,300 rushing yards. That reduces the burden on an interception-prone passing game."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 20,
+          "home": 17,
+          "reason": "Empoleon avoided interceptions against Violet, while Chandelure threw two. I can see Fuchsia winning the possession battle and taking one of these close games at last."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 10,
+          "home": 24,
+          "reason": "Fuchsia has three wins and keeps finding ways to turn respectable stretches into another loss. Vermilion’s hundred-yard runner supplies a more convincing finishing plan."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 16,
+          "home": 21,
+          "reason": "Kangaskhan’s production gives Vermilion an advantage, though the Volts' secondary injuries and recent passing mistakes should allow Fuchsia to remain within a score."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-azalea",
+      "away": "goldenrod",
+      "home": "azalea",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 35,
+          "home": 7,
+          "reason": "Azalea just went scoreless against Celadon and now faces a runner who needed eight carries for 113 yards. Mt. Silver should enjoy this particular change of opponent."
+        },
+        {
+          "author": "mara-voss",
+          "away": 31,
+          "home": 3,
+          "reason": "The Swarm’s run defense has conceded almost two thousand yards. Mt. Silver can reduce the demands on its replacement passing group and still control the game through Lynch."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 24,
+          "home": 10,
+          "reason": "Losing Ariados makes a difficult passing situation harder. I still trust the Reds' defense and Lynch to provide a stable response against an offense shut out last week."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 41,
+          "home": 6,
+          "reason": "The Reds have a back who scored all three of their touchdowns at Cinnabar. Against Azalea’s run defense, I expect Connor McLarren to keep finding reasons to hand him the ball."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 30,
+          "home": 7,
+          "reason": "Azalea’s vulnerable rushing defense fits Mt. Silver’s healthiest source of offense. I expect the Reds to win without asking another unsettled passing group to carry the afternoon."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-olivine",
+      "away": "cianwood",
+      "home": "olivine",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 9,
+          "home": 17,
+          "reason": "Olivine has conceded ten points in two weeks. Cianwood managed three at Viridian, which is a persuasive argument against expecting an immediate scoring festival."
+        },
+        {
+          "author": "mara-voss",
+          "away": 13,
+          "home": 10,
+          "reason": "Olivine’s receiver absences leave too much work for Veluza, and Drampa threw two interceptions at Pewter. Bibarel can give Cianwood enough rushing production to steal a narrow one."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 10,
+          "home": 14,
+          "reason": "The Ironclads keep making a small number of points sufficient. I expect that defensive consistency to survive another week while their receiving rotation changes again."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 6,
+          "home": 19,
+          "reason": "Cianwood’s passing game produced 127 yards against Viridian. Olivine has already shown it can win this kind of uncomfortable little contest without much offensive assistance."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 10,
+          "home": 16,
+          "reason": "Olivine’s recent defense deserves the edge, but the new receiving injuries make a comfortable margin unlikely. Cianwood’s ground game should keep the possessions competitive."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-violet",
+      "away": "ecruteak",
+      "home": "violet",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 20,
+          "home": 23,
+          "reason": "Violet has won two straight and gets Lavender’s defense after it allowed 302 passing yards. Samurott can keep the Falcons moving even with Maractus unavailable."
+        },
+        {
+          "author": "mara-voss",
+          "away": 27,
+          "home": 17,
+          "reason": "Lavender’s 122 yards from Hobbes gave Frosmoth usable situations against Cerulean. I expect the Wails to keep feeding that advantage while Violet replaces a productive slot option."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 24,
+          "home": 20,
+          "reason": "Travis Scarboro’s team has won three straight without needing the same offensive formula each week. Hobbes gives Lavender a dependable opening argument on the road."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 17,
+          "home": 28,
+          "reason": "Lavender’s season point differential remains minus thirty-four despite ten wins. Violet has a productive tight end and a chance to make the Wails defend a much cleaner game."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 23,
+          "home": 20,
+          "reason": "Hobbes should give Lavender the more stable rushing foundation. Violet can threaten through Samurott, but Maractus’s injury removes another contributor just as the Falcons need a win."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-mahogany",
+      "away": "blackthorn",
+      "home": "mahogany",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 24,
+          "home": 13,
+          "reason": "Seventy-zero leaves a bruise on my rankings, but Mahogany does not have Saffron’s pass rush. Blackthorn’s season-long receiving production can still win a less violent matchup."
+        },
+        {
+          "author": "mara-voss",
+          "away": 20,
+          "home": 17,
+          "reason": "The Dragons' protection problems remain serious, and losing Sawsbuck narrows their choices. Mahogany’s seventeen rushing yards from Exploud keep me from trusting the Frost to exploit every opening."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 17,
+          "home": 20,
+          "reason": "Dugtrio supplied 174 receiving yards last week. I expect Mahogany to find enough explosive plays while Blackthorn works through a damaged rushing attack and a rough protection stretch."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 31,
+          "home": 14,
+          "reason": "Blackthorn has nearly four thousand passing yards this season. I expect that offense to reappear against a Frost defense now missing another safety, even if the Dragons remain deeply flawed."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 24,
+          "home": 17,
+          "reason": "Mahogany should reach Blackthorn through Dugtrio, but its latest rushing output was too limited. The Dragons have the stronger passing record and a more manageable opponent this week."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-rustboro",
+      "away": "petalburg",
+      "home": "rustboro",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 17,
+          "home": 30,
+          "reason": "Rustboro recovered with thirty-two points while Petalburg has thirty-five across three games. Watzon’s accuracy gives the Stone a stronger immediate offensive case than the division leader."
+        },
+        {
+          "author": "mara-voss",
+          "away": 24,
+          "home": 20,
+          "reason": "Petalburg has thirty sacks this season and Rustboro only sixteen. I expect the Pride’s pressure to make Watzon less comfortable while Milotic’s absence creates enough receiving room."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 20,
+          "home": 23,
+          "reason": "The Stone have a productive runner and a quarterback coming off an accurate afternoon. Petalburg can keep this close, but Seviper’s absence removes a familiar way to finish difficult possessions."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 14,
+          "home": 34,
+          "reason": "A division lead is useful; an offense that has scored fourteen and zero in two of its last three games is concerning. Rustboro has enough balance to punish another slow Pride start."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 27,
+          "reason": "Watzon’s clean passing and Gabite’s rushing should give Rustboro more reliable scoring possessions. Petalburg’s defense can resist, but losing its forty-nine-catch tight end tips my choice."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-dewford",
+      "away": "mauville",
+      "home": "dewford",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 20,
+          "home": 27,
+          "reason": "Dewford’s Frosmoth completed thirteen of eighteen last week. I like that efficiency against a Mauville defense whose impressive shutout came against a struggling Snowpoint offense."
+        },
+        {
+          "author": "mara-voss",
+          "away": 24,
+          "home": 17,
+          "reason": "Volbeat supplied four sacks against Snowpoint. If Mauville brings comparable disruption to Dewford, the Dynamos can take the passing game away from the Breakers' preferred comfortable downs."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 21,
+          "home": 23,
+          "reason": "Mauville’s three straight wins deserve a serious response. Dewford’s more substantial season rushing production gives the home team a narrow edge in a game I expect to remain close."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 28,
+          "home": 20,
+          "reason": "Togekiss threw three touchdowns without an interception in a thirty-seven-point win. Mauville has the better current passing rhythm, and I expect it to travel."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 24,
+          "home": 23,
+          "reason": "Mauville has found productive passing and timely pressure during its winning streak. Dewford’s balanced attack makes this nearly even, but I favor one additional Dynamos finishing drive."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-lavaridge",
+      "away": "fortree",
+      "home": "lavaridge",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 17,
+          "home": 34,
+          "reason": "Fearow just caught three touchdowns and Fortree has conceded more points than anyone. Lavaridge should find room without needing another five-interception gift from the opponent."
+        },
+        {
+          "author": "mara-voss",
+          "away": 13,
+          "home": 31,
+          "reason": "Fortree’s fifty-two sacks allowed keep sabotaging its scoring chances. Lavaridge can win through pressure and its improving passing game even if the turnover count returns to normal."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 20,
+          "home": 27,
+          "reason": "The Inferno have two straight wins and a productive Delphox–Fearow connection. Fortree can score more than last week’s seven, but its defense asks for too much compensation."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 10,
+          "home": 38,
+          "reason": "Lavaridge scored thirty-eight against Pastoria, and Fortree just gave Hearthome twenty-seven. Delphox has the right opponent for another conspicuous afternoon."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 30,
+          "reason": "I expect Lavaridge’s passing to stay productive against a defense allowing almost twenty-six points a game. Fortree’s protection record makes matching those scores difficult."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-mossdeep",
+      "away": "sootopolis",
+      "home": "mossdeep",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 7,
+          "home": 45,
+          "reason": "Mossdeep allowed Sunyshore three points and found a hundred-yard runner of its own. Sootopolis has neither the scoring consistency nor the healthy coverage group to keep pace."
+        },
+        {
+          "author": "mara-voss",
+          "away": 3,
+          "home": 42,
+          "reason": "Poury Holt’s production lets Mossdeep punish a defense that commits too heavily to Marino’s receivers. The Surge also need an answer to a pass rush with fifty-two season sacks."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 13,
+          "home": 34,
+          "reason": "Mossdeep’s defense has allowed seventeen points across its last three games. I expect another comfortable win, though Sootopolis’s occasional explosive passing should produce a couple of scores."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 10,
+          "home": 38,
+          "reason": "The Eclipse handled a real contender last week, which I will acknowledge in writing. Against a six-win Surge team missing Kingdra, their receiving depth should be sufficient again."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 10,
+          "home": 41,
+          "reason": "Marino completed twenty-one of twenty-six against Sunyshore, and Holt made the running game a genuine scoring source. Sootopolis’s depleted secondary faces too many reliable contributors."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-oreburgh",
+      "away": "eterna",
+      "home": "oreburgh",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 23,
+          "home": 7,
+          "reason": "Eterna just won at Petalburg and now gets a three-win opponent with fresh injuries in coverage and at receiver. The Thorns do not need a glamorous offense for this one."
+        },
+        {
+          "author": "mara-voss",
+          "away": 20,
+          "home": 3,
+          "reason": "Eterna has allowed only 845 rushing yards this season. If Oreburgh cannot create a useful ground game, its depleted receiving group must carry too much against a disciplined defense."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 17,
+          "home": 10,
+          "reason": "The Thorns can be careless with the ball, as two interceptions at Petalburg showed. Their defense should still make a modest scoring total enough against the injured Miners."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 27,
+          "home": 10,
+          "reason": "Oreburgh lost two receivers and a cornerback while losing at Dewford. Eterna’s own passing is imperfect, but the matchup supplies several obvious places to make progress."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 7,
+          "reason": "Eterna’s defense has allowed 171 points through fifteen games. Oreburgh’s new receiving absences make it harder to sustain the drives needed to challenge that unit."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-canalave",
+      "away": "snowpoint",
+      "home": "canalave",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 6,
+          "home": 17,
+          "reason": "Snowpoint has fifteen points across three losses. Canalave’s offense is hardly a tourist attraction, but its run defense can make the visitors' afternoon even smaller."
+        },
+        {
+          "author": "mara-voss",
+          "away": 10,
+          "home": 14,
+          "reason": "The Bulwark have allowed only 931 rushing yards this season. That should force Snowpoint’s passing game to create more than its recent hundred-yard afternoons."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 13,
+          "home": 12,
+          "reason": "Both clubs need a response, and Canalave has scored twenty-one points across three defeats. Snowpoint’s larger season passing total gives me a slight upset lean in an awkward matchup."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 3,
+          "home": 20,
+          "reason": "Snowpoint went scoreless against Mauville and has allowed thirty-four sacks this season. Canalave should get enough stops to win even with its limited passing offense."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 10,
+          "home": 17,
+          "reason": "Canalave’s stronger rushing defense should decide a game between two struggling attacks. I expect the Bulwark to make a small improvement on last week’s fourteen points."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-hearthome",
+      "away": "veilstone",
+      "home": "hearthome",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 17,
+          "home": 28,
+          "reason": "Hearthome has three straight wins and just produced a hundred-yard runner plus 253 passing yards. Veilstone’s new Vigoroth absence makes keeping up less straightforward."
+        },
+        {
+          "author": "mara-voss",
+          "away": 20,
+          "home": 24,
+          "reason": "The Haunts have demonstrated useful balance, which should keep Veilstone from attacking only the pass. Dodrio’s absence leaves enough receiving opportunity for the Fists to make this close."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 16,
+          "home": 27,
+          "reason": "Hearthome has outscored its last three opponents seventy-three to twenty-six. That sustained improvement deserves more weight than its early-season record when judging this particular matchup."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 24,
+          "home": 20,
+          "reason": "Dodrio’s injury gives Veilstone an opening against a defense already missing Mr. Mime. The Fists just scored twenty-four on the road; I expect another productive passing day."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 20,
+          "home": 23,
+          "reason": "Hearthome’s recent balance earns a narrow pick. Veilstone can exploit the secondary absences, but replacing Vigoroth’s touches makes its own offensive task more complicated."
+        }
+      ]
+    },
+    {
+      "gid": "1-17-pastoria",
+      "away": "sunyshore",
+      "home": "pastoria",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 28,
+          "home": 10,
+          "reason": "Pastoria followed a competitive loss with five interceptions and a twenty-eight-point defeat. Sunyshore should recover against an opponent much less capable of shrinking Watzon’s passing game."
+        },
+        {
+          "author": "mara-voss",
+          "away": 31,
+          "home": 7,
+          "reason": "The Starseekers have allowed only 748 rushing yards this season. If Pastoria must ask Farigiraf for repeated difficult throws, last week’s interception problem becomes especially relevant."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 24,
+          "home": 14,
+          "reason": "Sunyshore’s offense has been uneven across its last two games. Its much stronger season defense should still give the Starseekers room to recover without needing forty points."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 27,
+          "home": 13,
+          "reason": "I remain unconvinced by Sunyshore’s offense against elite opposition. Pastoria is a different assignment: five interceptions against Lavaridge give the visitors a very clear route to separation."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 30,
+          "home": 10,
+          "reason": "Pastoria’s passing mistakes and Sunyshore’s strong rushing defense make this a favorable recovery matchup. I expect Watzon to find his receivers more readily than he did at Mossdeep."
+        }
+      ]
+    }
+  ]
+}

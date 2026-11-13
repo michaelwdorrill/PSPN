@@ -1,0 +1,924 @@
+{
+  "season": 1,
+  "week": 16,
+  "articles": [
+    {
+      "id": "power-s1-w16",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "The Pecking Order: Saffron answers with seventy",
+      "dek": "Mossdeep stays first, Saffron returns to second, and Cinnabar climbs after beating Mt. Silver. Blackthorn’s second straight loss sends the Dragons tumbling.",
+      "teams": [],
+      "theme": "The next piece of evidence",
+      "body": [
+        {
+          "type": "p",
+          "text": "Mossdeep made its strongest recent challenger score three points. Saffron made an eleven-win visitor allow seventy. Cinnabar beat a second division leader in succession. I have adjusted the top accordingly, and Blackthorn has fallen to eighth after consecutive losses. These are judgments of current strength; playoff seeds follow the league’s standings rules."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "movement": 0,
+          "themeLabel": "Fifteen wins and three points allowed.",
+          "text": "Sunyshore arrived after scoring 41; Mossdeep held it to three. Poury Holt ran for 121 yards and Dram Marino threw for 316 in the 27–3 win. Michael Dorrill will find corrections. I have found no persuasive argument for moving the Eclipse from first."
+        },
+        {
+          "rank": 2,
+          "team": "saffron",
+          "previous": 3,
+          "movement": 1,
+          "themeLabel": "Seventy points deserve a promotion.",
+          "text": "Archam Manning threw for 528 yards and seven touchdowns; HeeDee Lamb caught 350 yards and five scores. Blackthorn was 11–3 before this 70–0 humiliation. I put Saffron behind Mt. Silver last week because the Reds beat them. Saffron has made my next ranking decision considerably easier."
+        },
+        {
+          "rank": 3,
+          "team": "cinnabar",
+          "previous": 5,
+          "movement": 2,
+          "themeLabel": "Blaine has beaten two division leaders in succession.",
+          "text": "Blackthorn fell 31–19, then Mt. Silver fell 38–24. Gholdengo threw for 357 yards against the Reds without an interception. Arcanine’s new three-week absence complicates the backfield, but Cinnabar has earned third through performances against good opponents. I would advise the next opponent to read both results."
+        },
+        {
+          "rank": 4,
+          "team": "goldenrod",
+          "previous": 2,
+          "movement": -2,
+          "themeLabel": "The record is still excellent; the passing situation is harder.",
+          "text": "Mt. Silver is 13–2 after losing at Cinnabar. Jacoby Brizzet contributed 172 passing yards while Garshawn Lynch ran for 113, and the Reds still allowed 38 points. Connor McLarren can needle a rival and correct a defense in the same week. Azalea gives him an immediate chance to do the latter."
+        },
+        {
+          "rank": 5,
+          "team": "sunyshore",
+          "previous": 4,
+          "movement": -1,
+          "themeLabel": "Three points at Mossdeep require a complete review.",
+          "text": "The Starseekers followed 41 points against Rustboro with a 27–3 defeat. DeZhaun Watzon threw for 122 yards and an interception. I am keeping an 11–4 club near the top while moving Cinnabar ahead; Karson Jones gets Pastoria next, whose passing game just threw five interceptions."
+        },
+        {
+          "rank": 6,
+          "team": "ecruteak",
+          "previous": 8,
+          "movement": 2,
+          "themeLabel": "Lavender keeps finding useful replacement work.",
+          "text": "Frosmoth threw for 201 yards, Hobbes rushed for 122 and the Wails won 32–21 at Cerulean. Mr. Clanky remains out seven reported weeks, but Travis Scarboro has collected consecutive wins through the disruption. Violet’s current receiving injury adds another wrinkle to the next division game."
+        },
+        {
+          "rank": 7,
+          "team": "rustboro",
+          "previous": 9,
+          "movement": 2,
+          "themeLabel": "The offense recovered more than its pride.",
+          "text": "Shawn Watzon threw for 263 yards and two touchdowns without an interception as Rustboro beat Canalave 32–14. Philly Gabite added 84 rushing yards. Tyler Scarboro has a much more useful afternoon to discuss than last week’s five first downs; Petalburg arrives at an excellent time to test whether the repair holds."
+        },
+        {
+          "rank": 8,
+          "team": "blackthorn",
+          "previous": 6,
+          "movement": -2,
+          "themeLabel": "Seventy to zero changes the assessment.",
+          "text": "The Dragons have lost two straight, scoring 19 points while allowing 101 across those games. Their 11–4 record remains valuable, but I cannot place them above teams doing substantially better work right now. Mahogany is next. Clair should begin by requiring an offensive possession with a successful ending."
+        },
+        {
+          "rank": 9,
+          "team": "dewford",
+          "previous": 10,
+          "movement": 1,
+          "themeLabel": "A clean passing day restored the win column.",
+          "text": "Frosmoth threw two touchdowns without an interception in a 24–10 win over Oreburgh. The Breakers are 9–6 and host 8–7 Mauville next. Dewford has the better record; the Dynamos have three consecutive victories. Brawly has been given an opponent with fresh evidence and very little reason to be timid."
+        },
+        {
+          "rank": 10,
+          "team": "eterna",
+          "previous": 11,
+          "movement": 1,
+          "themeLabel": "Twenty points finally gave the defense enough room.",
+          "text": "Eterna won 20–14 at Petalburg and improved to 9–6. Tatsugiri threw two touchdowns and two interceptions, which gives Gardenia useful material for both halves of the meeting. The Thorns have allowed 171 points all season. A trip to Oreburgh offers the offense another chance to reward that work."
+        },
+        {
+          "rank": 11,
+          "team": "petalburg",
+          "previous": 7,
+          "movement": -4,
+          "themeLabel": "Ten wins cannot complete the next possession.",
+          "text": "The Pride lost 20–14 to Eterna and have a minus-19 season differential. Iron Valiant threw for 130 yards, one touchdown and one interception. Norman’s team still occupies the third conference seed; my ranking reflects how difficult its recent possessions look. Rustboro’s recovering offense makes the next trip consequential."
+        },
+        {
+          "rank": 12,
+          "team": "mauville",
+          "previous": 13,
+          "movement": 1,
+          "themeLabel": "Three wins, with increasingly comfortable endings.",
+          "text": "Mauville followed an 11–10 win and an overtime win with 37–0 against Snowpoint. Volbeat recorded four sacks; Togekiss threw three touchdowns without an interception. The Dynamos have scored and allowed exactly 228 points. Wattson has achieved balance in the ledger and should now aim for something less symmetrical at Dewford."
+        },
+        {
+          "rank": 13,
+          "team": "olivine",
+          "previous": 12,
+          "movement": -1,
+          "themeLabel": "Twelve points were sufficient and uncomfortable.",
+          "text": "The Ironclads beat Pewter 12–10 despite two Drampa interceptions. Consecutive wins have moved Olivine to 8–7, but the current injury list includes Magmar, Bibarel and Beedrill. Jasmine hosts Cianwood next with every reason to value an ordinary completed pass and a healthy receiver to catch it."
+        },
+        {
+          "rank": 14,
+          "team": "violet",
+          "previous": 14,
+          "movement": 0,
+          "themeLabel": "The Falcons have made the next game worth watching.",
+          "text": "A 20–17 win at Fuchsia puts Violet at 8–7, with Lavender coming to town. Samurott caught 96 yards and a touchdown, while Maractus ran for 31 yards and a score before receiving a two-week injury report. Falkner has a winning record and a specific offensive role to replace."
+        },
+        {
+          "rank": 15,
+          "team": "vermilion",
+          "previous": 16,
+          "movement": 1,
+          "themeLabel": "A hundred rushing yards improved the discussion.",
+          "text": "Kangaskhan ran for 107 yards and caught a touchdown in the 17–10 win over Mahogany. Chandelure threw two touchdowns and two interceptions. The Volts are 8–7 after last week’s shutout loss, and Fuchsia visits next. Lt. Surge should ask for the same productive runner with fewer gifts from the passer."
+        },
+        {
+          "rank": 16,
+          "team": "hearthome",
+          "previous": 18,
+          "movement": 2,
+          "themeLabel": "The third straight win required less late drama.",
+          "text": "Hearthome followed its overtime victory with a 27–7 win at Fortree. Frosmoth threw for 253 yards without an interception and Feraligatr ran for 108. At 6–8–1, the Haunts have earned a move above teams that keep stumbling. Veilstone arrives with its leading recent runner newly injured."
+        },
+        {
+          "rank": 17,
+          "team": "lavaridge",
+          "previous": 22,
+          "movement": 5,
+          "themeLabel": "Flannery’s offense has moved past ten.",
+          "text": "The Inferno scored ten in each of two straight losses, then twenty at Eterna and 38 against Pastoria. Fearow’s 144 receiving yards and three touchdowns explain much of the latest leap; five defensive interceptions explain another substantial part. Lavaridge is 6–9 and gets Fortree next. Keep the useful plays coming."
+        },
+        {
+          "rank": 18,
+          "team": "cerulean",
+          "previous": 15,
+          "movement": -3,
+          "themeLabel": "Three touchdown throws did not solve the defense.",
+          "text": "Farigiraf threw for 302 yards and three scores, with two interceptions, in the 32–21 loss to Lavender. Cerulean is 7–8 and now receives Saffron after its seventy-point afternoon. Misty could reasonably request a different visitor. The schedule department appears unmoved."
+        },
+        {
+          "rank": 19,
+          "team": "veilstone",
+          "previous": 25,
+          "movement": 6,
+          "themeLabel": "Vigoroth carried plenty, then joined the injury list.",
+          "text": "The Fists beat Sootopolis 24–18 behind 123 rushing yards from Vigoroth. His new three-week absence changes the preparation for Hearthome. Veilstone has reached 6–9, and Tatsugiri’s two touchdowns came with two interceptions. Maylene needs a credible replacement rushing contribution and a cleaner passing day."
+        },
+        {
+          "rank": 20,
+          "team": "celadon",
+          "previous": 26,
+          "movement": 6,
+          "themeLabel": "The defense has supplied a proper starting point.",
+          "text": "Celadon shut out Azalea 14–0. Infernape passed for 100 yards and ran for 52, while Diggersby added 81 on the ground. The Bloom remain 5–10 and host Cinnabar next. Erika should preserve the rushing work while recognizing that the Blaze have scored 69 points across two wins over division leaders."
+        },
+        {
+          "rank": 21,
+          "team": "viridian",
+          "previous": 30,
+          "movement": 9,
+          "themeLabel": "Twelve looks much healthier than three.",
+          "text": "The Titans beat Cianwood 12–3 after consecutive weeks with six and three points. Gabite ran for 84 yards, and the defense kept the task manageable. Viridian is 5–10 with Pewter next; Giovanni has a plausible chance to improve the finish, though the offense still owes him more than one useful afternoon."
+        },
+        {
+          "rank": 22,
+          "team": "canalave",
+          "previous": 23,
+          "movement": 1,
+          "themeLabel": "Fourteen points did not keep pace.",
+          "text": "Canalave lost 32–14 at Rustboro and fell to 7–8. Slowking’s 94 passing yards left the offense with limited ways to recover ground. Snowpoint visits after being shut out, which makes the next game more approachable. Byron still needs his own attack to make that comparison meaningful."
+        },
+        {
+          "rank": 23,
+          "team": "sootopolis",
+          "previous": 20,
+          "movement": -3,
+          "themeLabel": "Eighteen was another losing total.",
+          "text": "The Surge lost 24–18 to Veilstone after escaping Snowpoint with ten points. They are 6–9 and travel to Mossdeep, whose defense just held Sunyshore to three. Wallace’s current passing line includes 148 Drampa yards and an interception. This is an inconvenient week to depend on a small offensive improvement."
+        },
+        {
+          "rank": 24,
+          "team": "cianwood",
+          "previous": 17,
+          "movement": -7,
+          "themeLabel": "The running game needed company.",
+          "text": "Bibarel ran for 68 yards, but Cianwood scored three points in a loss at Viridian. The Crushers are 6–9 and visit Olivine, which has allowed ten points across its last two wins. Chuck has a clear problem: the passing attack must give the runner enough productive possessions to work with."
+        },
+        {
+          "rank": 25,
+          "team": "mahogany",
+          "previous": 21,
+          "movement": -4,
+          "themeLabel": "Dugtrio could not carry the entire score.",
+          "text": "A 174-yard receiving afternoon ended in a 17–10 loss at Vermilion. Mahogany is 4–10–1, and its injury report remains long before Blackthorn arrives. Pryce can point to a real receiving performance; the rest of the offense has to turn more of that movement into points."
+        },
+        {
+          "rank": 26,
+          "team": "pastoria",
+          "previous": 19,
+          "movement": -7,
+          "themeLabel": "Five interceptions overwhelm the argument for patience.",
+          "text": "Farigiraf threw five picks in the 38–10 loss at Lavaridge. The Waves are 6–9 after consecutive defeats and now host Sunyshore. Crasher Wake has enough evidence to make ball security the first subject of the meeting. I recommend leaving room for it in the second subject as well."
+        },
+        {
+          "rank": 27,
+          "team": "pewter",
+          "previous": 29,
+          "movement": 2,
+          "themeLabel": "Two points away still leaves a loss.",
+          "text": "The Rockers lost 12–10 to Olivine and fell to 5–10. Delcatty ran for 74 yards, but Wyrdeer’s 108 passing yards came with two interceptions. Viridian is next after finding a little offensive life. Brock needs to prevent his own possessions from becoming the other team’s easiest opportunities."
+        },
+        {
+          "rank": 28,
+          "team": "fuchsia",
+          "previous": 32,
+          "movement": 4,
+          "themeLabel": "The close game showed more than the record changed.",
+          "text": "Fuchsia lost 20–17 to Violet and remains 3–12. Empoleon threw for 177 yards and a touchdown without an interception. That is useful improvement before Vermilion, and it deserves recognition alongside another defeat. Koga’s next task is to preserve the clean passing and find the extra scoring finish."
+        },
+        {
+          "rank": 29,
+          "team": "fortree",
+          "previous": 28,
+          "movement": -1,
+          "themeLabel": "Twenty-seven allowed added to a difficult season.",
+          "text": "The Skyhawks lost 27–7 to Hearthome and have allowed 389 points. Rabsca’s 184 passing yards came with one touchdown and one interception. Fortree is 4–11 and visits Lavaridge after the Inferno’s best recent offensive work. Winona needs a defensive response before the next scoreboard becomes familiar."
+        },
+        {
+          "rank": 30,
+          "team": "azalea",
+          "previous": 24,
+          "movement": -6,
+          "themeLabel": "Zero interrupted a run of competitive losses.",
+          "text": "The Swarm lost 14–0 at Celadon after losing 13–3 at Lavender and 20–17 against Cerulean. Drampa threw for 115 yards, and Azalea fell to 5–10. Mt. Silver arrives angry after its second loss. Bugsy can begin with getting the offense into scoring position before worrying about the visitor’s mood."
+        },
+        {
+          "rank": 31,
+          "team": "oreburgh",
+          "previous": 31,
+          "movement": 0,
+          "themeLabel": "Ten points extended the losing stretch.",
+          "text": "Oreburgh lost 24–10 at Dewford and is 3–12. Furret ran for 67 yards with Swampert still unavailable, but Cryogonal threw for 122 without a touchdown. Eterna’s defense is next. Roark needs a productive passing answer that gives the replacement rushing work a chance to matter."
+        },
+        {
+          "rank": 32,
+          "team": "snowpoint",
+          "previous": 27,
+          "movement": -5,
+          "themeLabel": "The offense left too much for the defense.",
+          "text": "Snowpoint followed a 10–9 defeat with a 37–0 loss at Mauville. Drampa threw for 115 yards and an interception, while the Blizzard fell to 4–11. Canalave offers another struggling opponent. Candice needs enough protection and completions to keep that opportunity from disappearing into punts."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/d5593dc675b5ad64.webp",
+        "alt": "Drampa #12, Alakazam #6. Mossdeep and Saffron occupy the top two places in this week’s rankings."
+      }
+    },
+    {
+      "id": "column-mara-s1-w16",
+      "type": "column",
+      "title": "Mauville has earned a harder test",
+      "dek": "Three consecutive wins have carried the Dynamos to 8–7. Dewford will test whether the passing game and pressure can travel together.",
+      "author": "mara-voss",
+      "teams": [
+        "mauville"
+      ],
+      "body": [
+        {
+          "type": "p",
+          "text": "Mauville has won three consecutive games by three different kinds of margin: one point at Lavaridge, six in overtime at Veilstone, and thirty-seven against Snowpoint. I want Wattson to preserve the progression without treating the final score as proof that every problem has disappeared. The Dynamos have reached 8–7. They now visit a Dewford team with nine wins and a fresh 24–10 victory. The quality of the next offensive possession matters more than how often someone repeats the word momentum."
+        },
+        {
+          "type": "p",
+          "text": "There is enough good football in the Snowpoint result to make a specific case. Togekiss completed eighteen of twenty-seven for 198 yards, three touchdowns and no interceptions. Volbeat recorded four sacks. Bibarel supplied sixty-three yards on fourteen carries. Those contributions gave Mauville productive passing, a meaningful rushing supplement and pressure capable of disrupting the opponent. I want those functions together again at Dewford."
+        },
+        {
+          "type": "h2",
+          "text": "Three receivers finished different jobs"
+        },
+        {
+          "type": "p",
+          "text": "Mothim caught six passes for fifty-four yards and a touchdown. Tangrowth caught four for sixty and a touchdown. Luvdisc’s one reception gained nine yards and scored. The three touchdown passes went to three players, with substantially different workloads. A staff preparing for Mauville has to consider more than the largest receiving-yardage entry."
+        },
+        {
+          "type": "p",
+          "text": "That distribution is useful because it gives Togekiss more than one reasonable place to complete a possession. Mothim contributed repeated catches, Tangrowth gained fifteen yards per reception, and Luvdisc finished his single recorded opportunity. Those are descriptions of production, not a claim about routes the totals cannot reveal. The next preparation should ask how to make each job available against Dewford’s actual coverage."
+        },
+        {
+          "type": "p",
+          "text": "Togekiss also kept the interception column empty. That deserves emphasis for a club that won its previous game in overtime and the one before that by a point. Mauville has already spent enough afternoons needing the final result to remain available. An offense that retains possession gives its defense a better chance to decide the game through ordinary stops instead of constant rescue work."
+        },
+        {
+          "type": "h2",
+          "text": "Volbeat supplied four sacks"
+        },
+        {
+          "type": "p",
+          "text": "Four sacks from one defender are difficult to overlook, even if a reader begins with the thirty-seven points on the scoreboard. Drednaw added another. Snowpoint’s Drampa threw for 115 yards and an interception, while Dragapult recorded the interception for Mauville. Pressure and coverage both appear in the outcome. Volbeat’s second sack came on third-and-two in the first quarter; his fourth came on fourth-and-eight with fifty-three seconds left. The pressure ended useful chances as well as reducing the yardage total."
+        },
+        {
+          "type": "p",
+          "text": "Dragapult made the third quarter decisive in two different roles. He returned an interception seventy yards for a touchdown at 4:02, then returned the ensuing Snowpoint punt eighty-three yards for another score at 3:02. Those fourteen points took Mauville from 17–0 to 31–0 without an offensive touchdown between them. The offense’s three touchdown passes deserve credit, and the return work deserves its own account."
+        },
+        {
+          "type": "p",
+          "text": "I like that Wattson can now show his players a win in which the defense did not need the offense to match every score. Snowpoint scored none. The preceding overtime win at Veilstone required twenty-nine Mauville points to beat twenty-three. The Dynamos have won with different requirements, and the latest defensive response gives them something better to practice toward than merely surviving another close finish."
+        },
+        {
+          "type": "p",
+          "text": "“Four is good,” Volbeat said. “The next quarterback still gets a fresh game. I want to get moving again.” That impatience suits his afternoon. The coaching task is to direct it: reproduce the useful pressure without assuming that the next opponent will present the same chances."
+        },
+        {
+          "type": "h2",
+          "text": "Dewford can ask a different question"
+        },
+        {
+          "type": "p",
+          "text": "The Breakers’ Frosmoth threw for 193 yards and two touchdowns without an interception against Oreburgh. Swellow caught ninety-two yards and a touchdown. Dewford arrives with a completed offensive performance of its own, and its nine wins give the matchup a direct consequence for the teams currently occupying the conference’s lower playoff places. Mauville cannot plan as if another 115-yard passing opponent is guaranteed."
+        },
+        {
+          "type": "p",
+          "text": "The Dynamos’ season totals make the defensive challenge especially clear. Mauville has allowed 1,366 rushing yards across fifteen games, a little over ninety-one per game. Its own rushing attack has supplied 822, just under fifty-five per game. Those totals do not predict the next score, but they identify a persistent difference in how much ground production each side of a Mauville game has received."
+        },
+        {
+          "type": "p",
+          "text": "Bibarel’s sixty-three yards against Snowpoint are therefore worth preserving. They exceed the club’s season per-game rushing average before even adding the other carriers. The offense does not need to turn into a completely different system to give Togekiss useful help. It needs enough reliable rushing work that the passer can reach the next down with options."
+        },
+        {
+          "type": "p",
+          "text": "Mauville has scored 228 points and allowed 228. That even season total includes a three-game stretch in which it outscored opponents 77–33, so the earlier weeks still exert a substantial influence on the overall record. I would credit the improvement and keep asking whether it holds against a stronger immediate challenge. Beat Dewford through clean possessions and repeatable defensive work, and Wattson will have a better argument than a single impressive shutout."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/c043947ebe453771.webp",
+        "alt": "Volbeat #25. Mauville prepares for a consequential trip to Dewford."
+      }
+    },
+    {
+      "id": "column-ellis-s1-w16",
+      "type": "column",
+      "title": "Violet has made the next Sunday consequential",
+      "dek": "The Falcons have climbed to 8–7 with consecutive wins. Lavender arrives while Falkner adjusts to Maractus’s two-week absence.",
+      "author": "ellis-quill",
+      "teams": [
+        "violet"
+      ],
+      "body": [
+        {
+          "type": "p",
+          "text": "Violet lost three straight games from Week 12 through Week 14. The scores were 16–3 at Olivine, 30–17 against Blackthorn and 13–10 against Cianwood. The Falcons had opportunities to make that stretch less damaging, particularly in the last of those games, and finished it with another defeat. Two weeks later, they have won twice and reached 8–7. Lavender is coming to town. Their next home game now carries a much more hopeful set of conversations."
+        },
+        {
+          "type": "p",
+          "text": "I prefer to begin with what changed in the results. Violet held Viridian to three points in Week 15, then scored twenty to beat Fuchsia by three. The Falcons found a comfortable defensive win and followed it with a close road win. Neither result can repair the losses already on the schedule. Both have given the players another reason to prepare as if the remaining games can reward them."
+        },
+        {
+          "type": "p",
+          "text": "The current conference table still places Violet outside the seven playoff positions. Olivine and Vermilion also stand at 8–7 and occupy the sixth and seventh seeds. A winning record has improved the Falcons’ position without settling their place. That is an awkward combination for anyone trying to celebrate responsibly, but it is a considerable improvement on another week spent explaining why a manageable game got away."
+        },
+        {
+          "type": "h2",
+          "text": "Samurott made the catches count"
+        },
+        {
+          "type": "p",
+          "text": "At Fuchsia, Samurott caught seven passes for ninety-six yards and a touchdown. Iron Jugulis completed sixteen passes overall for 176 yards, so the receiver accounted for nearly half the completions and more than half the passing yardage. The quarterback finished with one touchdown pass and no interceptions. Their twelve-yard touchdown connection, short right with 4:57 left, supplied Violet’s final lead after Fuchsia had moved ahead 17–13. There is a clear partnership to retain from this game."
+        },
+        {
+          "type": "p",
+          "text": "“He gave me chances I could finish,” Samurott said. “The other catches kept us moving too. I wanted mine to help.” The gentle answer fits a performance that can be appreciated without turning it into a demand that one receiver supply the entire offense next week. Zangoose added two catches for nineteen yards alongside sixty-nine rushing yards. Furret caught thirty-one yards. Useful contributions came from several places."
+        },
+        {
+          "type": "p",
+          "text": "Falkner can ask that distribution to remain available against Lavender. Samurott’s ninety-six yards are an important piece of the preparation, but a defense that studies the same numbers will have its own response. Keeping Zangoose involved on the ground and preserving the secondary completions gives Iron Jugulis more than a single solution when the first attractive throw is covered."
+        },
+        {
+          "type": "h2",
+          "text": "Maractus leaves a specific role to fill"
+        },
+        {
+          "type": "p",
+          "text": "Maractus contributed thirty-one yards on three carries and a rushing touchdown, plus a three-yard reception. His fifteen-yard touchdown up the middle with thirty-two seconds left in the first half helped Violet reach halftime tied 10–10. The new injury report lists a two-week absence; the record does not timestamp the injury. Violet loses a player who contributed to both the rushing and receiving record in the win, with a particularly valuable finishing play on the ground."
+        },
+        {
+          "type": "p",
+          "text": "That absence should be discussed in terms of work. Someone must take the available offensive opportunities, and the staff must decide whether the same player can handle all of them. Zangoose’s eleven carries and two receptions show what he actually supplied against Fuchsia. They do not establish that he will automatically absorb every missing Maractus assignment. Falkner has a decision to make before anyone can describe the replacement as confirmed."
+        },
+        {
+          "type": "p",
+          "text": "“We have to prepare the players who can go,” Falkner said. “Maractus helped us win. The next group needs to understand what we are asking.” It is a measured response to a familiar late-season problem. The victory has given Violet something to protect, and the injury has immediately added another task to protecting it."
+        },
+        {
+          "type": "h2",
+          "text": "Lavender brings evidence of its own"
+        },
+        {
+          "type": "p",
+          "text": "Lavender has won three in a row, beating Azalea 13–3, Celadon 20–17 and Cerulean 32–21. The Wails have done it while their passing arrangements changed, and Mr. Clanky remains out seven reported weeks. Frosmoth threw for 201 yards at Cerulean; Hobbes rushed for 122. Travis Scarboro’s team has demonstrated useful answers rather than simply asking everyone to be patient about an absence."
+        },
+        {
+          "type": "p",
+          "text": "The Falcons should take the rushing contribution seriously. Hobbes’s 122 yards would be significant in any matchup, and Violet has allowed 1,247 rushing yards in fifteen games. Keeping Lavender from repeatedly reaching comfortable follow-up downs would help the home defense ask more of its replacement passer. That is a football assignment a player can prepare for, regardless of how the rest of the conference’s games turn out."
+        },
+        {
+          "type": "p",
+          "text": "Violet has scored 228 points and allowed 236 this season. Consecutive victories have brought the team close to even in that measure and above even in the record. I am reluctant to announce a transformation on the strength of beating Viridian and Fuchsia. I am equally reluctant to dismiss two wins that gave these players a meaningful game against a ten-win division rival. They have earned that opportunity. Falkner’s next week will be spent deciding how to use it with one fewer recent touchdown scorer available."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/7d45f0f37b9f36f7.webp",
+        "alt": "Samurott #87. Violet’s next assignment is a visit from Lavender."
+      }
+    },
+    {
+      "id": "column-dorian-s1-w16",
+      "type": "column",
+      "title": "Flannery, keep giving Fearow useful chances",
+      "dek": "Lavaridge has scored 58 points in two victories. Its passing attack finally gave a five-interception defense enough help to win comfortably.",
+      "author": "dorian-pike",
+      "teams": [
+        "lavaridge"
+      ],
+      "body": [
+        {
+          "type": "p",
+          "text": "Flannery watched Lavaridge score ten points in consecutive losses. Sootopolis beat the Inferno 14–10; Mauville beat them 11–10. Those were games in which one more productive offensive possession could have made a substantial difference. Now Lavaridge has won 20–13 at Eterna and beaten Pastoria 38–10. I would like the staff to retain the part where its offense makes the defense’s work rewarding."
+        },
+        {
+          "type": "p",
+          "text": "Fearow caught six passes for 144 yards and three touchdowns against the Waves. Delphox threw four touchdown passes without an interception. Venusaur intercepted three passes, while Malamar and Musharna intercepted one each. The result involved an offense capable of scoring repeatedly and a defense that supplied five interceptions. Thirty-eight points becomes considerably easier to understand when the two departments cooperate like that."
+        },
+        {
+          "type": "p",
+          "text": "The Inferno are still 6–9. Their season has included enough difficult afternoons to keep a flattering two-week summary from passing for a complete account. They have scored 232 points and allowed 325. I am asking Flannery to make this improvement useful, starting with Fortree’s visit. Another afternoon of ten points would be an especially irritating response to discovering that the team can produce substantially more."
+        },
+        {
+          "type": "h2",
+          "text": "Fearow supplied more than half the passing yards"
+        },
+        {
+          "type": "p",
+          "text": "The arithmetic is quite friendly to the receiver. Delphox threw for 263 yards; Aromatisse added eight on one completion. Fearow accounted for 144 of those 271 passing yards, more than half of the total, with twenty-four yards per catch. Three of his six receptions scored. Lavaridge found a way to turn a small number of completed opportunities into an enormous share of its scoring work."
+        },
+        {
+          "type": "p",
+          "text": "That does not establish that every future pass to Fearow should travel twenty-four yards or finish in the end zone. It establishes that a receiver produced a remarkable afternoon when given opportunities to finish. I want the offense to investigate which parts it can reproduce against Fortree while accepting that the next defense gets to participate in the investigation."
+        },
+        {
+          "type": "p",
+          "text": "“I was just trying to be ready when the ball came,” Fearow said. “Three touchdowns is more attention than I expected.” His bashful answer is charming. His production warrants the attention anyway. Receivers are permitted to dislike the interview and still catch the ball when the game asks for it."
+        },
+        {
+          "type": "p",
+          "text": "Delphox completed eighteen of twenty-eight. Mothim caught six for sixty-five yards. Arbok caught four for thirty and a touchdown. Stantler added three catches for thirty-two alongside forty rushing yards. Fearow was the largest contribution, and the other completions helped make the offense more than one spectacular line in the box score."
+        },
+        {
+          "type": "h2",
+          "text": "Five interceptions deserve their own credit"
+        },
+        {
+          "type": "p",
+          "text": "Venusaur recorded three of the five interceptions against Farigiraf. His first interception set up Fearow’s twenty-one-yard touchdown on the next offensive snap, and his third became a seventy-one-yard touchdown return in the third quarter. The defense supplied both opportunities and points directly. Fearow later added a fifty-two-yard touchdown catch, his third score, with 4:14 left. Lavaridge had reached 38–0 before Pastoria scored."
+        },
+        {
+          "type": "p",
+          "text": "The danger in reviewing this game is to assume five interceptions are now a normal weekly allowance. Flannery should praise every one of them and prepare for Fortree as if the defense will need ordinary stops too. Lavaridge has allowed more than twenty-one points per game over the season. The ten conceded to Pastoria are an improvement worth studying, not a reason to erase the previous games."
+        },
+        {
+          "type": "p",
+          "text": "Mantine’s new one-week absence adds another defensive adjustment. The injury report provides a duration, not a promise about exactly how the remaining assignments will be redistributed. A staff that just received a major defensive performance still needs to prepare the available players. Success does not grant an exemption from having the right people ready for the next snap."
+        },
+        {
+          "type": "h2",
+          "text": "Fortree supplies an immediate test of discipline"
+        },
+        {
+          "type": "p",
+          "text": "The Skyhawks have allowed 389 points and just lost 27–7 to Hearthome. That makes the matchup attractive for a Lavaridge offense that has scored fifty-eight across its last two wins. It also makes it easy to mistake preparation for an exercise in deciding how many points to expect. Fortree remains a team capable of making Lavaridge waste a possession if the Inferno oblige."
+        },
+        {
+          "type": "p",
+          "text": "I want Delphox to preserve the clean interception line and the distribution that supported Fearow’s day. I want Stantler’s rushing work to keep the passing game from carrying every ordinary down. I want the defense to pursue takeaways while also being able to end a drive that does not include one. Those are demands supported by what Lavaridge just did well and by what its full season says it still needs."
+        },
+        {
+          "type": "p",
+          "text": "Flannery has won at Eterna, a division leader, and then beaten Pastoria comfortably. That is enough progress to deserve a more ambitious request than merely keeping the next score close. Build another complete offensive afternoon against Fortree. The players have just shown that they can give their defense something better than ten points to defend."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/5b054f8502f9d5a1.webp",
+        "alt": "Fearow #11, Delphox #12. Delphox and Fearow give Lavaridge’s passing game a productive connection."
+      }
+    },
+    {
+      "id": "draft-hb-s1-w16",
+      "type": "draft",
+      "focus": "HB",
+      "author": "calvin-rook",
+      "teams": [],
+      "title": "The Rook Board: choose the backfield job before the back",
+      "dek": "Stakataka leads the fullback evaluations, Miltank leads the halfbacks, and several close comparisons deserve identical workouts.",
+      "body": [
+        {
+          "type": "p",
+          "text": "Zapapico’s Stakataka and Blackthorn’s Miltank lead two different evaluations. Stakataka is a listed fullback with an 87–99 disclosed range, twenty-seven bench repetitions and a 5.23 forty. Miltank is a halfback with a 65–93 range, twenty-two bench repetitions and a 4.72 forty. Putting them on the same backfield board is useful only if we retain the jobs those numbers are helping us investigate."
+        },
+        {
+          "type": "p",
+          "text": "I rank Stakataka first because the strength of his disclosed fullback profile deserves the earliest detailed examination. Miltank is my first halfback, with Zangoose the close comparison. A team needing a runner should compare those two directly rather than assuming that the first name in a combined ranking solves its vacancy. A team needing a blocker should compare Stakataka, Druddigon and Parasect on the assignments it actually intends to call."
+        },
+        {
+          "type": "p",
+          "text": "The current league supplied a helpful range of backfield work this week. Mossdeep received 121 rushing yards from Poury Holt; Lavender received 122 from Hobbes. Violet received rushing and receiving work from Zangoose, then lost Maractus to a reported two-week absence after he contributed a rushing touchdown. Those examples explain why staffs should evaluate carrying, catching, blocking and reserve readiness separately. They do not establish that any rookie below can immediately reproduce the production."
+        },
+        {
+          "type": "p",
+          "text": "My twelve-player order uses disclosed ranges and combine results. The ranges describe uncertainty in the current evaluation; they are not promises of growth or eventual performance. I would give the close pairs the same drills, the same protection questions and the same chances to catch the ball before asking the board to become more precise."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p1995",
+          "name": "Stakataka",
+          "species": "Stakataka",
+          "speciesId": 805,
+          "icon": "assets/sprites/805.png",
+          "position": "FB",
+          "age": 23,
+          "level": 10,
+          "range": [
+            87,
+            99
+          ],
+          "combine": {
+            "forty": 5.23,
+            "bench": 27,
+            "vertical": 28,
+            "cone": 7.28
+          },
+          "university": {
+            "id": "paldea-university-of-zapapico",
+            "name": "University of Zapapico",
+            "city": "Zapapico",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 1,
+          "analysis": "Zapapico’s Stakataka begins with an 87–99 disclosed band and twenty-seven bench repetitions. At 5.23 in the forty, he demands a precise job: evaluate the blocking and short-area contribution before imagining a space runner.",
+          "concern": "A high listed fullback range does not answer every blocking assignment or establish a different position.",
+          "projection": "First fullback evaluation for a club with a meaningful blocking role."
+        },
+        {
+          "pid": "p1928",
+          "name": "Miltank",
+          "species": "Miltank",
+          "speciesId": 241,
+          "icon": "assets/sprites/241.png",
+          "position": "HB",
+          "age": 22,
+          "level": 16,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 4.72,
+            "bench": 22,
+            "vertical": 40,
+            "cone": 6.58
+          },
+          "university": {
+            "id": "johto-university-of-blackthorn",
+            "name": "University of Blackthorn",
+            "city": "Blackthorn City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 2,
+          "analysis": "Blackthorn’s Miltank leads my halfbacks: 65–93, a 4.72 forty, twenty-two bench repetitions and a 6.58 cone. The combination gives me several useful questions for a complete backfield workout.",
+          "concern": "The workout does not establish ball security, receiving reliability or protection recognition.",
+          "projection": "Leading halfback comparison for a club evaluating a larger offensive workload."
+        },
+        {
+          "pid": "p2016",
+          "name": "Druddigon",
+          "species": "Druddigon",
+          "speciesId": 621,
+          "icon": "assets/sprites/621.png",
+          "position": "FB",
+          "age": 22,
+          "level": 16,
+          "range": [
+            74,
+            99
+          ],
+          "combine": {
+            "forty": 5.11,
+            "bench": 23,
+            "vertical": 28,
+            "cone": 7.01
+          },
+          "university": {
+            "id": "alola-po-state-university",
+            "name": "Po State University",
+            "city": "Po Town",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 3,
+          "analysis": "Po State’s Druddigon offers a 74–99 fullback band, twenty-three bench repetitions and a 7.01 cone. I want him and Stakataka taking identical lead-block and protection assignments.",
+          "concern": "The bands overlap substantially, and bench strength alone cannot settle blocking technique.",
+          "projection": "High-priority fullback competitor whose role should be established before draft day."
+        },
+        {
+          "pid": "p1920",
+          "name": "Zangoose",
+          "species": "Zangoose",
+          "speciesId": 335,
+          "icon": "assets/sprites/335.png",
+          "position": "HB",
+          "age": 21,
+          "level": 20,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 4.75,
+            "bench": 19,
+            "vertical": 40,
+            "cone": 6.6
+          },
+          "university": {
+            "id": "unova-university-of-opelucid",
+            "name": "University of Opelucid",
+            "city": "Opelucid City",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 4,
+          "analysis": "Opelucid’s Zangoose has a 63–91 band, 4.75 forty and 6.60 cone. Those results sit close enough to Miltank’s to justify a direct comparison rather than a confident claim of separation.",
+          "concern": "Small testing differences cannot establish a durable advantage in live rushing decisions.",
+          "projection": "Main halfback alternative to Miltank, with receiving and protection work still to examine."
+        },
+        {
+          "pid": "p2078",
+          "name": "Parasect",
+          "species": "Parasect",
+          "speciesId": 47,
+          "icon": "assets/sprites/47.png",
+          "position": "FB",
+          "age": 22,
+          "level": 24,
+          "range": [
+            64,
+            92
+          ],
+          "combine": {
+            "forty": 5.05,
+            "bench": 20,
+            "vertical": 29,
+            "cone": 7.11
+          },
+          "university": {
+            "id": "kalos-university-of-cyllage",
+            "name": "University of Cyllage",
+            "city": "Cyllage City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 5,
+          "analysis": "Cyllage’s Parasect brings a 64–92 fullback band and twenty bench repetitions. His 5.05 forty gives a different movement question from the slower top fullbacks.",
+          "concern": "Timed movement is not evidence that he will identify and complete a moving block.",
+          "projection": "A fullback comparison for clubs that ask the position to reach targets beyond the initial collision."
+        },
+        {
+          "pid": "p2009",
+          "name": "Ariados",
+          "species": "Ariados",
+          "speciesId": 168,
+          "icon": "assets/sprites/168.png",
+          "position": "FB",
+          "age": 22,
+          "level": 22,
+          "range": [
+            61,
+            89
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 17,
+            "vertical": 32,
+            "cone": 7.1
+          },
+          "university": {
+            "id": "alola-seafolk-state-university",
+            "name": "Seafolk State University",
+            "city": "Seafolk Village",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 6,
+          "analysis": "Seafolk State’s Ariados pairs a 61–89 band with seventeen bench repetitions and a 5.06 forty. The numbers merit a close look at the actual work between runner and blocker.",
+          "concern": "The forty is very close to Parasect’s; the overlap prevents a simple workout-based verdict.",
+          "projection": "A second cluster of fullback candidates after the leading evaluations."
+        },
+        {
+          "pid": "p1964",
+          "name": "Kecleon",
+          "species": "Kecleon",
+          "speciesId": 352,
+          "icon": "assets/sprites/352.png",
+          "position": "FB",
+          "age": 22,
+          "level": 19,
+          "range": [
+            60,
+            88
+          ],
+          "combine": {
+            "forty": 5.03,
+            "bench": 14,
+            "vertical": 31,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "orre-pyrite-school-of-mines",
+            "name": "Pyrite School of Mines",
+            "city": "Pyrite Town",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 7,
+          "analysis": "Pyrite School of Mines’ Kecleon has a 60–88 band and a 6.96 cone. I would compare him with the other Kecleon prospects on the same assignment sheet, keeping their identities separate.",
+          "concern": "A quicker cone does not by itself prove better recognition or contact work.",
+          "projection": "A movement-oriented fullback evaluation within a tightly grouped set."
+        },
+        {
+          "pid": "p1959",
+          "name": "Kecleon",
+          "species": "Kecleon",
+          "speciesId": 352,
+          "icon": "assets/sprites/352.png",
+          "position": "FB",
+          "age": 21,
+          "level": 20,
+          "range": [
+            59,
+            87
+          ],
+          "combine": {
+            "forty": 5.09,
+            "bench": 14,
+            "vertical": 32,
+            "cone": 7.05
+          },
+          "university": {
+            "id": "sinnoh-twinleaf-university",
+            "name": "Twinleaf University",
+            "city": "Twinleaf Town",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 8,
+          "analysis": "Twinleaf’s Kecleon is twenty-one, with a 59–87 band, 5.09 forty and fourteen bench repetitions. His range overlaps Pyrite’s almost completely.",
+          "concern": "The younger age does not guarantee a faster development rate or better eventual player.",
+          "projection": "A close alternative requiring a football-workout comparison rather than a school preference."
+        },
+        {
+          "pid": "p2029",
+          "name": "Nidorino",
+          "species": "Nidorino",
+          "speciesId": 33,
+          "icon": "assets/sprites/33.png",
+          "position": "HB",
+          "age": 22,
+          "level": 23,
+          "range": [
+            52,
+            80
+          ],
+          "combine": {
+            "forty": 4.9,
+            "bench": 12,
+            "vertical": 37,
+            "cone": 6.67
+          },
+          "university": {
+            "id": "johto-university-of-cherrygrove",
+            "name": "University of Cherrygrove",
+            "city": "Cherrygrove City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 9,
+          "analysis": "Cherrygrove’s Nidorino offers a 52–80 halfback band, 4.90 forty and 6.67 cone. I would test whether his useful work comes from ordinary rushing decisions or a narrower complementary assignment.",
+          "concern": "The reported range remains broad; testing does not establish readiness for heavy usage.",
+          "projection": "Halfback competition below the leading Miltank and Zangoose evaluations."
+        },
+        {
+          "pid": "p2040",
+          "name": "Deerling",
+          "species": "Deerling",
+          "speciesId": 585,
+          "icon": "assets/sprites/585.png",
+          "position": "HB",
+          "age": 23,
+          "level": 8,
+          "range": [
+            49,
+            77
+          ],
+          "combine": {
+            "forty": 4.89,
+            "bench": 11,
+            "vertical": 38,
+            "cone": 6.53
+          },
+          "university": {
+            "id": "galar-mid-galar-state-university",
+            "name": "Mid-Galar State University",
+            "city": "Hammerlocke",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 10,
+          "analysis": "Mid-Galar State’s Deerling has a 49–77 band and 6.53 cone, the quickest cone among these selected halfbacks. The 4.89 forty gives another useful movement comparison.",
+          "concern": "A strong cone cannot promise receiving skill, durability or success through contact.",
+          "projection": "A complementary-back evaluation with open questions about the broader role."
+        },
+        {
+          "pid": "p2070",
+          "name": "Kecleon",
+          "species": "Kecleon",
+          "speciesId": 352,
+          "icon": "assets/sprites/352.png",
+          "position": "FB",
+          "age": 22,
+          "level": 20,
+          "range": [
+            53,
+            81
+          ],
+          "combine": {
+            "forty": 5.01,
+            "bench": 17,
+            "vertical": 33,
+            "cone": 7.04
+          },
+          "university": {
+            "id": "hoenn-university-of-lilycove",
+            "name": "University of Lilycove",
+            "city": "Lilycove City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 11,
+          "analysis": "Lilycove’s Kecleon brings a 53–81 band, 5.01 forty and seventeen bench repetitions. That is the quickest forty of the three Kecleon prospects here, though his disclosed band is lower.",
+          "concern": "A few hundredths in a workout cannot resolve the larger uncertainty in actual contribution.",
+          "projection": "A third Kecleon comparison for teams seeking a particular fullback assignment."
+        },
+        {
+          "pid": "p1869",
+          "name": "Numel",
+          "species": "Numel",
+          "speciesId": 322,
+          "icon": "assets/sprites/322.png",
+          "position": "FB",
+          "age": 21,
+          "level": 12,
+          "range": [
+            46,
+            74
+          ],
+          "combine": {
+            "forty": 5.01,
+            "bench": 13,
+            "vertical": 32,
+            "cone": 7.05
+          },
+          "university": {
+            "id": "sinnoh-university-of-hearthome",
+            "name": "University of Hearthome",
+            "city": "Hearthome City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 12,
+          "analysis": "Hearthome’s Numel is twenty-one, with a 46–74 band, 5.01 forty and thirteen bench repetitions. I want a clear developmental job before I become enthusiastic about the favorable end of the range.",
+          "concern": "The upper boundary is an uncertainty limit, not a promised future rating.",
+          "projection": "A later fullback evaluation after the immediate role and roster competition are defined."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/c6b8aa828ff46b1c.webp",
+        "alt": "Stakataka and Miltank lead separate backfield evaluations."
+      }
+    }
+  ]
+}
