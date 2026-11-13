@@ -1,0 +1,684 @@
+{
+  "season": 1,
+  "week": 17,
+  "articles": [
+    {
+      "id": "power-s1-w17",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "The Pecking Order: one regular-season game left",
+      "dek": "Petalburg climbs with a division title, Lavender earns a winner-takes-division finale, and the last wild-card hopefuls get exact conditions.",
+      "teams": [],
+      "theme": "The final regular-season assignment",
+      "body": [
+        {
+          "type": "p",
+          "text": "Mossdeep keeps first at 16–0. Saffron stays second, Mt. Silver rises after securing its bye, and Cinnabar’s recent work keeps it ahead of several higher seeds. These are my judgments of current strength; the standings and their tiebreaks decide the playoff bracket."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "movement": 0,
+          "themeLabel": "One victory from a perfect regular season.",
+          "text": "Budew Baker threw two touchdowns in a 22–3 win, and the defense supplied seven sacks. The Eclipse can rest the first seed on the shelf and still find corrections. Poury Holt’s seven-week absence matters more to the playoff outlook than another comfortable margin."
+        },
+        {
+          "rank": 2,
+          "team": "saffron",
+          "previous": 2,
+          "movement": 0,
+          "themeLabel": "Thirteen wins and a fixed second seed.",
+          "text": "Archam Manning threw for 287 yards without an interception, Dam Skattebo scored twice, and Cerulean lost 31–13. Saffron has allowed 128 points in sixteen games. My affection is documented; so is that defense. Fuchsia is the last preparation date before a home playoff game."
+        },
+        {
+          "rank": 3,
+          "team": "goldenrod",
+          "previous": 4,
+          "movement": 1,
+          "themeLabel": "The bye comes with receiving repairs.",
+          "text": "Crem Ftzpatrik’s 318 passing yards and three touchdowns powered a 41–9 response at Azalea. Mt. Silver never punted and secured the first seed. Tony Gyarzalez’s six-week absence is a substantial complication, even for a coach who can now schedule his first playoff weekend around everyone else’s problems."
+        },
+        {
+          "rank": 4,
+          "team": "cinnabar",
+          "previous": 3,
+          "movement": -1,
+          "themeLabel": "Blaine keeps finding the next productive receiver.",
+          "text": "Glalie caught twelve passes for 154 yards and two touchdowns in the 24–7 win at Celadon. That follows victories over Blackthorn and Mt. Silver. The fourth seed is fixed, and the Blaze have a stronger recent argument than several clubs with higher places in the bracket."
+        },
+        {
+          "rank": 5,
+          "team": "ecruteak",
+          "previous": 6,
+          "movement": 1,
+          "themeLabel": "The division is available at home.",
+          "text": "Moth Ball threw five touchdowns, Luvdisc caught eleven passes, and Lavender intercepted Iron Jugulis four times in a 51–10 win. Beat Blackthorn and the Wails take Johto East. Travis Scarboro has supplied no decorative language for this opportunity, so I will settle for the actual stakes."
+        },
+        {
+          "rank": 6,
+          "team": "sunyshore",
+          "previous": 5,
+          "movement": -1,
+          "themeLabel": "The passing game found room again.",
+          "text": "DeZhaun Watzon’s 305 yards and three touchdowns helped produce a 34–7 win at Pastoria. The Waves managed five first downs. Sunyshore can secure second with a win at Veilstone; repeating useful offense against stronger playoff opposition remains the next test of this recovery."
+        },
+        {
+          "rank": 7,
+          "team": "petalburg",
+          "previous": 11,
+          "movement": 4,
+          "themeLabel": "A division title earned through takeaways.",
+          "text": "Flygon intercepted Shawn Watzon twice and the Pride won 17–10 at Rustboro. Petalburg will host a playoff game. Oinkologne’s three-week absence removes the runner who produced 119 yards from scrimmage here. Norman has earned a banner and an immediate backfield meeting."
+        },
+        {
+          "rank": 8,
+          "team": "blackthorn",
+          "previous": 8,
+          "movement": 0,
+          "themeLabel": "A better answer before the division decider.",
+          "text": "Hatterene threw for 275 yards and two touchdowns in a 27–19 win at Mahogany. The Dragons recovered from the Saffron disaster, but Lavender is waiting with five fresh passing touchdowns. A win or tie keeps Johto East; Exploud’s new two-week absence makes the preparation harder."
+        },
+        {
+          "rank": 9,
+          "team": "dewford",
+          "previous": 9,
+          "movement": 0,
+          "themeLabel": "Ten wins and a guaranteed invitation.",
+          "text": "The Breakers beat Mauville 21–13 despite being outgained. Frosmoth threw two touchdowns, and the team turned its chances into enough points. Rustboro is next, with fifth and sixth seed at stake. Dewford’s playoff berth no longer depends on that result."
+        },
+        {
+          "rank": 10,
+          "team": "rustboro",
+          "previous": 7,
+          "movement": -3,
+          "themeLabel": "The berth survived; the division did not.",
+          "text": "Gibby Timmy caught 145 yards, but two Shawn Watzon interceptions helped Petalburg take the title. The Stone finished level on first downs and ahead on total yards in a 17–10 loss. A win against Dewford improves the wild-card position; more useful finishing would improve my mood."
+        },
+        {
+          "rank": 11,
+          "team": "eterna",
+          "previous": 10,
+          "movement": -1,
+          "themeLabel": "A division champion with a quarterback absence.",
+          "text": "The Thorns beat Oreburgh 15–10 and secured Sinnoh West. Tatsugiri now has seven reported weeks out, while Stantler has two. Eterna’s 181 points allowed support its ten wins, but the offense must prepare a playoff game around a changed availability list."
+        },
+        {
+          "rank": 12,
+          "team": "vermilion",
+          "previous": 15,
+          "movement": 3,
+          "themeLabel": "Seventeen points were enough to secure a berth.",
+          "text": "The Volts beat Fuchsia 17–14 and reached 9–7. Their minus-eighty point differential continues to make the standings an interesting reading exercise. The berth is real; sixth seed still needs finishing. Cerulean has its own narrow route and will not treat the finale as a ceremony."
+        },
+        {
+          "rank": 13,
+          "team": "mauville",
+          "previous": 12,
+          "movement": -1,
+          "themeLabel": "Still in control after a missed opportunity.",
+          "text": "The 21–13 loss at Dewford leaves the Dynamos 8–8. Togekiss threw for 247 yards, but yardage did not become enough points. Win at Petalburg and Mauville is in. The opponent has clinched its division and lost Oinkologne, making the actual lineup and execution worth watching."
+        },
+        {
+          "rank": 14,
+          "team": "hearthome",
+          "previous": 16,
+          "movement": 2,
+          "themeLabel": "A win kept the final week useful.",
+          "text": "Feraligatr rushed for ninety-seven yards and the Haunts beat Veilstone 21–7. At 7–8–1, Hearthome needs help from both Mauville’s and Canalave’s results. The tie in its record now matters in exact combinations, which is a good reason to read the playoff chart before declaring anyone eliminated."
+        },
+        {
+          "rank": 15,
+          "team": "canalave",
+          "previous": 22,
+          "movement": 7,
+          "themeLabel": "The win came with two more absences.",
+          "text": "Slowking threw three touchdowns in a 24–21 victory over Snowpoint. Canalave is 8–8 and still alive, but Nidoking is out nine weeks and Seismitoad six. The Bulwark cannot celebrate the result by assuming the same players will reproduce the work at Oreburgh."
+        },
+        {
+          "rank": 16,
+          "team": "cianwood",
+          "previous": 24,
+          "movement": 8,
+          "themeLabel": "Three completions, one necessary victory.",
+          "text": "Swampert completed three of twelve passes; Bibarel rushed twenty-nine times for 106 yards; Cianwood beat Olivine 10–3. The Crushers remain alive at 7–9. Their next requirement is a win at Mt. Silver, which makes the help they need elsewhere the less intimidating part of the assignment."
+        },
+        {
+          "rank": 17,
+          "team": "olivine",
+          "previous": 13,
+          "movement": -4,
+          "themeLabel": "Three points made the route harder.",
+          "text": "The Ironclads lost 10–3 to Cianwood and fell to 8–8. Gogoat now has five reported weeks out. A win at Azalea still guarantees a berth, so the situation is repairable. Repair begins with scoring more than a field goal, an ambitious but defensible request."
+        },
+        {
+          "rank": 18,
+          "team": "violet",
+          "previous": 14,
+          "movement": -4,
+          "themeLabel": "The recovery now requires help.",
+          "text": "Lavender intercepted four passes and won 51–10. Zangoose’s four-week absence removes one of Violet’s efficient contributors. The Falcons can still qualify, including a tie route, but Mahogany must be handled while Olivine’s result cooperates. Last week’s optimism has been returned with extensive annotations."
+        },
+        {
+          "rank": 19,
+          "team": "cerulean",
+          "previous": 18,
+          "movement": -1,
+          "themeLabel": "There is one precise route left.",
+          "text": "Farigiraf threw two touchdowns without an interception against Saffron, yet the Tide lost 31–13. Beat Vermilion, have Olivine lose and have Violet lose, and Cerulean takes the final berth. The route is narrow enough that it fits in one sentence without becoming a prediction."
+        },
+        {
+          "rank": 20,
+          "team": "lavaridge",
+          "previous": 17,
+          "movement": -3,
+          "themeLabel": "Three straight wins meet the unbeaten club.",
+          "text": "The Inferno beat Fortree 7–3 after the more expansive offense of the previous two weeks. They are eliminated at 7–9 and now host Mossdeep’s attempt at 17–0. Flannery can still end the season by doing something no opponent has managed yet."
+        },
+        {
+          "rank": 21,
+          "team": "pewter",
+          "previous": 27,
+          "movement": 6,
+          "themeLabel": "A late touchdown supplied the answer.",
+          "text": "The Rockers beat Viridian 20–13 after giving away three possessions. Vespiquen’s late touchdown reception finished the recovery. Six wins do not create a playoff case, but a road win with a fourth-quarter response is a better ending chapter than another close defeat."
+        },
+        {
+          "rank": 22,
+          "team": "sootopolis",
+          "previous": 23,
+          "movement": 1,
+          "themeLabel": "Protection never let the upset develop.",
+          "text": "Drampa took seven sacks in a 22–3 loss at Mossdeep. Pawmo’s sixty-three receiving yards provided a useful outlet, but the Surge finished with six first downs. Fortree offers a final opportunity to make the passing game operate before the defense has to return to work."
+        },
+        {
+          "rank": 23,
+          "team": "pastoria",
+          "previous": 26,
+          "movement": 3,
+          "themeLabel": "Five first downs will not travel far.",
+          "text": "Sunyshore held the Waves to 111 yards in a 34–7 loss. Pastoria scored once through Watchog, then spent too much of the afternoon punting. Hearthome’s playoff hopes make the finale consequential even though the Waves’ own postseason route is closed."
+        },
+        {
+          "rank": 24,
+          "team": "veilstone",
+          "previous": 19,
+          "movement": -5,
+          "themeLabel": "The defense needs help from its offense.",
+          "text": "The Fists lost 21–7 at Hearthome and now host Sunyshore. Kricketune’s new two-week absence adds another problem. A six-win team can still affect second seed, but it needs substantially more sustained scoring work to do so."
+        },
+        {
+          "rank": 25,
+          "team": "celadon",
+          "previous": 20,
+          "movement": -5,
+          "themeLabel": "Cinnabar exposed the scoring gap.",
+          "text": "The Bloom followed a shutout win with a 24–7 loss. Glalie repeatedly found receiving production against them, while Celadon could not match three passing touchdowns. The final meeting with Viridian gives two 5–11 clubs a direct chance to finish ahead of the other."
+        },
+        {
+          "rank": 26,
+          "team": "viridian",
+          "previous": 21,
+          "movement": -5,
+          "themeLabel": "A clean turnover column did not save the lead.",
+          "text": "The Titans took the ball away three times and still lost 20–13 to Pewter. The late touchdown concession overwhelmed that advantage. Mr. Rime avoided interceptions and Gabite supplied sixty-one rushing yards, but the final possession did not produce the needed score."
+        },
+        {
+          "rank": 27,
+          "team": "azalea",
+          "previous": 30,
+          "movement": 3,
+          "themeLabel": "Third down supplied the clearest problem.",
+          "text": "The Swarm went zero for eleven on third down in a 41–9 loss. Gliscor created two takeaways, and Sunflora made all three field goals. Azalea needs an offense that can reward that help with a touchdown before facing an Olivine team playing for its berth."
+        },
+        {
+          "rank": 28,
+          "team": "mahogany",
+          "previous": 25,
+          "movement": -3,
+          "themeLabel": "Competitive, with a difficult final assignment.",
+          "text": "The Frost lost 27–19 to Blackthorn. They have one tie and four wins, and they can still damage Violet’s playoff hopes in the finale. Keeping a game within one score is useful only if the next decisive possession becomes their own."
+        },
+        {
+          "rank": 29,
+          "team": "snowpoint",
+          "previous": 32,
+          "movement": 3,
+          "themeLabel": "Twenty-one points kept this one close.",
+          "text": "Canalave needed twenty-four to beat the Blizzard. Snowpoint’s final opponent is an Eterna team preparing without Tatsugiri, so the closing matchup has changed materially. Four wins still leave plenty to correct, but the final result can affect the ordering of division champions."
+        },
+        {
+          "rank": 30,
+          "team": "fortree",
+          "previous": 29,
+          "movement": -1,
+          "themeLabel": "Three points were insufficient again.",
+          "text": "The Skyhawks lost 7–3 at Lavaridge and sit 4–12. Their defense kept the game available. The offense did not provide the second scoring possession that might have changed it. Sootopolis is the last chance to improve that division record."
+        },
+        {
+          "rank": 31,
+          "team": "oreburgh",
+          "previous": 31,
+          "movement": 0,
+          "themeLabel": "The Miners stayed close to a division winner.",
+          "text": "Eterna won 15–10, leaving Oreburgh 3–13. Medicham’s seven-week absence is another cost. Canalave arrives with playoff hopes and new injuries of its own; the Miners can still decide whether that opponent’s season continues."
+        },
+        {
+          "rank": 32,
+          "team": "fuchsia",
+          "previous": 28,
+          "movement": -4,
+          "themeLabel": "Another close finish, another loss.",
+          "text": "The Shadows lost 17–14 at Vermilion and are 3–13. They now visit a Saffron club whose second seed is fixed but whose defense has allowed only 128 points. Fuchsia’s last scoring assignment is therefore about as welcoming as the record suggests."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/000dcd8fe777eb52.webp",
+        "alt": "Thirty-two clubs enter the final regular-season round. Abstract league-map cover art."
+      }
+    },
+    {
+      "id": "draft-wr-s1-w17",
+      "type": "draft",
+      "focus": "WR",
+      "author": "calvin-rook",
+      "teams": [],
+      "title": "The Rook Board: Meowth makes the receiver workout interesting",
+      "dek": "Seviper leads the visible ranges; Meowth leads this group in three movement tests. Twelve WR and slot prospects deserve individual comparisons.",
+      "body": [
+        {
+          "type": "p",
+          "text": "This receiver board begins with the disclosed ranges, then asks where the combine changes the next evaluation. Seviper’s 62–90 band is the highest among these twelve. Central Sinnoh’s Meowth runs the quickest forty and cone and posts the highest vertical in the group. Those are different pieces of evidence, and the most useful next step is a direct receiving workout."
+        },
+        {
+          "type": "p",
+          "text": "The order is a scouting judgment based on available ranges and measurements. It is not a forecast of the actual selection order, a statement of hidden ability or a promise about eventual development. A team choosing between a boundary receiver and an interior target should define the work first, then compare these prospects on that work."
+        },
+        {
+          "type": "p",
+          "text": "Repeated species are separate players with separate schools, ages and measurements. The two Delibird prospects and three Spinda prospects demonstrate why a species name cannot substitute for an individual evaluation. Preserve those differences when arranging workouts and when comparing what a club already has."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p1933",
+          "name": "Seviper",
+          "species": "Seviper",
+          "speciesId": 336,
+          "icon": "assets/sprites/336.png",
+          "position": "WR",
+          "age": 22,
+          "level": 16,
+          "range": [
+            62,
+            90
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 19,
+            "vertical": 34,
+            "cone": 6.87
+          },
+          "university": {
+            "id": "kanto-university-of-celadon",
+            "name": "University of Celadon",
+            "city": "Celadon City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 1,
+          "analysis": "The 62–90 listed range leads this group. Nineteen bench repetitions and a 34-inch vertical describe a different athletic profile from the lighter receivers below. Celadon’s Seviper should be tested on repeatable contested and boundary work before anyone calls the broad range a settled grade.",
+          "concern": "A 4.95 forty does not establish consistent separation. The range still spans twenty-eight points.",
+          "projection": "First receiver evaluation; match the route assignment to the observed workout."
+        },
+        {
+          "pid": "p2127",
+          "name": "Gastly",
+          "species": "Gastly",
+          "speciesId": 92,
+          "icon": "assets/sprites/92.png",
+          "position": "WR",
+          "age": 22,
+          "level": 20,
+          "range": [
+            57,
+            85
+          ],
+          "combine": {
+            "forty": 4.82,
+            "bench": 4,
+            "vertical": 41,
+            "cone": 6.53
+          },
+          "university": {
+            "id": "kalos-sycamore-university",
+            "name": "Sycamore University",
+            "city": "Lumiose City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 2,
+          "analysis": "Sycamore’s Gastly combines a 41-inch vertical with a 6.53 cone and a 57–85 range. That combination gives a club several specific movement questions to test, especially how efficiently the prospect changes direction before the catch.",
+          "concern": "Four bench repetitions leave contact work unresolved; the combine is not a receiving stat line.",
+          "projection": "Early movement and route-work evaluation."
+        },
+        {
+          "pid": "p1908",
+          "name": "Delibird",
+          "species": "Delibird",
+          "speciesId": 225,
+          "icon": "assets/sprites/225.png",
+          "position": "WR",
+          "age": 22,
+          "level": 16,
+          "range": [
+            56,
+            84
+          ],
+          "combine": {
+            "forty": 4.92,
+            "bench": 8,
+            "vertical": 41,
+            "cone": 6.62
+          },
+          "university": {
+            "id": "galar-university-of-hulbury",
+            "name": "University of Hulbury",
+            "city": "Hulbury",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 3,
+          "analysis": "Hulbury’s Delibird has a 41-inch vertical and a 6.62 cone beside a 56–84 range. The jump result is a reason to test the catch point, while the cone invites a direct comparison with Gastly on the same route set.",
+          "concern": "A 4.92 forty limits what can be assumed about straight-line separation.",
+          "projection": "Compare directly with the neighboring high-range receivers."
+        },
+        {
+          "pid": "p1938",
+          "name": "Chinchou",
+          "species": "Chinchou",
+          "speciesId": 170,
+          "icon": "assets/sprites/170.png",
+          "position": "SLOT",
+          "age": 21,
+          "level": 12,
+          "range": [
+            56,
+            84
+          ],
+          "combine": {
+            "forty": 4.87,
+            "bench": 10,
+            "vertical": 36,
+            "cone": 6.7
+          },
+          "university": {
+            "id": "johto-azalea-university",
+            "name": "Azalea University",
+            "city": "Azalea Town",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 4,
+          "analysis": "Azalea’s Chinchou is the listed SLOT prospect in this leading group. A 4.87 forty, 6.70 cone and 36-inch vertical create a coherent short-area workout assignment without proving how the player will handle every receiver job.",
+          "concern": "The slot designation and broad range leave outside responsibilities unresolved.",
+          "projection": "Evaluate for a defined interior receiving role."
+        },
+        {
+          "pid": "p2129",
+          "name": "Woobat",
+          "species": "Woobat",
+          "speciesId": 527,
+          "icon": "assets/sprites/527.png",
+          "position": "WR",
+          "age": 23,
+          "level": 23,
+          "range": [
+            46,
+            74
+          ],
+          "combine": {
+            "forty": 4.87,
+            "bench": 7,
+            "vertical": 41,
+            "cone": 6.53
+          },
+          "university": {
+            "id": "unova-icirrus-university",
+            "name": "Icirrus University",
+            "city": "Icirrus City",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 5,
+          "analysis": "Icirrus’s Woobat matches Gastly’s 6.53 cone and 41-inch vertical, but carries a lower 46–74 range. Identical drill results can coexist with different overall evaluations; use that discrepancy to organize a closer comparison.",
+          "concern": "At twenty-three, the prospect is older than several adjacent candidates. No unseen development advantage is assumed.",
+          "projection": "Movement-based comparison with the higher-range candidates."
+        },
+        {
+          "pid": "p1926",
+          "name": "Delibird",
+          "species": "Delibird",
+          "speciesId": 225,
+          "icon": "assets/sprites/225.png",
+          "position": "WR",
+          "age": 21,
+          "level": 7,
+          "range": [
+            42,
+            70
+          ],
+          "combine": {
+            "forty": 4.92,
+            "bench": 11,
+            "vertical": 36,
+            "cone": 6.66
+          },
+          "university": {
+            "id": "hoenn-university-of-lavaridge",
+            "name": "University of Lavaridge",
+            "city": "Lavaridge Town",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 6,
+          "analysis": "Lavaridge’s Delibird is twenty-one, with a 6.66 cone and 36-inch vertical. The 42–70 range sits well below the other Delibird here, so matching species does not settle the individual evaluation.",
+          "concern": "The 4.92 forty matches the older Delibird while the visible range and jumping result differ.",
+          "projection": "A separate evaluation, not an interchangeable version of the Hulbury prospect."
+        },
+        {
+          "pid": "p1913",
+          "name": "Spinda",
+          "species": "Spinda",
+          "speciesId": 327,
+          "icon": "assets/sprites/327.png",
+          "position": "WR",
+          "age": 23,
+          "level": 16,
+          "range": [
+            41,
+            69
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 9,
+            "vertical": 37,
+            "cone": 6.71
+          },
+          "university": {
+            "id": "kanto-lavender-forest-university",
+            "name": "Lavender Forest University",
+            "city": "Lavender Town",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 7,
+          "analysis": "Lavender Forest’s Spinda brings a 41–69 range, 37-inch vertical and 6.71 cone. The workout should establish whether controlled route changes can compensate for the five-second forty in the role a club actually needs.",
+          "concern": "The listed speed result supplies no basis for promising a deep-threat role.",
+          "projection": "Role-specific receiving workout before a broader ranking claim."
+        },
+        {
+          "pid": "p2150",
+          "name": "Meowth",
+          "species": "Meowth",
+          "speciesId": 52,
+          "icon": "assets/sprites/52.png",
+          "position": "WR",
+          "age": 21,
+          "level": 21,
+          "range": [
+            41,
+            69
+          ],
+          "combine": {
+            "forty": 4.71,
+            "bench": 10,
+            "vertical": 43,
+            "cone": 6.27
+          },
+          "university": {
+            "id": "sinnoh-university-of-central-sinnoh",
+            "name": "University of Central Sinnoh",
+            "city": "Eterna City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 8,
+          "analysis": "Central Sinnoh’s Meowth has the fastest forty in this twelve-player group at 4.71, the quickest cone at 6.27 and the highest vertical at 43 inches. Those are excellent reasons to investigate the gap between the athletic results and the 41–69 range.",
+          "concern": "Athletic leadership does not reveal catch consistency or establish a complete receiver grade.",
+          "projection": "Priority follow-up workout; the combine justifies attention beyond this range-based order."
+        },
+        {
+          "pid": "p1925",
+          "name": "Spinda",
+          "species": "Spinda",
+          "speciesId": 327,
+          "icon": "assets/sprites/327.png",
+          "position": "WR",
+          "age": 21,
+          "level": 19,
+          "range": [
+            38,
+            66
+          ],
+          "combine": {
+            "forty": 4.9,
+            "bench": 13,
+            "vertical": 40,
+            "cone": 6.65
+          },
+          "university": {
+            "id": "orre-university-of-gateon",
+            "name": "University of Gateon",
+            "city": "Gateon Port",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 9,
+          "analysis": "Gateon’s Spinda has thirteen bench repetitions, a 40-inch vertical and a 6.65 cone. Those results differ meaningfully from the other Spinda prospects and deserve their own receiving evaluation.",
+          "concern": "The 38–66 range remains broad; stronger individual drills do not prove every route or contact assignment.",
+          "projection": "Compare on the same drills with the other Spinda candidates."
+        },
+        {
+          "pid": "p1935",
+          "name": "Ekans",
+          "species": "Ekans",
+          "speciesId": 23,
+          "icon": "assets/sprites/23.png",
+          "position": "WR",
+          "age": 23,
+          "level": 6,
+          "range": [
+            38,
+            66
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 11,
+            "vertical": 35,
+            "cone": 6.73
+          },
+          "university": {
+            "id": "paldea-mesagoza-state-university",
+            "name": "Mesagoza State University",
+            "city": "Mesagoza",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 10,
+          "analysis": "Mesagoza State’s Ekans records eleven bench repetitions and a 6.73 cone with a 38–66 range. The prospect can be evaluated for a specific route package without pretending the available measurements reveal a finished professional role.",
+          "concern": "The 4.95 forty and 35-inch vertical provide limited support for a speed-and-jump projection.",
+          "projection": "Targeted receiving assessment with clear job requirements."
+        },
+        {
+          "pid": "p1892",
+          "name": "Spinda",
+          "species": "Spinda",
+          "speciesId": 327,
+          "icon": "assets/sprites/327.png",
+          "position": "WR",
+          "age": 21,
+          "level": 8,
+          "range": [
+            37,
+            65
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 8,
+            "vertical": 38,
+            "cone": 6.8
+          },
+          "university": {
+            "id": "hoenn-dewford-university",
+            "name": "Dewford University",
+            "city": "Dewford Town",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 11,
+          "analysis": "Dewford’s Spinda is twenty-one and has a 37–65 range. A 38-inch vertical is useful context, while the 6.80 cone trails the other two Spinda prospects in this group.",
+          "concern": "Neither age nor species establishes a hidden growth advantage.",
+          "projection": "Development consideration only after the actual receiving work is assessed."
+        },
+        {
+          "pid": "p2133",
+          "name": "Ekans",
+          "species": "Ekans",
+          "speciesId": 23,
+          "icon": "assets/sprites/23.png",
+          "position": "WR",
+          "age": 21,
+          "level": 15,
+          "range": [
+            35,
+            63
+          ],
+          "combine": {
+            "forty": 5.01,
+            "bench": 6,
+            "vertical": 34,
+            "cone": 6.81
+          },
+          "university": {
+            "id": "johto-blackthorn-state-university",
+            "name": "Blackthorn State University",
+            "city": "Blackthorn City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 12,
+          "analysis": "Blackthorn State’s Ekans has a 35–63 range, 5.01 forty and 6.81 cone. Those marks suggest that a club should demand a particularly clear explanation of the intended role before advancing the prospect over stronger visible alternatives.",
+          "concern": "The available measurements do not support an assumption of immediate separation against professional coverage.",
+          "projection": "Later comparison with a defined receiving vacancy."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/eaad1b9b980c06ba.webp",
+        "alt": "Receiver route drills set the theme for this week’s WR/SLOT prospect board. Conceptual practice-field illustration."
+      }
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "season": 1,
+  "week": 17,
+  "articles": [
+    {
+      "id": "playoff-race-s1-w17",
+      "type": "feature",
+      "author": "tessa-wren",
+      "title": "Two places left: the complete final-week playoff routes",
+      "dek": "Twelve clubs are in. Johto East, two wild cards and the remaining seed order will be settled in Week 18, with every tie branch included.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Twelve playoff places are secured. Two remain, one in each conference, and Johto East is the only undecided division. Mt. Silver joins Mossdeep with a confirmed first seed and bye. Petalburg and Eterna have secured their divisions, while Dewford, Rustboro and Vermilion have secured berths. The final regular-season round will decide the remaining entrants and several first-round matchups."
+        },
+        {
+          "type": "p",
+          "text": "Blackthorn at Lavender is the clearest division game: a Wails win gives Lavender the title and third seed; a Dragons win or tie gives Blackthorn both. The other club finishes fifth and visits fourth-seeded Cinnabar in the wild-card round. Both teams have already qualified. That distinction separates a home-game opportunity from a win-or-go-home qualification game."
+        },
+        {
+          "type": "table",
+          "title": "Confirmed places and remaining seed ranges",
+          "description": "Season 1 · after Week 17 · final-round conditions include ties",
+          "columns": [
+            "Club",
+            "Secured status",
+            "Possible seed"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Mossdeep Eclipse",
+                "First seed and bye",
+                "1"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "First seed and bye",
+                "1"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Division title",
+                "2"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "Division title",
+                "2, 3"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "Division title",
+                "4"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Division title",
+                "2, 3, 4"
+              ]
+            },
+            {
+              "cells": [
+                "Eterna Thorns",
+                "Division title",
+                "3, 4"
+              ]
+            },
+            {
+              "cells": [
+                "Blackthorn Dragons",
+                "Playoff berth",
+                "3, 5"
+              ]
+            },
+            {
+              "cells": [
+                "Lavender Wails",
+                "Playoff berth",
+                "3, 5"
+              ]
+            },
+            {
+              "cells": [
+                "Dewford Breakers",
+                "Playoff berth",
+                "5, 6"
+              ]
+            },
+            {
+              "cells": [
+                "Rustboro Stone",
+                "Playoff berth",
+                "5, 6"
+              ]
+            },
+            {
+              "cells": [
+                "Vermilion Volts",
+                "Playoff berth",
+                "6, 7"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Kanto–Johto: follow Olivine, then Violet"
+        },
+        {
+          "type": "p",
+          "text": "Olivine visits Azalea. A win puts the Ironclads in regardless of every other result. If Vermilion loses at Cerulean in that case, Olivine takes sixth and Vermilion seventh; otherwise Vermilion is sixth and Olivine seventh. A tie at Azalea is enough for Olivine only if Violet fails to beat Mahogany. A Violet win then takes the last berth."
+        },
+        {
+          "type": "p",
+          "text": "If Olivine loses, a Violet win or tie takes the final berth. If both Olivine and Violet lose, Cerulean takes it by beating Vermilion. If Cerulean also fails to win, Cianwood takes it by winning at Mt. Silver. If none of those clubs supplies the needed result, Olivine survives at 8–9. Cerulean’s winning route does not require Cianwood to lose; the Tide wins the relevant eight-win comparison."
+        },
+        {
+          "type": "flowchart",
+          "title": "The complete Kanto–Johto last-berth tree",
+          "description": "Read each rival result only after reaching its branch. Vermilion is already in; Olivine can exchange sixth and seventh with it.",
+          "nodes": [
+            {
+              "id": "start",
+              "label": "Olivine at Azalea",
+              "text": "Follow the Ironclads’ result."
+            },
+            {
+              "id": "ow",
+              "label": "Olivine wins",
+              "text": "Olivine qualifies. Sixth if Vermilion loses; otherwise seventh.",
+              "tone": "success"
+            },
+            {
+              "id": "ot",
+              "label": "Olivine ties",
+              "text": "Check Violet against Mahogany."
+            },
+            {
+              "id": "ol",
+              "label": "Olivine loses",
+              "text": "Check Violet against Mahogany."
+            },
+            {
+              "id": "tvw",
+              "label": "Violet wins",
+              "text": "Violet gets the final berth.",
+              "tone": "success"
+            },
+            {
+              "id": "tvn",
+              "label": "Violet ties or loses",
+              "text": "Olivine gets the final berth.",
+              "tone": "success"
+            },
+            {
+              "id": "lvn",
+              "label": "Violet wins or ties",
+              "text": "Violet gets the final berth.",
+              "tone": "success"
+            },
+            {
+              "id": "lvl",
+              "label": "Violet loses",
+              "text": "Check Cerulean against Vermilion."
+            },
+            {
+              "id": "cw",
+              "label": "Cerulean wins",
+              "text": "Cerulean gets the final berth.",
+              "tone": "success"
+            },
+            {
+              "id": "cn",
+              "label": "Cerulean ties or loses",
+              "text": "Check Cianwood at Mt. Silver."
+            },
+            {
+              "id": "ciw",
+              "label": "Cianwood wins",
+              "text": "Cianwood gets the final berth.",
+              "tone": "success"
+            },
+            {
+              "id": "cin",
+              "label": "Cianwood ties or loses",
+              "text": "Olivine gets the final berth.",
+              "tone": "success"
+            }
+          ],
+          "edges": [
+            {
+              "from": "start",
+              "to": "ow",
+              "label": "Win"
+            },
+            {
+              "from": "start",
+              "to": "ot",
+              "label": "Tie"
+            },
+            {
+              "from": "start",
+              "to": "ol",
+              "label": "Loss"
+            },
+            {
+              "from": "ot",
+              "to": "tvw",
+              "label": "Violet win"
+            },
+            {
+              "from": "ot",
+              "to": "tvn",
+              "label": "Violet nonwin"
+            },
+            {
+              "from": "ol",
+              "to": "lvn",
+              "label": "Violet win/tie"
+            },
+            {
+              "from": "ol",
+              "to": "lvl",
+              "label": "Violet loss"
+            },
+            {
+              "from": "lvl",
+              "to": "cw",
+              "label": "Cerulean win"
+            },
+            {
+              "from": "lvl",
+              "to": "cn",
+              "label": "Cerulean nonwin"
+            },
+            {
+              "from": "cn",
+              "to": "ciw",
+              "label": "Cianwood win"
+            },
+            {
+              "from": "cn",
+              "to": "cin",
+              "label": "Cianwood nonwin"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "The matchups make some routes harder than their short descriptions suggest. Olivine must improve on three points against Cianwood while replacing Gogoat, now out five reported weeks. Violet must recover from a four-interception loss without Zangoose, out four. Cerulean needs a victory over a nine-win opponent and two specific losses elsewhere. Cianwood must win at the conference’s top seed, then receive the necessary help. None of these routes is a probability estimate."
+        },
+        {
+          "type": "h2",
+          "text": "Hoenn–Sinnoh: Mauville has the first move"
+        },
+        {
+          "type": "p",
+          "text": "Mauville qualifies with a win at Petalburg. If the Dynamos fail to win, a Canalave win at Oreburgh gives the Bulwark the final berth. If neither wins, a Hearthome win over Pastoria gives the Haunts the place. Those three first checks settle every combination containing a win by one of the contenders."
+        },
+        {
+          "type": "p",
+          "text": "If none wins, the tie branches decide it. A Mauville tie earns the berth. If Mauville loses, a Canalave tie earns it. If both Mauville and Canalave lose, a Hearthome tie earns it. If all three lose, Mauville survives. This ordering includes Hearthome’s existing tie and the native tiebreak results; simply comparing the number of wins would miss several of these outcomes."
+        },
+        {
+          "type": "flowchart",
+          "title": "The complete Hoenn–Sinnoh last-berth tree",
+          "description": "Each nonwin branch means tie OR loss. Check the tie ladder only if all three contenders fail to win.",
+          "nodes": [
+            {
+              "id": "m",
+              "label": "Mauville at Petalburg",
+              "text": "Do the Dynamos win?"
+            },
+            {
+              "id": "mw",
+              "label": "Mauville wins",
+              "text": "Mauville qualifies.",
+              "tone": "success"
+            },
+            {
+              "id": "c",
+              "label": "Mauville ties or loses",
+              "text": "Does Canalave win at Oreburgh?"
+            },
+            {
+              "id": "cw",
+              "label": "Canalave wins",
+              "text": "Canalave qualifies.",
+              "tone": "success"
+            },
+            {
+              "id": "hh",
+              "label": "Canalave ties or loses",
+              "text": "Does Hearthome beat Pastoria?"
+            },
+            {
+              "id": "hw",
+              "label": "Hearthome wins",
+              "text": "Hearthome qualifies.",
+              "tone": "success"
+            },
+            {
+              "id": "ties",
+              "label": "Nobody wins",
+              "text": "Check Mauville’s result."
+            },
+            {
+              "id": "mt",
+              "label": "Mauville ties",
+              "text": "Mauville qualifies.",
+              "tone": "success"
+            },
+            {
+              "id": "ml",
+              "label": "Mauville loses",
+              "text": "Check Canalave’s result."
+            },
+            {
+              "id": "ct",
+              "label": "Canalave ties",
+              "text": "Canalave qualifies.",
+              "tone": "success"
+            },
+            {
+              "id": "cl",
+              "label": "Canalave loses",
+              "text": "Check Hearthome’s result."
+            },
+            {
+              "id": "ht",
+              "label": "Hearthome ties",
+              "text": "Hearthome qualifies.",
+              "tone": "success"
+            },
+            {
+              "id": "hl",
+              "label": "Hearthome loses",
+              "text": "Mauville qualifies.",
+              "tone": "success"
+            }
+          ],
+          "edges": [
+            {
+              "from": "m",
+              "to": "mw",
+              "label": "Win"
+            },
+            {
+              "from": "m",
+              "to": "c",
+              "label": "Nonwin"
+            },
+            {
+              "from": "c",
+              "to": "cw",
+              "label": "Win"
+            },
+            {
+              "from": "c",
+              "to": "hh",
+              "label": "Nonwin"
+            },
+            {
+              "from": "hh",
+              "to": "hw",
+              "label": "Win"
+            },
+            {
+              "from": "hh",
+              "to": "ties",
+              "label": "Nonwin"
+            },
+            {
+              "from": "ties",
+              "to": "mt",
+              "label": "Tie"
+            },
+            {
+              "from": "ties",
+              "to": "ml",
+              "label": "Loss"
+            },
+            {
+              "from": "ml",
+              "to": "ct",
+              "label": "Tie"
+            },
+            {
+              "from": "ml",
+              "to": "cl",
+              "label": "Loss"
+            },
+            {
+              "from": "cl",
+              "to": "ht",
+              "label": "Tie"
+            },
+            {
+              "from": "cl",
+              "to": "hl",
+              "label": "Loss"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Mauville faces a Petalburg club that has clinched Hoenn West but still has seeding work available. Canalave’s new injuries to Nidoking, nine weeks, and Seismitoad, six, complicate its trip to Oreburgh. Hearthome has won its latest game and hosts an eliminated Pastoria team. The teams’ incentives are clear; their future results remain unplayed."
+        },
+        {
+          "type": "h2",
+          "text": "Two direct games settle home advantage and wild-card order"
+        },
+        {
+          "type": "flowchart",
+          "title": "Johto East and the fifth seed",
+          "description": "Both clubs have qualified. A tie preserves Blackthorn’s division lead.",
+          "nodes": [
+            {
+              "id": "g",
+              "label": "Blackthorn at Lavender",
+              "text": "Division winner hosts the sixth seed."
+            },
+            {
+              "id": "lw",
+              "label": "Lavender wins",
+              "text": "Lavender third; Blackthorn fifth, at Cinnabar.",
+              "tone": "success"
+            },
+            {
+              "id": "bn",
+              "label": "Blackthorn wins or ties",
+              "text": "Blackthorn third; Lavender fifth, at Cinnabar.",
+              "tone": "success"
+            }
+          ],
+          "edges": [
+            {
+              "from": "g",
+              "to": "lw",
+              "label": "Lavender win"
+            },
+            {
+              "from": "g",
+              "to": "bn",
+              "label": "Blackthorn win/tie"
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Dewford at Rustboro determines fifth and sixth in Hoenn–Sinnoh. A Stone win gives Rustboro fifth and Dewford sixth. A Dewford win or a tie keeps the Breakers fifth and the Stone sixth. Both are already qualified, so the game changes their likely first-round opponent rather than whether they have a postseason."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore secures second with a win or tie at Veilstone, and also remains second if Petalburg fails to win. If Petalburg wins and Sunyshore loses, both finish 12–5 and strength of victory decides their order, with strength of schedule resolving an exact tie. The five-game check below covers every remaining combination. Petalburg finishes fourth if it loses and Eterna wins; otherwise it is third unless that five-game check moves it to second."
+        },
+        {
+          "type": "p",
+          "text": "Only if Sunyshore loses and Petalburg wins: add one point for each victory and half a point for each tie by Cinnabar, Mahogany, Rustboro, Snowpoint and Hearthome. Three or more points keeps Sunyshore second and Petalburg third. Two and a half or fewer puts Petalburg second and Sunyshore third. These points summarize the strength-of-victory comparison; they are not predicted scores or playoff odds."
+        },
+        {
+          "type": "h2",
+          "text": "The bracket that follows"
+        },
+        {
+          "type": "p",
+          "text": "The first seed in each conference rests. The second seed hosts seventh, third hosts sixth, and fourth hosts fifth. The divisional round reseeds: the highest remaining seed hosts the lowest remaining seed. That means a lower seed cannot be assigned a fixed second-round opponent before the wild-card games are played."
+        },
+        {
+          "type": "p",
+          "text": "Kanto–Johto has unusually clear anchors: Mt. Silver first, Saffron second and Cinnabar fourth. The Johto East decider fills third and fifth; Vermilion and the final qualifier fill sixth and seventh. Saffron will host seventh. Cinnabar will host whichever of Blackthorn and Lavender does not take the division. The division winner will host sixth."
+        },
+        {
+          "type": "p",
+          "text": "In Hoenn–Sinnoh, Mossdeep waits through the wild-card round. Sunyshore, Petalburg and Eterna fill the other division-winner positions. Dewford and Rustboro fill fifth and sixth, with their final head-to-head result deciding the order; Mauville, Canalave or Hearthome takes seventh. The charts identify every remaining berth route, while the unplayed seeding comparisons remain conditional."
+        },
+        {
+          "type": "p",
+          "text": "The route calculations use recorded results and the league’s native tiebreak procedures. Every berth branch settles before strength of victory. The Sunyshore–Petalburg comparison was checked separately: strength of victory can favor either club, while Petalburg has the stronger schedule in every remaining combination. Future scores are not used to award a point-based tiebreak."
+        }
+      ],
+      "frontPageOrder": 2,
+      "art": {
+        "src": "assets/editorial/436c2690b5dad7f0.webp",
+        "alt": "The final regular-season games decide two remaining playoff places. Conceptual cover art."
+      }
+    }
+  ]
+}

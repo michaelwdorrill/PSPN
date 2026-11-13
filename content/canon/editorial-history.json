@@ -1794,6 +1794,144 @@
           "team": "snowpoint"
         }
       ]
+    },
+    {
+      "key": "s1-w17",
+      "season": 1,
+      "week": 17,
+      "focus": "WR",
+      "afterBowl": false,
+      "powerTheme": "The final regular-season assignment",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep"
+        },
+        {
+          "rank": 2,
+          "team": "saffron"
+        },
+        {
+          "rank": 3,
+          "team": "goldenrod"
+        },
+        {
+          "rank": 4,
+          "team": "cinnabar"
+        },
+        {
+          "rank": 5,
+          "team": "ecruteak"
+        },
+        {
+          "rank": 6,
+          "team": "sunyshore"
+        },
+        {
+          "rank": 7,
+          "team": "petalburg"
+        },
+        {
+          "rank": 8,
+          "team": "blackthorn"
+        },
+        {
+          "rank": 9,
+          "team": "dewford"
+        },
+        {
+          "rank": 10,
+          "team": "rustboro"
+        },
+        {
+          "rank": 11,
+          "team": "eterna"
+        },
+        {
+          "rank": 12,
+          "team": "vermilion"
+        },
+        {
+          "rank": 13,
+          "team": "mauville"
+        },
+        {
+          "rank": 14,
+          "team": "hearthome"
+        },
+        {
+          "rank": 15,
+          "team": "canalave"
+        },
+        {
+          "rank": 16,
+          "team": "cianwood"
+        },
+        {
+          "rank": 17,
+          "team": "olivine"
+        },
+        {
+          "rank": 18,
+          "team": "violet"
+        },
+        {
+          "rank": 19,
+          "team": "cerulean"
+        },
+        {
+          "rank": 20,
+          "team": "lavaridge"
+        },
+        {
+          "rank": 21,
+          "team": "pewter"
+        },
+        {
+          "rank": 22,
+          "team": "sootopolis"
+        },
+        {
+          "rank": 23,
+          "team": "pastoria"
+        },
+        {
+          "rank": 24,
+          "team": "veilstone"
+        },
+        {
+          "rank": 25,
+          "team": "celadon"
+        },
+        {
+          "rank": 26,
+          "team": "viridian"
+        },
+        {
+          "rank": 27,
+          "team": "azalea"
+        },
+        {
+          "rank": 28,
+          "team": "mahogany"
+        },
+        {
+          "rank": 29,
+          "team": "snowpoint"
+        },
+        {
+          "rank": 30,
+          "team": "fortree"
+        },
+        {
+          "rank": 31,
+          "team": "oreburgh"
+        },
+        {
+          "rank": 32,
+          "team": "fuchsia"
+        }
+      ]
     }
   ]
 }

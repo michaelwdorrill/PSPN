@@ -1,0 +1,262 @@
+{
+  "season": 1,
+  "week": 17,
+  "articles": [
+    {
+      "id": "preview-s1-w18",
+      "type": "preview",
+      "author": "tessa-wren",
+      "title": "Week 18: the division decider, the last two tickets, and 17–0",
+      "dek": "Blackthorn–Lavender leads the final regular-season slate. Sixteen matchup previews and eighty independent writer picks cover every game.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "The final regular-season slate has one direct division decider, two final wild-card places and an unbeaten team chasing its seventeenth victory. Blackthorn at Lavender is the Game of the Week. Dewford at Rustboro settles fifth and sixth in Hoenn–Sinnoh, while Mauville, Canalave and Hearthome pursue the final berth through separate games. Every matchup and all eighty writer forecasts appear below."
+        },
+        {
+          "type": "p",
+          "text": "I went 12–4 last week. Mara Voss went 15–1 and chose Petalburg while I favored Rustboro 27–20. The Pride won 17–10, with two Flygon interceptions and only one Stone touchdown. Rustboro’s passing yardage did not become the balanced scoring I expected. That is the correction I carry into this week’s Dewford forecast: productive gains need a credible route to finished possessions."
+        },
+        {
+          "type": "p",
+          "text": "My Mossdeep forecast also gave the offense too much credit: I expected 41–10, and the Eclipse won 22–3 with Budew Baker starting. The defense still provided a strong foundation, but the current available lineup matters when projecting the points. Poury Holt’s new absence is part of this week’s assessment. No unannounced resting plan is assumed for a club with a secured seed."
+        },
+        {
+          "type": "p",
+          "text": "The targets below are checkable matchup goals. The scores are each writer’s independent judgment, including large mismatches, close games and one predicted tie. They are not playoff probabilities. The separate playoff feature gives the exact qualification consequences of wins, losses and ties."
+        }
+      ],
+      "matchups": [
+        {
+          "gid": "1-18-viridian",
+          "week": 18,
+          "home": "viridian",
+          "away": "celadon",
+          "matchup": "Two five-win teams get a direct final comparison",
+          "analysis": "Celadon lost 24–7 to Cinnabar; Viridian lost 20–13 to Pewter despite winning the turnover count. Both offenses need to finish more possessions. I favor Viridian’s recent ball security in a close game, with neither team having earned a large scoring projection.",
+          "awayKey": "Convert at least four third downs.",
+          "homeKey": "Allow no more than one touchdown pass.",
+          "prediction": {
+            "away": 13,
+            "home": 16
+          }
+        },
+        {
+          "gid": "1-18-pewter",
+          "week": 18,
+          "home": "pewter",
+          "away": "cinnabar",
+          "matchup": "Cinnabar brings a productive passing game to a six-win defense",
+          "analysis": "Glalie caught twelve passes for 154 yards and two touchdowns at Celadon. Pewter recovered to beat Viridian but surrendered three possessions. Cinnabar’s fourth seed is fixed; the recent receiving production still supplies the stronger forecast.",
+          "awayKey": "Complete at least sixty percent of passes.",
+          "homeKey": "Lose no more than one turnover.",
+          "prediction": {
+            "away": 28,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-18-cerulean",
+          "week": 18,
+          "home": "cerulean",
+          "away": "vermilion",
+          "matchup": "Vermilion’s seed meets Cerulean’s last route",
+          "analysis": "The Volts have qualified; the Tide must win and have both Olivine and Violet lose. Farigiraf threw two touchdowns against Saffron without an interception, but Cerulean converted only one third down. Vermilion’s 17–14 win offers a narrow scoring advantage, not a comfortable one.",
+          "awayKey": "Produce at least three scoring possessions.",
+          "homeKey": "Convert at least forty percent of third downs.",
+          "prediction": {
+            "away": 20,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-18-saffron",
+          "week": 18,
+          "home": "saffron",
+          "away": "fuchsia",
+          "matchup": "Saffron prepares from a fixed second seed",
+          "analysis": "The Psi Corps have allowed 128 points through sixteen games and just scored four touchdowns at Cerulean. Fuchsia lost 17–14 to Vermilion. The Shadows need an unusually clean offensive game to stay close to a team producing both rushing and passing scores.",
+          "awayKey": "Throw no interceptions and convert four third downs.",
+          "homeKey": "Allow no more than fourteen points.",
+          "prediction": {
+            "away": 7,
+            "home": 41
+          }
+        },
+        {
+          "gid": "1-18-azalea",
+          "week": 18,
+          "home": "azalea",
+          "away": "olivine",
+          "matchup": "Olivine can settle the wild-card race itself",
+          "analysis": "A win puts the Ironclads in. They must replace Gogoat after scoring three points at Cianwood, while Azalea went zero for eleven on third down against Mt. Silver. Bibarel’s zero remaining injury weeks is useful availability information, though it does not announce his role.",
+          "awayKey": "Score at least two offensive touchdowns.",
+          "homeKey": "Convert at least three third downs.",
+          "prediction": {
+            "away": 16,
+            "home": 10
+          }
+        },
+        {
+          "gid": "1-18-goldenrod",
+          "week": 18,
+          "home": "goldenrod",
+          "away": "cianwood",
+          "matchup": "Cianwood’s playoff route begins at the top seed",
+          "analysis": "The Crushers remain alive after a 10–3 win built on Bibarel’s carries and late takeaways. Mt. Silver has the bye secured and is adjusting to Tony Gyarzalez’s absence. Gardevoir has zero remaining injury weeks, but Cianwood’s starting quarterback assignment is not confirmed.",
+          "awayKey": "Avoid interceptions and exceed one hundred rushing yards.",
+          "homeKey": "Convert at least half of third downs.",
+          "prediction": {
+            "away": 10,
+            "home": 31
+          }
+        },
+        {
+          "gid": "1-18-violet",
+          "week": 18,
+          "home": "violet",
+          "away": "mahogany",
+          "matchup": "Violet needs a recovery and an Olivine slip",
+          "analysis": "The Falcons have a win route and a tie route, both requiring help from Olivine. Mahogany stayed within eight of Blackthorn. Violet must reduce the four interceptions from its Lavender loss while replacing Zangoose’s rushing work.",
+          "awayKey": "Hold Violet below twenty points.",
+          "homeKey": "Throw no more than one interception.",
+          "prediction": {
+            "away": 17,
+            "home": 23
+          }
+        },
+        {
+          "gid": "1-18-ecruteak",
+          "week": 18,
+          "home": "ecruteak",
+          "away": "blackthorn",
+          "matchup": "Johto East will be decided here",
+          "analysis": "Lavender takes the division with a win; Blackthorn takes it with a win or tie. Moth Ball threw five touchdowns against Violet, while Hatterene answered Blackthorn’s previous collapse with 275 yards at Mahogany. Exploud’s two-week absence complicates the Dragons’ balance.",
+          "awayKey": "Score three touchdowns and lose no more than one turnover.",
+          "homeKey": "Pressure Hatterene without allowing two thirty-yard completions.",
+          "prediction": {
+            "away": 27,
+            "home": 31
+          }
+        },
+        {
+          "gid": "1-18-rustboro",
+          "week": 18,
+          "home": "rustboro",
+          "away": "dewford",
+          "matchup": "Two confirmed wild cards decide fifth and sixth",
+          "analysis": "Rustboro takes fifth with a win; a tie or Dewford victory keeps the Breakers there. Both teams won useful defensive downs last week, but Rustboro lost two passes to Flygon. Dewford’s kickoff touchdown helped compensate for only 194 offensive yards.",
+          "awayKey": "Convert at least four third downs.",
+          "homeKey": "Lose no more than one possession to turnovers.",
+          "prediction": {
+            "away": 20,
+            "home": 17
+          }
+        },
+        {
+          "gid": "1-18-petalburg",
+          "week": 18,
+          "home": "petalburg",
+          "away": "mauville",
+          "matchup": "Mauville’s win-and-in game meets a changed Pride backfield",
+          "analysis": "The Dynamos qualify with a win. Petalburg has secured Hoenn West but lost Oinkologne for three weeks after his 119 scrimmage yards at Rustboro. Togekiss produced 247 passing yards at Dewford; Mauville needs that production to become sustained scoring.",
+          "awayKey": "Convert at least three third downs.",
+          "homeKey": "Hold Mauville below twenty-four points.",
+          "prediction": {
+            "away": 23,
+            "home": 20
+          }
+        },
+        {
+          "gid": "1-18-lavaridge",
+          "week": 18,
+          "home": "lavaridge",
+          "away": "mossdeep",
+          "matchup": "Mossdeep goes for seventeen wins",
+          "analysis": "The Eclipse remain unbeaten after Budew Baker’s winning start, but Poury Holt is now out seven weeks. Lavaridge has won three straight and is eliminated from the playoffs. The finale tests Mossdeep’s available offense against a club that can still spoil a perfect regular season.",
+          "awayKey": "Allow no more than two sacks and one turnover.",
+          "homeKey": "Hold Mossdeep below thirty points.",
+          "prediction": {
+            "away": 31,
+            "home": 10
+          }
+        },
+        {
+          "gid": "1-18-fortree",
+          "week": 18,
+          "home": "fortree",
+          "away": "sootopolis",
+          "matchup": "Two eliminated division rivals finish the schedule",
+          "analysis": "Sootopolis allowed seven sacks at Mossdeep, while Fortree scored three at Lavaridge. The Surge have the better record and a useful Pawmo receiving contribution to build on, but both offenses need to show they can sustain ordinary possessions.",
+          "awayKey": "Allow no more than three sacks.",
+          "homeKey": "Score at least two touchdowns.",
+          "prediction": {
+            "away": 17,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-18-oreburgh",
+          "week": 18,
+          "home": "oreburgh",
+          "away": "canalave",
+          "matchup": "Canalave’s final chance comes with new absences",
+          "analysis": "The Bulwark must beat Oreburgh and have Mauville fail to win for a guaranteed berth. Nidoking and Seismitoad are newly unavailable. Slowking threw three touchdowns against Snowpoint; Oreburgh’s defense just held Eterna to fifteen.",
+          "awayKey": "Throw no interceptions and score two touchdowns.",
+          "homeKey": "Hold Canalave below one hundred rushing yards.",
+          "prediction": {
+            "away": 20,
+            "home": 16
+          }
+        },
+        {
+          "gid": "1-18-eterna",
+          "week": 18,
+          "home": "eterna",
+          "away": "snowpoint",
+          "matchup": "Eterna must prepare without Tatsugiri",
+          "analysis": "The Thorns have secured Sinnoh West, but their quarterback has a seven-week injury designation and Stantler two. Snowpoint scored twenty-one at Canalave. Eterna’s defense has allowed 181 points all season; the available offense is the largest uncertainty in this matchup.",
+          "awayKey": "Avoid interceptions and reach twenty points.",
+          "homeKey": "Hold Snowpoint below twenty points.",
+          "prediction": {
+            "away": 17,
+            "home": 13
+          }
+        },
+        {
+          "gid": "1-18-hearthome",
+          "week": 18,
+          "home": "hearthome",
+          "away": "pastoria",
+          "matchup": "Hearthome needs its result and two others",
+          "analysis": "The Haunts qualify with a win if both Mauville and Canalave fail to win; a tie works if both lose. Pastoria was held to 111 yards by Sunyshore. Feraligatr’s ninety-seven rushing yards give Hearthome the more dependable recent offensive contribution.",
+          "awayKey": "Convert at least three third downs.",
+          "homeKey": "Rush for at least ninety yards.",
+          "prediction": {
+            "away": 10,
+            "home": 24
+          }
+        },
+        {
+          "gid": "1-18-veilstone",
+          "week": 18,
+          "home": "veilstone",
+          "away": "sunyshore",
+          "matchup": "Sunyshore can secure second with a road win",
+          "analysis": "The Starseekers recovered with 305 passing yards and three touchdowns at Pastoria. Veilstone lost 21–7 to Hearthome and has a new Kricketune absence. A Sunyshore win locks down second seed; the passing matchups favor that outcome.",
+          "awayKey": "Complete at least sixty percent of passes.",
+          "homeKey": "Allow no more than two passing touchdowns.",
+          "prediction": {
+            "away": 35,
+            "home": 13
+          }
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/509edc8ee9f3311d.webp",
+        "alt": "Sixteen games close the regular-season schedule. Conceptual press-box illustration."
+      }
+    }
+  ]
+}
