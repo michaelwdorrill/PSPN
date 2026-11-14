@@ -1,0 +1,263 @@
+{
+  "season": 1,
+  "week": 18,
+  "articles": [
+    {
+      "id": "feature-fourteen-team-guide-s1-w18",
+      "type": "feature",
+      "author": "ellis-quill",
+      "title": "The fourteen teams chasing the Indigo Bowl",
+      "dek": "Every contender’s season story, championship route, exposed weakness and player who can change the run.",
+      "teams": [
+        "mossdeep",
+        "goldenrod",
+        "saffron",
+        "sunyshore",
+        "ecruteak",
+        "cinnabar",
+        "blackthorn",
+        "petalburg",
+        "eterna",
+        "dewford",
+        "rustboro",
+        "olivine",
+        "vermilion",
+        "hearthome"
+      ],
+      "body": [
+        {
+          "type": "p",
+          "text": "The field is complete. Mossdeep and Mt. Silver rest in the opening round; the other twelve teams play immediately. Each profile follows the completed regular season, the current injury report and the confirmed bracket. Recovery counters describe reported time remaining, with availability to be checked again before each round."
+        },
+        {
+          "type": "h2",
+          "text": "1. Mt. Silver Reds — 14–3"
+        },
+        {
+          "type": "p",
+          "text": "Mt. Silver earned the Kanto–Johto bye with fourteen wins, then reached it with a 21–13 loss to Cianwood and another expansion of its injury list. Connor McLarren’s season has included convincing victories, a 36–33 win over Saffron and a late 38–24 defeat at Cinnabar. The first seed is a real achievement. It also gives the Reds a recovery round before they have to defend it in an elimination game."
+        },
+        {
+          "type": "p",
+          "text": "Garshawn Lynch supplies the clearest championship route. He led the league with 1,200 rushing yards despite appearing in eleven games, and his production can reduce the burden on an offense missing several familiar passers and targets. The Reds need three wins and host the lowest remaining seed in the divisional round. If Lynch keeps the offense on schedule, a visiting opponent must defend a running game capable of turning a limited passing day into a viable score."
+        },
+        {
+          "type": "p",
+          "text": "Availability is the largest weakness. Tic Thorpe has three weeks reported, Josh Alakazam four, Tony Gyarzalez five and Ariados ten; the finale added Vibrava at five and Medicham at four. Those counters are reported recovery durations, not confirmed return dates. Crem Ftzpatrik must be judged as the available quarterback rather than a placeholder for a healthier imagined roster. McLarren’s challenge is to build enough scoring from the group he can actually field."
+        },
+        {
+          "type": "h2",
+          "text": "2. Saffron Psi Corps — 14–3"
+        },
+        {
+          "type": "p",
+          "text": "Trent Scarboro brings a 14–3 team into the opening round with the league’s leading passer and a healthy current injury report. Saffron scored 597 points and allowed 138. Its regular season included a 70–0 win over Blackthorn, a 35–3 win at Cinnabar and a 49–10 finale against Fuchsia. The Psi Corps have shown the ability to turn both strong and weak opponents into a demanding afternoon."
+        },
+        {
+          "type": "p",
+          "text": "Archam Manning’s 4,633 passing yards and forty-three touchdowns give Saffron a way to win a game that exceeds its defense’s preferred score. HeeDee Lamb gained 1,878 receiving yards, and Dam Skattebo rushed for 1,026. NeMarcus Tare and Chen Norton Jr combined for fifty-two sacks. The championship route requires four wins, beginning at home against an Olivine team whose running game lost Gabite in the finale. The defense can make that first opponent carry the game through Drampa’s arm."
+        },
+        {
+          "type": "p",
+          "text": "The weakness is a record of narrow defeats against the two first seeds. Saffron lost 20–17 at Mossdeep and 36–33 at Mt. Silver, as well as its 10–9 opener at Vermilion. Its best opponents have finished close games successfully. Manning is the player who can change that ending. The current absence of positive-week injuries is an advantage, but Scarboro still has to turn the available talent into four consecutive winning performances."
+        },
+        {
+          "type": "h2",
+          "text": "3. Lavender Wails — 12–5"
+        },
+        {
+          "type": "p",
+          "text": "Lavender took Johto East with a 21–20 victory over Blackthorn, its eighth straight win. Travis Scarboro’s team had been 4–5 after losses to Sunyshore and Pastoria. It then found enough different ways to win to turn a shaky season into a division championship. The finale required a fourth-down conversion, a late touchdown, a two-point conversion and a last-second field goal. The Wails earned the home game that now awaits Vermilion."
+        },
+        {
+          "type": "p",
+          "text": "Moth Ball is the player who can carry the new phase of the story. Mr. Clanky remains out with five weeks reported, and the replacement quarterback has become central to Lavender’s finishing run. The team scored fifty-one at Violet before winning the division decider. Its route requires four wins; a successful opener could mean a trip to Saffron unless an upset changes the reseeding."
+        },
+        {
+          "type": "p",
+          "text": "The vulnerability is the difference between its late form and its full-season scoring profile. Lavender finished with 325 points for and 317 against. Mt. Silver beat it 36–6, Mossdeep 63–10 and Sunyshore 27–14. Those losses show what stronger opponents have done when Lavender cannot sustain enough offense. Scarboro needs the recent passing improvement to remain useful against playoff defenses, while the team keeps the composure that made its one-point finale possible."
+        },
+        {
+          "type": "h2",
+          "text": "4. Cinnabar Blaze — 12–5"
+        },
+        {
+          "type": "p",
+          "text": "Cinnabar enters with four consecutive wins and two particularly useful references: 31–19 at Blackthorn and 38–24 over Mt. Silver. Blaine’s team now hosts the Dragons in a rematch, with a possible trip to the Reds beyond it if the other higher seeds advance. The Blaze have already beaten both clubs on that plausible path. Their twelve-win season and 366 points establish a meaningful offensive case."
+        },
+        {
+          "type": "p",
+          "text": "Gholdengo is the player who must keep it intact. He threw for 3,867 yards and thirty touchdowns, but the finale at Pewter cost the offense Exploud, who has six weeks reported after a 657-yard receiving season. Cinnabar’s other targets have to absorb that work. Greninja’s 692 receiving yards illustrate that productive receiving roles do not always match a player’s listed position; the coverage here follows the work on the field."
+        },
+        {
+          "type": "p",
+          "text": "The strongest warning is Saffron’s 35–3 win at Cinnabar in Week 12. A successful opening stretch could still leave the Blaze facing that opponent for the conference. They also lost 41–38 at Rustboro, showing how a productive offense can be pulled into a game its defense cannot finish. Blaine needs Gholdengo’s distribution, enough protection to sustain it and a defensive response that does not depend on scoring thirty-eight every week."
+        },
+        {
+          "type": "h2",
+          "text": "5. Blackthorn Dragons — 12–5"
+        },
+        {
+          "type": "p",
+          "text": "Blackthorn’s division title disappeared in a 21–20 loss at Lavender. Hatterene threw for 301 yards in that game and finished the season with 4,532, but the Dragons now travel to Cinnabar as the fifth seed. Their twelve wins still provide a substantial season. The immediate task is to keep the disappointment of the finale from deciding a new game against an opponent that beat them 31–19 three weeks earlier."
+        },
+        {
+          "type": "p",
+          "text": "Hatterene is the reason to take the recovery seriously. The quarterback completed 377 of 517 passes and threw thirty-eight touchdowns against eight interceptions. That efficiency gives Blackthorn a route through a close road game, especially with Cinnabar replacing the injured Exploud. Sawsbuck is also missing for the Dragons, with four weeks reported after contributing 631 receiving yards. The available targets must keep the accurate passing game productive."
+        },
+        {
+          "type": "p",
+          "text": "The exploitable weakness is protection and the defensive ceiling against elite scoring. Hatterene took fifty sacks, and Saffron beat Blackthorn 70–0 in Week 16. The Dragons did respond with a win at Mahogany and a competitive division finale. A championship would require four wins, likely including more than one difficult road assignment. They need to convert the quarterback’s accuracy into sustained possession and avoid letting an opponent establish the kind of lead that makes every remaining down predictable."
+        },
+        {
+          "type": "h2",
+          "text": "6. Vermilion Volts — 10–7"
+        },
+        {
+          "type": "p",
+          "text": "Vermilion finished 10–7 by winning three straight games, 17–10 over Mahogany, 17–14 over Fuchsia and 13–10 at Cerulean. Lt. Surge’s team understands how to win inside a narrow scoring range. It also beat Saffron 10–9 in the opener, a result that remains part of its season even after the Psi Corps won the rematch 34–0."
+        },
+        {
+          "type": "p",
+          "text": "Chandelure gives the Volts their offensive route at Lavender. The listed safety did the quarterback work and finished with 3,104 passing yards and twenty-one touchdowns. The distinction matters: this is an assessment of actual production, not a lineup imagined from position labels. Lavender has won eight straight, so Vermilion needs enough passing success to make the home team defend a meaningful total rather than wait for one mistake."
+        },
+        {
+          "type": "p",
+          "text": "The loss of Drakloak is consequential. The receiving leader has nine weeks reported after gaining 755 yards; Gabite, Exploud and Delcatty also carry positive-week entries. Vermilion scored only 210 points while allowing 287. Its wins establish resilience, but the offense has not regularly supplied room for a defensive lapse. A championship would require four wins, probably with several road games. Chandelure must make the available receiving group productive enough to keep each opponent inside the kind of finish Vermilion has learned to manage."
+        },
+        {
+          "type": "h2",
+          "text": "7. Olivine Ironclads — 9–8"
+        },
+        {
+          "type": "p",
+          "text": "Olivine earned the final Kanto–Johto berth by shutting out Azalea 17–0. Jasmine’s team needed the win after losing 10–3 at home to Cianwood, and it delivered the result without asking another club to complete the job. The reward is a trip to Saffron, where the seventh seed faces one of the league’s most productive offenses and fiercest pass rushes."
+        },
+        {
+          "type": "p",
+          "text": "Drampa now carries more responsibility because Gabite suffered an eight-week injury in the finale. The leading runner finished with 702 yards; Gogoat is also out with four weeks reported. Drampa threw for 2,787 yards, with Delcatty contributing 584 receiving yards and Veluza 529. The opening route depends on protecting the quarterback, sustaining possessions and making Saffron defend more than a series of obvious pass situations."
+        },
+        {
+          "type": "p",
+          "text": "The weakness is scoring capacity. Olivine produced 220 points, was shut out at Lavender, Eterna and Mt. Silver, and now has less backfield help. Its 17–14 win over Dewford and 19–0 victory over Vermilion show that it can beat postseason opponents when the defense controls the total. A championship requires four wins, with a successful seventh seed automatically traveling to the first seed next. Drampa is the player who can keep that ambitious route alive, beginning with one clean, sustained offensive afternoon against a much stronger scoring profile."
+        },
+        {
+          "type": "h2",
+          "text": "1. Mossdeep Eclipse — 17–0"
+        },
+        {
+          "type": "p",
+          "text": "Michael Dorrill has spent the closing weeks managing a team with two simultaneous jobs: complete a perfect regular season and prepare more players to contribute in the postseason. Mossdeep did both, finishing 17–0 with wins of 22–3 and 27–0 while Budew Baker started at quarterback. The intent to rest starters and develop younger players is confirmed. The result gives the Eclipse a broader base of recent experience behind an offense that scored 724 points."
+        },
+        {
+          "type": "p",
+          "text": "Dram Marino is the player who can determine how comfortably the favorite advances. His fifty-six touchdown passes against four interceptions set a demanding standard for any defense. Accel BeckhmJr supplied 1,953 receiving yards, and Ninjaskamara rushed for 1,138 with twenty rushing touchdowns. The championship route is three wins, with the lowest surviving Hoenn–Sinnoh seed coming to Mossdeep after the bye. The defense allowed only 130 points, so opponents face a scoring requirement few have met."
+        },
+        {
+          "type": "p",
+          "text": "The vulnerability is best understood through two actual games: Dewford lost only 24–21, and Saffron lost 20–17. Mossdeep can be taken into a close finish. Poury Holt remains out with six weeks reported, removing an established backfield option. Dorrill’s task is to preserve efficient possessions and the flexibility of the remaining group rather than expect the season’s larger margins to arrive automatically."
+        },
+        {
+          "type": "h2",
+          "text": "2. Sunyshore Starseekers — 13–4"
+        },
+        {
+          "type": "p",
+          "text": "Karson Jones has a thirteen-win division champion and a familiar opening opponent. Sunyshore beat Hearthome 28–3 and 53–17 during the season. It closed with wins of 34–7 at Pastoria and 23–3 at Veilstone, giving the Starseekers a defensive performance to carry into the third meeting. Their 423 points scored and 211 allowed support the second seed."
+        },
+        {
+          "type": "p",
+          "text": "Fera LaGatr could decide how smoothly the offense handles its newest problem. The tight end finished with 766 receiving yards, while DeZhaun Watzon supplied 2,667 passing yards across the season. The finale brought a sixteen-week injury entry for 88 Special. Jones must replace that player’s receiving work without reducing the offense to a predictable set of answers. The route to a championship begins with a home win, potentially continues at home in the divisional round, and may require a trip to Mossdeep."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore’s revealing losses are 14–6 at Eterna and 27–3 at Mossdeep. Good defenses have restricted its scoring, and a third meeting with an improving Hearthome cannot be treated as a replay of either previous blowout. The Starseekers need their running and receiving options to keep producing while the defense sustains its recent control. Jones has ample reason for confidence, with a specific personnel adjustment to make before the first snap."
+        },
+        {
+          "type": "h2",
+          "text": "3. Petalburg Pride — 12–5"
+        },
+        {
+          "type": "p",
+          "text": "Petalburg won twelve games and Hoenn West despite finishing with six fewer points scored than allowed. Norman’s team repeatedly kept its season moving through close results, then clinched the division by winning 17–10 at Rustboro. The Stone return as the opening playoff opponent, with the Pride having won both regular-season meetings. A 30–7 home victory in Week 2 and the more recent road win give Petalburg two distinct examples of how to handle this matchup."
+        },
+        {
+          "type": "p",
+          "text": "Iron Valiant must now direct the offense without Oinkologne, whose two-week injury entry follows a 957-yard rushing season. The quarterback produced 2,556 passing yards and another 217 on the ground. Petalburg’s championship route starts by repeating its defensive control of Rustboro, then finding more offense against the stronger teams ahead. The third seed guarantees an opening home game but does not guarantee another."
+        },
+        {
+          "type": "p",
+          "text": "The difficult evidence is the 55–0 loss at Mossdeep and the 20–14 home defeat by Eterna. Petalburg has often won by keeping the game within a modest scoring range. Losing its leading runner makes that control harder to maintain and raises the pressure on each possession. Iron Valiant is the player who can keep the route viable through a more varied offensive contribution. The Pride have earned respect for execution in close games; the playoffs will test how often they can arrange another one."
+        },
+        {
+          "type": "h2",
+          "text": "4. Eterna Thorns — 11–6"
+        },
+        {
+          "type": "p",
+          "text": "Eterna won eleven games while allowing only 184 points, the third-lowest total in the league. Gardenia’s team beat Sunyshore 14–6 and Petalburg 20–14, then closed with a 9–3 victory over Snowpoint. The fourth seed and a home wild-card game follow from a defense that has repeatedly given a limited offense a reachable target."
+        },
+        {
+          "type": "p",
+          "text": "Slowking becomes central to the opening assignment against Dewford. The Thorns have Tatsugiri out with six weeks reported, Stantler with one and Dewgong with two after the finale. Stantler supplied 661 rushing yards and Dewgong 375 receiving yards. Those absences remove important ways to support the quarterback. A championship route requires four wins, beginning with a healthy Dewford offense that just scored thirty-five at Rustboro."
+        },
+        {
+          "type": "p",
+          "text": "Eterna’s weakness is visible in its 214 points scored. It has little spare production when a possession ends badly. Mt. Silver’s 38–0 victory and losses of 10–3 at Pastoria and 20–13 to Lavaridge show different ways that limitation can become decisive. The defense can hold the opening game within reach, but the available offense has to turn that opportunity into touchdowns. Slowking need not reproduce a league-leading season in one afternoon; he does need to produce enough successful drives that the defense is allowed a mistake."
+        },
+        {
+          "type": "h2",
+          "text": "5. Dewford Breakers — 11–6"
+        },
+        {
+          "type": "p",
+          "text": "Dewford reached the fifth seed by winning its last three games, finishing with a 35–29 victory at Rustboro. Brawly’s team produced rushing, receiving and return touchdowns in the finale and now travels to Eterna with no positive-week injury entries. That combination gives the Breakers one of the more credible road-win arguments in the opening round."
+        },
+        {
+          "type": "p",
+          "text": "Frosmoth can change the postseason by making efficient passing complement the running game. The quarterback finished with 2,459 passing yards, while Excadrill ran for 708 and Unfezant for 557. Dewford’s 328 points do not put it among the league’s highest-scoring clubs, but the final game demonstrated several routes to a useful total. Beating Eterna would likely mean a visit to Mossdeep if the other higher seeds win. The Breakers lost only 24–21 to the Eclipse in Week 4."
+        },
+        {
+          "type": "p",
+          "text": "That close result supplies belief rather than a promise. Dewford also lost both meetings with Petalburg, split with Rustboro and fell 19–13 at Hearthome. It can be drawn into a low-scoring game that ends on the wrong possession. The route is to keep the offense balanced enough to avoid that constraint, then use its current health to sustain the work over four games. Frosmoth’s ability to make a modest number of attempts count is particularly valuable against Eterna’s defense."
+        },
+        {
+          "type": "h2",
+          "text": "6. Rustboro Stone — 9–8"
+        },
+        {
+          "type": "p",
+          "text": "Rustboro has a third meeting with Petalburg and two defeats to explain. Tyler Scarboro’s team finished 9–8 after a 35–29 loss to Dewford, a game in which its offense repeatedly answered before a costly fumble helped end the comeback chance. The sixth seed sends the Stone to the division champion. Their 336 points scored and 342 allowed describe a team capable of entertaining both sidelines."
+        },
+        {
+          "type": "p",
+          "text": "Shawn Watzon is the player who can give the opening game a different shape. His season total reached 2,149 passing yards after he took over a larger share of the quarterback work. Gibby Timmy finished with 953 receiving yards, and Philly Gabite ran for 870. Rustboro also has My Way, Son’s 698 rushing yards. There is enough production to challenge Petalburg’s preferred low-scoring game, especially while the Pride are missing Oinkologne."
+        },
+        {
+          "type": "p",
+          "text": "The weakness is getting enough stops to let that offense matter. Sunyshore beat Rustboro 41–7, Mossdeep won 35–7 and Dewford just scored thirty-five. Milotic remains out with four weeks reported. A championship would require four wins, with the lowest surviving seed sent to Mossdeep after the opening round. Scarboro needs the offense to finish drives without giving away the ball and the defense to prevent opponents from answering at will. The pieces for an opening upset are more convincing than the evidence for four consecutive wins."
+        },
+        {
+          "type": "h2",
+          "text": "7. Hearthome Haunts — 8–8–1"
+        },
+        {
+          "type": "p",
+          "text": "Hearthome won its last five games to finish 8–8–1 and take the final Hoenn–Sinnoh berth. The tie at Mahogany in Week 9 ultimately mattered in a crowded race. Fantina’s team closed with a 21–13 win over Pastoria, completing a recovery that also included victories over Snowpoint, Dewford, Fortree and Veilstone."
+        },
+        {
+          "type": "p",
+          "text": "Frosmoth is the player who can make the new form travel. The quarterback finished with 3,101 passing yards, twenty touchdowns and thirteen interceptions. Haunter supplied 545 receiving yards, and Castform added 503. Hearthome needs that group to sustain drives at Sunyshore, where it lost 28–3 in the opener. The Starseekers also won the return meeting 53–17. Those are substantial obstacles, even with Hearthome now playing its best results sequence of the season."
+        },
+        {
+          "type": "p",
+          "text": "The vulnerability is allowing the stronger opponent to choose the pace and score. Hearthome conceded 299 points, and both Sunyshore games became clear defeats. Dodrio remains out with two weeks reported and Mr. Mime with six, while Sunyshore has its own new receiving absence. The Haunts’ route requires four wins, and a successful seventh seed would visit Mossdeep next. Frosmoth’s control of the ball and ability to convert the available targets into sustained offense determine whether the five-game revival becomes a postseason win."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/3b2a2ed3157162c2.webp",
+        "alt": "Fourteen clubs remain in the championship field. Conceptual island-stadium illustration; figures are symbolic."
+      }
+    }
+  ]
+}

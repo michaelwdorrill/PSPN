@@ -1,0 +1,229 @@
+{
+  "season": 1,
+  "week": 18,
+  "nextWeek": 19,
+  "games": [
+    {
+      "gid": "1-wildcard-kj-saffron",
+      "away": "olivine",
+      "home": "saffron",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 3,
+          "home": 42,
+          "reason": "Archam Manning has thrown forty-three touchdown passes, and Olivine has lost its 702-yard runner. I expect the Psi Corps to keep adding possessions while the visitors struggle to extend theirs."
+        },
+        {
+          "author": "mara-voss",
+          "away": 7,
+          "home": 38,
+          "reason": "NeMarcus Tare and Chen Norton Jr have combined for fifty-two sacks. A backfield missing both Gabite and Gogoat leaves Drampa far too much protection work to solve with his arm."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 10,
+          "home": 31,
+          "reason": "Olivine earned this trip by recovering from a painful home loss, and its defense deserves credit for the shutout at Azalea. Saffron can still answer that resilience with several more scoring options."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 6,
+          "home": 45,
+          "reason": "Trent Scarboro has a 597-point offense and a clean injury report. The Ironclads scored 220 all season and just lost their leading runner; I cannot make those facts produce a polite margin."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 10,
+          "home": 34,
+          "reason": "Olivine can make Saffron work for an early lead, but the receiving depth around Manning should outlast an offense now missing Gabite and Gogoat. I expect the separation to grow across the game."
+        }
+      ]
+    },
+    {
+      "gid": "1-wildcard-kj-ecruteak",
+      "away": "vermilion",
+      "home": "ecruteak",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 10,
+          "home": 27,
+          "reason": "Vermilion has scored thirteen, seventeen and seventeen in its last three wins. Lavender has reached a higher offensive level, and I do not think the Volts can keep this to their preferred score."
+        },
+        {
+          "author": "mara-voss",
+          "away": 13,
+          "home": 24,
+          "reason": "Moth Ball has helped sustain wins through three different opponent tests. Vermilion is missing its 755-yard receiving leader, which makes matching even a moderate Lavender total difficult."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 17,
+          "home": 23,
+          "reason": "Travis Scarboro has kept the Wails moving after losing Mr. Clanky. I trust that continuity, although Vermilion has enough experience in close finishes to make the last quarter uncomfortable."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 14,
+          "home": 20,
+          "reason": "I will give Lavender its division, its home game and a narrow win. I will not turn a plus-eight season differential into proof that Vermilion cannot make this awkward."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 13,
+          "home": 24,
+          "reason": "The Wails have won eight straight and just handled the pressure of a division decider. Their passing improvement supplies more repeatable scoring than Vermilion has shown over its three narrow finishing wins."
+        }
+      ]
+    },
+    {
+      "gid": "1-wildcard-kj-cinnabar",
+      "away": "blackthorn",
+      "home": "cinnabar",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 20,
+          "home": 27,
+          "reason": "Cinnabar has beaten Blackthorn and Mt. Silver during this four-game run. Exploud is a serious loss, but Gholdengo has shown enough distribution to keep the stronger recent offense ahead."
+        },
+        {
+          "author": "mara-voss",
+          "away": 24,
+          "home": 21,
+          "reason": "Hatterene completed 377 of 517 passes this season. With Cinnabar losing its 657-yard tight end in the finale, I favor the quarterback whose accuracy can keep the rematch moving despite the road setting."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 20,
+          "home": 24,
+          "reason": "Blackthorn lost a division by one point and has an immediate chance to recover. I still trust Cinnabar’s four straight wins, provided Gholdengo spreads the work that Exploud leaves behind."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 17,
+          "home": 31,
+          "reason": "Blaine beat these Dragons by twelve on their field and beat Mt. Silver by fourteen the following week. Exploud’s absence narrows the options; it does not erase what Gholdengo has built."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 23,
+          "home": 27,
+          "reason": "Cinnabar’s earlier road win and four-game finish give it a small edge. Hatterene should keep Blackthorn within one possession, while the Blaze need a collective answer to Exploud’s missing targets."
+        }
+      ]
+    },
+    {
+      "gid": "1-wildcard-hs-sunyshore",
+      "away": "hearthome",
+      "home": "sunyshore",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 13,
+          "home": 31,
+          "reason": "Hearthome’s five-win finish deserves attention, but Sunyshore has already scored eighty-one points in two meetings. I see improvement for the Haunts without enough improvement to reverse the matchup."
+        },
+        {
+          "author": "mara-voss",
+          "away": 17,
+          "home": 34,
+          "reason": "The Starseekers have conceded ten points across the last two games. Their defense gives the offense time to work around 88 Special’s absence instead of needing an immediate shootout response."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 20,
+          "home": 27,
+          "reason": "The Haunts have earned the right to be assessed as the team that finished, not only the team that lost by thirty-six. Sunyshore remains better, with the injury making this third meeting less comfortable."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 21,
+          "home": 38,
+          "reason": "Karson Jones already owns two convincing wins here. Hearthome can score more against a familiar opponent, but I expect Fera LaGatr and the Starseekers to keep the home crowd involved all afternoon."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 14,
+          "home": 30,
+          "reason": "Sunyshore’s two head-to-head wins and its closing defense outweigh Hearthome’s improved form. The absence of 88 Special should reduce some offensive flexibility, so I am projecting less than the fifty-three from the second meeting."
+        }
+      ]
+    },
+    {
+      "gid": "1-wildcard-hs-petalburg",
+      "away": "rustboro",
+      "home": "petalburg",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 24,
+          "home": 17,
+          "reason": "Rustboro has the higher scoring ceiling, and Petalburg is still missing its 957-yard runner. I expect Philly Gabite and Gibby Timmy to produce enough offense to make the third meeting different."
+        },
+        {
+          "author": "mara-voss",
+          "away": 17,
+          "home": 23,
+          "reason": "Petalburg won both meetings, including the recent game in Rustboro. The Stone just conceded thirty-five; I need more than the promise of offensive improvement before picking them to reverse the matchup."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 20,
+          "home": 21,
+          "reason": "The Pride have repeatedly won games that offer very little spare room. Oinkologne’s absence makes another close finish likely, and I give the home team a narrow edge in executing it."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 27,
+          "home": 20,
+          "reason": "Tyler Scarboro’s offense put twenty-nine on Dewford and can attack a game without Oinkologne. I expect Rustboro to push the scoring beyond the modest total Petalburg would prefer."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 20,
+          "reason": "Petalburg’s two head-to-head wins carry more weight than Rustboro’s extra points in a loss. The absent running back keeps this close, but the Pride have already demonstrated the defensive plan twice."
+        }
+      ]
+    },
+    {
+      "gid": "1-wildcard-hs-eterna",
+      "away": "dewford",
+      "home": "eterna",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 24,
+          "home": 13,
+          "reason": "Dewford has just scored thirty-five on the road and has no positive-week injury entries. Eterna’s three important offensive absences make its usual small margin for error feel much smaller."
+        },
+        {
+          "author": "mara-voss",
+          "away": 20,
+          "home": 10,
+          "reason": "The Thorns have a strong defense, but Slowking is being asked to work without the leading runner and a 375-yard tight end. Dewford can win this by building two proper touchdown drives."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 17,
+          "home": 16,
+          "reason": "Eterna’s defense has carried a season, so I expect it to give the crowd a game. Dewford has the healthier available group and enough recent offense to finish one possession better."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 27,
+          "home": 13,
+          "reason": "The Breakers scored thirty-five at Rustboro while Eterna managed nine against Snowpoint. The Thorns can make Brawly wait for his points; their injured offense makes a matching total difficult."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 13,
+          "reason": "Eterna’s 184 points allowed keep this within reach, but Dewgong’s new injury joins Stantler and Tatsugiri on an already restrictive report. Dewford’s healthier offense gives it a slight road advantage."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "season": 1,
+  "week": 18,
+  "articles": [
+    {
+      "id": "preview-wildcard-s1-w18",
+      "type": "preview",
+      "author": "tessa-wren",
+      "title": "Wild-card weekend: six games, twelve clubs, no spare week",
+      "dek": "The complete opening slate and thirty independently authored staff score picks.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Mossdeep and Mt. Silver have the byes. Everyone else must win immediately. Our six full game previews accompany this round overview; the panel below preserves each writer’s own forecast, including the disagreements at Cinnabar and Petalburg. These are editorial predictions, made from the completed regular season and current availability."
+        }
+      ],
+      "matchups": [
+        {
+          "gid": "1-wildcard-kj-saffron",
+          "away": "olivine",
+          "home": "saffron",
+          "title": "Olivine arrives with a berth and an injured backfield",
+          "analysis": "The Ironclads earned their invitation with a shutout, then learned that Gabite faces eight weeks out. Saffron has a healthy current report, the league passing-yardage leader and two rushers with at least twenty-three sacks. Drampa must keep this from becoming a succession of obvious passing downs.",
+          "matchup": "Olivine arrives with a berth and an injured backfield",
+          "awayKey": "Keep Drampa below three sacks and finish two touchdown drives.",
+          "homeKey": "Turn the depleted Olivine running game into long third downs.",
+          "prediction": {
+            "away": 10,
+            "home": 34,
+            "reason": "Olivine can make Saffron work for an early lead, but the receiving depth around Manning should outlast an offense now missing Gabite and Gogoat. I expect the separation to grow across the game."
+          }
+        },
+        {
+          "gid": "1-wildcard-kj-ecruteak",
+          "away": "vermilion",
+          "home": "ecruteak",
+          "title": "Lavender brings its new division title into a different kind of test",
+          "analysis": "The Wails won Johto East by one point and have won eight straight. Vermilion finished with three straight wins, none by more than seven. Moth Ball gives Lavender a developing passing story, while Chandelure must create enough scoring without the injured Drakloak.",
+          "matchup": "Lavender brings its new division title into a different kind of test",
+          "awayKey": "Score at least twenty points without an interception return or short field being required.",
+          "homeKey": "Convert the recent passing surge into three touchdown possessions.",
+          "prediction": {
+            "away": 13,
+            "home": 24,
+            "reason": "The Wails have won eight straight and just handled the pressure of a division decider. Their passing improvement supplies more repeatable scoring than Vermilion has shown over its three narrow finishing wins."
+          }
+        },
+        {
+          "gid": "1-wildcard-kj-cinnabar",
+          "away": "blackthorn",
+          "home": "cinnabar",
+          "title": "Cinnabar and Blackthorn meet again with less receiving help",
+          "analysis": "The Blaze won at Blackthorn 31–19 in Week 15 and enter on four straight victories. Their finale cost them Exploud for six weeks. Hatterene has 4,532 passing yards for the Dragons, who are also missing Sawsbuck. This rematch asks both quarterbacks to replace important production.",
+          "matchup": "Cinnabar and Blackthorn meet again with less receiving help",
+          "awayKey": "Protect Hatterene well enough to keep sack losses from ending scoring drives.",
+          "homeKey": "Redistribute Exploud’s targets without losing the middle of the passing game.",
+          "prediction": {
+            "away": 23,
+            "home": 27,
+            "reason": "Cinnabar’s earlier road win and four-game finish give it a small edge. Hatterene should keep Blackthorn within one possession, while the Blaze need a collective answer to Exploud’s missing targets."
+          }
+        },
+        {
+          "gid": "1-wildcard-hs-sunyshore",
+          "away": "hearthome",
+          "home": "sunyshore",
+          "title": "Sunyshore starts a third meeting without 88 Special",
+          "analysis": "The Starseekers won the regular-season meetings 28–3 and 53–17. Hearthome has won five straight since the second defeat and carries a different confidence into the rematch. Sunyshore’s finale also brought a sixteen-week injury entry for 88 Special. Karson Jones must adjust a winning offense immediately.",
+          "matchup": "Sunyshore starts a third meeting without 88 Special",
+          "awayKey": "Hold Sunyshore below twenty-eight points and protect Frosmoth from early giveaways.",
+          "homeKey": "Replace 88 Special’s receiving work while sustaining the defensive form of the last two games.",
+          "prediction": {
+            "away": 14,
+            "home": 30,
+            "reason": "Sunyshore’s two head-to-head wins and its closing defense outweigh Hearthome’s improved form. The absence of 88 Special should reduce some offensive flexibility, so I am projecting less than the fifty-three from the second meeting."
+          }
+        },
+        {
+          "gid": "1-wildcard-hs-petalburg",
+          "away": "rustboro",
+          "home": "petalburg",
+          "title": "Rustboro gets a third chance at the division champion",
+          "analysis": "Petalburg won both meetings, 30–7 and 17–10, and now hosts a third. Oinkologne remains out with two weeks reported, while Rustboro must recover from conceding thirty-five to Dewford. The Stone have enough rushing and receiving production to make an upset plausible if their defense gives it time.",
+          "matchup": "Rustboro gets a third chance at the division champion",
+          "awayKey": "Keep Petalburg under twenty points and finish three scoring possessions.",
+          "homeKey": "Win first down without Oinkologne and avoid giving Rustboro a possession advantage.",
+          "prediction": {
+            "away": 17,
+            "home": 20,
+            "reason": "Petalburg’s two head-to-head wins carry more weight than Rustboro’s extra points in a loss. The absent running back keeps this close, but the Pride have already demonstrated the defensive plan twice."
+          }
+        },
+        {
+          "gid": "1-wildcard-hs-eterna",
+          "away": "dewford",
+          "home": "eterna",
+          "title": "Dewford’s surge meets Eterna’s reduced offense",
+          "analysis": "Eterna allowed only 184 points all season, then won its finale 9–3. Dewford arrives after three straight wins and thirty-five points at Rustboro. The Thorns are missing Stantler, Tatsugiri and now Dewgong, making this a test of whether their defense can leave enough work for the available offense.",
+          "matchup": "Dewford’s surge meets Eterna’s reduced offense",
+          "awayKey": "Turn two sustained drives into touchdowns rather than settling for field goals.",
+          "homeKey": "Hold Dewford below twenty and give Slowking manageable third downs.",
+          "prediction": {
+            "away": 17,
+            "home": 13,
+            "reason": "Eterna’s 184 points allowed keep this within reach, but Dewgong’s new injury joins Stantler and Tatsugiri on an already restrictive report. Dewford’s healthier offense gives it a slight road advantage."
+          }
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/d73947cf4371b160.webp",
+        "alt": "Six wild-card games open the postseason. Conceptual six-gate stadium illustration; figures are symbolic."
+      }
+    }
+  ]
+}

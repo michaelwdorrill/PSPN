@@ -1,0 +1,570 @@
+{
+  "season": 1,
+  "week": 18,
+  "articles": [
+    {
+      "id": "power-s1-w18",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "The final regular-season Pecking Order: Mossdeep finishes first",
+      "dek": "Thirty-two clubs, seventeen results apiece, and a clear leading pair before the postseason begins.",
+      "teams": [],
+      "theme": "The completed regular season",
+      "body": [
+        {
+          "type": "p",
+          "text": "Mossdeep and Saffron finish first and second. This is my final ranking of regular-season strength, considering the full schedule, recent performance and the personnel involved. It is separate from the seeded bracket and from the championship-route ranking below. Planned rest matters when interpreting Mossdeep’s last two games; a win remains a win when the younger players deliver it."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "previous": 1,
+          "themeLabel": "Seventeen wins, with useful work behind the starters.",
+          "text": "Michael Dorrill’s confirmed rest-and-development finish produced a 22–3 win and a 27–0 shutout. Budew Baker threw three touchdowns in the finale; Shawn Mareman rushed for 153 yards. Dram Marino’s fifty-six-touchdown season and the league’s best scoring defense keep the Eclipse first. Poury Holt’s absence remains a real cost."
+        },
+        {
+          "rank": 2,
+          "team": "saffron",
+          "previous": 2,
+          "themeLabel": "The strongest challenger finishes emphatically.",
+          "text": "Archam Manning threw five touchdowns, HeeDee Lamb caught three and NeMarcus Tare recorded six sacks in a 49–10 win. The Psi Corps finish with 597 points scored and 138 allowed. Their second seed requires an extra playoff game, but this ranking rewards their whole-season strength and healthy current roster."
+        },
+        {
+          "rank": 3,
+          "team": "goldenrod",
+          "previous": 3,
+          "themeLabel": "A bye earned before an uncomfortable finale.",
+          "text": "Mt. Silver’s 21–13 loss to Cianwood does not erase fourteen wins or the head-to-head victory over Saffron. It does expose the strain of the injury list: Crem Ftzpatrik threw for 160 yards without a touchdown. Garshawn Lynch remains productive. The Reds need the week off to yield a coherent available offense."
+        },
+        {
+          "rank": 4,
+          "team": "sunyshore",
+          "previous": 6,
+          "themeLabel": "Thirteen wins, then a receiving problem.",
+          "text": "The Starseekers rushed for 213 yards and held Veilstone to ninety-five total in a 23–3 win. That is a strong final defensive statement. The sixteen-week absence for 88 Special removes ten season receiving touchdowns, placing greater responsibility on Fera LaGatr and the available receivers before Hearthome arrives."
+        },
+        {
+          "rank": 5,
+          "team": "cinnabar",
+          "previous": 4,
+          "themeLabel": "Four straight wins carry a fourth seed.",
+          "text": "The Blaze beat Pewter 13–7 after more expansive wins over Mt. Silver and Blackthorn. Gholdengo’s thirty passing touchdowns support the case that Cinnabar can threaten better-seeded teams. Exploud’s six-week absence makes the immediate Blackthorn rematch more difficult than the earlier result alone suggests."
+        },
+        {
+          "rank": 6,
+          "team": "ecruteak",
+          "previous": 5,
+          "themeLabel": "Eight straight, and a division won at the last kick.",
+          "text": "Lavender’s 21–20 victory required a fourth-down conversion, a late touchdown and a fifty-one-yard field goal. The eight-game streak is persuasive; the season’s plus-eight point differential also warns how often the Wails have needed a precise finish. They earned the home playoff game against Vermilion."
+        },
+        {
+          "rank": 7,
+          "team": "blackthorn",
+          "previous": 8,
+          "themeLabel": "One point changed the route.",
+          "text": "Hatterene threw for 301 yards, but Lavender’s last drive turned a division title into a fifth seed. The Dragons still have twelve wins and a productive passing attack. Their 348 points allowed leave less protection for a close-game offense than the higher clubs on this list enjoy."
+        },
+        {
+          "rank": 8,
+          "team": "dewford",
+          "previous": 9,
+          "themeLabel": "Thirty-five points earn the better wild-card trip.",
+          "text": "Dewford beat Rustboro 35–29, converting eight of eleven third downs and receiving a kickoff-return touchdown from Meowscarada. The fifth seed sends the Breakers to Eterna. A healthy current roster and several ways to score lift them above the lower-scoring division champions immediately below."
+        },
+        {
+          "rank": 9,
+          "team": "petalburg",
+          "previous": 7,
+          "themeLabel": "Twelve wins, with little spare margin.",
+          "text": "The Pride beat Mauville 13–7 and will host Rustboro for the third meeting of the season. Petalburg won the first two. Its 286 points scored and 292 allowed make the record unusual, while Oinkologne’s continued absence complicates the effort to produce another controlled, low-scoring win."
+        },
+        {
+          "rank": 10,
+          "team": "eterna",
+          "previous": 11,
+          "themeLabel": "The defense has made eleven wins possible.",
+          "text": "A 9–3 victory completed a season with 184 points allowed. Tatsugiri, Stantler and now Dewgong have positive-week absences. The Thorns get a home playoff game, but the available offense must offer more support against Dewford’s multiple scoring threats than a single-digit finale required."
+        },
+        {
+          "rank": 11,
+          "team": "rustboro",
+          "previous": 10,
+          "themeLabel": "The offense travels; the defensive questions travel too.",
+          "text": "Shawn Watzon threw for 296 yards without an interception and Gibby Timmy caught 148, yet Rustboro lost 35–29. The Stone finish 9–8. Their explosive receiving plays give them a plausible upset route, while the third-down and return concessions in the finale explain why it remains an upset pick."
+        },
+        {
+          "rank": 12,
+          "team": "vermilion",
+          "previous": 12,
+          "themeLabel": "Ten wins earned through tight finishes.",
+          "text": "A 13–10 victory at Cerulean secured sixth seed. The Volts’ 210 points scored and 287 allowed are a warning about their scoring ceiling, particularly with Drakloak still out. Repeated close wins deserve credit; they do not make the trip to an eight-win-streak Lavender offense comfortable."
+        },
+        {
+          "rank": 13,
+          "team": "olivine",
+          "previous": 17,
+          "themeLabel": "The required win arrived as a shutout.",
+          "text": "Olivine beat Azalea 17–0 and qualified without help. Gabite’s new eight-week absence joins continuing backfield losses before the trip to Saffron. Nine wins earn a place in the tournament; the 220-point season and current availability keep the Ironclads near its lower edge in strength."
+        },
+        {
+          "rank": 14,
+          "team": "hearthome",
+          "previous": 14,
+          "themeLabel": "The final berth belongs to the team that finished its part.",
+          "text": "Hearthome beat Pastoria 21–13 while Mauville and Canalave lost. The 8–8–1 record becomes a seventh seed and a visit to Sunyshore. The Haunts have won their final two games, but must produce a stronger answer to a thirteen-win opponent than their season-long minus-twenty-five margin suggests."
+        },
+        {
+          "rank": 15,
+          "team": "cianwood",
+          "previous": 16,
+          "themeLabel": "An upset worth recognizing after elimination.",
+          "text": "Crobat scored on a ninety-eight-yard kickoff return and caught two touchdowns in a 21–13 win at Mt. Silver. Cianwood finished 8–9 and outside the field. The final result moves the Crushers above other eliminated clubs here without pretending it changed the qualifying table."
+        },
+        {
+          "rank": 16,
+          "team": "mauville",
+          "previous": 13,
+          "themeLabel": "A six-point loss ended the controllable route.",
+          "text": "The Dynamos could qualify by winning at Petalburg and lost 13–7. Their 248 points scored and 262 allowed describe a competitive 8–9 team whose final offensive possession count never became enough points. Hearthome’s victory completed the consequence."
+        },
+        {
+          "rank": 17,
+          "team": "violet",
+          "previous": 18,
+          "themeLabel": "Two damaging losses closed the schedule.",
+          "text": "Mahogany won 27–13 after Lavender’s 51–10 victory the previous week. Violet finished 8–9, with 314 points allowed. The Falcons remained relevant late into the race, but the last two performances leave a substantial gap between that opportunity and the final ranking."
+        },
+        {
+          "rank": 18,
+          "team": "celadon",
+          "previous": 25,
+          "themeLabel": "The final road win improves the ending.",
+          "text": "Celadon beat Viridian 21–10 and finished 6–11 with a minus-thirty-seven differential. The defense allowed 244 points, better than several clubs with more wins. The 207-point offense kept that defensive work from becoming a postseason place."
+        },
+        {
+          "rank": 19,
+          "team": "pewter",
+          "previous": 21,
+          "themeLabel": "The defense kept another game within reach.",
+          "text": "Cinnabar won 13–7, leaving Pewter 6–11. The Rockers allowed 243 points and scored 181. Their final two results, a win at Viridian and this close loss, illustrate a competitive defense with too little consistent scoring behind it."
+        },
+        {
+          "rank": 20,
+          "team": "sootopolis",
+          "previous": 22,
+          "themeLabel": "A one-point win closes a difficult division season.",
+          "text": "The Surge beat Fortree 17–16 and finished 7–10. Drampa’s 3,169 passing yards and twenty-five touchdowns give the offense a meaningful individual season. The team’s 354 points allowed kept that production from supporting a winning record."
+        },
+        {
+          "rank": 21,
+          "team": "lavaridge",
+          "previous": 20,
+          "themeLabel": "Mossdeep ended the late recovery decisively.",
+          "text": "The Inferno’s three-game winning streak ended in a 27–0 loss. Lavaridge managed 132 yards and nineteen rushing yards against an opponent using its confirmed development plan. Seven wins remain, but the finale reinforces the distance to the division leader."
+        },
+        {
+          "rank": 22,
+          "team": "canalave",
+          "previous": 15,
+          "themeLabel": "The necessary victory never arrived.",
+          "text": "Oreburgh won 14–10 and Canalave finished 8–9. Injuries had complicated the last assignment, and the season’s 183 points scored left little room for another missed chance. The Bulwark’s record stays respectable while the final scoring profile limits this ranking."
+        },
+        {
+          "rank": 23,
+          "team": "mahogany",
+          "previous": 28,
+          "themeLabel": "A useful final win against a team with stakes.",
+          "text": "The Frost beat Violet 27–13 and finished 5–11–1. Their defensive playmakers, including Lopunny, supplied individual seasons worth honoring. The ending lifts Mahogany here without making the larger losing record disappear."
+        },
+        {
+          "rank": 24,
+          "team": "cerulean",
+          "previous": 19,
+          "themeLabel": "The narrow last route ended at home.",
+          "text": "Vermilion won 13–10, leaving the Tide 7–10. The playoff condition required a win and help; Cerulean did not complete its own part. Its 365 points allowed provide a season-long explanation for why seven wins required so much offensive recovery."
+        },
+        {
+          "rank": 25,
+          "team": "veilstone",
+          "previous": 24,
+          "themeLabel": "The final offense could not sustain a challenge.",
+          "text": "Sunyshore held the Fists to ninety-five yards in a 23–3 loss. Ponyta and Vigoroth supplied productive rookie seasons, but the club finished 6–11 with 185 points scored. Those individual cases belong on awards ballots without turning into a claim of team strength."
+        },
+        {
+          "rank": 26,
+          "team": "pastoria",
+          "previous": 23,
+          "themeLabel": "Hearthome found the scores it needed.",
+          "text": "The Waves lost 21–13 and finished 6–11. Kilowattrel’s thirty-one special-teams tackles offer a separate individual achievement. The final result also closes the week in which Pastoria could still affect a rival’s invitation."
+        },
+        {
+          "rank": 27,
+          "team": "viridian",
+          "previous": 26,
+          "themeLabel": "The backfield workload did not produce enough points.",
+          "text": "Celadon won 21–10 in the finale. Gabite’s 1,126 rushing yards and Sigilyph’s eleven interceptions are substantial individual totals on a 5–12 club. The Titans could generate useful work in isolated areas without combining it into consistent wins."
+        },
+        {
+          "rank": 28,
+          "team": "fortree",
+          "previous": 30,
+          "themeLabel": "A close loss leaves four wins.",
+          "text": "Sootopolis won 17–16. Fortree had conceded only seven points the previous week and still lost, so the two finales contain different immediate problems. Across the season, the Skyhawks could not make enough scoring and defensive work coincide."
+        },
+        {
+          "rank": 29,
+          "team": "snowpoint",
+          "previous": 29,
+          "themeLabel": "Three points finished the schedule.",
+          "text": "Eterna won 9–3. Snowpoint’s Drampa threw twenty touchdowns against seven interceptions over the season, and Oinkologne rushed for 943 yards. Those useful totals never became enough team scoring to escape a four-win finish."
+        },
+        {
+          "rank": 30,
+          "team": "oreburgh",
+          "previous": 31,
+          "themeLabel": "The final win changed another club’s season.",
+          "text": "The Miners beat Canalave 14–10 and helped decide the last Hoenn–Sinnoh berth. Drednaw’s 11.5 sacks stand out as an individual achievement. Four wins still place Oreburgh low, but the final afternoon gave its supporters a consequential result."
+        },
+        {
+          "rank": 31,
+          "team": "azalea",
+          "previous": 27,
+          "themeLabel": "The final shutout confirmed the scoring problem.",
+          "text": "Olivine won 17–0 after Mt. Silver’s 41–9 victory the prior week. Azalea could not make a playoff-seeking visitor earn a high score. The ending leaves little basis for lifting the Swarm in the final regular-season order."
+        },
+        {
+          "rank": 32,
+          "team": "fuchsia",
+          "previous": 32,
+          "themeLabel": "Saffron ended the season with seven touchdowns.",
+          "text": "The Shadows lost 49–10 and finished 3–14. Heatmor’s 850 receiving yards remain worthy of individual consideration. Six sacks conceded to Tare in the finale supply a direct example of the protection problems that made the scoring task harder."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/107eb0191db9555a.webp",
+        "alt": "The final ranking covers all thirty-two clubs. Conceptual miniature-stadium illustration."
+      }
+    },
+    {
+      "id": "feature-contender-rankings-s1-w18",
+      "type": "feature",
+      "author": "rowan-vale",
+      "title": "The fourteen championship routes, ranked",
+      "dek": "A separate postseason judgment: byes, opponents and confirmed availability change the path from a good season to the Indigo Bowl.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "This ranking judges the remaining championship routes, not the completed league table. It is an editorial order rather than simulated odds. The two top seeds need three wins; every other entrant needs four. Reseeding sends each first seed the lowest surviving conference seed, so the next opponent remains conditional."
+        }
+      ],
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "themeLabel": "Championship route",
+          "text": "A bye and home field put the 17–0 team three wins from a championship. Marino’s efficient season and the defense’s 130 points allowed make this the strongest route. The planned late rest supplied experience to Baker and Mareman; Holt’s absence still removes one option."
+        },
+        {
+          "rank": 2,
+          "team": "saffron",
+          "themeLabel": "Championship route",
+          "text": "The Psi Corps have to win four games, but begin against an injured Olivine team. Their healthy current roster and 459-point differential outweigh the extra round in my ordering. The likely obstacles are Lavender, the Kanto–Johto survivor and then Mossdeep."
+        },
+        {
+          "rank": 3,
+          "team": "goldenrod",
+          "themeLabel": "Championship route",
+          "text": "The first seed is valuable: one fewer game, and the lowest surviving Kanto–Johto seed comes to Mt. Silver. The extensive injury list is why the Reds remain behind Saffron in this judgment. Their 36–33 win over the Psi Corps establishes a viable route if the available offense can function."
+        },
+        {
+          "rank": 4,
+          "team": "sunyshore",
+          "themeLabel": "Championship route",
+          "text": "Hearthome comes first, then a potential second home game. The 88 Special absence weakens a thirteen-win team before the difficult part of the route. Sunyshore’s rushing and defensive finale support confidence in the opening assignment; a possible trip to Mossdeep remains the largest obstacle."
+        },
+        {
+          "rank": 5,
+          "team": "cinnabar",
+          "themeLabel": "Championship route",
+          "text": "The Blaze have already beaten Blackthorn and Mt. Silver, two plausible first opponents. Exploud’s absence makes the rematch harder, and Saffron’s 35–3 regular-season win warns against projecting the same offense through every matchup. Four straight victories still give this route credibility."
+        },
+        {
+          "rank": 6,
+          "team": "ecruteak",
+          "themeLabel": "Championship route",
+          "text": "Eight consecutive wins and a home opener place Lavender above most wild cards. If Saffron also wins, the Wails must visit the Psi Corps next. Moth Ball’s growing contribution is encouraging; the narrow season scoring margin and Mr. Clanky’s continued absence keep the route demanding."
+        },
+        {
+          "rank": 7,
+          "team": "dewford",
+          "themeLabel": "Championship route",
+          "text": "A healthy current roster draws an Eterna team missing several productive players. The Breakers can score through rushing, passing and returns. An opening win is plausible, but reseeding may send them straight to Mossdeep; the exact opponent depends on the other results."
+        },
+        {
+          "rank": 8,
+          "team": "blackthorn",
+          "themeLabel": "Championship route",
+          "text": "Hatterene gives the Dragons a credible passing chance at Cinnabar. Losing the division means every likely Kanto–Johto assignment is away from home. The one-point finale defeat does not destroy the team, but its defensive concessions make a four-win championship sequence difficult."
+        },
+        {
+          "rank": 9,
+          "team": "petalburg",
+          "themeLabel": "Championship route",
+          "text": "A home game against a team it has already beaten twice is useful. Oinkologne’s absence and the season’s negative point differential temper the twelve-win record. If the Pride advance, a higher seed is likely to require more offensive production than their recent narrow victories."
+        },
+        {
+          "rank": 10,
+          "team": "eterna",
+          "themeLabel": "Championship route",
+          "text": "The defense and home field make the Thorns a live opening-round opponent. Tatsugiri, Stantler and Dewgong are currently out, leaving less room for the offense to answer a quick Dewford score. Eterna must first make its preferred low-scoring game happen."
+        },
+        {
+          "rank": 11,
+          "team": "rustboro",
+          "themeLabel": "Championship route",
+          "text": "The sixth seed can win a passing exchange at Petalburg, but the Stone have lost both prior meetings. Watzon and Timmy provide a concrete route to an upset. Allowing thirty-five to Dewford makes the defensive requirement equally concrete, before any possible Mossdeep trip."
+        },
+        {
+          "rank": 12,
+          "team": "vermilion",
+          "themeLabel": "Championship route",
+          "text": "The Volts have ten wins and an ability to survive close finishes. They need that pattern at Lavender, where the home team has won eight straight. Drakloak’s absence reduces an offense that already scored only 210 points; the opening upset requires limiting possessions and finishing its own."
+        },
+        {
+          "rank": 13,
+          "team": "olivine",
+          "themeLabel": "Championship route",
+          "text": "The Ironclads qualified with a shutout, then drew Saffron while losing Gabite. They need a major reversal of the offensive comparison simply to reach the next round. The defense must keep the opener manageable while the available backfield finds a way to sustain drives."
+        },
+        {
+          "rank": 14,
+          "team": "hearthome",
+          "themeLabel": "Championship route",
+          "text": "The Haunts earned the last invitation by winning while two rivals lost. Sunyshore’s 88 Special absence gives them a changed opponent, but the thirteen-win home team still has a strong defensive and rushing case. A seventh seed faces four wins without expected home-field help."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/0848062c3d50e4ff.webp",
+        "alt": "Fourteen championship routes remain. Conceptual postseason illustration; figures are symbolic."
+      }
+    },
+    {
+      "id": "draft-te-s1-w18",
+      "type": "draft",
+      "focus": "TE",
+      "author": "calvin-rook",
+      "title": "The Rook Board: six tight ends, three different workout leaders",
+      "dek": "Dhelmise leads the disclosed range and bench; Arctozolt runs the quickest forty; Trubbish changes direction fastest.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "The available tight-end board contains six prospects, all covered here. Dhelmise’s 80–99 disclosed range gives Santalune the first evaluation, but the athletic comparisons are sufficiently different to make a single generic tight-end workout unhelpful. A club should define the intended receiving and blocking responsibilities before deciding which measurements deserve the most weight."
+        },
+        {
+          "type": "p",
+          "text": "The order begins with the visible scouting ranges. The accompanying judgments use only the disclosed combine, age and school assignments. These are evaluation priorities, not a prediction of the draft order or a claim about hidden ability. No college statistics or game film have been invented to complete the profiles."
+        },
+        {
+          "type": "p",
+          "text": "Tight ends remain relevant while the professional playoffs begin. Gyarzalez’s injury changes Mt. Silver’s available passing game, Exploud’s absence changes Cinnabar’s, and Gronkaludon’s receiving production remains part of Mossdeep’s championship case. Those examples show the range of responsibility a club may be trying to fill. They do not mean every prospect below can supply the same job."
+        }
+      ],
+      "prospects": [
+        {
+          "pid": "p1988",
+          "name": "Dhelmise",
+          "species": "Dhelmise",
+          "speciesId": 781,
+          "icon": "assets/sprites/781.png",
+          "position": "TE",
+          "age": 22,
+          "level": 5,
+          "range": [
+            80,
+            99
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 28,
+            "vertical": 30,
+            "cone": 7.24
+          },
+          "university": {
+            "id": "kalos-university-of-santalune",
+            "name": "University of Santalune",
+            "city": "Santalune City",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 1,
+          "analysis": "Santalune’s Dhelmise leads the available tight-end ranges at 80–99 and the group’s bench results with twenty-eight repetitions. The immediate evaluation should establish how that strength translates to an attached blocking assignment and whether the receiver can become available on schedule. The 5.06 forty and 7.24 cone point toward testing a defined job before promising every route.",
+          "concern": "The thirty-inch vertical and slower cone leave receiving movement questions unresolved. Strength measurements do not certify blocking technique.",
+          "projection": "First tight-end evaluation; test blocking and receiving responsibilities separately."
+        },
+        {
+          "pid": "p2013",
+          "name": "Arctozolt",
+          "species": "Arctozolt",
+          "speciesId": 881,
+          "icon": "assets/sprites/881.png",
+          "position": "TE",
+          "age": 21,
+          "level": 13,
+          "range": [
+            67,
+            95
+          ],
+          "combine": {
+            "forty": 4.87,
+            "bench": 20,
+            "vertical": 31,
+            "cone": 7.18
+          },
+          "university": {
+            "id": "kanto-lavender-forest-university",
+            "name": "Lavender Forest University",
+            "city": "Lavender Town",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 2,
+          "analysis": "Lavender Forest’s Arctozolt has a 67–95 range and the quickest forty among these six at 4.87. Twenty bench repetitions offer another useful comparison with Dhelmise. Put both prospects through the same release, contact and route assignments to learn whether Arctozolt’s straight-line advantage survives a more complicated job.",
+          "concern": "The 7.18 cone and thirty-one-inch vertical do not establish a broad movement advantage.",
+          "projection": "Early comparison with Dhelmise for clubs needing a more mobile option."
+        },
+        {
+          "pid": "p2043",
+          "name": "Trubbish",
+          "species": "Trubbish",
+          "speciesId": 568,
+          "icon": "assets/sprites/568.png",
+          "position": "TE",
+          "age": 21,
+          "level": 21,
+          "range": [
+            56,
+            84
+          ],
+          "combine": {
+            "forty": 4.91,
+            "bench": 15,
+            "vertical": 36,
+            "cone": 6.77
+          },
+          "university": {
+            "id": "paldea-university-of-cascarrafa",
+            "name": "University of Cascarrafa",
+            "city": "Cascarrafa",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 3,
+          "analysis": "Cascarrafa’s Trubbish combines a 56–84 range with the quickest cone in this group, 6.77, and a thirty-six-inch vertical. The 4.91 forty also places near the front. That movement profile warrants receiving work against the higher-range pair rather than dismissal based on the order alone.",
+          "concern": "Fifteen bench repetitions trail the two leaders. Contact technique and receiving consistency remain unverified.",
+          "projection": "Priority receiving-role workout within the tight-end pool."
+        },
+        {
+          "pid": "p2076",
+          "name": "Clamperl",
+          "species": "Clamperl",
+          "speciesId": 366,
+          "icon": "assets/sprites/366.png",
+          "position": "TE",
+          "age": 21,
+          "level": 17,
+          "range": [
+            45,
+            73
+          ],
+          "combine": {
+            "forty": 5.2,
+            "bench": 16,
+            "vertical": 28,
+            "cone": 7.31
+          },
+          "university": {
+            "id": "galar-university-of-hulbury",
+            "name": "University of Hulbury",
+            "city": "Hulbury",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 4,
+          "analysis": "Hulbury’s Clamperl brings sixteen bench repetitions and a 45–73 range. A club considering a narrow attached role should test whether the prospect can execute it repeatedly, then compare the result with the faster candidates. The published measurements make a broad movement projection difficult.",
+          "concern": "A 5.20 forty, 7.31 cone and twenty-eight-inch vertical are the slowest or lowest marks in this six-player group.",
+          "projection": "Defined-role evaluation before a broader roster commitment."
+        },
+        {
+          "pid": "p2032",
+          "name": "Sizzlipede",
+          "species": "Sizzlipede",
+          "speciesId": 850,
+          "icon": "assets/sprites/850.png",
+          "position": "TE",
+          "age": 21,
+          "level": 11,
+          "range": [
+            34,
+            62
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 6,
+            "vertical": 34,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "galar-stow-on-side-state-university",
+            "name": "Stow-on-Side State University",
+            "city": "Stow-on-Side",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 5,
+          "analysis": "Stow-on-Side’s Sizzlipede has a 34–62 range, five-second forty and 6.96 cone. Those movement marks are more competitive than the six bench repetitions. The workout should separate route availability from contact demands so one promising drill does not become an unsupported complete-player conclusion.",
+          "concern": "The strength measurement leaves substantial contact-work uncertainty.",
+          "projection": "Receiving-oriented comparison with the lower-range candidates."
+        },
+        {
+          "pid": "p1880",
+          "name": "Oshawott",
+          "species": "Oshawott",
+          "speciesId": 501,
+          "icon": "assets/sprites/501.png",
+          "position": "TE",
+          "age": 21,
+          "level": 9,
+          "range": [
+            28,
+            56
+          ],
+          "combine": {
+            "forty": 5.03,
+            "bench": 9,
+            "vertical": 37,
+            "cone": 6.95
+          },
+          "university": {
+            "id": "orre-gateon-state-university",
+            "name": "Gateon State University",
+            "city": "Gateon Port",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 6,
+          "analysis": "Gateon State’s Oshawott has a 28–56 range but the highest vertical here, thirty-seven inches. Nine bench repetitions and a 6.95 cone give specific comparison points with Sizzlipede. The jump result earns a catch-point examination; it does not erase the lower disclosed range.",
+          "concern": "No recorded receiving production or blocking grade establishes how the workout translates to a professional assignment.",
+          "projection": "Targeted catch-point and route evaluation."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/0350d201aef943e2.webp",
+        "alt": "The tight-end evaluation combines receiving and blocking questions. Conceptual college practice-field illustration."
+      }
+    }
+  ]
+}

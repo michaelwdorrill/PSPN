@@ -1,0 +1,1064 @@
+{
+  "season": 1,
+  "week": 18,
+  "articles": [
+    {
+      "id": "feature-pro-bowl-s1-w18",
+      "type": "feature",
+      "author": "calvin-rook",
+      "title": "PSPN’s Pro Bowl: 86 original honorees, and the decisions behind them",
+      "dek": "Separate conference rosters, starters and reserves, the hardest snubs, and an explicitly unawarded long-snapper slot.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Dram Marino and Archam Manning lead PSPN’s first conference Pro Bowl selections. Accel BeckhmJr and HeeDee Lamb earned starting receiving places, NeMarcus Tare heads a crowded Kanto–Johto outside-linebacker group, and players from eliminated clubs receive the same consideration as the fourteen postseason entrants. These are PSPN’s editorial honors for the completed regular season."
+        },
+        {
+          "type": "p",
+          "text": "Each conference has forty-three selections. The long-snapper slot is explicitly unawarded because no identifiable snapping assignment or individual snapping record is available. We retain the other positional allocations, including a separate punter, return specialist and coverage specialist. The three-player safety group has two starters; we do not invent free-safety and strong-safety distinctions."
+        },
+        {
+          "type": "p",
+          "text": "Starters and reserves were selected together and are all original honorees. Injuries and eventual Indigo Bowl participation do not remove eligibility. No game has been scheduled by this article, and these choices do not represent the game’s official awards or a fabricated fan, player or coach vote. There is no guaranteed team representative or team cap."
+        },
+        {
+          "type": "p",
+          "text": "Positions follow observed football jobs, supported by lineup history and production. Players who changed jobs are evaluated for the role being honored; an earlier position label does not automatically decide the ballot. Offensive-line selections use verified tackle, guard and center assignments, workload and the performance of the units they supported. Complete individual season blocking grades are unavailable, so those honors carry more uncertainty than the passing or receiving selections. Team output is context, not a claim that one blocker caused every yard."
+        },
+        {
+          "type": "table",
+          "title": "Kanto–Johto — 43 original selections",
+          "description": "Long snapper: unawarded. RET = return specialist; ST = coverage specialist. IDL = interior defensive line.",
+          "columns": [
+            "Position",
+            "Selection",
+            "Player",
+            "Club",
+            "Season evidence"
+          ],
+          "rows": [
+            {
+              "team": "saffron",
+              "cells": [
+                "QB",
+                "Starter",
+                "Archam Manning · #6",
+                "Saffron Psi Corps",
+                "4,633 pass yards; 43 TD, 13 INT"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "QB",
+                "Reserve",
+                "Hatterene · #12",
+                "Blackthorn Dragons",
+                "4,532 pass yards; 38 TD, 8 INT"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "QB",
+                "Reserve",
+                "Gholdengo · #12",
+                "Cinnabar Blaze",
+                "3,867 pass yards; 30 TD, 9 INT"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "RB",
+                "Starter",
+                "Garshawn Lynch · #22",
+                "Mt. Silver Reds",
+                "1,200 rush yards; 11 rush TD; 292 receiving yards"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "RB",
+                "Reserve",
+                "Dam Skattebo · #22",
+                "Saffron Psi Corps",
+                "1,026 rush yards; 18 rush TD; 221 receiving yards"
+              ]
+            },
+            {
+              "team": "viridian",
+              "cells": [
+                "RB",
+                "Reserve",
+                "Gabite · #88",
+                "Viridian Titans",
+                "1,126 rush yards; 2 rush TD; 96 receiving yards"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "FB",
+                "Starter",
+                "Mothel Irving · #88",
+                "Saffron Psi Corps",
+                "68 catches; 893 yards; 6 TD"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "WR",
+                "Starter",
+                "HeeDee Lamb · #11",
+                "Saffron Psi Corps",
+                "95 catches; 1,878 yards; 18 TD"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "WR",
+                "Starter",
+                "Gengar Pickens · #15",
+                "Saffron Psi Corps",
+                "50 catches; 936 yards; 8 TD"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "WR",
+                "Reserve",
+                "Dugtrio · #25",
+                "Mahogany Frost",
+                "38 catches; 800 yards; 7 TD"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "WR",
+                "Reserve",
+                "Gregar Jenings · #88",
+                "Mt. Silver Reds",
+                "40 catches; 795 yards; 6 TD"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "TE",
+                "Starter",
+                "Tony Gyarzalez · #13",
+                "Mt. Silver Reds",
+                "75 catches; 948 yards; 7 TD"
+              ]
+            },
+            {
+              "team": "fuchsia",
+              "cells": [
+                "TE",
+                "Reserve",
+                "Heatmor · #22",
+                "Fuchsia Shadows",
+                "70 catches; 850 yards; 3 TD"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "OT",
+                "Starter",
+                "Crustle · #95",
+                "Saffron Psi Corps",
+                "958 offensive snaps; verified OT assignments"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "OT",
+                "Starter",
+                "Steel Hutchins · #70",
+                "Mt. Silver Reds",
+                "907 offensive snaps; verified OT assignments"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "OT",
+                "Reserve",
+                "Vikavolt · #16",
+                "Lavender Wails",
+                "857 offensive snaps; verified OT assignments"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "OG",
+                "Starter",
+                "Drampa · #4",
+                "Saffron Psi Corps",
+                "958 offensive snaps; verified OG assignments"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "OG",
+                "Starter",
+                "Larry Aggron · #54",
+                "Mt. Silver Reds",
+                "907 offensive snaps; verified OG assignments"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "OG",
+                "Reserve",
+                "Walrein · #98",
+                "Lavender Wails",
+                "857 offensive snaps; verified OG assignments"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "C",
+                "Starter",
+                "Rhyhorn · #92",
+                "Saffron Psi Corps",
+                "958 offensive snaps; verified C assignments"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "C",
+                "Reserve",
+                "Gole Upshaw · #67",
+                "Mt. Silver Reds",
+                "907 offensive snaps; verified C assignments"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "DE",
+                "Starter",
+                "Darmanitan · #91",
+                "Olivine Ironclads",
+                "12 sacks; 51 pressures; 7 tackles for loss"
+              ]
+            },
+            {
+              "team": "pewter",
+              "cells": [
+                "DE",
+                "Starter",
+                "Iron Leaves · #97",
+                "Pewter Rockers",
+                "9 sacks; 46 pressures; 2 tackles for loss"
+              ]
+            },
+            {
+              "team": "cianwood",
+              "cells": [
+                "DE",
+                "Reserve",
+                "Leafeon · #58",
+                "Cianwood Crushers",
+                "9.5 sacks; 45 pressures; 5 tackles for loss"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "IDL",
+                "Starter",
+                "Mauler Twin · #92",
+                "Lavender Wails",
+                "4.5 sacks; 47 pressures; 9 tackles for loss"
+              ]
+            },
+            {
+              "team": "celadon",
+              "cells": [
+                "IDL",
+                "Starter",
+                "Klawf · #22",
+                "Celadon Bloom",
+                "7 sacks; 17 pressures; 7 tackles for loss"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "IDL",
+                "Reserve",
+                "Beartic · #99",
+                "Cinnabar Blaze",
+                "4 sacks; 11 pressures; 11 tackles for loss"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "OLB",
+                "Starter",
+                "NeMarcus Tare · #42",
+                "Saffron Psi Corps",
+                "29 sacks; 65 pressures; 5 tackles for loss"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "OLB",
+                "Starter",
+                "Chen Norton Jr · #56",
+                "Saffron Psi Corps",
+                "23 sacks; 66 pressures; 11 tackles for loss"
+              ]
+            },
+            {
+              "team": "goldenrod",
+              "cells": [
+                "OLB",
+                "Reserve",
+                "Blayz Matthews · #59",
+                "Mt. Silver Reds",
+                "17.5 sacks; 70 pressures; 16 tackles for loss"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "ILB",
+                "Starter",
+                "Whiscash · #52",
+                "Blackthorn Dragons",
+                "92 tackles; 15 for loss; 1 sacks"
+              ]
+            },
+            {
+              "team": "olivine",
+              "cells": [
+                "ILB",
+                "Reserve",
+                "Octillery · #32",
+                "Olivine Ironclads",
+                "104 tackles; 16 for loss; 0 sacks"
+              ]
+            },
+            {
+              "team": "viridian",
+              "cells": [
+                "CB",
+                "Starter",
+                "Sigilyph · #11",
+                "Viridian Titans",
+                "11 INT; 28 passes defended; 95 tackles"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "CB",
+                "Starter",
+                "Lopunny · #24",
+                "Mahogany Frost",
+                "7 INT; 26 passes defended; 69 tackles"
+              ]
+            },
+            {
+              "team": "ecruteak",
+              "cells": [
+                "CB",
+                "Reserve",
+                "Picasso · #32",
+                "Lavender Wails",
+                "6 INT; 22 passes defended; 75 tackles"
+              ]
+            },
+            {
+              "team": "violet",
+              "cells": [
+                "CB",
+                "Reserve",
+                "Milotic · #89",
+                "Violet Falcons",
+                "5 INT; 16 passes defended; 30 tackles"
+              ]
+            },
+            {
+              "team": "cinnabar",
+              "cells": [
+                "S",
+                "Starter",
+                "Tatsugiri · #8",
+                "Cinnabar Blaze",
+                "5 INT; 13 passes defended; 81 tackles"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "S",
+                "Starter",
+                "Frosmoth · #15",
+                "Mahogany Frost",
+                "5 INT; 10 passes defended; 50 tackles"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "S",
+                "Reserve",
+                "Pach Tatum · #10",
+                "Saffron Psi Corps",
+                "1 INT; 18 passes defended; 74 tackles"
+              ]
+            },
+            {
+              "team": "blackthorn",
+              "cells": [
+                "K",
+                "Starter",
+                "Cacturne · #3",
+                "Blackthorn Dragons",
+                "FG 20/23; XP 43/45; long 58"
+              ]
+            },
+            {
+              "team": "mahogany",
+              "cells": [
+                "P",
+                "Starter",
+                "Watchog · #3",
+                "Mahogany Frost",
+                "38 punts; 49.6 gross average; 14 inside 20"
+              ]
+            },
+            {
+              "team": "saffron",
+              "cells": [
+                "RET",
+                "Starter",
+                "Jolt Train Ln · #9",
+                "Saffron Psi Corps",
+                "1,386 return yards; 0 kick-return TD; 5 punt-return TD"
+              ]
+            },
+            {
+              "team": "vermilion",
+              "cells": [
+                "ST",
+                "Starter",
+                "Galvantula · #88",
+                "Vermilion Volts",
+                "41 special-teams tackles"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Hoenn–Sinnoh — 43 original selections",
+          "description": "Long snapper: unawarded. RET = return specialist; ST = coverage specialist. IDL = interior defensive line.",
+          "columns": [
+            "Position",
+            "Selection",
+            "Player",
+            "Club",
+            "Season evidence"
+          ],
+          "rows": [
+            {
+              "team": "mossdeep",
+              "cells": [
+                "QB",
+                "Starter",
+                "Dram Marino · #12",
+                "Mossdeep Eclipse",
+                "4,341 pass yards; 56 TD, 4 INT"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "QB",
+                "Reserve",
+                "DeZhaun Watzon · #30",
+                "Sunyshore Starseekers",
+                "2,667 pass yards; 29 TD, 9 INT"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "QB",
+                "Reserve",
+                "Drampa · #12",
+                "Sootopolis Surge",
+                "3,169 pass yards; 25 TD, 12 INT"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "RB",
+                "Starter",
+                "Ninjaskamara · #27",
+                "Mossdeep Eclipse",
+                "1,138 rush yards; 20 rush TD; 306 receiving yards"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "RB",
+                "Reserve",
+                "Philly Gabite · #63",
+                "Rustboro Stone",
+                "870 rush yards; 11 rush TD; 105 receiving yards"
+              ]
+            },
+            {
+              "team": "petalburg",
+              "cells": [
+                "RB",
+                "Reserve",
+                "Oinkologne · #22",
+                "Petalburg Pride",
+                "957 rush yards; 4 rush TD; 154 receiving yards"
+              ]
+            },
+            {
+              "team": "mauville",
+              "cells": [
+                "FB",
+                "Starter",
+                "Mothim · #47",
+                "Mauville Dynamos",
+                "79 catches; 733 yards; 3 TD"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "WR",
+                "Starter",
+                "Accel BeckhmJr · #11",
+                "Mossdeep Eclipse",
+                "79 catches; 1,953 yards; 32 TD"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "WR",
+                "Starter",
+                "Gibby Timmy · #99",
+                "Rustboro Stone",
+                "41 catches; 953 yards; 7 TD"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "WR",
+                "Reserve",
+                "Ninjulio Jones · #46",
+                "Mossdeep Eclipse",
+                "51 catches; 770 yards; 7 TD"
+              ]
+            },
+            {
+              "team": "veilstone",
+              "cells": [
+                "WR",
+                "Reserve",
+                "Ponyta · #19",
+                "Veilstone Fists",
+                "48 catches; 750 yards; 5 TD"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "TE",
+                "Starter",
+                "Gronkaludon · #24",
+                "Mossdeep Eclipse",
+                "75 catches; 830 yards; 9 TD"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "TE",
+                "Reserve",
+                "Fera LaGatr · #87",
+                "Sunyshore Starseekers",
+                "73 catches; 766 yards; 5 TD"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "OT",
+                "Starter",
+                "Crust Alstott · #95",
+                "Mossdeep Eclipse",
+                "855 offensive snaps; verified OT assignments"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "OT",
+                "Starter",
+                "Garg Williams · #71",
+                "Sunyshore Starseekers",
+                "892 offensive snaps; verified OT assignments"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "OT",
+                "Reserve",
+                "Aggron · #74",
+                "Rustboro Stone",
+                "908 offensive snaps; verified OT assignments"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "OG",
+                "Starter",
+                "Tyran Armstead · #91",
+                "Mossdeep Eclipse",
+                "652 offensive snaps; verified OG assignments"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "OG",
+                "Starter",
+                "Lair Thuney · #78",
+                "Sunyshore Starseekers",
+                "892 offensive snaps; verified OG assignments"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "OG",
+                "Reserve",
+                "Pupitar · #72",
+                "Rustboro Stone",
+                "908 offensive snaps; verified OG assignments"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "C",
+                "Starter",
+                "Bastony Boseli · #71",
+                "Mossdeep Eclipse",
+                "888 offensive snaps; verified C assignments"
+              ]
+            },
+            {
+              "team": "hearthome",
+              "cells": [
+                "C",
+                "Reserve",
+                "Musharna · #64",
+                "Hearthome Haunts",
+                "906 offensive snaps; verified C assignments"
+              ]
+            },
+            {
+              "team": "oreburgh",
+              "cells": [
+                "DE",
+                "Starter",
+                "Drednaw · #99",
+                "Oreburgh Miners",
+                "11.5 sacks; 41 pressures; 6 tackles for loss"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "DE",
+                "Starter",
+                "Passimian · #99",
+                "Canalave Bulwark",
+                "10 sacks; 47 pressures; 3 tackles for loss"
+              ]
+            },
+            {
+              "team": "lavaridge",
+              "cells": [
+                "DE",
+                "Reserve",
+                "Passimian · #91",
+                "Lavaridge Inferno",
+                "9 sacks; 42 pressures; 2 tackles for loss"
+              ]
+            },
+            {
+              "team": "lavaridge",
+              "cells": [
+                "IDL",
+                "Starter",
+                "Ursaluna · #99",
+                "Lavaridge Inferno",
+                "7.5 sacks; 21 pressures; 16 tackles for loss"
+              ]
+            },
+            {
+              "team": "eterna",
+              "cells": [
+                "IDL",
+                "Starter",
+                "Klawf · #54",
+                "Eterna Thorns",
+                "6 sacks; 35 pressures; 8 tackles for loss"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "IDL",
+                "Reserve",
+                "Smoke Break · #95",
+                "Rustboro Stone",
+                "2 sacks; 14 pressures; 14 tackles for loss"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "OLB",
+                "Starter",
+                "Derrat Brooks · #54",
+                "Mossdeep Eclipse",
+                "15.5 sacks; 41 pressures; 8 tackles for loss"
+              ]
+            },
+            {
+              "team": "mauville",
+              "cells": [
+                "OLB",
+                "Starter",
+                "Volbeat · #25",
+                "Mauville Dynamos",
+                "13 sacks; 23 pressures; 7 tackles for loss"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "OLB",
+                "Reserve",
+                "Joey Sporeter · #98",
+                "Mossdeep Eclipse",
+                "12.5 sacks; 41 pressures; 7 tackles for loss"
+              ]
+            },
+            {
+              "team": "canalave",
+              "cells": [
+                "ILB",
+                "Starter",
+                "Weezing · #54",
+                "Canalave Bulwark",
+                "106 tackles; 13 for loss; 0 sacks"
+              ]
+            },
+            {
+              "team": "sunyshore",
+              "cells": [
+                "ILB",
+                "Reserve",
+                "Don Philliams · #44",
+                "Sunyshore Starseekers",
+                "22 tackles; 16 for loss; 5.5 sacks"
+              ]
+            },
+            {
+              "team": "lavaridge",
+              "cells": [
+                "CB",
+                "Starter",
+                "Venusaur · #21",
+                "Lavaridge Inferno",
+                "8 INT; 22 passes defended; 62 tackles"
+              ]
+            },
+            {
+              "team": "dewford",
+              "cells": [
+                "CB",
+                "Starter",
+                "Gliscor · #40",
+                "Dewford Breakers",
+                "6 INT; 20 passes defended; 70 tackles"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "CB",
+                "Reserve",
+                "Kingdra · #21",
+                "Sootopolis Surge",
+                "6 INT; 18 passes defended; 37 tackles"
+              ]
+            },
+            {
+              "team": "rustboro",
+              "cells": [
+                "CB",
+                "Reserve",
+                "Joe · #43",
+                "Rustboro Stone",
+                "3 INT; 32 passes defended; 54 tackles"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "S",
+                "Starter",
+                "Electric Berry · #34",
+                "Mossdeep Eclipse",
+                "5 INT; 19 passes defended; 65 tackles"
+              ]
+            },
+            {
+              "team": "sootopolis",
+              "cells": [
+                "S",
+                "Starter",
+                "Pachirisu · #20",
+                "Sootopolis Surge",
+                "3 INT; 12 passes defended; 90 tackles"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "S",
+                "Reserve",
+                "Ronnie Watt · #17",
+                "Mossdeep Eclipse",
+                "2 INT; 14 passes defended; 75 tackles"
+              ]
+            },
+            {
+              "team": "veilstone",
+              "cells": [
+                "K",
+                "Starter",
+                "Sunflora · #7",
+                "Veilstone Fists",
+                "FG 13/14; XP 20/21; long 53"
+              ]
+            },
+            {
+              "team": "mossdeep",
+              "cells": [
+                "P",
+                "Starter",
+                "Adam Vinathorn · #96",
+                "Mossdeep Eclipse",
+                "26 punts; 50.6 gross average; 11 inside 20"
+              ]
+            },
+            {
+              "team": "dewford",
+              "cells": [
+                "RET",
+                "Starter",
+                "Meowscarada · #21",
+                "Dewford Breakers",
+                "978 return yards; 2 kick-return TD; 1 punt-return TD"
+              ]
+            },
+            {
+              "team": "pastoria",
+              "cells": [
+                "ST",
+                "Starter",
+                "Kilowattrel · #21",
+                "Pastoria Waves",
+                "31 special-teams tackles"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Manning and Marino start; the reserve decisions differ"
+        },
+        {
+          "type": "p",
+          "text": "Manning receives the Kanto–Johto start for 4,633 passing yards and forty-three touchdowns across seventeen games. Blackthorn’s Hatterene completed 377 of 517 passes for 4,532 yards, thirty-eight touchdowns and eight interceptions, a compelling accuracy and ball-security case. Manning’s greater scoring production and nineteen sacks taken, compared with fifty for Hatterene, tip the start. Protection is shared work, so the sack difference is supporting context rather than an individual fault total."
+        },
+        {
+          "type": "p",
+          "text": "Gholdengo takes the third Kanto–Johto place with 3,867 yards, thirty touchdowns and nine interceptions. Vermilion’s Chandelure, with 3,104 yards, twenty-one touchdowns and eleven interceptions, is the closest conventional alternative considered here. Gholdengo supplies more passing production and fewer interceptions over the same seventeen-game span. The playoff berth alone does not settle either case."
+        },
+        {
+          "type": "p",
+          "text": "Marino’s 4,341 yards, fifty-six touchdowns and four interceptions make him the Hoenn–Sinnoh starter. His fifteen appearances reflect Mossdeep’s confirmed late rest policy. DeZhaun Watzon earns a reserve place with twenty-nine touchdowns and nine interceptions in fourteen appearances. Sootopolis’s Drampa takes the other with 3,169 yards and twenty-five touchdowns. Snowpoint’s Drampa has fewer interceptions, seven against twelve, but trails the Sootopolis quarterback by 243 yards and five touchdowns. We favor the larger scoring contribution for the last place."
+        },
+        {
+          "type": "h2",
+          "text": "Lynch’s start and Skattebo’s new job"
+        },
+        {
+          "type": "p",
+          "text": "Garshawn Lynch rushed for 1,200 yards on 155 carries in eleven appearances, then added 292 receiving yards and four receiving touchdowns to eleven rushing scores. That efficiency earns the start over Dam Skattebo, whose 1,026 rushing yards and eighteen rushing touchdowns make him an emphatic reserve. Skattebo’s earlier defensive-end assignments do not describe the offensive job that produced his selection: his sustained later running-back work and 183 carries establish that role."
+        },
+        {
+          "type": "p",
+          "text": "Viridian’s Gabite receives the third place with 1,126 rushing yards and 319 carries. Cianwood’s Bibarel is the major omission: 1,087 yards, four rushing touchdowns and a lower carry total of 284. Gabite has thirty-nine more rushing yards and ninety-six receiving yards to Bibarel’s thirty-one. The modest advantage in total backfield production decides a close final place; neither runner approaches the efficiency of the starter."
+        },
+        {
+          "type": "p",
+          "text": "Ninjaskamara starts for Hoenn–Sinnoh after 1,138 rushing yards, twenty rushing touchdowns and another 306 receiving yards in twelve appearances. Philly Gabite’s eleven rushing touchdowns and Petalburg Oinkologne’s 957 rushing yards earn the reserves. Snowpoint’s Oinkologne amassed 943 rushing yards and 218 receiving yards, but no rushing or receiving touchdowns and six lost fumbles. Petalburg’s runner supplied six combined offensive touchdowns without a recorded lost fumble, which decides that comparison."
+        },
+        {
+          "type": "p",
+          "text": "Mothel Irving and Mauville’s Mothim are the fullbacks. Both have sustained observed fullback assignments despite receiving-centered production. Irving’s sixty-eight catches, 893 yards and six touchdowns beat Cinnabar Greninja’s seventy-two catches, 692 yards and five scores. Mothim’s seventy-nine catches and 733 yards lead his conference’s comparable fullback work. Neither selection implies an unavailable individual blocking grade."
+        },
+        {
+          "type": "h2",
+          "text": "The fourth receiver places are expensive"
+        },
+        {
+          "type": "p",
+          "text": "Lamb and Gengar Pickens start for Kanto–Johto. Lamb’s ninety-five catches, 1,878 yards and eighteen receiving touchdowns set him apart; Pickens adds 936 yards and eight scores in fifteen appearances. Mahogany’s Dugtrio and Mt. Silver’s Gregar Jenings take the reserves. Dugtrio has 800 receiving yards and seven touchdowns; Jenings has 795 and six. Blackthorn’s Ninjask, with 705 yards and eight touchdowns, is the toughest scoring-based snub. We favor Jenings’ additional ninety yards and forty catches over thirty-seven, while recognizing the two-touchdown advantage Ninjask surrendered in this decision."
+        },
+        {
+          "type": "p",
+          "text": "Accel BeckhmJr’s 1,953 yards and thirty-two touchdowns lead Hoenn–Sinnoh. Gibby Timmy starts beside him after 953 yards on forty-one catches. Ninjulio Jones takes one reserve place with 770 yards and seven scores; Veilstone’s rookie Ponyta gets the other with 750 yards and five. Snowpoint’s Drakloak matched Ponyta’s forty-eight catches and five scores but finished eighteen yards behind, with three lost fumbles against none. That narrow receiving comparison decides the fourth place."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore’s 88 Special scored ten receiving touchdowns, a strong argument against that decision. His 526 yards and thirty-seven catches nevertheless trail Ponyta’s broader receiving workload by 224 yards and eleven catches. We choose the larger body of receiving work for this roster. The new injury does not disqualify 88 Special; the same comparison would apply if he were healthy."
+        },
+        {
+          "type": "p",
+          "text": "Tony Gyarzalez starts at Kanto–Johto tight end with seventy-five catches, 948 yards and seven touchdowns despite his current absence. Fuchsia’s Heatmor gets the reserve place with seventy catches and 850 yards. Cinnabar’s Exploud has one more receiving touchdown than Heatmor, but 193 fewer yards and thirteen fewer catches. Gronkaludon starts in Hoenn–Sinnoh, ahead of Fera LaGatr, on 830 yards and nine touchdowns against 766 and five. Both are full honorees."
+        },
+        {
+          "type": "h2",
+          "text": "The line selections reward sustained responsibility"
+        },
+        {
+          "type": "p",
+          "text": "Saffron’s Crustle, Drampa and Rhyhorn occupy starting tackle, guard and center places alongside Mt. Silver’s Steel Hutchins and Larry Aggron. Each logged at least 907 offensive snaps. Their units supported 597 and 481 team points, respectively, and the two offenses produced the conference’s leading passing and rushing seasons. Lavender’s Vikavolt and Walrein provide tackle and guard reserves; Gole Upshaw is the reserve center. Their selections recognize sustained work within productive units without inventing clean-sheet pass-protection totals."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep’s Crust Alstott, Tyran Armstead and Bastony Boseli start at tackle, guard and center for Hoenn–Sinnoh. Sunyshore’s Garg Williams and Lair Thuney complete the starting five. Rustboro’s Aggron and Pupitar are the tackle and guard reserves, while Hearthome’s Musharna is the reserve center. Armstead’s 652 offensive snaps are fewer than several alternatives, but his established guard work supported the league’s highest-scoring offense before the deliberate late-season rest. The other selected linemen supplied 855 or more offensive snaps."
+        },
+        {
+          "type": "p",
+          "text": "Fuchsia’s Skeledirge and Bronzong each played 922 offensive snaps and have credible workload arguments at tackle. We favor Lavender’s Vikavolt for the reserve place based on the full-season responsibility in a division-winning offense, while acknowledging that team success cannot isolate blocking quality. At Hoenn–Sinnoh guard, Petalburg’s Araquanid supplied 865 snaps; Pupitar’s 908 and Rustboro’s greater scoring production tip our final choice. These are the most judgment-dependent positions on the ballot."
+        },
+        {
+          "type": "h2",
+          "text": "Outside linebacker produces the hardest defensive cuts"
+        },
+        {
+          "type": "p",
+          "text": "Tare and Chen Norton Jr start in Kanto–Johto. Tare recorded twenty-nine sacks and sixty-five pressures; Norton had twenty-three sacks, sixty-six pressures and eleven tackles for loss. Blayz Matthews takes the third place with 17.5 sacks, seventy pressures and sixteen tackles for loss. Tare’s documented move from cornerback to outside linebacker is reflected here. His pass-rush production and established later assignment support the honor at that job, rather than a convenient extra place in the secondary."
+        },
+        {
+          "type": "p",
+          "text": "Verrick Brooks has a powerful snub case: seventy-five pressures, thirteen sacks and ten tackles for loss in eleven appearances. Matthews supplies 4.5 more sacks, six more tackles for loss and six more appearances, enough to outweigh Brooks’ five-pressure advantage. Mahogany’s Bruxish produced fifteen sacks over seventeen games, and Vermilion’s Volbeat had fourteen. Neither displaces a selected trio with greater finishing production and substantial broader disruption."
+        },
+        {
+          "type": "p",
+          "text": "Derrat Brooks starts for Hoenn–Sinnoh with 15.5 sacks, three interceptions and twelve passes defended. Mauville rookie Volbeat gets the other start with thirteen sacks and forty-three tackles. Joey Sporeter takes the reserve place with 12.5 sacks and forty-one pressures. Sunyshore’s Fred Whirler is the difficult omission: 9.5 sacks, forty-one pressures, ten tackles for loss and fifty-five tackles. Sporeter’s three additional sacks decide the last place, while Volbeat’s larger tackle contribution and slightly higher sack total decide the second starting designation."
+        },
+        {
+          "type": "p",
+          "text": "Olivine’s Darmanitan and Pewter’s Iron Leaves start at defensive end, with Cianwood’s Leafeon in reserve. We preserve the end/linebacker distinction rather than moving an outside linebacker into this group. Darmanitan’s twelve sacks and fifty-one pressures lead the selected ends. Iron Leaves has nine sacks, forty-six pressures and an interception; Leafeon has 9.5 sacks and forty-five pressures. The interception gives Iron Leaves the narrow starting edge, while both receive the honor."
+        },
+        {
+          "type": "p",
+          "text": "Oreburgh’s Drednaw and Canalave’s Passimian start at Hoenn–Sinnoh end; Lavaridge’s Passimian is the reserve. Their sack totals are 11.5, ten and nine. Mauville’s Drednaw has forty-eight pressures, one more than Canalave’s Passimian and six more than Lavaridge’s, but six sacks. The selected players’ stronger finishing production decides those places, with pressure retained as an important counterargument."
+        },
+        {
+          "type": "h2",
+          "text": "Interior disruption and coverage beyond the playoff field"
+        },
+        {
+          "type": "p",
+          "text": "Mauler Twin and Celadon’s Klawf #22 start inside for Kanto–Johto, with Cinnabar’s Beartic in reserve. Mauler Twin combines 4.5 sacks with forty-seven pressures and nine tackles for loss; Klawf has seven sacks and seven tackles for loss. Beartic’s eleven tackles for loss and four sacks edge Olivine Mamoswine’s eleven tackles for loss and two sacks, despite Mamoswine’s larger pressure total. Blackthorn’s Whiscash and Olivine’s Octillery are the inside linebackers: ninety-two and 104 tackles, with fifteen and sixteen tackles for loss."
+        },
+        {
+          "type": "p",
+          "text": "Lavaridge’s Ursaluna and Eterna’s Klawf start on the Hoenn–Sinnoh interior. Ursaluna recorded 7.5 sacks and sixteen tackles for loss; Klawf had six sacks and thirty-five pressures. Rustboro’s Smoke Break gets the reserve place for fourteen tackles for loss, ahead of Torten Carter’s eight, accepting Carter’s pressure advantage of twenty-eight to fourteen. Canalave’s Weezing starts at inside linebacker with 106 tackles and thirteen tackles for loss. Don Philliams takes the reserve place for sixteen tackles for loss and 5.5 sacks, ahead of Veilstone Muk’s larger tackle total but lower backfield production."
+        },
+        {
+          "type": "p",
+          "text": "Viridian’s Sigilyph and Mahogany’s Lopunny start at cornerback with eleven and seven interceptions, plus twenty-eight and twenty-six passes defended. Lavender’s Picasso adds six interceptions and twenty-two passes defended in reserve. Violet’s Milotic gets the last place with five and sixteen. Azalea’s Gliscor has twenty-five passes defended but three interceptions; we favor Milotic’s two additional takeaways. Tauros Woodson’s four interceptions and eighteen passes defended also leave him just outside."
+        },
+        {
+          "type": "p",
+          "text": "Venusaur and Dewford’s Gliscor start in Hoenn–Sinnoh with eight and six interceptions. Sootopolis’s Kingdra, six interceptions and eighteen passes defended in thirteen games, gets a reserve place. Rustboro’s Joe takes the fourth on thirty-two passes defended and three interceptions. Petalburg rookie Toedscruel has five interceptions and fifteen passes defended; Mossdeep’s Darrell Revis has five and thirteen. Joe’s much larger defended-pass total earns our final place. Fortree’s Kingdra, with thirty passes defended and three interceptions, is another close omission."
+        },
+        {
+          "type": "p",
+          "text": "Cinnabar rookie Tatsugiri and Mahogany’s Frosmoth start at safety, each with five interceptions. Pach Tatum gets the Kanto–Johto reserve place: eighteen passes defended and seven tackles for loss outweigh Blackthorn Politoed’s extra two interceptions. Electric Berry starts in Hoenn–Sinnoh with five interceptions and nineteen passes defended, beside Sootopolis’s Pachirisu, whose ninety tackles and twelve passes defended accompany three interceptions. Ronnie Watt takes the reserve place with seventy-five tackles, fourteen passes defended and two interceptions. Mauville’s Togekiss has five interceptions but a smaller defensive workload and four passes defended; the sustained safety responsibility decides that last comparison."
+        },
+        {
+          "type": "h2",
+          "text": "Specialists earn separate honors"
+        },
+        {
+          "type": "p",
+          "text": "Blackthorn’s Cacturne is the Kanto–Johto kicker after making twenty of twenty-three field goals, with a long of fifty-eight. Lavender’s Just a cactus made eighteen of twenty-one and all thirty-five extra points, an excellent case sharpened by the division-winning finale. Cacturne’s two additional field goals and longer successful kick take the place. Mahogany’s Watchog is the punter: fourteen inside-the-twenty punts from thirty-eight attempts, with a 49.6-yard gross average. Cacturne averaged 51.7 with fourteen inside twenty from forty-seven. Watchog’s stronger inside-twenty rate decides the punting honor; the roles are assessed separately."
+        },
+        {
+          "type": "p",
+          "text": "Veilstone’s Sunflora takes the Hoenn–Sinnoh kicking place with thirteen of fourteen field goals and twenty of twenty-one extra points. Eterna’s Vikavolt made twenty-one field goals, but missed five of twenty-six and three of twenty extra points. We favor Sunflora’s accuracy while recognizing the lower field-goal volume. Adam Vinathorn is the punter, with eleven inside twenty from twenty-six punts and a 50.6-yard gross average. Eterna’s Vikavolt supplied far more punts, seventy-eight, but a lower inside-twenty proportion at twenty of seventy-eight. Vinathorn’s placement earns the place despite the smaller workload."
+        },
+        {
+          "type": "p",
+          "text": "Jolt Train Ln leads Kanto–Johto returners with 1,386 return yards and five punt-return touchdowns. Dewford’s Meowscarada takes Hoenn–Sinnoh with 978 return yards, two kickoff-return touchdowns and one punt-return touchdown. Eterna’s Froslass has more return yards, 1,112, but no return touchdown; Mauville’s Dragapult has 1,077 and two punt-return scores. Meowscarada’s three scores and 23.3 yards per combined return decide a close multi-format comparison."
+        },
+        {
+          "type": "p",
+          "text": "Vermilion’s Galvantula and Pastoria’s Kilowattrel are the coverage specialists, with forty-one and thirty-one special-teams tackles. Mahogany’s Sandy Shocks has thirty-five and Dewford’s Infernape twenty-six, the strongest omitted tackle totals in their respective conferences. These honors use recorded coverage work rather than treating a spare offensive or defensive roster place as a special-teams selection. Long snapper remains unawarded in both conferences."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/a8cd081677ff278c.webp",
+        "alt": "PSPN selects conference honors with the long-snapper slots unawarded. Conceptual awards-room illustration; figures are symbolic."
+      }
+    }
+  ]
+}

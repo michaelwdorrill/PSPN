@@ -1,0 +1,727 @@
+{
+  "season": 1,
+  "week": 18,
+  "articles": [
+    {
+      "id": "feature-staff-brackets-s1-w18",
+      "type": "feature",
+      "author": "tessa-wren",
+      "title": "Fourteen teams, five brackets, one Indigo Bowl",
+      "dek": "The PSPN staff commits: three picks for Mossdeep, one for Saffron and one for Mt. Silver, with every round and every upset explained.",
+      "teams": [],
+      "frontPageOrder": -2,
+      "body": [
+        {
+          "type": "p",
+          "text": "Fourteen clubs remain. Five writers have committed to every winner through the Indigo Bowl, using the confirmed seeds and reseeding after the wild-card round. The tables are original postseason forecasts, frozen here before the first game; later round previews will be new judgments rather than edits to these brackets."
+        },
+        {
+          "type": "table",
+          "title": "The staff’s championship calls",
+          "columns": [
+            "Writer",
+            "Kanto–Johto champion",
+            "Hoenn–Sinnoh champion",
+            "Indigo Bowl"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Mara Voss",
+                "Saffron Psi Corps",
+                "Mossdeep Eclipse",
+                "Mossdeep Eclipse — 27–34 (KJ–HS)"
+              ]
+            },
+            {
+              "cells": [
+                "Ellis Quill",
+                "Cinnabar Blaze",
+                "Mossdeep Eclipse",
+                "Mossdeep Eclipse — 20–31 (KJ–HS)"
+              ]
+            },
+            {
+              "cells": [
+                "Dorian Pike",
+                "Mt. Silver Reds",
+                "Sunyshore Starseekers",
+                "Mt. Silver Reds — 31–24 (KJ–HS)"
+              ]
+            },
+            {
+              "cells": [
+                "Rowan Vale",
+                "Saffron Psi Corps",
+                "Mossdeep Eclipse",
+                "Saffron Psi Corps — 30–27 (KJ–HS)"
+              ]
+            },
+            {
+              "cells": [
+                "Tessa Wren",
+                "Saffron Psi Corps",
+                "Mossdeep Eclipse",
+                "Mossdeep Eclipse — 24–31 (KJ–HS)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Mara Voss — Mossdeep has earned the burden"
+        },
+        {
+          "type": "p",
+          "text": "I am picking Mossdeep because Michael Dorrill has built an offense that can change personnel and still give the defense a useful game. The Eclipse finished 17–0, scored 724 points and allowed 130. Dram Marino threw fifty-six touchdown passes against four interceptions in fifteen appearances. That is an enormous advantage before anybody starts asking how frightened an undefeated team ought to be of its own record. I want the opponents to explain how they intend to stop it."
+        },
+        {
+          "type": "p",
+          "text": "The last two weeks matter because Dorrill deliberately rested starters and gave younger players work. Budew Baker threw two touchdowns against Sootopolis and three at Lavaridge. Those wins do not prove the postseason lineup should be built around him. They show that the staff could pursue development without surrendering its control of the games. A championship run should benefit from that work when a reserve has to enter, even though no coach gets to choose the moment an injury arrives."
+        },
+        {
+          "type": "p",
+          "text": "My first difficult call comes in Cinnabar. I take Blackthorn by three because Hatterene’s 377 completions and eight interceptions give the Dragons a credible route through an uncomfortable road game. Cinnabar beat them earlier, and I accept that evidence. I also have to account for the new loss of Exploud and his 657 receiving yards. The rematch is being played by the available teams. It is the biggest wild-card upset on my bracket, and the one most likely to make me cross something out immediately."
+        },
+        {
+          "type": "p",
+          "text": "Reseeding sends Blackthorn to Mt. Silver if my other picks hold. I give the Reds that game, then take Saffron in the conference championship. Archam Manning’s offense can score on Mt. Silver; the 36–33 regular-season loss established that much. The Reds’ injured quarterback and tight-end group makes repeating thirty-six a larger demand. Saffron has no positive-week injury entries in this export, and the healthy group has been producing on both sides of the ball."
+        },
+        {
+          "type": "p",
+          "text": "Saffron is the opponent most likely to stop my champion. Mossdeep beat it 20–17 in Week 10, a result that supplies a warning as well as reassurance. NeMarcus Tare and Chen Norton Jr finished with fifty-two combined sacks. If the Eclipse lose control of protection and keep asking Marino to solve long downs, this becomes a much less comfortable argument. Accel BeckhmJr’s 1,953 receiving yards do not excuse a missed assignment before the ball leaves the quarterback."
+        },
+        {
+          "type": "p",
+          "text": "I take Mossdeep over Dewford and Sunyshore, then 34–27 over Saffron. Dewford already pushed the Eclipse to 24–21, and Sunyshore has the conference’s second seed for a reason. I am not forecasting three effortless wins. I am forecasting that the most productive offense and stingiest scoring defense will execute enough of the difficult plays to finish the season. Dorrill can review the seven points I have allowed Saffron above the first meeting. I assume he will have notes."
+        },
+        {
+          "type": "table",
+          "title": "Mara Voss — complete bracket",
+          "columns": [
+            "Round",
+            "Matchup",
+            "Pick"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Wild card",
+                "Olivine Ironclads at Saffron Psi Corps",
+                "Saffron Psi Corps (7–38, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Vermilion Volts at Lavender Wails",
+                "Lavender Wails (13–24, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Blackthorn Dragons at Cinnabar Blaze",
+                "Blackthorn Dragons (24–21, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Hearthome Haunts at Sunyshore Starseekers",
+                "Sunyshore Starseekers (17–34, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Rustboro Stone at Petalburg Pride",
+                "Petalburg Pride (17–23, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Dewford Breakers at Eterna Thorns",
+                "Dewford Breakers (20–10, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Blackthorn Dragons at Mt. Silver Reds",
+                "Mt. Silver Reds"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Lavender Wails at Saffron Psi Corps",
+                "Saffron Psi Corps"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Saffron Psi Corps at Mt. Silver Reds",
+                "Saffron Psi Corps"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Dewford Breakers at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Petalburg Pride at Sunyshore Starseekers",
+                "Sunyshore Starseekers"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Sunyshore Starseekers at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Indigo Bowl",
+                "Saffron Psi Corps vs Mossdeep Eclipse",
+                "Mossdeep Eclipse (27–34, away–home)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Ellis Quill — The favorite, and the clubs that learned to continue"
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep is my champion, but Lavender is the team I most want to watch before we get there. The Wails won their last eight games and took Johto East with a 21–20 victory over Blackthorn. They accomplished the last part after losing Mr. Clanky, whose current injury report still lists five weeks. Moth Ball inherited responsibility while the season was being decided. Travis Scarboro’s team kept winning. That is a substantial story even for those of us who would happily write about the Wails all week."
+        },
+        {
+          "type": "p",
+          "text": "I pick Lavender to beat Vermilion, then upset Saffron. That second choice is my biggest departure from the season’s broad evidence. Saffron scored 597 points and conceded 138; Lavender finished at 325 and 317. Nobody should read those totals and mistake my choice for the safe one. I am giving more weight to the Wails’ recent offensive development and their demonstrated ability to finish uncomfortable games. I expect a close contest, with Lavender finding one more useful possession than the season totals would suggest."
+        },
+        {
+          "type": "p",
+          "text": "That produces a conference championship at Lavender against Cinnabar. I take the Blaze there. Four successive wins, including victories over Blackthorn and Mt. Silver, give Blaine’s team a real postseason argument. Losing Exploud is a serious subtraction, and the opening rematch with Blackthorn is my hardest first-round choice. Gholdengo must distribute the absent tight end’s work. I think he can, while recognizing that 657 receiving yards are not replaced by an optimistic sentence."
+        },
+        {
+          "type": "p",
+          "text": "The divisional upset at Mt. Silver follows from that judgment and the Reds’ availability. Cinnabar won the regular-season meeting 38–24. Mt. Silver’s current list includes Tic Thorpe, Josh Alakazam, Tony Gyarzalez and Ariados, as well as new injuries from the finale. The bye offers recovery time, but it does not turn every listed absence into an available player. I cannot select the healthiest version of a familiar team simply because I would like to see it play."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep has also had to make choices about who plays and why. Michael Dorrill used the closing weeks to rest starters and give younger players experience, then finished with wins of 22–3 and 27–0. The intent matters. Those scores belong to an organization preparing different players for different responsibilities, rather than a favorite trying to demonstrate its maximum margin every week. The season still ended with 724 points scored and 130 allowed."
+        },
+        {
+          "type": "p",
+          "text": "I have the Eclipse beating Dewford, Sunyshore and Cinnabar, with a 31–20 Indigo Bowl. Sunyshore is the opponent most likely to interrupt that route: thirteen wins, a defense that conceded 211 points and a coach who will certainly make the occasion feel large enough. My bracket asks Cinnabar to win four games while replacing an important receiver and Mossdeep to win three with a bye first. The latter is the sturdier forecast. I would enjoy being wrong about Lavender’s ceiling and considerably less about the rest of this page."
+        },
+        {
+          "type": "table",
+          "title": "Ellis Quill — complete bracket",
+          "columns": [
+            "Round",
+            "Matchup",
+            "Pick"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Wild card",
+                "Olivine Ironclads at Saffron Psi Corps",
+                "Saffron Psi Corps (10–31, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Vermilion Volts at Lavender Wails",
+                "Lavender Wails (17–23, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Blackthorn Dragons at Cinnabar Blaze",
+                "Cinnabar Blaze (20–24, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Hearthome Haunts at Sunyshore Starseekers",
+                "Sunyshore Starseekers (20–27, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Rustboro Stone at Petalburg Pride",
+                "Petalburg Pride (20–21, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Dewford Breakers at Eterna Thorns",
+                "Dewford Breakers (17–16, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Cinnabar Blaze at Mt. Silver Reds",
+                "Cinnabar Blaze"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Lavender Wails at Saffron Psi Corps",
+                "Lavender Wails"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Cinnabar Blaze at Lavender Wails",
+                "Cinnabar Blaze"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Dewford Breakers at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Petalburg Pride at Sunyshore Starseekers",
+                "Sunyshore Starseekers"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Sunyshore Starseekers at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Indigo Bowl",
+                "Cinnabar Blaze vs Mossdeep Eclipse",
+                "Mossdeep Eclipse (20–31, away–home)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Dorian Pike — Mt. Silver gets the last argument"
+        },
+        {
+          "type": "p",
+          "text": "Connor McLarren, I am still picking your football team. The 21–13 loss to Cianwood is a thoroughly unpleasant way to enter a bye, and the injury report has become longer than any coach wants to discuss. I have read both. I also remember fourteen wins, 481 points and the 36–33 victory over Saffron. The Reds earned the first seed before the finale. They get a week in which their players do not have to survive another elimination game. I intend to count that advantage."
+        },
+        {
+          "type": "p",
+          "text": "Garshawn Lynch led the league with 1,200 rushing yards in eleven appearances. That is the starting point of my championship argument. Mt. Silver does not need to ask its available quarterback to imitate every missing passer if Lynch can give the offense productive possessions. The receiving losses make that requirement more urgent, not less possible. I am choosing the Reds’ ability to organize around the player who remains capable of changing a game on the ground."
+        },
+        {
+          "type": "p",
+          "text": "Cinnabar is the hardest choice on my bracket. I take the Blaze over Blackthorn, then send them to Mt. Silver after wins by Saffron and Lavender. Blaine’s club beat the Reds 38–24 in Week 16 and has won four straight. Anyone who has read me knows I have been rather willing to discuss Cinnabar’s merits. The new six-week entry for Exploud matters. His 657 receiving yards are leaving the offense just as it needs to win away from home. I take Mt. Silver to win the rematch, and I expect that decision to be mentioned to me repeatedly."
+        },
+        {
+          "type": "p",
+          "text": "Then I take the Reds over Saffron again. Trent Scarboro has the healthier team and the more spectacular point differential. He also had a chance at Mt. Silver in Week 15 and lost 36–33. That does not guarantee the next result. It establishes that this opponent can make his team play a game beyond the comfortable scores that dominate the Psi Corps schedule. Saffron is the club most likely to stop my champion, and I would rather identify the danger plainly than pretend this bracket is a certificate."
+        },
+        {
+          "type": "p",
+          "text": "My largest upset is Sunyshore winning the Hoenn–Sinnoh championship at Mossdeep. Yes, the Eclipse won the regular-season meeting 27–3. Yes, I have seen 17–0 and the 594-point differential. Karson Jones still has a thirteen-win team, and I expect his defense to force a less comfortable game when everything is at stake. The sixteen-week injury entry for 88 Special is a real obstacle. This pick requires the available receivers to take on more, particularly around Fera LaGatr. That is my judgment, and it is plainly the most exposed part of the bracket."
+        },
+        {
+          "type": "p",
+          "text": "Rustboro beats Petalburg in my opening round, then loses at Mossdeep. Dewford beats Eterna, then loses at Sunyshore. I finish with Mt. Silver 31, Sunyshore 24 in the Indigo Bowl. The injuries make the Reds a vulnerable champion pick. The bye, the running game and their demonstrated ability to beat Saffron keep them a defensible one. Connor, I have given you the final word on the field. Please make it longer than thirteen points."
+        },
+        {
+          "type": "table",
+          "title": "Dorian Pike — complete bracket",
+          "columns": [
+            "Round",
+            "Matchup",
+            "Pick"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Wild card",
+                "Olivine Ironclads at Saffron Psi Corps",
+                "Saffron Psi Corps (6–45, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Vermilion Volts at Lavender Wails",
+                "Lavender Wails (14–20, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Blackthorn Dragons at Cinnabar Blaze",
+                "Cinnabar Blaze (17–31, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Hearthome Haunts at Sunyshore Starseekers",
+                "Sunyshore Starseekers (21–38, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Rustboro Stone at Petalburg Pride",
+                "Rustboro Stone (27–20, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Dewford Breakers at Eterna Thorns",
+                "Dewford Breakers (27–13, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Cinnabar Blaze at Mt. Silver Reds",
+                "Mt. Silver Reds"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Lavender Wails at Saffron Psi Corps",
+                "Saffron Psi Corps"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Saffron Psi Corps at Mt. Silver Reds",
+                "Mt. Silver Reds"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Rustboro Stone at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Dewford Breakers at Sunyshore Starseekers",
+                "Sunyshore Starseekers"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Sunyshore Starseekers at Mossdeep Eclipse",
+                "Sunyshore Starseekers"
+              ]
+            },
+            {
+              "cells": [
+                "Indigo Bowl",
+                "Mt. Silver Reds vs Sunyshore Starseekers",
+                "Mt. Silver Reds (31–24, away–home)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Rowan Vale — Saffron gets one more meeting with Mossdeep"
+        },
+        {
+          "type": "p",
+          "text": "Saffron is my champion. Archam Manning led the league with 4,633 passing yards, HeeDee Lamb caught enough footballs to accumulate 1,878 receiving yards, and NeMarcus Tare collected twenty-nine sacks. Chen Norton Jr added twenty-three. The Psi Corps finished 14–3 with 597 points scored and 138 allowed. I am taking the team that makes opposing protection meetings feel understaffed."
+        },
+        {
+          "type": "p",
+          "text": "The two three-point defeats at Mossdeep and Mt. Silver are the obvious objections. They are also the reason I can choose Saffron without asking it to discover an entirely new level of football. It lost 20–17 to the undefeated Eclipse and 36–33 to the conference’s first seed. Those games were competitive. The gap between losing them and winning the next one is a football argument I can make. I do not need to invent a weakness in a seventeen-win team to think it can lose once."
+        },
+        {
+          "type": "p",
+          "text": "My opening upset is Rustboro at Petalburg. The Pride won both regular-season meetings, and I can already hear the reply being typed. Oinkologne remains out with two weeks reported. Rustboro has Philly Gabite’s 870 rushing yards and Gibby Timmy’s 953 receiving yards, and it just put up twenty-nine in a loss. I am choosing the better chance of pushing this particular matchup beyond Petalburg’s preferred total. The Stone defense has to cooperate. Its thirty-five points allowed to Dewford make that a fairly substantial condition."
+        },
+        {
+          "type": "p",
+          "text": "Cinnabar then beats Mt. Silver in my divisional round. That is the biggest seed upset on my bracket, although Blaine’s club already won their meeting 38–24. The Reds’ bye is useful; their injury list is still severe. I trust Cinnabar’s four-game winning streak and Gholdengo’s distribution enough to survive the new absence of Exploud. Saffron beats Lavender, then beats Cinnabar. The regular-season 35–3 meeting is stronger evidence for that matchup than the argument that the Blaze have become entertaining."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep gets Rustboro and Sunyshore on my projected route. I take the Eclipse both times. Its rest-and-development finish makes the last two scoring totals a poor basis for declaring the offense diminished. Michael Dorrill deliberately gave younger players work and still won 22–3 and 27–0. Dram Marino’s fifty-six touchdowns and four interceptions remain available evidence, as do Accel BeckhmJr’s 1,953 receiving yards. The Eclipse are the opponent most likely to make my champion pick look ambitious."
+        },
+        {
+          "type": "p",
+          "text": "I finish with Saffron 30, Mossdeep 27. My hardest choice is the Bowl itself. Mossdeep has the better record, the larger point differential and the first head-to-head win. Saffron has a healthy current report and a passing-and-pressure combination capable of changing the next meeting. I expect one more successful scoring possession from the Psi Corps than it managed in Week 10. If that fails, Mara will have the numbers ready. She has already had seventeen weeks of practice."
+        },
+        {
+          "type": "table",
+          "title": "Rowan Vale — complete bracket",
+          "columns": [
+            "Round",
+            "Matchup",
+            "Pick"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Wild card",
+                "Olivine Ironclads at Saffron Psi Corps",
+                "Saffron Psi Corps (3–42, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Vermilion Volts at Lavender Wails",
+                "Lavender Wails (10–27, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Blackthorn Dragons at Cinnabar Blaze",
+                "Cinnabar Blaze (20–27, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Hearthome Haunts at Sunyshore Starseekers",
+                "Sunyshore Starseekers (13–31, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Rustboro Stone at Petalburg Pride",
+                "Rustboro Stone (24–17, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Dewford Breakers at Eterna Thorns",
+                "Dewford Breakers (24–13, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Cinnabar Blaze at Mt. Silver Reds",
+                "Cinnabar Blaze"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Lavender Wails at Saffron Psi Corps",
+                "Saffron Psi Corps"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Cinnabar Blaze at Saffron Psi Corps",
+                "Saffron Psi Corps"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Rustboro Stone at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Dewford Breakers at Sunyshore Starseekers",
+                "Sunyshore Starseekers"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Sunyshore Starseekers at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Indigo Bowl",
+                "Saffron Psi Corps vs Mossdeep Eclipse",
+                "Saffron Psi Corps (30–27, away–home)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Tessa Wren — Mossdeep, with Saffron waiting at the end"
+        },
+        {
+          "type": "p",
+          "text": "My bracket ends with Mossdeep 31, Saffron 24. The Eclipse have the strongest completed-season evidence: seventeen wins, 724 points scored and 130 allowed. Their closing development work also succeeded on its own terms. Budew Baker received meaningful starts while the established offense rested, and Mossdeep won both games. That gives Michael Dorrill more usable experience behind his starters, though the playoff depth and actual participants still have to be confirmed when the games arrive."
+        },
+        {
+          "type": "p",
+          "text": "I take all three higher seeds in Kanto–Johto’s opening round. Saffron has a large production and availability advantage over Olivine. Lavender’s eight straight wins and recent passing improvement give it the edge over Vermilion. Cinnabar–Blackthorn is my hardest wild-card call: the Blaze won the earlier meeting, but Exploud’s new six-week absence removes a productive tight end just before the rematch. Hatterene’s accuracy keeps the Dragons within reach. I give Gholdengo and the home team one more scoring possession."
+        },
+        {
+          "type": "p",
+          "text": "Those results send Cinnabar to Mt. Silver and Lavender to Saffron. I choose Cinnabar and Saffron. The Blaze’s 38–24 regular-season win at Mt. Silver matters alongside the Reds’ current injuries, rather than as a guarantee of another victory. A bye helps with recovery and removes one game from the route. It cannot justify writing Tic Thorpe or Tony Gyarzalez into a lineup before their availability supports it. Cinnabar over the first seed is my biggest projected upset."
+        },
+        {
+          "type": "p",
+          "text": "Saffron then beats Cinnabar for the conference title. The 35–3 regular-season result is a useful matchup warning for Blaine, whose offense will already be trying to replace Exploud. Archam Manning has the receiving support to sustain scoring even if one target is contained. Tare and Norton give the defense two established sources of disruption. I expect the Psi Corps to win the extra game required by their second seed and arrive at the Bowl as a serious challenger."
+        },
+        {
+          "type": "p",
+          "text": "In Hoenn–Sinnoh, I take Sunyshore and Petalburg at home, with Dewford winning at Eterna. I like the Thorns’ defense, which allowed only 184 points, but Stantler, Tatsugiri and Dewgong are all unavailable on the current report. Dewford has the healthier group and just scored thirty-five at Rustboro. Reseeding puts the Breakers at Mossdeep and Petalburg at Sunyshore. I take both higher seeds there, then Mossdeep in the conference championship."
+        },
+        {
+          "type": "p",
+          "text": "Saffron is the likeliest team to stop the Eclipse. Their 20–17 meeting supplies direct evidence of a close contest, and the Psi Corps currently have no positive-week injury entries. My final choice favors Marino’s efficiency, the range of Mossdeep’s receiving production and a defense that allowed fewer points than any other club. Poury Holt’s six-week absence removes a useful option, but the Eclipse have already demonstrated alternatives. This is a forecast of execution over three games, with the Bowl the hardest of them."
+        },
+        {
+          "type": "table",
+          "title": "Tessa Wren — complete bracket",
+          "columns": [
+            "Round",
+            "Matchup",
+            "Pick"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Wild card",
+                "Olivine Ironclads at Saffron Psi Corps",
+                "Saffron Psi Corps (10–34, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Vermilion Volts at Lavender Wails",
+                "Lavender Wails (13–24, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Blackthorn Dragons at Cinnabar Blaze",
+                "Cinnabar Blaze (23–27, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Hearthome Haunts at Sunyshore Starseekers",
+                "Sunyshore Starseekers (14–30, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Rustboro Stone at Petalburg Pride",
+                "Petalburg Pride (17–20, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Wild card",
+                "Dewford Breakers at Eterna Thorns",
+                "Dewford Breakers (17–13, away–home)"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Cinnabar Blaze at Mt. Silver Reds",
+                "Cinnabar Blaze"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Lavender Wails at Saffron Psi Corps",
+                "Saffron Psi Corps"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Cinnabar Blaze at Saffron Psi Corps",
+                "Saffron Psi Corps"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Dewford Breakers at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Divisional",
+                "Petalburg Pride at Sunyshore Starseekers",
+                "Sunyshore Starseekers"
+              ]
+            },
+            {
+              "cells": [
+                "Conference championship",
+                "Sunyshore Starseekers at Mossdeep Eclipse",
+                "Mossdeep Eclipse"
+              ]
+            },
+            {
+              "cells": [
+                "Indigo Bowl",
+                "Saffron Psi Corps vs Mossdeep Eclipse",
+                "Mossdeep Eclipse (24–31, away–home)"
+              ]
+            }
+          ]
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/9c45a9f66c150bbf.webp",
+        "alt": "Five writers commit to their playoff brackets. Conceptual PSPN cover illustration."
+      }
+    }
+  ]
+}
