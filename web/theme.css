@@ -1,0 +1,42 @@
+/* Reader appearance. Artwork and team colors retain their original palettes. */
+:root { color-scheme: light; }
+.appearance-control { display:flex; align-items:center; gap:8px; font-size:11px; color:#e4e4e7; flex-shrink:0; }
+.appearance-control select { min-height:36px; width:90px; background:#292d35; color:#f0f2f6; border-color:#555d6c; }
+@media(max-width:720px) {
+  .masthead { height:auto; min-height:64px; flex-wrap:wrap; gap:10px 16px; padding-right:16px; }
+  .masthead .network { flex:1 1 calc(100% - 152px); }
+  .masthead .desk-link { order:3; flex:1; margin:0 0 10px 20px; }
+  .appearance-control { order:4; margin:0 0 10px; }
+}
+:root[data-theme="dark"] {
+  color-scheme:dark; color:#e7eaf0; background:#11151c;
+  --red:#ff718c; --muted:#a9b2c2; --line:#343d4c;
+  --surface:#1b222d; --raised:#252e3b; --ink:#e7eaf0; --secondary:#c0c8d5;
+}
+:root[data-theme="dark"] :is(.scorebar,.navigation,.rail-box,.story,.panel,.game-card,.game-scoreboard,.game-tabs,.long-article,dialog,.close-dialog,.skip,.standings-table td:first-child) { background:var(--surface); color:var(--ink); border-color:var(--line); }
+:root[data-theme="dark"] :is(select,input) { background:var(--raised); color:var(--ink); border-color:#596579; }
+:root[data-theme="dark"] input::placeholder { color:var(--muted); opacity:1; }
+:root[data-theme="dark"] :is(button,a,select,input,summary):focus-visible { outline:3px solid #8ab9ff; outline-offset:3px; }
+:root[data-theme="dark"] .brand { background:#d71c3c; color:white; }
+:root[data-theme="dark"] :is(.tick:hover,.data-table th,.stat-block,.article-inner .mini-score,.standings-table th:first-child,.drive summary,.keys-grid>div,.combine-strip,.box-section>summary:hover,.picks-board,.picks-heading h3,.article-figure,.article-flow,.article-data tbody tr:nth-child(even),.branch-card) { background:var(--raised); color:var(--ink); border-color:var(--line); }
+:root[data-theme="dark"] :is(.edition-meta strong,.rail-note strong,.byline strong,.footer-wordmark,summary,.article-inner .lede,.prose>p,.prose blockquote p,.play-clock b,.ranking-item p,.preview-matchup>p,.prospect-card p,.combine-strip b,.box-section>summary,.article-flow li,.branch-card) { color:var(--ink); }
+:root[data-theme="dark"] :is(.story p,.article-inner p,.article-dek,.keys-grid p,.author-card p,.article-figure figcaption,.article-flow figcaption>span,.pick-split,.play-score,.preview-matchup .prediction-call,.prospect-heading strong) { color:var(--secondary); }
+:root[data-theme="dark"] :is(.upcoming-game span,.rail-note,.byline,.mini-score .versus,.mini-score small,.loading,footer,.article-inner .caption,.conference-label,.small-seed,.seed-number,.game-back,.score-club small,.final-label,.quarter-table thead,.article-byline small,.copy-link,.prose cite,.article-end a,.leader-category h4,.leader-player small,.play-controls label,.drive summary span,.play-clock,.comparison span,.ranking-heading span:not(.rank-number),.ranking-item>small,.preview-matchup h2 span,.predictions-table small,.prospect-heading small,.combine-strip span,.archive-controls p,.archive-article small,.author-card>small,.college-conference>summary small,.college-grid span,.box-toggle,.pick-split i,.article-data td:before,.article-flow li+li:before) { color:var(--muted); }
+:root[data-theme="dark"] :is(.team-choice,.upcoming-game,.navigation,.rail-box,.story,.panel,footer,.box-toggle,.picks-board,.article-data td,.article-data tr,.article-flow li,.branch-card,.archive-edition-title) { border-color:var(--line); }
+:root[data-theme="dark"] .toggle button.active { background:#e7eaf0; color:#17202c; border-color:#e7eaf0; }
+:root[data-theme="dark"] .toggle button:not(.active):hover { background:var(--raised); }
+:root[data-theme="dark"] .division-tag { color:#b1d0ff; background:#243b58; }
+:root[data-theme="dark"] .author-initials { color:#ffacc0; background:#452637; }
+:root[data-theme="dark"] .matchup-label { color:var(--red); }
+:root[data-theme="dark"] .pick-author { background:#303c4d; color:var(--ink); }
+:root[data-theme="dark"] .article-data th { background:#303c4d; color:var(--ink); }
+:root[data-theme="dark"] .article-flow li { background:var(--surface); }
+:root[data-theme="dark"] .article-tree li { background:none; border:0; }
+:root[data-theme="dark"] :is(.play.scoring,.article-flow .flow-success,.branch-card.flow-success) { background:#18372d; color:#d1f0df; border-color:#568a71; }
+:root[data-theme="dark"] :is(.article-flow .flow-warning,.branch-card.flow-warning) { background:#3c301c; color:#ffe2a8; border-color:#aa8745; }
+:root[data-theme="dark"] .play.turnover { background:#3b232d; border-left-color:#e97d95; }
+:root[data-theme="dark"] .rank-movement.up { color:#7cd5a7!important; }
+:root[data-theme="dark"] .rank-movement.down { color:#ff95a8!important; }
+:root[data-theme="dark"] .rank-number { color:#8c9ab0; }
+:root[data-theme="dark"] .comparison-bar { background:#394557; }
+:root[data-theme="dark"] #status { color:#ffabbc; }
