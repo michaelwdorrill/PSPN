@@ -1,0 +1,155 @@
+{
+  "season": 1,
+  "week": 19,
+  "nextWeek": 20,
+  "games": [
+    {
+      "gid": "1-divisional-kj-goldenrod",
+      "away": "blackthorn",
+      "home": "goldenrod",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 34,
+          "home": 27,
+          "reason": "Hatterene just put five touchdowns on a division winner, and Blackthorn already won here. The Reds can run well enough to score; their quarterback and tight-end absences leave the Dragons with the stronger passing answer."
+        },
+        {
+          "author": "mara-voss",
+          "away": 31,
+          "home": 24,
+          "reason": "I had Mt. Silver advancing in my opening bracket. The current matchup makes me change the round pick: Blackthorn’s multiple receiving answers can punish a defense while the Reds remain short at quarterback and tight end."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 27,
+          "home": 24,
+          "reason": "The earlier 30–22 meeting matters more than my reluctance to compliment Blackthorn. Hatterene has just recovered from the painful division finale with a complete road performance. I expect Lynch to keep Mt. Silver close."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 24,
+          "home": 31,
+          "reason": "Garshawn Lynch led the league with 1,200 rushing yards, and the Reds beat Saffron 36–33 before the bye. I trust a home team that can reduce Hatterene’s possessions, even with the quarterback injuries."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 30,
+          "home": 27,
+          "reason": "Blackthorn has the clearer current passing production and a prior road win in this matchup. Lynch should create enough offense to keep it within one score, but the missing Mt. Silver targets make a late passing exchange favor the Dragons."
+        }
+      ]
+    },
+    {
+      "gid": "1-divisional-kj-saffron",
+      "away": "ecruteak",
+      "home": "saffron",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 17,
+          "home": 41,
+          "reason": "Saffron has scored 70, 31, 49 and 42 in its last four games. Lavender’s 218-yard wild-card offense cannot keep asking its return unit to repair that kind of scoring pace."
+        },
+        {
+          "author": "mara-voss",
+          "away": 20,
+          "home": 34,
+          "reason": "Lavender allowed 368 yards to Vermilion. Manning and Lamb can turn comparable movement into more touchdowns, although Smoth’s absence removes some backfield flexibility and the Wails can still create short fields."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 27,
+          "home": 24,
+          "reason": "Nine straight wins include several different ways to survive. I expect Hobbes’s field-position value and Moth Ball’s low-interception passing to keep Lavender close enough for another late possession, with Smoth’s loss narrowing Saffron’s options."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 17,
+          "home": 38,
+          "reason": "Trent Scarboro has the league’s leading passer and a receiver who just gained 143 yards on six catches. Lavender needs too many recoveries to handle a home offense with this many finishers."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 21,
+          "home": 34,
+          "reason": "The Wails’ return game gives them a credible scoring route, but Saffron just converted two third downs into touchdown passes before halftime. I expect the home passing game to create more sustained scoring than Lavender can match."
+        }
+      ]
+    },
+    {
+      "gid": "1-divisional-hs-mossdeep",
+      "away": "dewford",
+      "home": "mossdeep",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 13,
+          "home": 38,
+          "reason": "The three-point first meeting keeps Dewford interesting. Mossdeep’s 724–130 regular-season scoring record and fresh playoff start still point to a much wider result if its principal scorers resume their expected work."
+        },
+        {
+          "author": "mara-voss",
+          "away": 10,
+          "home": 42,
+          "reason": "Dram Marino’s 56 touchdown passes and four interceptions give Mossdeep an unusually strong combination of scoring and possession security. Dewford’s 105-yard wild-card passing game will struggle if the Eclipse establish an early lead."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 17,
+          "home": 31,
+          "reason": "Dewford has earned four straight wins and already made Mossdeep work for a 24–21 result. I expect the Breakers to stay involved through rushing and field position before the deeper scoring offense creates separation."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 20,
+          "home": 27,
+          "reason": "Mossdeep’s unbeaten record deserves a playoff test against a team that already came within three. I expect Dewford to keep the game uncomfortable, but the Eclipse’s receiving production is too substantial to pick against here."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 35,
+          "reason": "Dewford can sustain a running game and change field position, yet Mossdeep has the stronger touchdown production through Marino, Accel BeckhmJr and Ninjaskamara. I expect enough Breakers offense to compete, with the home team finishing more possessions."
+        }
+      ]
+    },
+    {
+      "gid": "1-divisional-hs-sunyshore",
+      "away": "petalburg",
+      "home": "sunyshore",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 16,
+          "home": 27,
+          "reason": "Gabite’s 106 yards offer Sunyshore a repeatable source of offense against a defense that just allowed 163 rushing yards. Petalburg can keep possessions alive, but I expect fewer successful third downs against this defense."
+        },
+        {
+          "author": "mara-voss",
+          "away": 20,
+          "home": 24,
+          "reason": "Petalburg’s final touchdown drive showed two real third-down answers, so I will not price the Pride as an easy out. Sunyshore’s ground production and sack-free quarterback performance give the home team a narrow advantage."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 21,
+          "home": 23,
+          "reason": "The Pride have repeatedly won close games, and their twenty-one-point fourth quarter deserves weight. Sunyshore has the healthier main rushing option and home field; I expect the decisive possession to remain late."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 17,
+          "home": 34,
+          "reason": "Karson Jones has a 106-yard runner and a defense that just allowed six points. Petalburg survived Rustboro’s rushing production, but repeating that escape against Sunyshore is a much harder assignment."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 27,
+          "reason": "I expect Gabite and the Starseekers’ rushing attack to sustain drives while the defense reduces Petalburg’s six-of-nine third-down rate. Oinkologne’s continuing absence makes it harder for the Pride to create an equally reliable ground answer."
+        }
+      ]
+    }
+  ]
+}

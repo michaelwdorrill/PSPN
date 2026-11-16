@@ -1,0 +1,415 @@
+{
+  "season": 1,
+  "week": 19,
+  "articles": [
+    {
+      "id": "draft-ol-s1-w19",
+      "type": "draft",
+      "author": "calvin-rook",
+      "title": "Lapras leads a line class with more than one kind of athlete",
+      "dek": "The Rook Board separates twelve visible OL prospects by reported range, strength and movement, with Klawf forcing an early conversation.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Agate State’s Lapras leads this OL board because the visible range and movement tests support the same early interest. A 77–99 range is the strongest among the selected prospects, and a 4.95 forty with a 6.91 cone gives me more than a large number to admire. I would begin the line evaluation there, then make Paniola State’s Eiscue and University of Sunyshore’s Klawf part of the same serious discussion."
+        },
+        {
+          "type": "p",
+          "text": "Klawf is the athlete I keep returning to: twenty-one bench repetitions, a 4.86 forty and a 6.83 cone. Those are recorded combine measures, not proof that every protection snap will be clean. They are enough to make the prospect’s 65–93 range especially interesting. A team should investigate how that movement and strength fit its actual line need before treating a broad rating interval as a complete scouting report."
+        },
+        {
+          "type": "p",
+          "text": "Torkoal and Shuckle present a different argument, with strong visible ranges and slower movement testing. I am keeping them high while asking more specific positional questions. The league lists these prospects as OL; the available scouting record does not establish a college snap history at tackle, guard or center. This board therefore does not invent one to make the rankings sound more precise."
+        },
+        {
+          "type": "p",
+          "text": "Fortree’s rebuilding conversations and Rustboro’s next decisions should include this class, but I am not assigning a final draft position before the draft order and available choices are settled. The board is a ranking of these twelve visible prospects, not a promise that a particular club can select one. Every school assignment remains the player’s established university, including the two distinct Eiscue prospects."
+        },
+        {
+          "type": "p",
+          "text": "The same caution applies to the range endpoints. A 99 at the top of an interval is not a revealed 99-rated player, and a strong combine does not reveal an unseen development ceiling. I have made the judgments below from the reported ranges and tests. The next useful scouting step is to reduce uncertainty about the specific job the player would be asked to perform."
+        }
+      ],
+      "focus": "OL",
+      "prospects": [
+        {
+          "pid": "p2094",
+          "name": "Lapras",
+          "species": "Lapras",
+          "speciesId": 131,
+          "icon": "assets/sprites/131.png",
+          "position": "OL",
+          "age": 23,
+          "level": 14,
+          "range": [
+            77,
+            99
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 17,
+            "vertical": 33,
+            "cone": 6.91
+          },
+          "university": {
+            "id": "orre-agate-state-university",
+            "name": "Agate State University",
+            "city": "Agate Village",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 1,
+          "analysis": "Lapras combines the strongest visible range, 77–99, with a 4.95 forty and 6.91 cone. Agate State’s prospect leads my board because the broad athletic case accompanies the rating range.",
+          "concern": "A wide range still leaves substantial uncertainty; the combine does not establish actual pass-blocking technique.",
+          "projection": "First OL on this board; a club seeking an early contributor should investigate the position fit."
+        },
+        {
+          "pid": "p2123",
+          "name": "Eiscue",
+          "species": "Eiscue",
+          "speciesId": 875,
+          "icon": "assets/sprites/875.png",
+          "position": "OL",
+          "age": 21,
+          "level": 15,
+          "range": [
+            71,
+            99
+          ],
+          "combine": {
+            "forty": 4.95,
+            "bench": 19,
+            "vertical": 31,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "alola-paniola-state-university",
+            "name": "Paniola State University",
+            "city": "Paniola Town",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 2,
+          "analysis": "Paniola State’s Eiscue pairs a 71–99 range with nineteen bench repetitions and a 6.96 cone. The strength-and-movement combination gives me a second credible top choice.",
+          "concern": "The top of a visible range is a possibility, not a measured current rating.",
+          "projection": "An early line target for a team balancing immediate help and further development."
+        },
+        {
+          "pid": "p2177",
+          "name": "Klawf",
+          "species": "Klawf",
+          "speciesId": 950,
+          "icon": "assets/sprites/950.png",
+          "position": "OL",
+          "age": 23,
+          "level": 19,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 4.86,
+            "bench": 21,
+            "vertical": 33,
+            "cone": 6.83
+          },
+          "university": {
+            "id": "sinnoh-university-of-sunyshore",
+            "name": "University of Sunyshore",
+            "city": "Sunyshore City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 3,
+          "analysis": "Klawf is my favorite movement-and-strength combination: 4.86 in the forty, twenty-one bench reps and a 6.83 cone, alongside a 65–93 range. University of Sunyshore sends an athlete I want to examine closely.",
+          "concern": "Athletic testing alone cannot prove protection reliability or identify the best line position.",
+          "projection": "Aggressive early consideration, particularly when movement matters to the intended role."
+        },
+        {
+          "pid": "p2083",
+          "name": "Torkoal",
+          "species": "Torkoal",
+          "speciesId": 324,
+          "icon": "assets/sprites/324.png",
+          "position": "OL",
+          "age": 23,
+          "level": 9,
+          "range": [
+            68,
+            96
+          ],
+          "combine": {
+            "forty": 5.21,
+            "bench": 18,
+            "vertical": 30,
+            "cone": 7.24
+          },
+          "university": {
+            "id": "kanto-university-of-cinnabar",
+            "name": "University of Cinnabar",
+            "city": "Cinnabar Island",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 4,
+          "analysis": "University of Cinnabar’s Torkoal has a 68–96 range and eighteen bench reps. The 5.21 forty and 7.24 cone make this a different athletic proposition from Klawf.",
+          "concern": "Slower movement measures deserve attention before assigning an edge-protection job.",
+          "projection": "A high-board strength candidate whose actual positional fit needs further checking."
+        },
+        {
+          "pid": "p1968",
+          "name": "Shuckle",
+          "species": "Shuckle",
+          "speciesId": 213,
+          "icon": "assets/sprites/213.png",
+          "position": "OL",
+          "age": 21,
+          "level": 13,
+          "range": [
+            66,
+            94
+          ],
+          "combine": {
+            "forty": 5.19,
+            "bench": 16,
+            "vertical": 28,
+            "cone": 7.27
+          },
+          "university": {
+            "id": "hoenn-university-of-mauville",
+            "name": "University of Mauville",
+            "city": "Mauville City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 5,
+          "analysis": "University of Mauville’s Shuckle brings a 66–94 range and sixteen bench reps. I place the prospect here for the visible football range while recognizing the slower testing profile.",
+          "concern": "The 7.27 cone and 5.19 forty give me less movement confidence than the names above.",
+          "projection": "Early-to-middle line consideration with role-specific evaluation still essential."
+        },
+        {
+          "pid": "p2064",
+          "name": "Tropius",
+          "species": "Tropius",
+          "speciesId": 357,
+          "icon": "assets/sprites/357.png",
+          "position": "OL",
+          "age": 22,
+          "level": 17,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 5.06,
+            "bench": 17,
+            "vertical": 31,
+            "cone": 7.1
+          },
+          "university": {
+            "id": "orre-north-orre-university",
+            "name": "North Orre University",
+            "city": "Phenac City",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 6,
+          "analysis": "North Orre’s Tropius has a 63–91 range and seventeen bench reps, with a 5.06 forty. The profile is balanced enough to remain in the first group after the more striking top athletes.",
+          "concern": "The 7.10 cone does not separate Tropius from several close alternatives.",
+          "projection": "A credible line-building candidate when the top four are gone."
+        },
+        {
+          "pid": "p1877",
+          "name": "Audino",
+          "species": "Audino",
+          "speciesId": 531,
+          "icon": "assets/sprites/531.png",
+          "position": "OL",
+          "age": 23,
+          "level": 24,
+          "range": [
+            63,
+            91
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 16,
+            "vertical": 35,
+            "cone": 7.05
+          },
+          "university": {
+            "id": "kanto-saffron-institute-of-technology",
+            "name": "Saffron Institute of Technology",
+            "city": "Saffron City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 7,
+          "analysis": "Saffron Tech’s Audino matches the 63–91 range and adds a 5.00 forty, sixteen bench reps and a thirty-five-inch vertical. The testing offers several useful positives without one defining outlier.",
+          "concern": "A broad range prevents a confident claim of immediate starting quality.",
+          "projection": "A balanced alternative for teams seeking several plausible line roles."
+        },
+        {
+          "pid": "p2015",
+          "name": "Spiritomb",
+          "species": "Spiritomb",
+          "speciesId": 442,
+          "icon": "assets/sprites/442.png",
+          "position": "OL",
+          "age": 23,
+          "level": 18,
+          "range": [
+            59,
+            87
+          ],
+          "combine": {
+            "forty": 5.09,
+            "bench": 18,
+            "vertical": 29,
+            "cone": 7.08
+          },
+          "university": {
+            "id": "johto-blackthorn-state-university",
+            "name": "Blackthorn State University",
+            "city": "Blackthorn City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 8,
+          "analysis": "Blackthorn State’s Spiritomb offers eighteen bench reps and a 59–87 range. Strength is the clearest testing reason to keep this prospect above similarly ranged alternatives.",
+          "concern": "The visible data does not establish whether that strength translates to reliable blocking.",
+          "projection": "A middle-board target with further technical evaluation required."
+        },
+        {
+          "pid": "p1888",
+          "name": "Eiscue",
+          "species": "Eiscue",
+          "speciesId": 875,
+          "icon": "assets/sprites/875.png",
+          "position": "OL",
+          "age": 23,
+          "level": 15,
+          "range": [
+            60,
+            88
+          ],
+          "combine": {
+            "forty": 4.92,
+            "bench": 17,
+            "vertical": 33,
+            "cone": 7.09
+          },
+          "university": {
+            "id": "johto-azalea-university",
+            "name": "Azalea University",
+            "city": "Azalea Town",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 9,
+          "analysis": "Azalea’s Eiscue runs 4.92 with seventeen bench reps and a 60–88 range. The second Eiscue on the list is a separate prospect with a different school and testing line.",
+          "concern": "The 7.09 cone is less striking than the forty; do not collapse two movement tests into one conclusion.",
+          "projection": "A useful alternative if the Paniola prospect is selected earlier."
+        },
+        {
+          "pid": "p2001",
+          "name": "Stunfisk",
+          "species": "Stunfisk",
+          "speciesId": 618,
+          "icon": "assets/sprites/618.png",
+          "position": "OL",
+          "age": 21,
+          "level": 16,
+          "range": [
+            58,
+            86
+          ],
+          "combine": {
+            "forty": 5.02,
+            "bench": 15,
+            "vertical": 30,
+            "cone": 7
+          },
+          "university": {
+            "id": "unova-university-of-castelia",
+            "name": "University of Castelia",
+            "city": "Castelia City",
+            "conference": "Unova Metropolitan Conference",
+            "region": "Unova"
+          },
+          "rank": 10,
+          "analysis": "Castelia’s Stunfisk combines a 58–86 range, fifteen bench reps and a 7.00 cone. It is a steady profile within a crowded middle group.",
+          "concern": "No visible measure here removes the uncertainty between a reserve and a future starter.",
+          "projection": "Middle-board line depth with a plausible larger role after further evaluation."
+        },
+        {
+          "pid": "p1972",
+          "name": "Tirtouga",
+          "species": "Tirtouga",
+          "speciesId": 564,
+          "icon": "assets/sprites/564.png",
+          "position": "OL",
+          "age": 21,
+          "level": 16,
+          "range": [
+            61,
+            75
+          ],
+          "combine": {
+            "forty": 5.14,
+            "bench": 16,
+            "vertical": 30,
+            "cone": 7.16
+          },
+          "university": {
+            "id": "orre-university-of-gateon",
+            "name": "University of Gateon",
+            "city": "Gateon Port",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 11,
+          "analysis": "Gateon’s Tirtouga has a narrower 61–75 range and sixteen bench reps. That narrower reported interval is useful information even though its ceiling is below several wider-range prospects.",
+          "concern": "A 7.16 cone and 5.14 forty do not make the movement case for us.",
+          "projection": "A more constrained evaluation for teams preferring a clearer present range."
+        },
+        {
+          "pid": "p2103",
+          "name": "Dwebble",
+          "species": "Dwebble",
+          "speciesId": 557,
+          "icon": "assets/sprites/557.png",
+          "position": "OL",
+          "age": 23,
+          "level": 11,
+          "range": [
+            57,
+            71
+          ],
+          "combine": {
+            "forty": 4.98,
+            "bench": 13,
+            "vertical": 37,
+            "cone": 6.77
+          },
+          "university": {
+            "id": "kanto-vermilion-polytechnic-institute",
+            "name": "Vermilion Polytechnic Institute",
+            "city": "Vermilion City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 12,
+          "analysis": "Vermilion Polytechnic’s Dwebble combines a 57–71 range with a 4.98 forty, 6.77 cone and thirty-seven-inch vertical. The movement testing earns a place despite the lower range.",
+          "concern": "Thirteen bench reps and the lower range keep the projection below the top group.",
+          "projection": "A later movement-oriented option whose role needs to justify the investment."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/bc834c7cff034022.webp",
+        "alt": "Lapras and Klawf feature in the OL scouting board. Conceptual college blocking-drill illustration."
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "season": 1,
+  "week": 19,
+  "articles": [
+    {
+      "id": "preview-divisional-s1-w19",
+      "type": "preview",
+      "author": "tessa-wren",
+      "title": "Four divisional games, twenty fresh score picks",
+      "dek": "The complete slate, the writers’ round forecasts and a clear separation from their frozen opening brackets.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "The final eight now include both rested top seeds and six wild-card winners. Blackthorn visits Mt. Silver, Lavender travels to Saffron, Dewford goes to Mossdeep and Petalburg visits Sunyshore. Every game has a separate long-form preview alongside this complete panel."
+        },
+        {
+          "type": "p",
+          "text": "Mara went 6–0 in the wild-card round; Ellis and I went 5–1, while Rowan and Dorian went 4–2. Those records count winners. Closest-score bonuses remain separate, and nobody predicted an exact final score. Mara’s six correct calls included both Blackthorn and Petalburg."
+        },
+        {
+          "type": "p",
+          "text": "These are new round-specific forecasts. Our opening championship brackets remain frozen in the playoff-launch issue, including eliminated selections and earlier projected divisional winners. A changed forecast below is an updated judgment, not a correction to an old prediction. The regular-season standings retain their seventeen-game records; playoff results appear in the game reports and bracket coverage."
+        }
+      ],
+      "matchups": [
+        {
+          "gid": "1-divisional-kj-goldenrod",
+          "away": "blackthorn",
+          "home": "goldenrod",
+          "title": "Blackthorn returns to the site of its 30–22 win",
+          "analysis": "Hatterene arrives after five touchdown passes at Cinnabar. Mt. Silver has the bye and Garshawn Lynch, but Tic Thorpe and Josh Alakazam still carry positive recovery counters, and Tony Gyarzalez remains out. The earlier 30–22 Dragons win makes this a rematch with evidence behind the upset argument.",
+          "matchup": "Blackthorn returns to the site of its 30–22 win",
+          "awayKey": "Keep Hatterene efficient without assuming another five-touchdown day.",
+          "homeKey": "Use Lynch to sustain possessions and keep the available quarterback out of a passing chase.",
+          "prediction": {
+            "away": 30,
+            "home": 27,
+            "reason": "Blackthorn has the clearer current passing production and a prior road win in this matchup. Lynch should create enough offense to keep it within one score, but the missing Mt. Silver targets make a late passing exchange favor the Dragons."
+          }
+        },
+        {
+          "gid": "1-divisional-kj-saffron",
+          "away": "ecruteak",
+          "home": "saffron",
+          "title": "Lavender’s late escapes meet Saffron’s scoring depth",
+          "analysis": "The Wails have won nine straight, most recently after Hobbes’s 73-yard return. Saffron just scored 35 unanswered points against Olivine. Emmitt Smoth’s new five-week injury changes the home backfield; Lavender still must account for Manning, Lamb and the pass rush.",
+          "matchup": "Lavender’s late escapes meet Saffron’s scoring depth",
+          "awayKey": "Create ordinary first downs before needing an extraordinary return.",
+          "homeKey": "Finish third-down stops and limit Hobbes’s return opportunities.",
+          "prediction": {
+            "away": 21,
+            "home": 34,
+            "reason": "The Wails’ return game gives them a credible scoring route, but Saffron just converted two third downs into touchdown passes before halftime. I expect the home passing game to create more sustained scoring than Lavender can match."
+          }
+        },
+        {
+          "gid": "1-divisional-hs-mossdeep",
+          "away": "dewford",
+          "home": "mossdeep",
+          "title": "Dewford revisits the three-point game",
+          "analysis": "Mossdeep won the Week 4 meeting 24–21 and finished 17–0. Dewford has won four straight and just held Eterna without a touchdown. The Eclipse rested starters late in the season; the final divisional lineup remains to be confirmed.",
+          "matchup": "Dewford revisits the three-point game",
+          "awayKey": "Protect the ball and generate field position without depending on a return touchdown.",
+          "homeKey": "Turn the receiving advantage into touchdowns and make Dewford drive the full field.",
+          "prediction": {
+            "away": 17,
+            "home": 35,
+            "reason": "Dewford can sustain a running game and change field position, yet Mossdeep has the stronger touchdown production through Marino, Accel BeckhmJr and Ninjaskamara. I expect enough Breakers offense to compete, with the home team finishing more possessions."
+          }
+        },
+        {
+          "gid": "1-divisional-hs-sunyshore",
+          "away": "petalburg",
+          "home": "sunyshore",
+          "title": "Petalburg’s third downs meet Sunyshore’s rushing advantage",
+          "analysis": "Petalburg converted six of nine third downs to eliminate Rustboro. Sunyshore held Hearthome to 19 rushing yards while Myles Gabite gained 106. Oinkologne still has one week reported, leaving the Pride to repeat their recent success with the available backfield.",
+          "matchup": "Petalburg’s third downs meet Sunyshore’s rushing advantage",
+          "awayKey": "Keep Gabite from creating a steady supply of short-yardage downs.",
+          "homeKey": "Make Iron Valiant convert long third downs without allowing a second chance.",
+          "prediction": {
+            "away": 17,
+            "home": 27,
+            "reason": "I expect Gabite and the Starseekers’ rushing attack to sustain drives while the defense reduces Petalburg’s six-of-nine third-down rate. Oinkologne’s continuing absence makes it harder for the Pride to create an equally reliable ground answer."
+          }
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/e9968e13f86162ae.webp",
+        "alt": "Four divisional games decide the conference finalists. Conceptual stadium architecture."
+      }
+    }
+  ]
+}

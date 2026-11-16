@@ -2070,6 +2070,48 @@
           "team": "fuchsia"
         }
       ]
+    },
+    {
+      "key": "s1-w19",
+      "season": 1,
+      "week": 19,
+      "focus": "OL",
+      "afterBowl": false,
+      "powerTheme": "What survives the first round?",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep"
+        },
+        {
+          "rank": 2,
+          "team": "saffron"
+        },
+        {
+          "rank": 3,
+          "team": "sunyshore"
+        },
+        {
+          "rank": 4,
+          "team": "blackthorn"
+        },
+        {
+          "rank": 5,
+          "team": "goldenrod"
+        },
+        {
+          "rank": 6,
+          "team": "ecruteak"
+        },
+        {
+          "rank": 7,
+          "team": "dewford"
+        },
+        {
+          "rank": 8,
+          "team": "petalburg"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,83 @@
+{
+  "season": 1,
+  "week": 19,
+  "articles": [
+    {
+      "id": "power-s1-w19",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "The remaining eight: Blackthorn makes the largest new claim",
+      "dek": "A postseason-only ranking after the wild-card round, with the final thirty-two-team regular-season list preserved in the archive.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "The field is down to eight, and this ranking covers those eight. The final regular-season ranking remains in the playoff-launch issue; eliminated clubs have not been quietly erased from that historical list. This is my current order of the remaining championship contenders, weighing the full season, the wild-card performance and confirmed availability."
+        },
+        {
+          "type": "p",
+          "text": "Blackthorn gives me the strongest reason to move a team upward in my current assessment. Hatterene threw five touchdown passes on the road, and the Dragons now revisit a top seed they already beat. Mt. Silver’s injuries make that matchup more difficult than its bye might suggest. Mossdeep remains first, Saffron second, and Sunyshore’s controlled win keeps it above the newly explosive Dragons."
+        },
+        {
+          "type": "p",
+          "text": "Mara went six-for-six on wild-card winners. The rest of us will be accepting her conversation choices for at least one meeting. Her opening bracket remains intact through the first round; Ellis’s Cinnabar championship path is eliminated. Every original bracket remains available exactly as published, while the current panel makes new round-specific judgments."
+        }
+      ],
+      "theme": "What survives the first round?",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "themeLabel": "The top seed begins",
+          "text": "Seventeen wins, 724 points scored and 130 allowed remain the strongest complete-season case. The late rest policy changes how we read the finale lineups, while Dewford’s earlier 24–21 loss supplies an actual reason for the Eclipse to pay attention. Marino, Accel BeckhmJr and Ninjaskamara give Mossdeep several established scoring routes. I keep them first until the playoff evidence changes that."
+        },
+        {
+          "rank": 2,
+          "team": "saffron",
+          "themeLabel": "The scoring keeps arriving",
+          "text": "The last four scores are 70, 31, 49 and 42. Olivine led briefly, then conceded thirty-five unanswered points. Manning, Lamb, Skattebo and Slampert all supplied touchdowns in different ways. Smoth’s five-week absence is a real cost, but Saffron retains its main rushing and receiving production. Lavender’s return game is the next detail that needs more respect than a comfortable final score might encourage."
+        },
+        {
+          "rank": 3,
+          "team": "sunyshore",
+          "themeLabel": "A useful kind of control",
+          "text": "Myles Gabite rushed for 106 yards while Hearthome managed nineteen as a team. Watzon took no sacks and threw no interceptions. That is a persuasive way to move past the loss at Mossdeep and into a home divisional game. Petalburg’s third-down offense will be a harder finishing test, but Sunyshore has an inviting ground-game comparison after the Pride allowed 163 rushing yards to Rustboro."
+        },
+        {
+          "rank": 4,
+          "team": "blackthorn",
+          "themeLabel": "The biggest upward argument",
+          "text": "Five touchdown passes at Cinnabar and a previous 30–22 win at Mt. Silver make the Dragons much more than a fifth-seed inconvenience. Their 70–0 loss at Saffron still belongs in the season record, and their defense allowed 348 regular-season points. I am ranking current remaining contenders, so Hatterene’s actual road response gets substantial weight without erasing those vulnerabilities."
+        },
+        {
+          "rank": 5,
+          "team": "goldenrod",
+          "themeLabel": "The bye did not clear everyone",
+          "text": "The Reds earned the top seed and have Garshawn Lynch’s 1,200-yard rushing season. They also still have positive recovery counters for Tic Thorpe, Josh Alakazam, Tony Gyarzalez and several others. Blackthorn already won here. Mt. Silver can answer through sustained rushing and home execution, but the current available passing group leaves more uncertainty than its regular-season record alone suggests."
+        },
+        {
+          "rank": 6,
+          "team": "ecruteak",
+          "themeLabel": "Nine straight, several narrow exits",
+          "text": "Hobbes’s seventy-three-yard return was magnificent. Lavender still gained only 218 offensive yards while allowing 368 to Vermilion. Both facts belong in the ranking. The Wails have earned nine consecutive wins and a trip to Saffron; their next improvement needs to be in ordinary possessions, because another enormous late return cannot be scheduled on the preparation sheet."
+        },
+        {
+          "rank": 7,
+          "team": "dewford",
+          "themeLabel": "A healthier road survivor",
+          "text": "The Breakers have won four straight and held Eterna without a touchdown. Watchog finished two short rushing opportunities, and Carnivine supplied the late interception. Dewford also came within three of Mossdeep earlier in the season. Its 105-yard wild-card passing game makes a large early deficit dangerous, but its current availability and several recent routes to victory give it a legitimate upset argument."
+        },
+        {
+          "rank": 8,
+          "team": "petalburg",
+          "themeLabel": "The final catches count",
+          "text": "Glameow and Magneton gained eighteen receiving yards between them, all on the final touchdown drive. Petalburg converted six of nine third downs and finished its opportunities with two successful two-point tries. The Pride also allowed 163 rushing yards, which puts Myles Gabite near the top of the next meeting agenda. Eighth among the remaining eight still means the club has earned another game."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/1c2b0275fb29cc00.webp",
+        "alt": "Accelgor #11. Mossdeep leads Rowan’s ranking of the remaining eight. Conceptual illustration with Accel BeckhmJr."
+      }
+    }
+  ]
+}
