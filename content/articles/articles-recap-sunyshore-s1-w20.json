@@ -1,0 +1,151 @@
+{
+  "season": 1,
+  "week": 20,
+  "articles": [
+    {
+      "id": "recap-1-divisional-hs-sunyshore",
+      "type": "recap",
+      "author": "mara-voss",
+      "title": "Sunyshore answers for the brothers, then keeps Petalburg off the scoreboard",
+      "dek": "DeZhaun Watzon throws two touchdowns and Myles Gabite rushes for 134 yards in a 24–10 win with a family connection to Rustboro’s elimination.",
+      "teams": [
+        "petalburg",
+        "sunyshore"
+      ],
+      "body": [
+        {
+          "type": "p",
+          "text": "Karson Jones supplied the family history before kickoff. Sunyshore quarterback DeZhaun Watzon and Rustboro quarterback Shawn Watzon are brothers. So are Sunyshore runner Myles Gabite and Rustboro runner Philly Gabite. Petalburg had ended Rustboro’s season in the wild-card round, leaving the Starseekers with a divisional opponent and two very personal reasons to remember the previous result."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore completed that revenge with a 24–10 victory. Watzon threw two touchdown passes, Gabite ran for 134 yards, and the defense held Petalburg scoreless after halftime. The brothers’ connection gave the matchup its emotional setting; the Starseekers earned the result by sustaining rushing possessions, answering a dangerous interception and keeping the Pride from producing another late playoff comeback."
+        },
+        {
+          "type": "p",
+          "text": "Jones now takes his team to Mossdeep for the Hoenn–Sinnoh championship. That trip offers its own unfinished business: the Eclipse won their Week 16 meeting 27–3. Sunyshore first had to finish the job in front of it, against a Petalburg team that had already shown how quickly a fourth quarter could become uncomfortable. A fourteen-point lead at the end felt considerably safer than the four-point margin the Starseekers carried into the break."
+        },
+        {
+          "type": "h2",
+          "text": "Watzon finishes a difficult opening drive"
+        },
+        {
+          "type": "quote",
+          "text": "There are brothers watching this one who know exactly what that opponent took away last week. We carried that with us. Then you still have to block, finish a run and take care of the football. The family story gets better when you do the work.",
+          "speaker": "Karson Jones",
+          "coachTeam": "sunyshore"
+        },
+        {
+          "type": "p",
+          "text": "Petalburg’s defense created genuine obstacles on Sunyshore’s first possession. Delcatty sacked Watzon for four yards, then five more on the following play. The drive nevertheless reached fourth-and-five near the goal line. Jones kept the offense out, and Watzon found Fera LaGatr to the short right for the five-yard touchdown at 1:29 of the first quarter."
+        },
+        {
+          "type": "p",
+          "text": "That decision deserves to stay attached to its context. The Starseekers had spent eleven plays and more than three minutes moving sixty-four yards. Two sacks had made the ending difficult. The touchdown allowed them to finish the possession at its full value instead of treating the earlier setbacks as a reason to settle. It also established that this game would demand useful short completions from Watzon alongside Gabite’s rushing work."
+        },
+        {
+          "type": "p",
+          "text": "Ash Rothington had already sacked Iron Valiant on Petalburg’s opening possession. He added another seven-yard sack late in the first quarter as the Pride again punted. Sunyshore took over early in the second and built a seventy-two-yard touchdown drive in nine plays. Watzon completed the two-yard scoring pass to EKTRIK RED at 3:46, and Kayden Lyons’s extra point made it 14–0."
+        },
+        {
+          "type": "p",
+          "text": "The two touchdowns went to Fera LaGatr and EKTRIK RED rather than the receiver who had caught both scores in the wild-card win. Kobra Khan would contribute differently later. Sunyshore’s available offense found several ways to finish drives despite the continuing absence of 88 Special, whose current injury report still lists fourteen weeks. The result gives the next opponent more than one scoring name to consider."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/bdc2fb3ff1560223.webp",
+          "alt": "Arbok #19. Kobra Khan scored on a seven-yard fourth-quarter run. Editorial rushing illustration.",
+          "caption": "Kobra Khan scored on a seven-yard fourth-quarter run. Editorial rushing illustration."
+        },
+        {
+          "type": "h2",
+          "text": "Petalburg makes the last minute count"
+        },
+        {
+          "type": "p",
+          "text": "Petalburg responded with a thirteen-play, seventy-six-yard touchdown drive. Iron Valiant found Glalie for six yards on third-and-six with fifty-one seconds remaining in the half. Sunflora added the extra point. The Pride had converted their longest sustained possession of the half into a touchdown and reduced the deficit to seven before Sunyshore could begin planning a comfortable interval."
+        },
+        {
+          "type": "p",
+          "text": "The next sequence brought Petalburg even closer. Kabutops sacked Watzon for seven yards, Sunyshore punted, and the Pride took over with twenty-eight seconds remaining. They moved thirty-five yards before Sunflora made a forty-nine-yard field goal with seven seconds left. The Starseekers had led by fourteen; they reached halftime ahead 14–10 after allowing ten points in the closing minute."
+        },
+        {
+          "type": "p",
+          "text": "For Petalburg, that finish resembled the useful part of its wild-card identity. Iron Valiant’s offense could keep a drive alive, then make another possession count when the opponent left time available. For Sunyshore, it created a practical halftime assignment: protect the ball, keep the ground game productive and stop allowing sacks to hand the visitors quick opportunities. The lead remained theirs, but the direction of the final minute favored the Pride."
+        },
+        {
+          "type": "p",
+          "text": "Iron Valiant eventually finished sixteen of twenty-eight for 168 yards, one touchdown and one interception. Venomoth led Petalburg with fifty-four receiving yards on two catches. Graveler added thirty-eight on four. Glalie supplied the touchdown reception but gained only fifteen yards on seven carries. The passing game generated enough moments to keep the contest competitive; the rushing game never provided the same sustained support that Gabite gave Sunyshore."
+        },
+        {
+          "type": "h2",
+          "text": "Alexander answers the turnover"
+        },
+        {
+          "type": "p",
+          "text": "The second half began with the danger Sunyshore had wanted to avoid. Watzon threw deep right and Flygon intercepted, returning the ball thirty-four yards. Petalburg was within four points and suddenly had an opportunity to take the lead without crossing the entire field. The Starseekers’ earlier advantage would have become much less useful if that possession had ended in a touchdown."
+        },
+        {
+          "type": "p",
+          "text": "Scol Alexander answered on third-and-two. Iron Valiant threw deep left, and Alexander intercepted and returned the ball twenty yards out of bounds at 4:45 of the third quarter. The two interceptions arrived less than a minute apart. Sunyshore had surrendered a valuable opportunity, then recovered possession before Petalburg could turn it into points."
+        },
+        {
+          "type": "p",
+          "text": "Lyons finished the ensuing drive with a forty-two-yard field goal. At 17–10, the Starseekers had restored a seven-point cushion. The sequence is central to the result because the final score can otherwise make the second half seem easier than it was. Petalburg had a chance to change the lead. Alexander’s interception ended it, and the offense and kicking unit converted the response into something measurable."
+        },
+        {
+          "type": "figure",
+          "src": "assets/editorial/3f80461810cf5a03.webp",
+          "alt": "Vigoroth #65. Ash Rothington recorded three sacks in Sunyshore’s win. Imagined postgame portrait.",
+          "caption": "Ash Rothington recorded three sacks in Sunyshore’s win. Imagined postgame portrait."
+        },
+        {
+          "type": "p",
+          "text": "Petalburg punted on its next possession after gaining twenty yards. Sunyshore then took over with 1:37 left in the third quarter and assembled another long touchdown drive. This one lasted eleven plays, covered seventy-two yards and crossed into the fourth quarter, giving the Pride fewer remaining possessions in which to recover."
+        },
+        {
+          "type": "h2",
+          "text": "Khan scores, Gabite closes"
+        },
+        {
+          "type": "p",
+          "text": "Delcatty recorded his third sack of the game on first-and-two near the goal line. Sunyshore faced another scoring-area setback and again found a touchdown. Kobra Khan ran left for seven yards at 4:24. The extra point made it 24–10. Khan’s two carries produced twenty-nine yards, including a twenty-two-yard gain elsewhere in the game, and his rushing score provided the separation that his receiving touchdowns had supplied a week earlier."
+        },
+        {
+          "type": "p",
+          "text": "Rothington then recorded his third sack of Iron Valiant, another seven-yard loss, during Petalburg’s final possession. The Pride punted with 3:10 remaining. They would not get the ball back. Sunyshore’s closing drive covered thirty-nine yards in eight plays, with Gabite providing the first downs that allowed Watzon to finish on kneels."
+        },
+        {
+          "type": "p",
+          "text": "Gabite gained twelve yards at the two-minute warning and later fourteen on third-and-seven. His nineteen carries produced 134 yards, with a longest gain of fourteen. Like Garshawn Lynch in the other conference, he built a substantial afternoon through repeated successful runs. Those final attempts were particularly valuable: each new set of downs reduced Petalburg’s remaining route back into the game."
+        },
+        {
+          "type": "p",
+          "text": "Sunyshore finished with 177 rushing yards to Petalburg’s thirty-eight. The Pride actually converted more third downs, five of ten against two of six. That comparison makes the game a useful reminder to examine the possessions around a rate. Sunyshore converted fourth-and-five for an opening touchdown, sustained long scoring drives and received decisive defensive stops. Petalburg’s third-down successes kept it involved, but they could not overcome the second-half scoring drought."
+        },
+        {
+          "type": "h2",
+          "text": "The family story earns another chapter"
+        },
+        {
+          "type": "p",
+          "text": "Watzon’s final line was eleven completions in eighteen attempts for 111 yards, two touchdowns and one interception. Four sacks cost him twenty yards. He had difficult stretches, particularly around halftime and immediately after it, and still completed the throws that finished Sunyshore’s first two scoring drives. Gabite carried the greater share of the yardage burden, while Alexander and Rothington supplied the defensive plays that protected the lead."
+        },
+        {
+          "type": "p",
+          "text": "The family-revenge framing belongs to Jones’s account of the players’ relationships. The game gives that framing a clear ending: Petalburg eliminated Rustboro, and Sunyshore eliminated Petalburg. The Watzon and Gabite families have a team left in the postseason, and that team has earned a conference-championship trip."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep will ask much harder questions of this offense. Sunyshore scored only three points there in the regular season, while the Eclipse have just allowed Dewford three in their playoff opener. Jones arrives with two postseason wins, 240 rushing yards from Gabite across those games and a defense that has allowed sixteen combined points. The brothers’ revenge is complete. The next opponent presents a separate, larger assignment."
+        }
+      ],
+      "game": "1-divisional-hs-sunyshore",
+      "frontPageOrder": 2,
+      "art": {
+        "src": "assets/editorial/a1a3ce90697f446c.webp",
+        "alt": "Porygon-Z #30, Garchomp #99. DeZhaun Watzon and Myles Gabite helped Sunyshore eliminate Petalburg. Imagined postgame tunnel scene."
+      }
+    }
+  ]
+}

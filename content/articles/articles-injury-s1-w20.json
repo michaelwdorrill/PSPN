@@ -1,0 +1,831 @@
+{
+  "season": 1,
+  "week": 20,
+  "articles": [
+    {
+      "id": "injury-report-s1-w20",
+      "type": "feature",
+      "author": "tessa-wren",
+      "title": "Jenings and Flock add new absences before the conference championships",
+      "dek": "Mt. Silver’s receiver is listed for six weeks, Mossdeep’s corner for two and Foo Warner for one; the full availability comparison follows.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Mt. Silver has two new positive-week injury entries after its 21–14 win over Blackthorn. Gregar Jenings is listed for six weeks and Foo Warner for one. Gregar caught one pass for twenty-five yards in the game. The injury record does not identify the play on which either injury occurred, so the reception and its ensuing fumble should not be treated as a confirmed injury sequence."
+        },
+        {
+          "type": "p",
+          "text": "Mossdeep's Marshall Flock is listed for two weeks after the 40–3 win over Dewford. The Eclipse already have Poury Holt at four. Flock's absence changes the available defensive group for the Sunyshore rematch; no replacement assignment is established by the current report. A dominant divisional performance and a new availability concern can both be part of the same week's assessment."
+        },
+        {
+          "type": "p",
+          "text": "Mt. Silver's continuing positive counters include Ariados at eight, Vibrava and Tony Gyarzalez at three, Josh Alakazam and Medicham at two, and Tic Thorpe at one. The Reds advanced with Crem Ftzpatrik at quarterback and contributions from several available receivers. Gregar's new entry reduces the receiving options further before facing a Saffron defense that just recorded seven sacks."
+        },
+        {
+          "type": "p",
+          "text": "Saffron's Emmitt Smoth remains listed for four weeks, one fewer than in the preceding snapshot. Dam Skattebo led the rushing workload against Lavender with ten carries for fifty-one yards. Sunyshore's 88 Special remains at fourteen weeks. Neither reduction should be reported as a newly suffered injury; these are continuing recovery counters attached to existing entries."
+        },
+        {
+          "type": "p",
+          "text": "Dewford's Excadrill and Jumpluff have new minor entries with zero weeks remaining. Those records do not support inventing a missed game or a questionable designation. The Breakers have been eliminated, but their new entries still belong in the league-wide comparison. The same treatment applies to recovering players on every other eliminated club."
+        },
+        {
+          "type": "p",
+          "text": "The table includes every player with an injury entry in either comparison snapshot. A cleared designation, a counter reaching zero and a new zero-week entry are different events and are labeled separately. Reported weeks are the game's current counters, not independently established medical dates. Roster status and actual participation remain separate facts; this report does not automatically assign a cleared player to the next starting lineup."
+        },
+        {
+          "type": "table",
+          "title": "Availability after the divisional round",
+          "columns": [
+            "Club",
+            "Player",
+            "Pos.",
+            "Reported status",
+            "Change since prior snapshot"
+          ],
+          "rows": [
+            {
+              "cells": [
+                "Mossdeep Eclipse",
+                "Marshall Flock",
+                "CB",
+                "2 week(s) reported",
+                "New injury"
+              ]
+            },
+            {
+              "cells": [
+                "Mossdeep Eclipse",
+                "Poury Holt",
+                "HB",
+                "4 week(s) reported",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Ariados",
+                "TE",
+                "8 week(s) reported",
+                "Recovery 9 → 8 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Foo Warner",
+                "OLB",
+                "1 week(s) reported",
+                "New injury"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Gregar Jenings",
+                "WR",
+                "6 week(s) reported",
+                "New injury"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Josh Alakazam",
+                "QB",
+                "2 week(s) reported",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Medicham",
+                "OLB",
+                "2 week(s) reported",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Ninji Asomugha",
+                "CB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Tic Thorpe",
+                "QB",
+                "1 week(s) reported",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Tony Gyarzalez",
+                "TE",
+                "3 week(s) reported",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Mt. Silver Reds",
+                "Vibrava",
+                "HB",
+                "3 week(s) reported",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Emmitt Smoth",
+                "FB",
+                "4 week(s) reported",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "HeeDee Lamb",
+                "SLOT",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Saffron Psi Corps",
+                "Pach Tatum",
+                "SLOT",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "88 Special",
+                "WR",
+                "14 week(s) reported",
+                "Recovery 15 → 14 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "BJ Vickers",
+                "ILB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "Nair Jordan",
+                "WR",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Sunyshore Starseekers",
+                "Serp Gardener",
+                "S",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Blackthorn Dragons",
+                "Exploud",
+                "HB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Blackthorn Dragons",
+                "Sawsbuck",
+                "HB",
+                "2 week(s) reported",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Canalave Bulwark",
+                "Gabite",
+                "HB",
+                "7 week(s) reported",
+                "Recovery 8 → 7 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Canalave Bulwark",
+                "Nidoking",
+                "HB",
+                "6 week(s) reported",
+                "Recovery 7 → 6 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Canalave Bulwark",
+                "Seismitoad",
+                "ILB",
+                "3 week(s) reported",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Celadon Bloom",
+                "Deerling",
+                "DE",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Celadon Bloom",
+                "Frosmoth",
+                "S",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Celadon Bloom",
+                "Gholdengo",
+                "QB",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Cerulean Tide",
+                "Seismitoad",
+                "HB",
+                "5 week(s) reported",
+                "Recovery 6 → 5 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Cerulean Tide",
+                "Watchog",
+                "OLB",
+                "15 week(s) reported",
+                "Recovery 16 → 15 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Cianwood Crushers",
+                "Bibarel",
+                "HB",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Cianwood Crushers",
+                "Haunter",
+                "WR",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Cianwood Crushers",
+                "Swampert",
+                "ILB",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "Arcanine",
+                "WR",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Cinnabar Blaze",
+                "Exploud",
+                "TE",
+                "4 week(s) reported",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Dewford Breakers",
+                "Dusclops",
+                "OL",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Dewford Breakers",
+                "Excadrill",
+                "HB",
+                "0 weeks remaining",
+                "New minor entry"
+              ]
+            },
+            {
+              "cells": [
+                "Dewford Breakers",
+                "Jumpluff",
+                "CB",
+                "0 weeks remaining",
+                "New minor entry"
+              ]
+            },
+            {
+              "cells": [
+                "Eterna Thorns",
+                "Ambipom",
+                "WR",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Eterna Thorns",
+                "Dewgong",
+                "TE",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Eterna Thorns",
+                "Gliscor",
+                "CB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Eterna Thorns",
+                "Stantler",
+                "HB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Eterna Thorns",
+                "Tatsugiri",
+                "QB",
+                "4 week(s) reported",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Fortree Skyhawks",
+                "Banette",
+                "OLB",
+                "6 week(s) reported",
+                "Recovery 7 → 6 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Hearthome Haunts",
+                "Dodrio",
+                "CB",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Hearthome Haunts",
+                "Mr. Mime",
+                "S",
+                "4 week(s) reported",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Hearthome Haunts",
+                "Palafin",
+                "HB",
+                "1 week(s) reported",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Hearthome Haunts",
+                "Wugtrio",
+                "WR",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Lavender Wails",
+                "Axew",
+                "DE",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Lavender Wails",
+                "Mr. Clanky",
+                "WR",
+                "3 week(s) reported",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Lavender Wails",
+                "Vikavolt",
+                "OL",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Mahogany Frost",
+                "Frosmoth",
+                "S",
+                "5 week(s) reported",
+                "Recovery 6 → 5 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Mahogany Frost",
+                "Kricketune",
+                "OLB",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Mahogany Frost",
+                "Quilladin",
+                "OL",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Mahogany Frost",
+                "Watchog",
+                "OLB",
+                "12 week(s) reported",
+                "Recovery 13 → 12 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Mauville Dynamos",
+                "Unfezant",
+                "HB",
+                "5 week(s) reported",
+                "Recovery 6 → 5 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Olivine Ironclads",
+                "Beedrill",
+                "WR",
+                "10 week(s) reported",
+                "Recovery 11 → 10 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Olivine Ironclads",
+                "Gabite",
+                "HB",
+                "6 week(s) reported",
+                "Recovery 7 → 6 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Olivine Ironclads",
+                "Gogoat",
+                "HB",
+                "2 week(s) reported",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Olivine Ironclads",
+                "Magmar",
+                "WR",
+                "3 week(s) reported",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Olivine Ironclads",
+                "Stantler",
+                "WR",
+                "2 week(s) reported",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Oreburgh Miners",
+                "Azumarill",
+                "OL",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Oreburgh Miners",
+                "Dusknoir",
+                "CB",
+                "1 week(s) reported",
+                "Recovery 2 → 1 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Oreburgh Miners",
+                "Medicham",
+                "S",
+                "4 week(s) reported",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Oreburgh Miners",
+                "Poliwhirl",
+                "WR",
+                "8 week(s) reported",
+                "Recovery 9 → 8 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Oreburgh Miners",
+                "Sharpedo",
+                "WR",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Oreburgh Miners",
+                "Swampert",
+                "HB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Glalie",
+                "OLB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Petalburg Pride",
+                "Oinkologne",
+                "HB",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Pewter Rockers",
+                "Ampharos",
+                "S",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Pewter Rockers",
+                "Mightyena",
+                "OLB",
+                "3 week(s) reported",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Pewter Rockers",
+                "Scolipede",
+                "HB",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Rustboro Stone",
+                "GUARDD!!!!!",
+                "OL",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Rustboro Stone",
+                "Milotic",
+                "CB",
+                "2 week(s) reported",
+                "Recovery 3 → 2 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Snowpoint Blizzard",
+                "Jumpluff",
+                "CB",
+                "3 week(s) reported",
+                "Recovery 4 → 3 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Sootopolis Surge",
+                "Arbok",
+                "WR",
+                "9 week(s) reported",
+                "Recovery 10 → 9 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Sootopolis Surge",
+                "Kingdra",
+                "CB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Sootopolis Surge",
+                "Rillaboom",
+                "HB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Veilstone Fists",
+                "Kricketune",
+                "OLB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Veilstone Fists",
+                "Ponyta",
+                "WR",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Veilstone Fists",
+                "Sandslash",
+                "OLB",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Veilstone Fists",
+                "Vigoroth",
+                "HB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Vermilion Volts",
+                "Drakloak",
+                "CB",
+                "7 week(s) reported",
+                "Recovery 8 → 7 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Vermilion Volts",
+                "Exploud",
+                "TE",
+                "0 weeks remaining",
+                "Counter reached zero"
+              ]
+            },
+            {
+              "cells": [
+                "Vermilion Volts",
+                "Gabite",
+                "DE",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Vermilion Volts",
+                "Tentacruel",
+                "CB",
+                "Cleared designation",
+                "Previous minor entry cleared"
+              ]
+            },
+            {
+              "cells": [
+                "Violet Falcons",
+                "Staryu",
+                "SLOT",
+                "4 week(s) reported",
+                "Recovery 5 → 4 weeks"
+              ]
+            },
+            {
+              "cells": [
+                "Violet Falcons",
+                "Zangoose",
+                "HB",
+                "1 week(s) reported",
+                "Recovery 2 → 1 weeks"
+              ]
+            }
+          ]
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/e8533bc25caa03b8.webp",
+        "alt": "Swellow #44. Marshall Flock is listed for two weeks. Imagined sideline study scene; no treatment is depicted."
+      }
+    }
+  ]
+}

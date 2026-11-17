@@ -1,0 +1,59 @@
+{
+  "season": 1,
+  "week": 20,
+  "articles": [
+    {
+      "id": "power-s1-w20",
+      "type": "power",
+      "author": "rowan-vale",
+      "title": "The final four: Mossdeep stays first, Mt. Silver moves up",
+      "dek": "The two top seeds and the two second seeds reach the conference championships, with the Reds supplying the closest divisional result.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "Mossdeep remains first after a 40–3 win that supplied a large answer to the only close regular-season meeting in its divisional matchup. Saffron stays second after scoring the final thirty-eight points against Lavender. Mt. Silver moves above Sunyshore in my current contender order because the Reds combined a substantial rushing game with the late passing conversion their injured offense needed."
+        },
+        {
+          "type": "p",
+          "text": "Only the four remaining teams appear in this ranking. The final thirty-two-team regular-season list and last week's remaining-eight order stay in their archived issues. A smaller playoff field changes the scope of the list; it does not rewrite where I placed a team before its elimination."
+        },
+        {
+          "type": "p",
+          "text": "Dorian went 4–0 on divisional winners. Mara, Tessa and I went 3–1; Ellis went 2–2 after backing Lavender. Each writer's original opening bracket remains frozen, including any eliminated title selections. The new conference picks are current judgments, and the record of how we arrived here remains available for anyone who needs to reduce Dorian's confidence later."
+        }
+      ],
+      "theme": "Four teams, two places",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep",
+          "themeLabel": "The most complete new result",
+          "text": "Ninjaskamara produced 279 scrimmage yards and five touchdowns, Marino threw three scores without a pick, and Dewford gained 122 total yards. The 40–3 win makes the top ranking easy to retain. Marshall Flock’s new two-week absence matters for the rematch with Sunyshore, but the Eclipse have the strongest season and the strongest latest performance."
+        },
+        {
+          "rank": 2,
+          "team": "saffron",
+          "themeLabel": "Thirty-eight after the early trouble",
+          "text": "Lavender led 9–0 and sacked Manning four times. Saffron still won 38–9, with four passing touchdowns, seven defensive sacks and two Furfrou interceptions. The first half gives Mt. Silver something useful to study; the second half gives me a reason to keep the Psi Corps second. Smoth remains out, and the passing offense keeps finding different finishers."
+        },
+        {
+          "rank": 3,
+          "team": "goldenrod",
+          "themeLabel": "Lynch and the available receivers answer",
+          "text": "I had the Reds fifth among the remaining eight last week. They are now third among four after Lynch rushed for 145 yards and Prinplup converted third-and-ten on the winning drive. Dorian was the only panelist who picked them, a fact he is handling with exactly the restraint you would expect. Gregar’s new six-week absence makes the Saffron rematch harder, even after a persuasive comeback."
+        },
+        {
+          "rank": 4,
+          "team": "sunyshore",
+          "themeLabel": "A running game that can finish",
+          "text": "Gabite has 240 rushing yards across two playoff wins. Sunyshore held Petalburg scoreless in the second half, with Alexander’s interception protecting a vulnerable lead before Kobra Khan’s touchdown extended it. Four sacks allowed and the coming trip to Mossdeep keep the Starseekers fourth. This is a contender ranking; fourth still means two wins from the title."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/187ef7c5a6d27e77.webp",
+        "alt": "Drampa #12. Mossdeep leads the remaining-four ranking. Conceptual illustration with Dram Marino."
+      }
+    }
+  ]
+}

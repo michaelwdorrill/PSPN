@@ -1,0 +1,64 @@
+{
+  "season": 1,
+  "week": 20,
+  "articles": [
+    {
+      "id": "preview-conference-s1-w20",
+      "type": "preview",
+      "author": "tessa-wren",
+      "title": "Two conference championships, ten new score picks",
+      "dek": "The full panel forecasts Saffron at Mt. Silver and Sunyshore at Mossdeep, with Dorian alone on the Reds again.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "The conference championships feature both top seeds hosting both second seeds. Saffron travels to Mt. Silver after a 38–9 win over Lavender, and Sunyshore visits Mossdeep after eliminating Petalburg 24–10. The Reds beat Blackthorn 21–14; the Eclipse beat Dewford 40–3. Separate long-form previews examine each matchup in full."
+        },
+        {
+          "type": "p",
+          "text": "Dorian went 4–0 on divisional winners, with Rowan, Mara and me at 3–1 and Ellis at 2–2. Rowan, Mara, Ellis and Dorian each earned one closest-score bonus; nobody had an exact score. Winner records and those bonuses remain separate measures. Dorian was the only panelist to pick Mt. Silver, and he is the only one picking the Reds again."
+        },
+        {
+          "type": "p",
+          "text": "All five writers favor Mossdeep. Our score forecasts differ because Sunyshore's rushing production and Marshall Flock's new absence affect how close we expect the game to remain. In the other conference, four writers take Saffron while Dorian retains his preference for Mt. Silver's home rushing game. These are current round picks; the opening championship brackets remain frozen with their original selections."
+        }
+      ],
+      "matchups": [
+        {
+          "gid": "1-conference-kj-goldenrod",
+          "away": "saffron",
+          "home": "goldenrod",
+          "title": "Lynch’s home rushing game meets Manning’s scoring depth",
+          "analysis": "Mt. Silver won the regular-season meeting 36–33. Saffron arrives after a 38–9 win, while Gregar Jenings joins the Reds’ injury list for six weeks.",
+          "matchup": "Lynch’s home rushing game meets Manning’s scoring depth",
+          "awayKey": "Protect Manning better than in the opening against Lavender and force Mt. Silver to finish long passing downs.",
+          "homeKey": "Keep Lynch productive and avoid giving Saffron the turnovers Blackthorn failed to convert.",
+          "prediction": {
+            "away": 31,
+            "home": 27,
+            "reason": "Lynch should keep the score close, but Manning’s ability to find Lamb, Witten and Mothel gives Saffron one more finishing opportunity. Gregar’s six-week absence further limits Mt. Silver’s receiving choices."
+          }
+        },
+        {
+          "gid": "1-conference-hs-mossdeep",
+          "away": "sunyshore",
+          "home": "mossdeep",
+          "title": "Gabite tries to slow the league’s strongest scoring offense",
+          "analysis": "Mossdeep won the first meeting 27–3 and just beat Dewford 40–3. Sunyshore brings Gabite’s 240 playoff rushing yards and a defense that has allowed sixteen points in two wins.",
+          "matchup": "Gabite tries to slow the league’s strongest scoring offense",
+          "awayKey": "Sustain drives through Gabite and keep Watzon away from repeated long passing downs.",
+          "homeKey": "Make Sunyshore chase touchdowns while accounting for Marshall Flock’s new absence.",
+          "prediction": {
+            "away": 17,
+            "home": 35,
+            "reason": "Sunyshore should get more offense from Gabite than it managed in the regular-season meeting. Mossdeep’s third-down explosiveness and several productive receiving options give the home team the decisive separation."
+          }
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/2d6770cf40fd5895.webp",
+        "alt": "Mountain and coastal stadium settings frame the conference championship slate. Conceptual architecture."
+      }
+    }
+  ]
+}

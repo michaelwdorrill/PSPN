@@ -1,0 +1,81 @@
+{
+  "season": 1,
+  "week": 20,
+  "nextWeek": 21,
+  "games": [
+    {
+      "gid": "1-conference-kj-goldenrod",
+      "away": "saffron",
+      "home": "goldenrod",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 35,
+          "home": 24,
+          "reason": "Saffron has scored eighty points in two playoff games and just got seven sacks from its defense. Lynch will move the Reds, but Manning’s several receiving options give my second-ranked contender the stronger scoring case."
+        },
+        {
+          "author": "mara-voss",
+          "away": 31,
+          "home": 27,
+          "reason": "Prinplup’s third-and-ten catch shows that Mt. Silver has an available passing answer. Gregar’s new absence still matters against Tare’s pressure, and Saffron can finish drives through more receiving options."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 27,
+          "home": 24,
+          "reason": "I remember the Reds winning this meeting 36–33, even if they would enjoy hearing otherwise. Saffron’s recent defensive takeaways and Manning’s recovery after four sacks give the visitors a narrow edge."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 24,
+          "home": 28,
+          "reason": "Lynch just ran for 145 yards, and Mt. Silver ended the game without giving Blackthorn another possession. The Reds already beat Saffron. I am backing the home rushing game again after being the only writer to do so last round."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 31,
+          "home": 27,
+          "reason": "Lynch should keep the score close, but Manning’s ability to find Lamb, Witten and Mothel gives Saffron one more finishing opportunity. Gregar’s six-week absence further limits Mt. Silver’s receiving choices."
+        }
+      ]
+    },
+    {
+      "gid": "1-conference-hs-mossdeep",
+      "away": "sunyshore",
+      "home": "mossdeep",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 13,
+          "home": 38,
+          "reason": "Ninjaskamara just supplied 279 scrimmage yards and five touchdowns. Sunyshore’s ground game has been good, but Mossdeep has the stronger demonstrated answers on both sides and already won this matchup comfortably."
+        },
+        {
+          "author": "mara-voss",
+          "away": 17,
+          "home": 34,
+          "reason": "Gabite gives Sunyshore enough production to improve on its three-point first meeting. Marino, Accel and Ninjaskamara can still punish the extra possessions created by sacks, and Watzon just took four."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 20,
+          "home": 31,
+          "reason": "Two Sunyshore playoff wins deserve some patience before declaring a repeat rout. Flock’s absence is meaningful, and Gabite can sustain drives, but Mossdeep’s broader scoring production should decide the final quarter."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 24,
+          "home": 28,
+          "reason": "Karson can keep this competitive by giving Gabite useful early downs and finishing the resulting drives. I expect a closer game than the first meeting, but the Eclipse’s offensive depth still earns my pick."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 17,
+          "home": 35,
+          "reason": "Sunyshore should get more offense from Gabite than it managed in the regular-season meeting. Mossdeep’s third-down explosiveness and several productive receiving options give the home team the decisive separation."
+        }
+      ]
+    }
+  ]
+}

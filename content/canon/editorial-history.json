@@ -2112,6 +2112,32 @@
           "team": "petalburg"
         }
       ]
+    },
+    {
+      "key": "s1-w20",
+      "season": 1,
+      "week": 20,
+      "focus": "DL",
+      "afterBowl": false,
+      "powerTheme": "Four teams, two places",
+      "rankings": [
+        {
+          "rank": 1,
+          "team": "mossdeep"
+        },
+        {
+          "rank": 2,
+          "team": "saffron"
+        },
+        {
+          "rank": 3,
+          "team": "goldenrod"
+        },
+        {
+          "rank": 4,
+          "team": "sunyshore"
+        }
+      ]
     }
   ]
 }

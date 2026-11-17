@@ -1,0 +1,415 @@
+{
+  "season": 1,
+  "week": 20,
+  "articles": [
+    {
+      "id": "draft-dl-s1-w20",
+      "type": "draft",
+      "author": "calvin-rook",
+      "title": "Granbull and Dracozolt lead a defensive-line board with distinct jobs",
+      "dek": "Twelve visible prospects separate into interior, edge and nose-tackle options; the combine adds context to the reported ranges.",
+      "teams": [],
+      "body": [
+        {
+          "type": "p",
+          "text": "University of Pyrite's Granbull and Turffield State's Dracozolt lead this defensive-line board. Granbull has the highest visible range among the twelve selected prospects at 65–93. Dracozolt follows at 64–92 and adds nineteen bench repetitions, a 4.82 forty and a 6.85 cone. The first choice depends in part on whether a club is seeking a defensive tackle or an edge player; the listed positions matter."
+        },
+        {
+          "type": "p",
+          "text": "Dracozolt's movement tests make the edge evaluation particularly interesting. Solaceon's Heatmor has nineteen bench reps too, alongside a thirty-seven-inch vertical and a 6.80 cone, but a lower 53–81 range. Sonia's separate Heatmor runs 4.86 with a 6.79 cone and fourteen bench reps. Those are different combinations of reported range, strength and movement, not interchangeable versions of the same prospect."
+        },
+        {
+          "type": "p",
+          "text": "The interior group has a wider gap between the leading candidate and the next name. University of Mossdeep's Loudred carries a 51–79 range at defensive tackle. Four listed nose tackles follow later on this board with narrower ranges. A team should compare those players against the job it actually needs filled rather than treating every defensive lineman as an equivalent answer to a sack total."
+        },
+        {
+          "type": "p",
+          "text": "The divisional round offered several reminders that pressure can matter without establishing a complete scouting method. NeMarcus Tare recorded five sacks, EARTHQUAKE!!! four, and Derrat Brooks three. These are performances by established league players. They do not prove that a prospect with a similar species or a particular combine number will reproduce the same result. The college board below uses the visible scouting record for each individual."
+        },
+        {
+          "type": "p",
+          "text": "No final draft order is assigned here, and the range endpoints are not secretly revealed current ratings. The judgments identify which prospects I would examine first and why. The next useful step for a club is to reduce uncertainty about its intended role, especially when choosing between a broad-range edge player and a more narrowly reported nose tackle."
+        }
+      ],
+      "focus": "DL",
+      "prospects": [
+        {
+          "pid": "p2023",
+          "name": "Granbull",
+          "species": "Granbull",
+          "speciesId": 210,
+          "icon": "assets/sprites/210.png",
+          "position": "DT",
+          "age": 22,
+          "level": 23,
+          "range": [
+            65,
+            93
+          ],
+          "combine": {
+            "forty": 5.01,
+            "bench": 15,
+            "vertical": 32,
+            "cone": 6.97
+          },
+          "university": {
+            "id": "orre-university-of-pyrite",
+            "name": "University of Pyrite",
+            "city": "Pyrite Town",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 1,
+          "analysis": "Granbull leads this board with a 65–93 visible range, a 5.01 forty and a 6.97 cone. University of Pyrite’s defensive tackle gives me the strongest reported range among these twelve.",
+          "concern": "Fifteen bench repetitions do not establish a dominant strength advantage.",
+          "projection": "First interior option on this board, with the broad range still requiring further evaluation."
+        },
+        {
+          "pid": "p1918",
+          "name": "Dracozolt",
+          "species": "Dracozolt",
+          "speciesId": 880,
+          "icon": "assets/sprites/880.png",
+          "position": "DE",
+          "age": 22,
+          "level": 7,
+          "range": [
+            64,
+            92
+          ],
+          "combine": {
+            "forty": 4.82,
+            "bench": 19,
+            "vertical": 33,
+            "cone": 6.85
+          },
+          "university": {
+            "id": "galar-turffield-state-university",
+            "name": "Turffield State University",
+            "city": "Turffield",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 2,
+          "analysis": "Turffield State’s Dracozolt pairs a 64–92 range with nineteen bench reps, a 4.82 forty and a 6.85 cone. I prefer this movement profile among the leading edge candidates.",
+          "concern": "The range remains wide, and testing does not reveal a complete pass-rush repertoire.",
+          "projection": "The leading defensive end here and a serious alternative to Granbull for a team prioritizing the edge."
+        },
+        {
+          "pid": "p2026",
+          "name": "Heatmor",
+          "species": "Heatmor",
+          "speciesId": 631,
+          "icon": "assets/sprites/631.png",
+          "position": "DE",
+          "age": 23,
+          "level": 11,
+          "range": [
+            53,
+            81
+          ],
+          "combine": {
+            "forty": 4.98,
+            "bench": 19,
+            "vertical": 37,
+            "cone": 6.8
+          },
+          "university": {
+            "id": "sinnoh-solaceon-university",
+            "name": "Solaceon University",
+            "city": "Solaceon Town",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 3,
+          "analysis": "Solaceon’s Heatmor has a 53–81 range, nineteen bench reps and a thirty-seven-inch vertical. The 6.80 cone is another reason to keep the prospect high.",
+          "concern": "The reported range sits below the leading pair despite the attractive testing.",
+          "projection": "An early alternative among this selected group if the top two are unavailable."
+        },
+        {
+          "pid": "p1871",
+          "name": "Carnivine",
+          "species": "Carnivine",
+          "speciesId": 455,
+          "icon": "assets/sprites/455.png",
+          "position": "DE",
+          "age": 23,
+          "level": 17,
+          "range": [
+            52,
+            80
+          ],
+          "combine": {
+            "forty": 5.03,
+            "bench": 16,
+            "vertical": 32,
+            "cone": 6.96
+          },
+          "university": {
+            "id": "orre-university-of-agate",
+            "name": "University of Agate",
+            "city": "Agate Village",
+            "conference": "Orre Frontier Conference",
+            "region": "Orre"
+          },
+          "rank": 4,
+          "analysis": "Agate’s Carnivine combines a 52–80 range with sixteen bench reps and a 6.96 cone. The profile earns a place near the top of the second group.",
+          "concern": "A 5.03 forty offers less straight-line speed than Dracozolt.",
+          "projection": "A developmental edge candidate whose specific role needs further evaluation."
+        },
+        {
+          "pid": "p1901",
+          "name": "Cranidos",
+          "species": "Cranidos",
+          "speciesId": 408,
+          "icon": "assets/sprites/408.png",
+          "position": "DE",
+          "age": 23,
+          "level": 17,
+          "range": [
+            52,
+            80
+          ],
+          "combine": {
+            "forty": 5.07,
+            "bench": 19,
+            "vertical": 34,
+            "cone": 6.94
+          },
+          "university": {
+            "id": "kanto-vermilion-metropolitan-university",
+            "name": "Vermilion Metropolitan University",
+            "city": "Vermilion City",
+            "conference": "Kanto Coastal Conference",
+            "region": "Kanto"
+          },
+          "rank": 5,
+          "analysis": "Vermilion Metro’s Cranidos has the same 52–80 range and nineteen bench reps. Strength testing makes the comparison with Carnivine worth a close look.",
+          "concern": "The 5.07 forty does not suggest the same movement profile as the fastest edge candidates.",
+          "projection": "A second-group option for clubs weighing strength more heavily in their intended role."
+        },
+        {
+          "pid": "p1884",
+          "name": "Carnivine",
+          "species": "Carnivine",
+          "speciesId": 455,
+          "icon": "assets/sprites/455.png",
+          "position": "DE",
+          "age": 23,
+          "level": 12,
+          "range": [
+            51,
+            79
+          ],
+          "combine": {
+            "forty": 5,
+            "bench": 17,
+            "vertical": 33,
+            "cone": 7.02
+          },
+          "university": {
+            "id": "paldea-south-paldea-university",
+            "name": "South Paldea University",
+            "city": "Los Platos",
+            "conference": "Paldea Sun Conference",
+            "region": "Paldea"
+          },
+          "rank": 6,
+          "analysis": "South Paldea’s Carnivine is a separate prospect, with a 51–79 range, seventeen bench reps and a 5.00 forty. Keep the school and identity distinct from Agate’s player.",
+          "concern": "The 7.02 cone is slower than several nearby alternatives.",
+          "projection": "A middle-board edge option with a broad unresolved range."
+        },
+        {
+          "pid": "p2121",
+          "name": "Loudred",
+          "species": "Loudred",
+          "speciesId": 294,
+          "icon": "assets/sprites/294.png",
+          "position": "DT",
+          "age": 23,
+          "level": 21,
+          "range": [
+            51,
+            79
+          ],
+          "combine": {
+            "forty": 5.03,
+            "bench": 15,
+            "vertical": 33,
+            "cone": 7
+          },
+          "university": {
+            "id": "hoenn-university-of-mossdeep",
+            "name": "University of Mossdeep",
+            "city": "Mossdeep City",
+            "conference": "Hoenn Premier Conference",
+            "region": "Hoenn"
+          },
+          "rank": 7,
+          "analysis": "University of Mossdeep’s Loudred brings a 51–79 range at defensive tackle, with a 5.03 forty and a 7.00 cone. It is the next interior candidate after Granbull on this list.",
+          "concern": "Fifteen bench reps do not remove uncertainty about the intended interior job.",
+          "projection": "An interior alternative when the strongest range is no longer available."
+        },
+        {
+          "pid": "p1879",
+          "name": "Heatmor",
+          "species": "Heatmor",
+          "speciesId": 631,
+          "icon": "assets/sprites/631.png",
+          "position": "DE",
+          "age": 23,
+          "level": 12,
+          "range": [
+            50,
+            78
+          ],
+          "combine": {
+            "forty": 4.86,
+            "bench": 14,
+            "vertical": 34,
+            "cone": 6.79
+          },
+          "university": {
+            "id": "galar-sonia-university",
+            "name": "Sonia University",
+            "city": "Motostoke",
+            "conference": "Galar Crown Conference",
+            "region": "Galar"
+          },
+          "rank": 8,
+          "analysis": "Sonia’s Heatmor has a 50–78 range but a 4.86 forty and a 6.79 cone. That movement is the clearest reason to investigate a prospect below several peers by range.",
+          "concern": "Fourteen bench reps give a different strength profile from Solaceon’s Heatmor.",
+          "projection": "A movement-oriented edge option, with technical and role questions still open."
+        },
+        {
+          "pid": "p2047",
+          "name": "Geodude",
+          "species": "Geodude",
+          "speciesId": 74,
+          "icon": "assets/sprites/74.png",
+          "position": "NT",
+          "age": 21,
+          "level": 16,
+          "range": [
+            50,
+            50
+          ],
+          "combine": {
+            "forty": 5.23,
+            "bench": 13,
+            "vertical": 28,
+            "cone": 7.18
+          },
+          "university": {
+            "id": "alola-hauoli-state-university",
+            "name": "Hau'oli State University",
+            "city": "Hau'oli City",
+            "conference": "Alola Island Conference",
+            "region": "Alola"
+          },
+          "rank": 9,
+          "analysis": "Hauoli State’s Geodude is listed at nose tackle with a 50–50 range. The narrow reported interval distinguishes this evaluation from the wide-range defensive ends.",
+          "concern": "A 5.23 forty, 7.18 cone and thirteen bench reps provide no basis for projecting unseen traits.",
+          "projection": "A role-specific nose-tackle candidate evaluated on the known range."
+        },
+        {
+          "pid": "p1872",
+          "name": "Geodude",
+          "species": "Geodude",
+          "speciesId": 74,
+          "icon": "assets/sprites/74.png",
+          "position": "NT",
+          "age": 21,
+          "level": 15,
+          "range": [
+            49,
+            49
+          ],
+          "combine": {
+            "forty": 5.17,
+            "bench": 15,
+            "vertical": 28,
+            "cone": 7.16
+          },
+          "university": {
+            "id": "sinnoh-oreburgh-state-university",
+            "name": "Oreburgh State University",
+            "city": "Oreburgh City",
+            "conference": "Sinnoh Highlands Conference",
+            "region": "Sinnoh"
+          },
+          "rank": 10,
+          "analysis": "Oreburgh State’s Geodude has a 49–49 range and fifteen bench reps, with a 5.17 forty. The testing provides a useful comparison within the nose-tackle group.",
+          "concern": "A fixed reported range should not be converted into an assumed development ceiling.",
+          "projection": "A nose-tackle alternative with a slightly stronger bench result than the Hauoli prospect."
+        },
+        {
+          "pid": "p2025",
+          "name": "Geodude",
+          "species": "Geodude",
+          "speciesId": 74,
+          "icon": "assets/sprites/74.png",
+          "position": "NT",
+          "age": 21,
+          "level": 8,
+          "range": [
+            49,
+            49
+          ],
+          "combine": {
+            "forty": 5.18,
+            "bench": 14,
+            "vertical": 27,
+            "cone": 7.13
+          },
+          "university": {
+            "id": "johto-university-of-goldenrod",
+            "name": "University of Goldenrod",
+            "city": "Goldenrod City",
+            "conference": "Johto Great Lakes Conference",
+            "region": "Johto"
+          },
+          "rank": 11,
+          "analysis": "University of Goldenrod’s Geodude also has a 49–49 range, with fourteen bench reps and a 5.18 forty. This is a third distinct player, not a repeated listing.",
+          "concern": "The 7.13 cone is a testing result, not proof of game-level penetration.",
+          "projection": "Another role-specific option in a tightly grouped nose-tackle set."
+        },
+        {
+          "pid": "p2030",
+          "name": "Roggenrola",
+          "species": "Roggenrola",
+          "speciesId": 524,
+          "icon": "assets/sprites/524.png",
+          "position": "NT",
+          "age": 23,
+          "level": 12,
+          "range": [
+            49,
+            49
+          ],
+          "combine": {
+            "forty": 5.22,
+            "bench": 12,
+            "vertical": 31,
+            "cone": 7.26
+          },
+          "university": {
+            "id": "kalos-couriway-university",
+            "name": "Couriway University",
+            "city": "Couriway Town",
+            "conference": "Kalos Collegiate Conference",
+            "region": "Kalos"
+          },
+          "rank": 12,
+          "analysis": "Couriway’s Roggenrola closes the board with a 49–49 range and a thirty-one-inch vertical. The species and school distinguish the prospect from the three Geodude entries.",
+          "concern": "Twelve bench reps and a 7.26 cone leave the testing case behind several nearby players.",
+          "projection": "A later nose-tackle consideration when the role and remaining options justify it."
+        }
+      ],
+      "art": {
+        "src": "assets/editorial/3d4039bb7b112b00.webp",
+        "alt": "Granbull and Dracozolt lead the defensive-line board. Conceptual college training illustration."
+      }
+    }
+  ]
+}
