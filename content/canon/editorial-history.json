@@ -2138,6 +2138,14 @@
           "team": "sunyshore"
         }
       ]
+    },
+    {
+      "key": "s1-w21",
+      "season": 1,
+      "week": 21,
+      "focus": "LB",
+      "afterBowl": false,
+      "powerTheme": "The confidence meter"
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "season": 1,
+  "week": 21,
+  "nextWeek": 22,
+  "games": [
+    {
+      "gid": "1-indigo-lg-saffron",
+      "away": "mossdeep",
+      "home": "saffron",
+      "picks": [
+        {
+          "author": "rowan-vale",
+          "away": 28,
+          "home": 35,
+          "reason": "Manning has thrown eight touchdown passes across the last two rounds, and Saffron’s rush has ended possessions even when opponents have protected the ball. That combination gives the Psi Corps the final scoring drive in my forecast."
+        },
+        {
+          "author": "mara-voss",
+          "away": 34,
+          "home": 28,
+          "reason": "Steel and Gronkaludon converted demanding downs against Sunyshore. Marino can use those targets earlier in a series, leaving BeckhmJr the opportunity to attack downfield after the front has defended several kinds of play."
+        },
+        {
+          "author": "ellis-quill",
+          "away": 30,
+          "home": 27,
+          "reason": "Brooks’s takeaway and the offense’s short-field touchdown showed how quickly Mossdeep’s units can help each other recover. I expect one more such answer to decide a close finish."
+        },
+        {
+          "author": "dorian-pike",
+          "away": 24,
+          "home": 27,
+          "reason": "Skattebo can move the sticks on the ground and turn a pass into a conversion when the run stalls. Enough of those gains will let Saffron finish a fourth-quarter drive with Marino still waiting for the ball."
+        },
+        {
+          "author": "tessa-wren",
+          "away": 31,
+          "home": 26,
+          "reason": "Mossdeep has finished recent scoring drives through a tight end, a back and an outside receiver. I give the Eclipse a small edge to turn one more promising possession into a touchdown."
+        }
+      ]
+    }
+  ]
+}
