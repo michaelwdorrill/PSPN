@@ -28,12 +28,20 @@ if(e.season===1&&e.week===21){
  assert(previews.find(a=>a.author==='tessa-wren').frontPageOrder<0,'Tessa must lead the issue');
  assert(!e.articles.some(a=>['column','power'].includes(a.type)));
  assert(previews.every(a=>a.wordCount>=1100),'Each Bowl preview must be substantial');
+}else if(e.season===1&&e.week===22){
+ assert.equal(e.articles.length,10,'Season-end commission requires ten articles');
+ assert.equal(e.nextGames.length,0);assert.equal(e.predictions.length,0);
+ assert.equal(e.articles.find(a=>a.type==='power').rankings.length,32);
+ const mock=e.articles.find(a=>a.id==='draft-first-round-s1-w22');
+ assert(mock&&mock.focus==='top32');assert.equal(mock.body.filter(b=>b.type==='h2').length,32);
+ assert(e.articles.some(a=>a.id==='awards-season-s1-w22'));
+ for(const c of ['kj','hs'])assert.equal(e.articles.find(a=>a.id===`feature-conference-${c}-s1-w22`).teams.length,16);
 }else{
  assert.equal(e.articles.filter(a=>a.type==='column').length,3);
  const ranked=e.articles.find(a=>a.type==='power')?.rankings;assert(ranked,'Power ranking is required');
  if(e.week>=19&&e.nextGames.length){const remaining=new Set(e.nextGames.flatMap(g=>[g.home,g.away]));assert.deepEqual(new Set(ranked.map(r=>r.team)),remaining,'Postseason ranking must cover every remaining team once');assert.equal(ranked.length,remaining.size);}else assert.equal(ranked.length,32);
 }
-assert(e.articles.some(a=>a.type==='preview'&&a.matchups.length===e.nextGames.length));assert(e.articles.some(a=>a.type==='draft'));assert(e.predictions.every(g=>g.picks.length===5));
+if(!(e.season===1&&e.week===22))assert(e.articles.some(a=>a.type==='preview'&&a.matchups.length===e.nextGames.length));assert(e.articles.some(a=>a.type==='draft'));assert(e.predictions.every(g=>g.picks.length===5));
 for(const {data}of editions){const str=JSON.stringify(data);for(const m of str.matchAll(/assets\/[a-zA-Z0-9/._-]+\.(?:svg|png|webp|jpg)/g))assert(fs.existsSync(path.join(out,m[0])),`Missing asset ${m[0]}`);}
 assert(!fs.readFileSync(path.join(out,'news.js'),'utf8').includes('fetch(\'/'),'Paths must work below a Pages repository prefix');
 const canon=read(path.join(root,'content/canon/characters.json')),schools=read(path.join(root,'content/canon/universities.json')).conferences.flatMap(c=>c.schools.map(s=>s.id));assert.equal(new Set(schools).size,136);assert(Object.values(canon.players).every(p=>schools.includes(p.university)&&p.nature));
